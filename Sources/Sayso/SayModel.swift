@@ -79,6 +79,16 @@ final class SayModel: NSObject, ObservableObject, NSTextViewDelegate {
 
     /// Set when the user picks a mode by hand, so automatic mode choice doesn't override them.
     private var modeChosenByUser = false
+    /// Finished answers per mode, so switching back to a mode shows what it already said about the same text
+    /// instead of asking again.
+    private struct Answer {
+        let outputs: [Voice: VoiceOutput]
+        let issues: [GrammarIssue]
+        let grammarRaw: String
+        let input: String
+        let note: String
+    }
+    private var answers: [Mode: Answer] = [:]
     private var tasks: [Task<Void, Never>] = []
     /// Bumped by every run and cancel, so a stream that was cancelled can't write into the next run's results.
     private var generation = 0
@@ -120,6 +130,7 @@ final class SayModel: NSObject, ObservableObject, NSTextViewDelegate {
     /// rather than in read-only content (usually someone else's message).
     func load(text: String, editable: Bool?, element: AXUIElement? = nil, pid: pid_t = 0) {
         cancel()
+        answers = [:]
         replaceTarget = editable == true && pid != 0 ? ReplaceTarget(pid: pid, element: element, original: text) : nil
         input = text
         note = ""
@@ -178,14 +189,34 @@ final class SayModel: NSObject, ObservableObject, NSTextViewDelegate {
 
     func pick(_ newMode: Mode) {
         guard newMode != mode else { return }
+        keepAnswer()
         mode = newMode
         modeChosenByUser = true
         scheduleSave()
-        if !input.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty, hasResults || isRunning {
+        if let answer = answers[newMode], answer.input == input,
+           newMode != .reply || answer.note == note.trimmingCharacters(in: .whitespacesAndNewlines) {
+            cancel()
+            outputs = answer.outputs
+            issues = answer.issues
+            grammarRaw = answer.grammarRaw
+            resultsFor = answer.input
+            resultsNote = answer.note
+            notice = nil
+            noticeOpensSettings = false
+            save()
+            onLayoutChange?(true)
+        } else if !input.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty, hasResults || isRunning {
             run()
         }
         // The note field comes and goes with the mode; don't leave the keyboard pointing at nothing.
         DispatchQueue.main.async { [weak self] in self?.focusInput() }
+    }
+
+    /// Remembers the current mode's answer if it is complete and still matches the text.
+    private func keepAnswer() {
+        guard hasResults, !isRunning, input == resultsFor,
+              outputs.values.allSatisfy({ $0.error == nil && !$0.raw.isEmpty }) else { return }
+        answers[mode] = Answer(outputs: outputs, issues: issues, grammarRaw: grammarRaw, input: resultsFor, note: resultsNote)
     }
 
     static func containsChinese(_ text: String) -> Bool {

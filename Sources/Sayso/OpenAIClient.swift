@@ -143,7 +143,7 @@ enum OpenAIClient {
             while let result = await group.nextResult() {
                 switch result {
                 case .success(.timer):
-                    if await race.winner == nil, running > 0 { launchSecond("no text after \(hedgeDelay)s") }
+                    if !Task.isCancelled, await race.winner == nil, running > 0 { launchSecond("no text after \(hedgeDelay)s") }
                 case .success(.delivered):
                     group.cancelAll()
                     return

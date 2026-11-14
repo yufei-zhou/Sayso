@@ -295,6 +295,7 @@ private struct ShortcutRecorder: View {
     @State private var monitor: Any?
     @State private var finishWork: DispatchWorkItem?
     @State private var hover = false
+    @State private var infoShown = false
     /// When a click ended the recording: the same click then reaches the field and must not start a new one.
     @State private var stoppedByClick = Date.distantPast
     /// Recording a modifier tapped on its own: when it went down, and the previous clean tap.
@@ -314,8 +315,17 @@ private struct ShortcutRecorder: View {
                     if let note = conflicts.first(where: { $0.level == .info }), !recording {
                         Image(systemName: "info.circle")
                             .font(.system(size: 12))
-                            .foregroundStyle(Color.inkTertiary)
-                            .help(note.message)
+                            .foregroundStyle(infoShown ? Color.inkSecondary : Color.inkTertiary)
+                            .contentShape(Rectangle())
+                            .onHover { infoShown = $0 }
+                            .onTapGesture { infoShown.toggle() }
+                            .popover(isPresented: $infoShown, arrowEdge: .bottom) {
+                                Text(note.message)
+                                    .font(.system(size: 12))
+                                    .fixedSize(horizontal: false, vertical: true)
+                                    .frame(width: 220, alignment: .leading)
+                                    .padding(10)
+                            }
                     }
                     if settings.hotkey != .default, !recording, refused == nil {
                         Button {
