@@ -1,0 +1,614 @@
+[
+ {
+  "item": "sc09/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我已经开始摆烂了，爱咋咋地。",
+  "candidates": [
+   {
+    "cid": "4c79e6f0",
+    "text": "I'm not even trying anymore. Whatever happens, happens.\n---\nnot even trying anymore\nWhatever happens, happens"
+   },
+   {
+    "cid": "e69e936d",
+    "text": "I've stopped trying at this point. Whatever happens, happens.\n---\nstopped trying\nWhatever happens, happens"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sc09/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我已经开始摆烂了，爱咋咋地。",
+  "candidates": [
+   {
+    "cid": "bab828e8",
+    "text": "I've already stopped trying. Whatever happens, happens.\n---\nstopped trying\nWhatever happens, happens"
+   },
+   {
+    "cid": "8c43f2d1",
+    "text": "I've stopped trying. Whatever happens, happens.\n---\nstopped trying\nWhatever happens, happens"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sc10/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "昨天在全班面前讲错了，当场社死。",
+  "candidates": [
+   {
+    "cid": "7a54e08e",
+    "text": "I said the wrong thing in front of the whole class yesterday. I wanted to disappear on the spot.\n---\nwanted to disappear\non the spot"
+   },
+   {
+    "cid": "651ad534",
+    "text": "I said the wrong thing in front of the whole class yesterday. I wanted to disappear right then and there.\n---\nwanted to disappear\nright then and there"
+   }
+  ],
+  "scene": "telling a friend what happened"
+ },
+ {
+  "item": "sc10/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "昨天在全班面前讲错了，当场社死。",
+  "candidates": [
+   {
+    "cid": "8fb7d1a1",
+    "text": "I got something wrong in front of the whole class yesterday. I wanted to disappear.\n---\ngot something wrong\nwanted to disappear"
+   },
+   {
+    "cid": "2fbb895c",
+    "text": "I said the wrong thing in front of the whole class yesterday. I wanted to disappear.\n---\nwanted to disappear"
+   }
+  ],
+  "scene": "telling a friend what happened"
+ },
+ {
+  "item": "sc11/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "最近太卷了，大家都在加班。",
+  "candidates": [
+   {
+    "cid": "5db6dc46",
+    "text": "Everyone's been trying to outdo each other lately, and we're all working overtime.\n---\ntrying to outdo each other\nworking overtime"
+   },
+   {
+    "cid": "4335bec1",
+    "text": "Everyone's trying to outdo each other lately. We're all working late.\n---\ntrying to outdo each other\nworking late"
+   }
+  ],
+  "scene": "chatting about work"
+ },
+ {
+  "item": "sc11/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "最近太卷了，大家都在加班。",
+  "candidates": [
+   {
+    "cid": "0a07b5ab",
+    "text": "Everyone’s trying to outdo each other lately. Everyone’s working overtime.\n---\noutdo each other\nworking overtime"
+   },
+   {
+    "cid": "11918c97",
+    "text": "Everyone’s trying to outdo each other lately. Everyone’s working overtime.\n---\noutdo each other\nworking overtime"
+   }
+  ],
+  "scene": "chatting about work"
+ },
+ {
+  "item": "sc12/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我就是来吃瓜的，你们继续。",
+  "candidates": [
+   {
+    "cid": "9218c63e",
+    "text": "I'm just here for the drama. Don't mind me.\n---\nhere for the drama\nDon't mind me"
+   },
+   {
+    "cid": "b8b51af5",
+    "text": "I'm just here for the drama. You guys keep going.\n---\nhere for the drama"
+   }
+  ],
+  "scene": "joining a gossip thread in a group chat"
+ },
+ {
+  "item": "sc12/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我就是来吃瓜的，你们继续。",
+  "candidates": [
+   {
+    "cid": "9c7d0082",
+    "text": "I'm just here for the drama. Carry on.\n---\nhere for the drama\nCarry on"
+   },
+   {
+    "cid": "0dbd5fea",
+    "text": "I'm just here for the drama. Don't mind me.\n---\nhere for the drama\nDon't mind me"
+   }
+  ],
+  "scene": "joining a gossip thread in a group chat"
+ },
+ {
+  "item": "sc13/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这首歌太上头了，我循环了一整天。",
+  "candidates": [
+   {
+    "cid": "4eb20e12",
+    "text": "This song's so catchy. I've had it on repeat all day.\n---\nso catchy\non repeat"
+   },
+   {
+    "cid": "3dc80a89",
+    "text": "This song's so catchy. I've had it on repeat all day.\n---\nso catchy\non repeat"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sc13/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这首歌太上头了，我循环了一整天。",
+  "candidates": [
+   {
+    "cid": "5a3ed4e0",
+    "text": "This song is so addictive. I've had it on repeat all day.\n---\nso addictive\non repeat"
+   },
+   {
+    "cid": "bbf69680",
+    "text": "This song is so catchy. I've had it on repeat all day.\n---\nso catchy\non repeat"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sc14/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "老板又在给我们打鸡血了。",
+  "candidates": [
+   {
+    "cid": "b4291a9a",
+    "text": "The boss is trying to get us all fired up again.\n---\nget us all fired up"
+   },
+   {
+    "cid": "db27e5e6",
+    "text": "The boss is trying to get us all fired up again.\n---\nget us all fired up"
+   }
+  ],
+  "scene": "complaining about work to a friend"
+ },
+ {
+  "item": "sc14/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "老板又在给我们打鸡血了。",
+  "candidates": [
+   {
+    "cid": "2594cf8b",
+    "text": "The boss is trying to get us all fired up again.\n---\nget us all fired up"
+   },
+   {
+    "cid": "1af7b711",
+    "text": "The boss is trying to fire us up again.\n---\nfire us up"
+   }
+  ],
+  "scene": "complaining about work to a friend"
+ },
+ {
+  "item": "sc15/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这个问题我们线下再对一下吧。",
+  "candidates": [
+   {
+    "cid": "7cc1f8a1",
+    "text": "Let's go over this offline.\n---\ngo over this offline"
+   },
+   {
+    "cid": "c7618ead",
+    "text": "Let’s go over this offline.\n---\ngo over this\noffline"
+   }
+  ],
+  "scene": "work chat with a colleague"
+ },
+ {
+  "item": "sc15/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这个问题我们线下再对一下吧。",
+  "candidates": [
+   {
+    "cid": "432ae2ab",
+    "text": "Let's go over this offline.\n---\ngo over this offline"
+   },
+   {
+    "cid": "191b1b35",
+    "text": "Let's take this offline.\n---\ntake this offline"
+   }
+  ],
+  "scene": "work chat with a colleague"
+ },
+ {
+  "item": "sc16/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我先跟进一下，有消息马上告诉你。",
+  "candidates": [
+   {
+    "cid": "cf154973",
+    "text": "I'll follow up and let you know as soon as I hear anything.\n---\nfollow up\nas soon as I hear anything"
+   },
+   {
+    "cid": "8c122d5d",
+    "text": "I'll follow up and let you know as soon as I hear anything.\n---\nfollow up\nas soon as I hear anything"
+   }
+  ],
+  "scene": "work chat with a colleague"
+ },
+ {
+  "item": "sc16/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我先跟进一下，有消息马上告诉你。",
+  "candidates": [
+   {
+    "cid": "146b343c",
+    "text": "Let me follow up first. I'll let you know as soon as I hear anything.\n---\nfollow up\nas soon as I hear anything"
+   },
+   {
+    "cid": "0ca7f488",
+    "text": "I’ll follow up and let you know as soon as I hear anything.\n---\nfollow up\nas soon as I hear anything"
+   }
+  ],
+  "scene": "work chat with a colleague"
+ },
+ {
+  "item": "sc17/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这个需求有点不合理，工期太紧了。",
+  "candidates": [
+   {
+    "cid": "9440d488",
+    "text": "This request is a bit unrealistic—the timeline's too tight.\n---\na bit unrealistic\nthe timeline's too tight"
+   },
+   {
+    "cid": "14e7e9a6",
+    "text": "This requirement seems a bit unreasonable given how tight the timeline is.\n---\nseems a bit unreasonable\nhow tight the timeline is"
+   }
+  ],
+  "scene": "work chat with a manager"
+ },
+ {
+  "item": "sc17/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这个需求有点不合理，工期太紧了。",
+  "candidates": [
+   {
+    "cid": "60f5ee3b",
+    "text": "This request isn't very realistic. The timeline is too tight.\n---\nisn't very realistic\nthe timeline is too tight"
+   },
+   {
+    "cid": "8f4092ca",
+    "text": "This request is a bit unreasonable. The timeline is too tight.\n---\na bit unreasonable\nThe timeline is too tight"
+   }
+  ],
+  "scene": "work chat with a manager"
+ },
+ {
+  "item": "sc18/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我们的方法在小数据集上效果更好，但是训练时间更长。",
+  "candidates": [
+   {
+    "cid": "81e9c718",
+    "text": "Our method works better on smaller datasets, but it takes longer to train.\n---\ntakes longer to train"
+   },
+   {
+    "cid": "7f0b2f17",
+    "text": "Our method performs better on small datasets, but it takes longer to train.\n---\ntakes longer to train"
+   }
+  ],
+  "scene": "explaining research results to a colleague"
+ },
+ {
+  "item": "sc18/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我们的方法在小数据集上效果更好，但是训练时间更长。",
+  "candidates": [
+   {
+    "cid": "ae23f949",
+    "text": "Our method performs better on small datasets but takes longer to train.\n---\ntakes longer to train"
+   },
+   {
+    "cid": "62701caa",
+    "text": "Our method performs better on small datasets but takes longer to train.\n---\nperforms better\ntakes longer to train"
+   }
+  ],
+  "scene": "explaining research results to a colleague"
+ },
+ {
+  "item": "sc19/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "老师，我想请问一下，这周能不能约个时间聊聊我的论文？",
+  "candidates": [
+   {
+    "cid": "acaa4058",
+    "text": "Hi Professor, I was wondering if we could set up a time this week to talk about my paper.\n---\nI was wondering if\nset up a time"
+   },
+   {
+    "cid": "0354927c",
+    "text": "Hi Professor, I was wondering if we could set up a time this week to talk about my paper.\n---\nI was wondering if\nset up a time"
+   }
+  ],
+  "scene": "message to a professor"
+ },
+ {
+  "item": "sc19/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "老师，我想请问一下，这周能不能约个时间聊聊我的论文？",
+  "candidates": [
+   {
+    "cid": "b6a5fb62",
+    "text": "Hi Professor, would you have time this week to talk about my thesis?\n---\nwould you have time"
+   },
+   {
+    "cid": "a274626a",
+    "text": "Would you have time this week to meet and discuss my thesis?\n---\nhave time this week"
+   }
+  ],
+  "scene": "message to a professor"
+ },
+ {
+  "item": "sc20/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "不好意思打扰了，想跟您确认一下面试的时间。",
+  "candidates": [
+   {
+    "cid": "a9fb5d0d",
+    "text": "Sorry to bother you. I just wanted to confirm the time for my interview.\n---\nSorry to bother you\nwanted to confirm"
+   },
+   {
+    "cid": "84a7741f",
+    "text": "Sorry to bother you. I just wanted to confirm the time for my interview.\n---\nSorry to bother you\nwanted to confirm"
+   }
+  ],
+  "scene": "email to a recruiter"
+ },
+ {
+  "item": "sc20/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "不好意思打扰了，想跟您确认一下面试的时间。",
+  "candidates": [
+   {
+    "cid": "b1d29724",
+    "text": "Sorry to bother you. I’d like to confirm the time of my interview.\n---\nSorry to bother you\nconfirm the time"
+   },
+   {
+    "cid": "1b87a019",
+    "text": "Hello, sorry to bother you. I'd like to confirm the time of my interview.\n---\nsorry to bother you\nconfirm the time"
+   }
+  ],
+  "scene": "email to a recruiter"
+ },
+ {
+  "item": "sc21/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "麻烦你帮我看一下这个行不行，辛苦了！",
+  "candidates": [
+   {
+    "cid": "e766dd1b",
+    "text": "Could you take a look at this and let me know if it works? Thanks so much!\n---\ntake a look\nThanks so much"
+   },
+   {
+    "cid": "a309855e",
+    "text": "Could you take a quick look at this and let me know if it works? I appreciate your help!\n---\ntake a quick look\nI appreciate your help"
+   }
+  ],
+  "scene": "asking a colleague for a favor"
+ },
+ {
+  "item": "sc21/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "麻烦你帮我看一下这个行不行，辛苦了！",
+  "candidates": [
+   {
+    "cid": "4ab71823",
+    "text": "Could you take a look at this and let me know if it works? I appreciate your help!\n---\ntake a look\nif it works"
+   },
+   {
+    "cid": "d6177cd6",
+    "text": "Could you take a look at this and let me know if it works? I appreciate your help!\n---\ntake a look at\nI appreciate your help"
+   }
+  ],
+  "scene": "asking a colleague for a favor"
+ },
+ {
+  "item": "sc22/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "下次我请你吃饭，这次真的谢谢你。",
+  "candidates": [
+   {
+    "cid": "8229b8d9",
+    "text": "Dinner's on me next time. Seriously, thanks so much for this.\n---\nDinner's on me"
+   },
+   {
+    "cid": "fbf22c05",
+    "text": "Dinner's on me next time. Seriously, thanks so much for this.\n---\nDinner's on me\nthanks so much"
+   }
+  ],
+  "scene": "thanking a friend"
+ },
+ {
+  "item": "sc22/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "下次我请你吃饭，这次真的谢谢你。",
+  "candidates": [
+   {
+    "cid": "ec79c461",
+    "text": "Dinner’s on me next time. I really appreciate your help.\n---\non me\nappreciate your help"
+   },
+   {
+    "cid": "27a341f3",
+    "text": "Dinner’s on me next time. I really appreciate your help.\n---\non me\nreally appreciate your help"
+   }
+  ],
+  "scene": "thanking a friend"
+ },
+ {
+  "item": "sc23/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我就不去了，你们玩得开心。",
+  "candidates": [
+   {
+    "cid": "21acfde7",
+    "text": "I'll sit this one out. Have fun, guys!\n---\nsit this one out"
+   },
+   {
+    "cid": "f34d95bf",
+    "text": "I'll sit this one out. Have fun, guys!\n---\nsit this one out\nHave fun"
+   }
+  ],
+  "scene": "declining to join friends"
+ },
+ {
+  "item": "sc23/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我就不去了，你们玩得开心。",
+  "candidates": [
+   {
+    "cid": "8e0e0d49",
+    "text": "I’ll sit this one out. Have fun!\n---\nsit this one out"
+   },
+   {
+    "cid": "86c877d8",
+    "text": "I'll sit this one out. Have fun!\n---\nsit this one out"
+   }
+  ],
+  "scene": "declining to join friends"
+ },
+ {
+  "item": "sc24/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "恭喜恭喜！太为你高兴了。",
+  "candidates": [
+   {
+    "cid": "7bdb17f9",
+    "text": "Congrats! I'm so happy for you!\n---\nhappy for you"
+   },
+   {
+    "cid": "fe1141b5",
+    "text": "Congrats! I'm so happy for you!\n---\nhappy for you"
+   }
+  ],
+  "scene": "congratulating a friend"
+ },
+ {
+  "item": "sc24/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "恭喜恭喜！太为你高兴了。",
+  "candidates": [
+   {
+    "cid": "cb415c4f",
+    "text": "Congratulations! I’m so happy for you.\n---\nhappy for you"
+   },
+   {
+    "cid": "ed1e4fdb",
+    "text": "Congratulations! I’m so happy for you!\n---\nhappy for you"
+   }
+  ],
+  "scene": "congratulating a friend"
+ },
+ {
+  "item": "sc25/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这天气热得我怀疑人生。",
+  "candidates": [
+   {
+    "cid": "0c4b90df",
+    "text": "It's so hot out, I can't even function.\n---\ncan't even function"
+   },
+   {
+    "cid": "364b099c",
+    "text": "It's so hot out, I'm questioning my entire existence.\n---\nquestioning my entire existence"
+   }
+  ],
+  "scene": "complaining about the weather"
+ },
+ {
+  "item": "sc25/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这天气热得我怀疑人生。",
+  "candidates": [
+   {
+    "cid": "71ffdc84",
+    "text": "It's so hot I'm questioning all my life choices.\n---\nquestioning all my life choices"
+   },
+   {
+    "cid": "50c2f6b0",
+    "text": "It's so hot I'm losing the will to live.\n---\nlosing the will to live"
+   }
+  ],
+  "scene": "complaining about the weather"
+ },
+ {
+  "item": "sc26/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "他讲了半天，我一句都没听懂。",
+  "candidates": [
+   {
+    "cid": "c0a660d0",
+    "text": "He went on and on, and I didn't understand a word he said.\n---\nwent on and on\ndidn't understand a word"
+   },
+   {
+    "cid": "16a132d7",
+    "text": "He went on and on, and I didn't understand a word he said.\n---\nwent on and on\ndidn't understand a word"
+   }
+  ],
+  "scene": "after a confusing lecture"
+ },
+ {
+  "item": "sc26/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "他讲了半天，我一句都没听懂。",
+  "candidates": [
+   {
+    "cid": "d3b81b1b",
+    "text": "He went on and on, and I didn’t understand a word he said.\n---\nwent on and on\ndidn’t understand a word"
+   },
+   {
+    "cid": "fa429aa3",
+    "text": "He went on and on, and I didn't understand a word he said.\n---\nwent on and on\ndidn't understand a word"
+   }
+  ],
+  "scene": "after a confusing lecture"
+ }
+]

@@ -1,0 +1,1242 @@
+[
+ {
+  "item": "c01/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我今天真的累瘫了，什么都不想干。",
+  "candidates": {
+   "A": "I'm totally wiped out today. I don't wanna do anything.\n---\nwiped out — 累瘫了，精疲力尽\ndon't wanna do anything — 什么都不想干的口语说法",
+   "B": "I'm totally wiped out today. I don't feel like doing anything\n---\nwiped out — 累瘫了，精疲力尽\ndon't feel like doing anything — 什么都不想干"
+  }
+ },
+ {
+  "item": "c01/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我今天真的累瘫了，什么都不想干。",
+  "candidates": {
+   "A": "I'm completely wiped out today. Doing anything is off the table.\n---\nwiped out — 累瘫了，精疲力尽\noff the table — 不在考虑范围内，什么都不想干",
+   "B": "I'm absolutely wiped out today. I don't have it in me to do a thing.\n---\nwiped out — 累瘫了，精疲力尽\ndon't have it in me — 实在没精力或心力去做"
+  }
+ },
+ {
+  "item": "c02/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这家店排队排了一个小时，结果也就那样。",
+  "candidates": {
+   "A": "Waited an hour in line for this place, and it was just kinda meh\n---\nkinda meh — 也就那样，没什么惊喜\nWaited an hour in line — 排了一个小时的队",
+   "B": "We waited an hour to get into this place, and it was kinda underwhelming.\n---\nkinda underwhelming — 有点让人失望，也就那样"
+  }
+ },
+ {
+  "item": "c02/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这家店排队排了一个小时，结果也就那样。",
+  "candidates": {
+   "A": "We waited an hour for this place, and it was aggressively average.\n---\naggressively average — 平庸得突出，带点吐槽的“也就那样”",
+   "B": "We waited an hour to get in, and it was pretty underwhelming.\n---\npretty underwhelming — 也就那样，没达到期待"
+  }
+ },
+ {
+  "item": "c03/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "不好意思，我刚看到消息，晚点回你。",
+  "candidates": {
+   "A": "Sorry, just saw your message. I'll get back to you later\n---\nget back to you — 晚点回复你",
+   "B": "Sorry, just saw your message. I'll get back to you in a bit.\n---\nget back to you — 稍后回复你"
+  }
+ },
+ {
+  "item": "c03/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "不好意思，我刚看到消息，晚点回你。",
+  "candidates": {
+   "A": "Sorry, just saw your message. I’ll get back to you in a bit.\n---\nget back to you — 稍后回复你",
+   "B": "Sorry, just saw your message. I'll get back to you in a bit.\n---\nget back to you — 稍后回复你\nin a bit — 过一会儿，口语里说“晚点”"
+  }
+ },
+ {
+  "item": "c04/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "他这个人就是嘴硬心软。",
+  "candidates": {
+   "A": "He talks tough, but he's a softie at heart\n---\ntalks tough — 嘴上强硬、不肯服软\na softie at heart — 内心柔软、容易心软的人",
+   "B": "He talks tough, but he's a softie at heart.\n---\ntalks tough — 嘴上强硬、不肯服软\na softie at heart — 内心柔软，容易心软"
+  }
+ },
+ {
+  "item": "c04/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "他这个人就是嘴硬心软。",
+  "candidates": {
+   "A": "He talks tough, but he's a softie at heart.\n---\ntalks tough — 嘴上强硬，对应“嘴硬”\na softie at heart — 内心柔软的人，对应“心软”",
+   "B": "He talks tough, but he's a softie at heart.\n---\ntalks tough — 嘴上强硬，对应“嘴硬”\na softie at heart — 内心柔软，对应“心软”"
+  }
+ },
+ {
+  "item": "c05/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我最近在减肥，但是看到奶茶还是忍不住。",
+  "candidates": {
+   "A": "I'm trying to lose weight, but I still can't resist bubble tea.\n---\ncan't resist — 忍不住想要，无法抗拒",
+   "B": "I'm trying to lose weight, but I still can't resist bubble tea\n---\ncan't resist — 忍不住，抵挡不住诱惑"
+  }
+ },
+ {
+  "item": "c05/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我最近在减肥，但是看到奶茶还是忍不住。",
+  "candidates": {
+   "A": "I'm trying to lose weight, but bubble tea is still my kryptonite.\n---\nmy kryptonite — 我的致命弱点，碰上就忍不住",
+   "B": "I'm trying to lose weight, but bubble tea is still my weakness.\n---\nmy weakness — 我的软肋，指喜欢到难以抗拒的东西"
+  }
+ },
+ {
+  "item": "c06/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这个方案我觉得还有点问题，我们能再对一下吗？",
+  "candidates": {
+   "A": "I think there are still a few issues with this plan. Can we go over it again?\n---\ngo over it again — 再一起过一遍、核对一下",
+   "B": "I think there are still a few issues with this plan. Can we go over it together again?\n---\ngo over it together — 一起过一遍、核对一下"
+  }
+ },
+ {
+  "item": "c06/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这个方案我觉得还有点问题，我们能再对一下吗？",
+  "candidates": {
+   "A": "I think this plan still has a few kinks to work out. Can we go over it again?\n---\na few kinks to work out — 还有些小问题需要理顺\ngo over it again — 再一起过一遍，对一下",
+   "B": "I think this plan still has a few kinks to work out. Can we go over it together again?\n---\na few kinks to work out — 还有些小问题需要理顺\ngo over it together — 一起过一遍、核对一下"
+  }
+ },
+ {
+  "item": "c07/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "你别太往心里去，他就是那种说话不过脑子的人。",
+  "candidates": {
+   "A": "Don't take it too personally. He's just the kind of guy who talks without thinking.\n---\ntake it too personally — 太往心里去，觉得是在针对自己\ntalks without thinking — 说话不过脑子",
+   "B": "Don't take it too personally. He's just the kind of guy who doesn't think before he speaks.\n---\ntake it too personally — 太往心里去，觉得是在针对自己\ndoesn't think before he speaks — 说话不过脑子"
+  }
+ },
+ {
+  "item": "c07/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "你别太往心里去，他就是那种说话不过脑子的人。",
+  "candidates": {
+   "A": "Don't take it to heart. His mouth tends to get ahead of his brain.\n---\ntake it to heart — 往心里去\nHis mouth tends to get ahead of his brain — 说话不过脑子，嘴比脑子快",
+   "B": "Don't take it to heart. He has no filter.\n---\ntake it to heart — 往心里去，因别人的话而难受\nhas no filter — 说话不过脑子，想到什么就说什么"
+  }
+ },
+ {
+  "item": "c08/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "周末要不要一起去爬山？顺便吃个火锅。",
+  "candidates": {
+   "A": "Wanna go hiking this weekend and grab some hot pot after?\n---\nWanna go hiking — 口语邀请：要不要一起去爬山\ngrab some hot pot — 随便一起吃个火锅，语气轻松",
+   "B": "Wanna go hiking this weekend and grab some hot pot after?\n---\ngrab some hot pot — 随意地说一起吃个火锅"
+  }
+ },
+ {
+  "item": "c08/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "周末要不要一起去爬山？顺便吃个火锅。",
+  "candidates": {
+   "A": "Want to go for a hike this weekend and grab some hot pot while we're at it?\n---\nwhile we're at it — 顺便，也把这事一起做了",
+   "B": "Want to go for a hike this weekend and get hot pot after? Call it a well-earned meal.\n---\nget hot pot — 口语里说“去吃火锅”\na well-earned meal — 爬完山，这顿吃得理直气壮"
+  }
+ },
+ {
+  "item": "c09/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我真的是服了，又加班到十一点。",
+  "candidates": {
+   "A": "I swear, I'm so over this. Had to work till eleven again.\n---\nI'm so over this — 表达“真服了”，受够了\nHad to work till eleven again — 又被迫加班到十一点",
+   "B": "I'm so over this. Had to work till eleven again.\n---\nI'm so over this — 真服了，已经受够了\nHad to work till eleven again. — 又得加班到十一点"
+  }
+ },
+ {
+  "item": "c09/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我真的是服了，又加班到十一点。",
+  "candidates": {
+   "A": "Unbelievable. Stuck working till eleven again.\n---\nUnbelievable — 用无语的语气表达“真是服了”\nStuck working — 被迫继续干活，透着无奈",
+   "B": "Unbelievable. Stuck working till eleven again.\n---\nUnbelievable — 这里表达“我真是服了”的无奈\nStuck working — 被迫继续干活，脱不开身"
+  }
+ },
+ {
+  "item": "c10/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这事儿八字还没一撇呢，先别到处说。",
+  "candidates": {
+   "A": "Nothing's even close to confirmed yet, so don't go telling everyone\n---\nNothing's even close to confirmed yet — 八字还没一撇，事情远未确定\ndon't go telling everyone — 先别到处跟人说",
+   "B": "Nothing’s set in stone yet, so let’s keep it to ourselves for now.\n---\nNothing’s set in stone yet — 事情还没定下来，八字没一撇\nkeep it to ourselves — 先别告诉别人"
+  }
+ },
+ {
+  "item": "c10/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这事儿八字还没一撇呢，先别到处说。",
+  "candidates": {
+   "A": "Nothing’s set in stone yet, so let’s not broadcast it.\n---\nset in stone — 板上钉钉；这里指事情还没定\nbroadcast it — 到处宣扬，带点“别昭告天下”的语气",
+   "B": "Nothing’s set in stone yet, so let’s not broadcast it.\n---\nNothing’s set in stone yet — 事情还没定，八字还没一撇\nbroadcast it — 到处宣扬，弄得人尽皆知"
+  }
+ },
+ {
+  "item": "c11/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "说实话，我有点社恐，人多的场合会不自在。",
+  "candidates": {
+   "A": "Tbh, I'm kinda socially anxious. I get uncomfortable in big groups\n---\nsocially anxious — 社恐，社交时容易紧张不自在\nin big groups — 人多的场合，口语自然说法",
+   "B": "Honestly, I get kinda anxious around people. I feel uncomfortable in big groups.\n---\nkinda — 有点，口语中更自然随意\nanxious around people — 表达“社恐”，不一定指确诊疾病"
+  }
+ },
+ {
+  "item": "c11/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "说实话，我有点社恐，人多的场合会不自在。",
+  "candidates": {
+   "A": "Honestly, I get a little socially anxious. Put me in a crowd and I’m out of my element.\n---\nsocially anxious — 社交时容易紧张，比“内向”更准确\nout of my element — 不自在，感觉待错了地方",
+   "B": "Honestly, I’m a little socially anxious. Crowds aren’t exactly my comfort zone.\n---\nsocially anxious — 表达“社恐”，不等于内向\naren’t exactly my comfort zone — 委婉地说在人多时不自在"
+  }
+ },
+ {
+  "item": "c12/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "感觉他在画大饼，我不太信。",
+  "candidates": {
+   "A": "Feels like he's just making big promises. I'm not really buying it.\n---\nmaking big promises — 画大饼，许下诱人的承诺\nnot really buying it — 不太信，不太买账",
+   "B": "Feels like he's just making empty promises. I'm kinda skeptical.\n---\nmaking empty promises — 画大饼，许诺却不兑现\nI'm kinda skeptical — 我不太信，语气较委婉"
+  }
+ },
+ {
+  "item": "c12/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "感觉他在画大饼，我不太信。",
+  "candidates": {
+   "A": "Sounds like he's promising the moon. I'm not buying it.\n---\npromising the moon — 画大饼，许下不切实际的承诺\nI'm not buying it — 我不信这一套",
+   "B": "Sounds like he's selling me a dream. I'm not really buying it.\n---\nselling me a dream — 画大饼，描绘美好却未必兑现\nI'm not really buying it — 我不太信这套说辞"
+  }
+ },
+ {
+  "item": "c13/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "能帮我带杯咖啡吗？我请你。",
+  "candidates": {
+   "A": "Can you grab me a coffee? It's on me\n---\ngrab me a coffee — 顺手帮我带杯咖啡\nIt's on me — 我请客，我来付钱",
+   "B": "Can you grab me a coffee? Yours is on me.\n---\ngrab me a coffee — 顺便帮我带杯咖啡\non me — 我请客，我来付钱"
+  }
+ },
+ {
+  "item": "c13/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "能帮我带杯咖啡吗？我请你。",
+  "candidates": {
+   "A": "Can you grab me a coffee? Yours is on me.\n---\ngrab me a coffee — 顺手帮我带杯咖啡\nYours is on me — 你的那杯我请",
+   "B": "Can you grab me a coffee? Yours is on me.\n---\non me — 我请客，我来付钱"
+  }
+ },
+ {
+  "item": "c14/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我们改天再约吧，今天实在抽不开身。",
+  "candidates": {
+   "A": "Let's hang out another day. I really can't get away today\n---\ncan't get away — 抽不开身，没法暂时离开",
+   "B": "Can we take a rain check? I really can't get away today.\n---\ntake a rain check — 这次不行，改天再约\ncan't get away — 抽不开身，没法离开"
+  }
+ },
+ {
+  "item": "c14/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我们改天再约吧，今天实在抽不开身。",
+  "candidates": {
+   "A": "Can we take a rain check? I really can’t get away today.\n---\ntake a rain check — 这次不行，改天再约\ncan’t get away — 抽不开身",
+   "B": "Can we take a rain check? I'm completely tied up today.\n---\ntake a rain check — 这次不行，改天再约\ntied up — 忙得抽不开身"
+  }
+ },
+ {
+  "item": "c15/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这电影前半段有点拖，后半段还挺燃的。",
+  "candidates": {
+   "A": "The first half kinda drags, but the second half really gets you pumped\n---\nkinda drags — 节奏有点拖沓\ngets you pumped — 让人热血沸腾，很燃",
+   "B": "The first half kinda drags, but the second half really gets you pumped.\n---\nkinda drags — 节奏有点拖沓\ngets you pumped — 让人热血沸腾，对应“燃”"
+  }
+ },
+ {
+  "item": "c15/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这电影前半段有点拖，后半段还挺燃的。",
+  "candidates": {
+   "A": "The first half drags a bit, but the second half really gets your blood pumping.\n---\ndrags a bit — 节奏有点拖沓\ngets your blood pumping — 让人热血沸腾，对应“燃”",
+   "B": "The first half drags a bit, but the second half really kicks into gear.\n---\ndrags a bit — 节奏有点拖沓\nkicks into gear — 开始发力，对应后半段“燃起来”"
+  }
+ },
+ {
+  "item": "p01/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I very agree with you, this restaurant food is not so good than last time.",
+  "candidates": {
+   "A": "I'm totally with you—the food here isn't as good as it was last time\n---\nI'm totally with you — 我完全同意你的看法\nisn't as good as it was last time — 不如上次那么好",
+   "B": "Yeah, totally with you on that. The food here isn't as good as it was last time.\n---\ntotally with you on that — 完全同意你的看法\nisn't as good as it was last time — 不如上次那么好"
+  }
+ },
+ {
+  "item": "p01/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I very agree with you, this restaurant food is not so good than last time.",
+  "candidates": {
+   "A": "Couldn't agree more. The food here has definitely gone downhill since last time.\n---\nCouldn't agree more — 完全同意，再赞同不过了\ngone downhill — 质量变差，走下坡路",
+   "B": "Couldn't agree more. The food here has definitely gone downhill since last time.\n---\nCouldn't agree more — 完全同意，地道又有力\ngone downhill — 质量变差，大不如前"
+  }
+ },
+ {
+  "item": "p02/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Sorry for late reply, I was busy on a deadline yesterday.",
+  "candidates": {
+   "A": "Sorry I went quiet—I was swamped trying to hit a deadline yesterday.\n---\nwent quiet — 一阵子没回消息\nwas swamped — 忙得不可开交\nhit a deadline — 赶在截止时间前完成",
+   "B": "Sorry I’m just getting back to you—I was up against a deadline yesterday\n---\ngetting back to you — 回复你\nup against a deadline — 赶着在截止时间前完成"
+  }
+ },
+ {
+  "item": "p02/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Sorry for late reply, I was busy on a deadline yesterday.",
+  "candidates": {
+   "A": "Sorry I went quiet. I was up against a deadline yesterday.\n---\nwent quiet — 一阵子没回消息、没动静\nup against a deadline — 赶截止日期，时间紧迫",
+   "B": "Sorry I went quiet. I was up against a deadline yesterday.\n---\nwent quiet — 一时没回消息、没了动静\nup against a deadline — 截止日期逼近，正忙着赶工"
+  }
+ },
+ {
+  "item": "p03/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Can you send me the file again? I didn't received it.",
+  "candidates": {
+   "A": "Could you resend the file? It never came through on my end\n---\nresend the file — 把文件再发一遍\ncame through on my end — 我这边收到了",
+   "B": "Mind sending that file again? It never came through on my end.\n---\nMind sending — 请对方帮忙的随意说法\ncame through — 文件或消息成功收到\non my end — 我这边"
+  }
+ },
+ {
+  "item": "p03/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Can you send me the file again? I didn't received it.",
+  "candidates": {
+   "A": "Could you resend the file? It never made it to me.\n---\nnever made it to me — 没传到我这儿，自然表达未收到",
+   "B": "Could you resend the file? It never made it to me.\n---\nnever made it to me — 没传到我这儿，口语自然"
+  }
+ },
+ {
+  "item": "p04/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I have been to Paris last year and it was so amazing.",
+  "candidates": {
+   "A": "Went to Paris last year and had such an amazing time\n---\nhad such an amazing time — 玩得特别开心，很自然的旅行感受表达",
+   "B": "Went to Paris last year and had the best time. Such an amazing city\n---\nhad the best time — 玩得特别开心，口语常用\nSuch an amazing city — 省略主语的感叹句，更随意"
+  }
+ },
+ {
+  "item": "p04/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I have been to Paris last year and it was so amazing.",
+  "candidates": {
+   "A": "I went to Paris last year, and it absolutely lived up to the hype.\n---\nlived up to the hype — 名不虚传，确实像大家说的那么好",
+   "B": "I went to Paris last year, and honestly, it lived up to the hype.\n---\nlived up to the hype — 确实名不虚传，不负盛名"
+  }
+ },
+ {
+  "item": "p05/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "He suggested me to try the new ramen place near the office.",
+  "candidates": {
+   "A": "He said I should check out that new ramen spot by the office.\n---\ncheck out — 去试试、去看看\nramen spot — 拉面店的自然口语说法",
+   "B": "He said I should check out that new ramen spot near the office\n---\ncheck out — 去试试、去看看\nramen spot — 拉面店的口语说法"
+  }
+ },
+ {
+  "item": "p05/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "He suggested me to try the new ramen place near the office.",
+  "candidates": {
+   "A": "He said I should check out that new ramen spot by the office.\n---\ncheck out — 去试试、看看，口语常用\nramen spot — 拉面店，比 restaurant 更随意",
+   "B": "He said I should give that new ramen spot near the office a try.\n---\ngive that new ramen spot near the office a try — 用 give…a try 自然表达“试试”"
+  }
+ },
+ {
+  "item": "p06/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Let's discuss about this tomorrow morning.",
+  "candidates": {
+   "A": "Let's talk it over tomorrow morning\n---\ntalk it over — 一起聊聊、商量一下",
+   "B": "Let's talk it over tomorrow morning.\n---\ntalk it over — 一起聊聊、商量一下"
+  }
+ },
+ {
+  "item": "p06/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Let's discuss about this tomorrow morning.",
+  "candidates": {
+   "A": "Let’s talk this through tomorrow morning.\n---\ntalk this through — 把这件事好好讨论清楚",
+   "B": "Let’s talk this through tomorrow morning.\n---\ntalk this through — 把事情聊清楚、讨论透彻"
+  }
+ },
+ {
+  "item": "p07/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I'm looking forward to meet you guys this weekend!",
+  "candidates": {
+   "A": "Can't wait to hang out with you guys this weekend!\n---\nCan't wait to — 迫不及待想做某事\nhang out — 一起玩、聚一聚",
+   "B": "Can't wait to hang out with you guys this weekend!\n---\nCan't wait to — 迫不及待想做某事\nhang out — 一起玩、聚一聚"
+  }
+ },
+ {
+  "item": "p07/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I'm looking forward to meet you guys this weekend!",
+  "candidates": {
+   "A": "Can't wait to see you all this weekend!\n---\nCan't wait to — 迫不及待想做某事，热情自然",
+   "B": "Can't wait to see you all this weekend!\n---\nCan't wait to — 迫不及待想做某事，更口语自然"
+  }
+ },
+ {
+  "item": "p08/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "There have many people in the gym today, I can't even find a free bench.",
+  "candidates": {
+   "A": "The gym's packed today—I can't even get a bench\n---\npacked — 挤满了人\nget a bench — 找到能用的训练凳",
+   "B": "The gym's so packed today I can't even snag a bench.\n---\npacked — 人挤人，特别满\nsnag a bench — 抢到一张空闲的健身凳"
+  }
+ },
+ {
+  "item": "p08/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "There have many people in the gym today, I can't even find a free bench.",
+  "candidates": {
+   "A": "The gym is absolutely packed today. Apparently, an open bench is too much to ask.\n---\nabsolutely packed — 挤得满满当当\ntoo much to ask — 连这点要求都成了奢望",
+   "B": "The gym is packed today. Even finding an open bench is asking too much, apparently.\n---\npacked — 挤满了人，口语里很常用\nasking too much, apparently — 看来连这点要求都算奢望"
+  }
+ },
+ {
+  "item": "p09/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "The informations you gave me was really helpful.",
+  "candidates": {
+   "A": "What you shared was super helpful\n---\nWhat you shared — 用“你分享的内容”自然指代信息\nsuper helpful — 非常有帮助，语气随意自然",
+   "B": "What you shared really helped me out—thanks!\n---\nhelped me out — 帮了我大忙，比 helpful 更口语"
+  }
+ },
+ {
+  "item": "p09/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "The informations you gave me was really helpful.",
+  "candidates": {
+   "A": "That info really came in handy. Thanks for the assist.\n---\ncame in handy — 派上了用场，很实用\nThanks for the assist — 谢谢搭把手，轻松自然",
+   "B": "What you shared was a huge help.\n---\na huge help — 帮了大忙，比“很有用”更口语"
+  }
+ },
+ {
+  "item": "p10/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I don't think so it will rain today.",
+  "candidates": {
+   "A": "Doesn't look like we're gonna get any rain today.\n---\nDoesn't look like — 看起来不会，口语中可省略主语\ngonna get any rain — 会下雨的自然口语表达",
+   "B": "I don't think we're gonna get any rain today\n---\ngonna get any rain — 口语里表示会不会下雨"
+  }
+ },
+ {
+  "item": "p10/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I don't think so it will rain today.",
+  "candidates": {
+   "A": "Rain today? I don’t see it happening.\n---\nI don’t see it happening — 我觉得不太可能，口语化判断",
+   "B": "I’m not betting on rain today.\n---\nnot betting on — 觉得不太可能，不抱这种预期"
+  }
+ },
+ {
+  "item": "p11/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "My boss let me to finish the report before friday.",
+  "candidates": {
+   "A": "My boss wants me to get the report wrapped up before Friday.\n---\nget the report wrapped up — 把报告收尾完成",
+   "B": "My boss wants me to get the report done before Friday\n---\nget the report done — 把报告做完，口语常用表达"
+  }
+ },
+ {
+  "item": "p11/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "My boss let me to finish the report before friday.",
+  "candidates": {
+   "A": "My boss wants that report wrapped up before Friday.\n---\nwrapped up — 完成、收尾，口语常用",
+   "B": "My boss wants that report wrapped up before Friday.\n---\nwrapped up — 全部做完、收尾，口语常用"
+  }
+ },
+ {
+  "item": "p12/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Although it was raining, but we still went hiking.",
+  "candidates": {
+   "A": "It was raining, but we went hiking anyway.\n---\nanyway — 即便如此还是做了，口语很自然",
+   "B": "It was raining, but we went hiking anyway\n---\nwent hiking anyway — 即使如此还是去徒步了"
+  }
+ },
+ {
+  "item": "p12/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Although it was raining, but we still went hiking.",
+  "candidates": {
+   "A": "It was raining, but we weren't about to let that keep us off the trail.\n---\nweren't about to let that — 才不会让那件事阻止我们\nkeep us off the trail — 让我们没法去徒步",
+   "B": "It was raining, but we went hiking anyway.\n---\nanyway — 即便如此也照做，自然表达转折"
+  }
+ },
+ {
+  "item": "p13/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I'm so boring this weekend, any plan?",
+  "candidates": {
+   "A": "I'm so bored this weekend. You up to anything?\n---\nYou up to anything? — 有什么安排吗？随意打听的说法",
+   "B": "I'm so bored this weekend. Got anything going on?\n---\nGot anything going on? — 有什么活动或安排吗？"
+  }
+ },
+ {
+  "item": "p13/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I'm so boring this weekend, any plan?",
+  "candidates": {
+   "A": "I'm going stir-crazy this weekend. What's the plan?\n---\ngoing stir-crazy — 闲得待不住，快憋疯了\nWhat's the plan? — 有什么安排？口语里自然邀约",
+   "B": "I'm bored out of my mind this weekend. Anyone got anything going on?\n---\nbored out of my mind — 无聊透顶，口语夸张\ngot anything going on — 有什么安排或活动"
+  }
+ },
+ {
+  "item": "p14/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "How do you think about the new iPhone?",
+  "candidates": {
+   "A": "What's your take on the new iPhone?\n---\nWhat's your take on — 你对……有什么看法？",
+   "B": "What do you think of the new iPhone?\n---\nWhat do you think of — 问对某事的看法，不用 how"
+  }
+ },
+ {
+  "item": "p14/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "How do you think about the new iPhone?",
+  "candidates": {
+   "A": "What's your take on the new iPhone?\n---\nWhat's your take on — 你怎么看……，自然地征求看法",
+   "B": "What's your take on the new iPhone?\n---\nWhat's your take on — 你怎么看，比询问想法更地道"
+  }
+ },
+ {
+  "item": "p15/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "She is good in cooking but she hates to wash the dishes.",
+  "candidates": {
+   "A": "She's a great cook, but she can't stand doing the dishes.\n---\na great cook — 很会做饭的人\ncan't stand — 非常讨厌、受不了\ndoing the dishes — 洗碗，日常常用表达",
+   "B": "She's a great cook, but she can't stand doing the dishes\n---\na great cook — 很会做饭的人\ncan't stand — 受不了，特别讨厌"
+  }
+ },
+ {
+  "item": "p15/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "She is good in cooking but she hates to wash the dishes.",
+  "candidates": {
+   "A": "She's a great cook, but doing the dishes? That's where she draws the line.\n---\ndraws the line — 到此为止，不肯再干了",
+   "B": "She knows her way around a kitchen, but she wants nothing to do with the dishes.\n---\nknows her way around a kitchen — 很会做饭，熟悉厨房里的活\nwants nothing to do with — 一点也不想碰，完全不想参与"
+  }
+ },
+ {
+  "item": "p16/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "We should go to there earlier to get a good seat.",
+  "candidates": {
+   "A": "Let's get there early so we can snag a good seat\n---\nget there early — 早点到，比“去那里早点”更自然\nsnag a good seat — 抢到个好座位，口语又自然",
+   "B": "Let's get there a little early so we can snag a good seat.\n---\nget there a little early — 提前一点到，自然口语表达\nsnag a good seat — 抢到个好座位，轻松随意的说法"
+  }
+ },
+ {
+  "item": "p16/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "We should go to there earlier to get a good seat.",
+  "candidates": {
+   "A": "Let's get there early so we're not stuck with a lousy seat.\n---\nget there early — 早点到，there前不加介词\nstuck with — 没得选，只能将就",
+   "B": "Let's get there early so we're not stuck with the lousy seats.\n---\nget there early — 提前到，口语不说 go to there\nstuck with — 没得选，只能将就"
+  }
+ },
+ {
+  "item": "p17/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I already finished my homework yesterday night.",
+  "candidates": {
+   "A": "I got my homework out of the way last night.\n---\ngot my homework out of the way — 把作业做完，不用再惦记了",
+   "B": "I got my homework out of the way last night\n---\ngot my homework out of the way — 把作业做完了，不用再惦记\nlast night — 昨晚，不说 yesterday night"
+  }
+ },
+ {
+  "item": "p17/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I already finished my homework yesterday night.",
+  "candidates": {
+   "A": "I had my homework out of the way last night.\n---\nout of the way — 已经搞定，不用再惦记了",
+   "B": "I got my homework out of the way last night.\n---\ngot my homework out of the way — 把作业搞定了，不用再惦记"
+  }
+ },
+ {
+  "item": "p18/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Actually I'm not very familiar about this kind of thing.",
+  "candidates": {
+   "A": "Tbh, I don't really know my way around this stuff.\n---\nTbh — 说实话，聊天中常用的缩写\nknow my way around — 对某事熟悉、懂得怎么应对",
+   "B": "Tbh, I don't really know much about this stuff\n---\nTbh — 说实话，聊天中常用的缩写\ndon't really know much about — 对某事不太了解的自然说法"
+  }
+ },
+ {
+  "item": "p18/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Actually I'm not very familiar about this kind of thing.",
+  "candidates": {
+   "A": "Honestly, this isn't exactly my area of expertise.\n---\nisn't exactly my area of expertise — 委婉说这方面自己不太懂",
+   "B": "Honestly, this isn't exactly my area of expertise.\n---\nisn't exactly my area of expertise — 委婉表示自己不太懂这方面"
+  }
+ },
+ {
+  "item": "p19/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I've been working in this company since three years.",
+  "candidates": {
+   "A": "I've been at this company for three years now\n---\nbeen at this company — 表示在这家公司任职\nfor three years now — 到现在已经三年了",
+   "B": "Been at this company for three years now.\n---\nBeen at this company — 聊天时省略主语，自然表达任职经历"
+  }
+ },
+ {
+  "item": "p19/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I've been working in this company since three years.",
+  "candidates": {
+   "A": "I've got three years under my belt at this company.\n---\nunder my belt — 已积累的经验或资历",
+   "B": "I've got three years under my belt at this company.\n---\nunder my belt — 已积累的经验或经历"
+  }
+ },
+ {
+  "item": "p20/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "If I would have known, I would have told you.",
+  "candidates": {
+   "A": "I would've given you a heads-up if I'd known.\n---\ngiven you a heads-up — 提前告诉你一声",
+   "B": "I would've told you if I'd known\n---\nI would've told you if I'd known — 我要是早知道，就告诉你了"
+  }
+ },
+ {
+  "item": "p20/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "If I would have known, I would have told you.",
+  "candidates": {
+   "A": "I would've given you a heads-up if I'd known.\n---\ngiven you a heads-up — 提前告诉你，让你心里有数\nif I'd known — 要是当时知道，表达过去的假设",
+   "B": "If I’d had any idea, I would’ve said something.\n---\nhad any idea — 知道这回事，常用于否定或假设\nwould’ve said something — 当时就会说出来，自然口语表达"
+  }
+ },
+ {
+  "item": "p21/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Honestly, I think we're overthinking this. Let's just ship it and see what happens.",
+  "candidates": {
+   "A": "Tbh, we're making this way more complicated than it needs to be. Let's just ship it and see how it goes\n---\nmaking this way more complicated than it needs to be — 把事情想得太复杂\nsee how it goes — 先试试看，再看情况",
+   "B": "Tbh, we're making this more complicated than it needs to be. Let's ship it and see how it goes.\n---\nmaking this more complicated than it needs to be — 把事情想得太复杂了\nship it — 先发布或上线\nsee how it goes — 看看实际效果如何"
+  }
+ },
+ {
+  "item": "p21/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Honestly, I think we're overthinking this. Let's just ship it and see what happens.",
+  "candidates": {
+   "A": "Honestly, we're thinking this thing to death. Let's ship it and see how it plays out.\n---\nthinking this thing to death — 想得太多，反而卡住了\nsee how it plays out — 看看实际结果如何",
+   "B": "Honestly, we're thinking this to death. Let's ship it and see how it plays out.\n---\nthinking this to death — 想得太多，反而陷入纠结\nsee how it plays out — 看看接下来会怎样"
+  }
+ },
+ {
+  "item": "p22/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I'll grab coffee on my way in. Want anything?",
+  "candidates": {
+   "A": "Gonna grab coffee on the way in. Want me to get you anything?\n---\nGonna grab — 打算顺路买，口语随意自然\nWant me to get you anything? — 自然地问要不要帮忙带点什么",
+   "B": "Gonna make a coffee run on my way in. Want me to grab you anything?\n---\nGonna — 口语里的“打算、要”\nmake a coffee run — 出去买咖啡\ngrab you anything — 顺便帮你带点什么"
+  }
+ },
+ {
+  "item": "p22/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I'll grab coffee on my way in. Want anything?",
+  "candidates": {
+   "A": "I’m making a coffee run on my way in. Can I get you anything?\n---\nmaking a coffee run — 顺路去买咖啡，口语常用\nCan I get you anything? — 自然地问要不要帮忙带点什么",
+   "B": "I'm making a coffee run on my way in. Can I get you anything?\n---\nmaking a coffee run — 专程或顺路去买咖啡的口语说法\nCan I get you anything? — 自然地问要不要帮忙带点什么"
+  }
+ },
+ {
+  "item": "p23/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "That meeting could have been an email.",
+  "candidates": {
+   "A": "We could've just handled that over email\n---\nhandled that over email — 通过邮件就把事情解决了",
+   "B": "We could’ve skipped that whole meeting and just sent an email.\n---\nskipped that whole meeting — 整个会都不用开"
+  }
+ },
+ {
+  "item": "p23/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "That meeting could have been an email.",
+  "candidates": {
+   "A": "We had a whole meeting for something an email could’ve handled.\n---\na whole meeting — 强调整场会议实在小题大做\ncould’ve handled — 本来就能搞定，暗示没必要折腾",
+   "B": "We had a whole meeting for what should’ve been an email.\n---\na whole meeting — 强调整场会都开得多余"
+  }
+ },
+ {
+  "item": "p24/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I'm not sure I follow. Could you walk me through it again?",
+  "candidates": {
+   "A": "I'm not quite following—can you run through it again?\n---\nnot quite following — 没太跟上对方的思路\nrun through it again — 再从头讲一遍",
+   "B": "I'm kinda lost. Can you run through that one more time?\n---\nI'm kinda lost — 我有点没跟上，语气比较随和\nrun through — 从头讲一遍或快速过一遍"
+  }
+ },
+ {
+  "item": "p24/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I'm not sure I follow. Could you walk me through it again?",
+  "candidates": {
+   "A": "You lost me there. Can you back up and walk me through that again?\n---\nYou lost me there — 我没跟上你的思路，口语自然\nback up — 回到前面，重新讲讲\nwalk me through — 一步步给我讲清楚",
+   "B": "You lost me a little there. Can you walk me through it one more time?\n---\nYou lost me a little there — 委婉表示刚才有点没跟上\nwalk me through it — 一步步给我讲清楚"
+  }
+ },
+ {
+  "item": "p25/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Yesterday I went to my friend's birthday party. There was a lot of people that I don't know, so I felt a little awkward at the beginning. But after a few drinks everyone become very friendly and we played games until 2am. It was really a fun experience and I'm glad I went.",
+  "candidates": {
+   "A": "Went to my friend's birthday party yesterday. I barely knew anyone, so it was kinda awkward at first. But a few drinks in, everyone loosened up and we ended up playing games till 2 a.m. Had a really good time—glad I went.\n---\na few drinks in — 喝了几杯之后\nloosened up — 放松下来，变得自在\nended up — 最后，不知不觉就",
+   "B": "Went to my friend's birthday party yesterday. I didn't know a lot of people there, so it was kinda awkward at first. But after a few drinks, everyone warmed up and we played games till 2 a.m. Had a great time—glad I went!\n---\nkinda awkward — 有点不自在，口语说法\neveryone warmed up — 大家逐渐放松、热络起来"
+  }
+ },
+ {
+  "item": "p25/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Yesterday I went to my friend's birthday party. There was a lot of people that I don't know, so I felt a little awkward at the beginning. But after a few drinks everyone become very friendly and we played games until 2am. It was really a fun experience and I'm glad I went.",
+  "candidates": {
+   "A": "I went to a friend’s birthday party yesterday and barely knew anyone, so it took me a bit to find my footing. A few drinks in, though, everyone warmed up and we ended up playing games until two in the morning. I had a blast. Really glad I went.\n---\nfind my footing — 适应环境，找到自在的感觉\nA few drinks in — 喝了几杯之后，很自然的口语说法\nhad a blast — 玩得特别开心",
+   "B": "I went to a friend’s birthday party yesterday and barely knew anyone, so it took me a bit to find my footing. But a few drinks in, everyone warmed up and we ended up playing games until two in the morning. It turned out to be a great night. Glad I went.\n---\nfind my footing — 慢慢适应，找到自在的状态\na few drinks in — 喝了几杯之后\nwarmed up — 变得热络、放得开"
+  }
+ },
+ {
+  "item": "p26/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Long time no see! How are you recently?",
+  "candidates": {
+   "A": "Hey, it's been a while! How've you been?\n---\nit's been a while — 好久不见的自然说法\nHow've you been? — 问对方最近过得怎么样",
+   "B": "Hey, it's been a while! How've you been?\n---\nit's been a while — 好久不见的自然说法\nHow've you been? — 问对方最近过得怎么样"
+  }
+ },
+ {
+  "item": "p26/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Long time no see! How are you recently?",
+  "candidates": {
+   "A": "Hey, it's been ages! How've you been?\n---\nit's been ages — 好久不见，熟人间的自然说法\nHow've you been? — 问对方这段时间过得怎么样",
+   "B": "Hey, it's been ages! How've you been?\n---\nit's been ages — 好久不见，熟人间的自然说法\nHow've you been? — 问对方这段时间过得怎么样"
+  }
+ },
+ {
+  "item": "p27/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I'm going to the supermarket, do you need something?",
+  "candidates": {
+   "A": "Gonna head to the store—want me to grab anything?\n---\nGonna head to — 打算去，口语里很自然\ngrab anything — 顺手买点什么",
+   "B": "Gonna grab some groceries—want me to pick anything up for you?\n---\ngrab some groceries — 去买点日常食品\npick anything up for you — 顺便帮你带点东西"
+  }
+ },
+ {
+  "item": "p27/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I'm going to the supermarket, do you need something?",
+  "candidates": {
+   "A": "I'm making a grocery run. Want me to grab you anything?\n---\nmaking a grocery run — 去趟超市买东西，很日常的说法\ngrab you anything — 顺手帮你带点什么",
+   "B": "I'm making a grocery run. Need me to grab anything?\n---\nmaking a grocery run — 去超市买东西的地道说法\ngrab anything — 顺手带点什么，随意自然"
+  }
+ },
+ {
+  "item": "r01/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "hey are you free this saturday? thinking of doing a hike if the weather holds up",
+  "candidates": {
+   "A": "Yeah, I’m down for a hike! Fingers crossed the weather holds up\n---\nI’m down for — 我愿意，表示有兴趣参加\nFingers crossed — 希望一切顺利\nholds up — 指天气保持良好",
+   "B": "I'm down for a hike! What time were you thinking?\n---\nI'm down for — 我愿意去／我有兴趣\nWhat time were you thinking? — 自然地询问对方打算几点"
+  }
+ },
+ {
+  "item": "r01/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "hey are you free this saturday? thinking of doing a hike if the weather holds up",
+  "candidates": {
+   "A": "I'm up for it, weather permitting. What trail did you have in mind?\n---\nI'm up for it — 我愿意去；我有兴趣\nweather permitting — 天气允许的话\nhave in mind — 心里打算；有何想法",
+   "B": "I'm in! Let’s hope the weather gets the memo.\n---\nI'm in — 我参加；算我一个\ngets the memo — 配合一下，拟人化的俏皮说法"
+  }
+ },
+ {
+  "item": "r02/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Just got the job offer!!! 🎉",
+  "candidates": {
+   "A": "Ahh congrats!! That’s super exciting—so happy for you 🎉\n---\nsuper exciting — 太让人兴奋了\nso happy for you — 真为你感到高兴",
+   "B": "Ahh congrats!! That’s huge—you’ve gotta be so excited 🎉\n---\nThat’s huge — 这可是个大好消息\nyou’ve gotta be — 你肯定特别……"
+  }
+ },
+ {
+  "item": "r02/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Just got the job offer!!! 🎉",
+  "candidates": {
+   "A": "Congrats!! They clearly know a good thing when they see it. 🎉\n---\nknow a good thing when they see it — 识货，有眼光",
+   "B": "Yes!! Congrats! They clearly know a good thing when they see it. 🎉\n---\nknow a good thing when they see it — 识货，有眼光"
+  }
+ },
+ {
+  "item": "r03/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Can you take a look at my PR when you get a chance? No rush.",
+  "candidates": {
+   "A": "Yeah, happy to take a look! I'll let you know if anything stands out\n---\nhappy to take a look — 乐意帮忙看一下\nstands out — 特别显眼、值得注意",
+   "B": "Yeah, happy to take a look! I'll let you know if anything jumps out.\n---\ntake a look — 看一下，帮忙检查\njumps out — 特别显眼，引起注意"
+  }
+ },
+ {
+  "item": "r03/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Can you take a look at my PR when you get a chance? No rush.",
+  "candidates": {
+   "A": "Sure, I’ll take a look. Appreciate the rare, apparently genuine “no rush.”\n---\ntake a look — 看一下、检查一下\nNo rush — 不着急，有空再处理",
+   "B": "Sure, I’ll take a look and flag anything that needs a second pass.\n---\nflag anything — 指出需要注意的问题\na second pass — 再检查或修改一遍"
+  }
+ },
+ {
+  "item": "r04/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "ugh my flight got cancelled and now I'm stuck in Denver for the night",
+  "candidates": {
+   "A": "Ugh, that sucks. Have you been able to find a place to stay, or are you still stuck at the airport?\n---\nthat sucks — 真够糟心的，口语表达同情\nstuck at the airport — 被困在机场，暂时走不了",
+   "B": "Ugh, that sucks. Have they sorted out a hotel for you, or are you still stuck at the airport?\n---\nthat sucks — 真够糟心的，表示同情\nsorted out — 安排好、处理好"
+  }
+ },
+ {
+  "item": "r04/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "ugh my flight got cancelled and now I'm stuck in Denver for the night",
+  "candidates": {
+   "A": "Ugh, what a hassle. Did the airline at least sort out a hotel, or are they leaving you to fend for yourself?\n---\nsort out a hotel — 安排好酒店\nfend for yourself — 自己想办法，无人照应",
+   "B": "Ugh, what a hassle. Have they sorted out a hotel for you, or are they leaving you to figure that out too?\n---\nwhat a hassle — 真够折腾的\nsorted out — 安排好；解决好"
+  }
+ },
+ {
+  "item": "r05/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "So... I accidentally ate your leftovers. Sorry 😅",
+  "candidates": {
+   "A": "Haha no worries, just grab me something next time you get food and we’re even\n---\nno worries — 没事，不用在意\nwe’re even — 咱们就扯平了",
+   "B": "Haha no worries, thanks for letting me know!\n---\nno worries — 没关系，别放在心上\nthanks for letting me know — 谢谢你告诉我"
+  }
+ },
+ {
+  "item": "r05/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "So... I accidentally ate your leftovers. Sorry 😅",
+  "candidates": {
+   "A": "Apology accepted, but I’m going to need reparations in the form of food.\n---\nApology accepted — 接受道歉，略带打趣\nin the form of — 以某种形式",
+   "B": "Apology accepted, but I believe this makes you responsible for my next meal.\n---\nApology accepted — 接受道歉，略带一本正经\nresponsible for — 负责；这里俏皮地要求补一顿饭"
+  }
+ },
+ {
+  "item": "r06/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Are you coming to Jake's thing tonight?\n我想委婉拒绝，今天太累了",
+  "candidates": {
+   "A": "I think I’m gonna sit this one out—I'm pretty wiped today. Have fun though!\n---\nsit this one out — 这次就不参加了\npretty wiped — 挺累的，精疲力尽",
+   "B": "I think I’m gonna sit this one out—I'm pretty wiped today. Hope you guys have fun!\n---\nsit this one out — 这次就不参加了\npretty wiped — 挺累的，精疲力尽\n"
+  }
+ },
+ {
+  "item": "r06/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Are you coming to Jake's thing tonight?\n我想委婉拒绝，今天太累了",
+  "candidates": {
+   "A": "I’m going to sit this one out. I’m running on fumes today, but have fun and say hi to Jake for me!\n---\nsit this one out — 这次就不参加了\nrunning on fumes — 精力耗尽，快撑不住了",
+   "B": "I’m going to sit this one out. I’m wiped today, so I’d be pretty lousy company, but have fun!\n---\nsit this one out — 这次就不参加了\nI’m wiped — 我累瘫了\nlousy company — 累得没法好好陪人聊天"
+  }
+ },
+ {
+  "item": "r07/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Quick heads up: the client moved the deadline up to Thursday.",
+  "candidates": {
+   "A": "Thanks for the heads up! I’ll prioritize this so we can hit the new deadline.\n---\nheads up — 提前提醒\nhit the new deadline — 赶上新的截止日期",
+   "B": "Thanks for the heads up! Anything you want me to prioritize so we’re ready by Thursday?\n---\nheads up — 提前告知、提醒\nprioritize — 优先处理"
+  }
+ },
+ {
+  "item": "r07/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Quick heads up: the client moved the deadline up to Thursday.",
+  "candidates": {
+   "A": "Thanks for the heads-up. Thursday it is, then. What should I prioritize so we’re not trying to squeeze five days into three?\n---\nheads-up — 提前通知，提醒\nThursday it is, then — 那就定周四吧\nsqueeze five days into three — 把五天的工作硬塞进三天",
+   "B": "Thanks for the heads-up. Thursday it is. What should we prioritize so we’re not trying to squeeze everything through the same tiny window?\n---\nheads-up — 提前通知\nThursday it is — 那就定周四了\nprioritize — 确定优先处理的事项"
+  }
+ },
+ {
+  "item": "r08/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "My cat died this morning.",
+  "candidates": {
+   "A": "I'm so sorry. I know how much losing a pet can hurt—I'm here if you wanna talk.\n---\nI'm here if you wanna talk — 想聊聊的话，我随时都在",
+   "B": "I'm so sorry. I'm here if you wanna talk, or if you just need some company.\n---\nI'm here if you wanna talk — 想聊聊的话，我随时都在\nneed some company — 想有人陪着"
+  }
+ },
+ {
+  "item": "r08/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "My cat died this morning.",
+  "candidates": {
+   "A": "I’m so sorry. I’m here if you want to talk about them, or just need some company.\n---\nsome company — 有人陪伴",
+   "B": "I'm so sorry. I know how much your cat meant to you. I'm here if you want to talk.\n---\nmeant to you — 对你而言有多重要"
+  }
+ },
+ {
+  "item": "r09/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "lol did you see the guy who proposed at the Knicks game and got rejected on the jumbotron",
+  "candidates": {
+   "A": "Wait, no, what happened? Getting rejected on the jumbotron sounds brutal 😭\n---\nsounds brutal — 听着就很惨\n",
+   "B": "No, but getting rejected on the jumbotron sounds brutal 😭 You got a link?\n---\nsounds brutal — 听着就很惨\nYou got a link? — 有链接吗？随口的问法"
+  }
+ },
+ {
+  "item": "r09/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "lol did you see the guy who proposed at the Knicks game and got rejected on the jumbotron",
+  "candidates": {
+   "A": "No, but getting rejected in front of an arena and then having to sit through the rest of the game is a brutal doubleheader.\n---\nsit through — 硬着头皮看完或熬完\na brutal doubleheader — 两重打击，借用体育说法",
+   "B": "Wait, no! Getting rejected is bad enough without instant replay.\n---\ninstant replay — 体育转播中的即时回放"
+  }
+ },
+ {
+  "item": "r10/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "How was your weekend?",
+  "candidates": {
+   "A": "Pretty chill, thanks for asking! How was yours?\n---\nPretty chill — 挺放松的，口语化表达",
+   "B": "Thanks for asking! How was yours?\n---\nHow was yours? — 自然地反问对方同样的问题"
+  }
+ },
+ {
+  "item": "r10/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "How was your weekend?",
+  "candidates": {
+   "A": "Over a little too quickly, as usual. How was yours?\n---\nOver a little too quickly — 结束得有点太快了，轻松吐槽",
+   "B": "Pretty good! No complaints worth filing. How was yours?\n---\nNo complaints worth filing — 没啥值得抱怨的，带点幽默"
+  }
+ },
+ {
+  "item": "r11/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Thanks so much for helping me move yesterday, I owe you big time",
+  "candidates": {
+   "A": "No worries, happy to help! Hope you’re settling in nicely\n---\nNo worries — 别客气，不用放在心上\nsettling in — 逐渐适应新住处",
+   "B": "Of course, happy to help! Just grab me a coffee sometime and we’re even\n---\ngrab me a coffee — 给我买杯咖啡，口语表达\nwe’re even — 咱们就两清了"
+  }
+ },
+ {
+  "item": "r11/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Thanks so much for helping me move yesterday, I owe you big time",
+  "candidates": {
+   "A": "Of course! I’ll take you up on that once my arms start working again.\n---\ntake you up on that — 接受你这份好意或提议",
+   "B": "Of course! Though I do think carrying furniture should count as a legally binding favor.\n---\nOf course — 当然；朋友间爽快回应\nlegally binding — 有法律约束力的，夸张打趣"
+  }
+ },
+ {
+  "item": "r12/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Would you be interested in giving a short talk at our team meeting next week?",
+  "candidates": {
+   "A": "Yeah, I’d be happy to! Any particular topic you’d like me to cover?\n---\nI’d be happy to — 很乐意，友好地答应邀请\ncover — 讲解或涉及某个话题",
+   "B": "Yeah, I’d be happy to! What topic did you have in mind, and roughly how long should I plan for?\n---\nI’d be happy to — 很乐意，友好地答应邀请\nWhat topic did you have in mind — 你想让我讲什么主题"
+  }
+ },
+ {
+  "item": "r12/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Would you be interested in giving a short talk at our team meeting next week?",
+  "candidates": {
+   "A": "Absolutely, happy to. What topic did you have in mind, and how short are we talking?\n---\nWhat topic did you have in mind — 你想让我讲什么主题\nhow short are we talking — 具体要多短？口语式确认",
+   "B": "Absolutely, happy to. What topic did you have in mind, and how short are we talking?\n---\nWhat topic did you have in mind — 你原本想让我讲什么主题\nhow short are we talking — 具体是多短，口语式确认"
+  }
+ },
+ {
+  "item": "r13/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Not to be dramatic but this is the worst coffee I've ever had",
+  "candidates": {
+   "A": "Lol how bad are we talking—burnt coffee or straight-up dishwater?\n---\nhow bad are we talking — 到底有多糟？\nstraight-up — 简直就是，完全是",
+   "B": "Lol that bad? You might need a refund and an apology\n---\nthat bad? — 真有那么难喝？自然接话\n"
+  }
+ },
+ {
+  "item": "r13/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Not to be dramatic but this is the worst coffee I've ever had",
+  "candidates": {
+   "A": "That’s not being dramatic. Life’s too short to power through bad coffee.\n---\nLife’s too short to — 人生苦短，没必要做某事\npower through — 硬撑着完成或熬过去",
+   "B": "That’s a pretty competitive category. What’s wrong with it?\n---\na pretty competitive category — 这类竞争激烈，幽默地接话"
+  }
+ },
+ {
+  "item": "r14/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "I'm running like 15 min late, sorry!!",
+  "candidates": {
+   "A": "No worries, thanks for the heads-up! See you in a bit\n---\nNo worries — 没事，不用担心\nthanks for the heads-up — 谢谢你提前告诉我\nin a bit — 一会儿",
+   "B": "No worries, thanks for the heads-up! See you soon\n---\nNo worries — 没事，不用担心\nthanks for the heads-up — 谢谢你提前告诉我"
+  }
+ },
+ {
+  "item": "r14/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "I'm running like 15 min late, sorry!!",
+  "candidates": {
+   "A": "No worries, thanks for the heads-up. Fifteen minutes is still well within the grace period.\n---\nheads-up — 提前告知\nwell within the grace period — 还远没到需要计较的程度",
+   "B": "No worries, thanks for the heads-up. I’ll build in the standard 15-minute grace period.\n---\nheads-up — 提前告知或提醒\ngrace period — 宽限时间"
+  }
+ },
+ {
+  "item": "r15/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Wanna split an uber to the airport tomorrow?",
+  "candidates": {
+   "A": "Yeah, I’m down! What time are you heading out?\n---\nI’m down — 我愿意，表示赞同提议\nheading out — 出发、动身",
+   "B": "Yeah, I'm down! What time are you heading out?\n---\nI'm down — 我愿意；我可以\nheading out — 出发；动身"
+  }
+ },
+ {
+  "item": "r15/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Wanna split an uber to the airport tomorrow?",
+  "candidates": {
+   "A": "Yeah, let’s split it. What time do we need to brave the airport?\n---\nsplit it — 平摊费用\nbrave the airport — 硬着头皮应付机场的折腾",
+   "B": "Definitely. No reason to pay twice for the same traffic. What time are you heading out?\n---\nheading out — 出发；动身"
+  }
+ },
+ {
+  "item": "r16/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Your presentation was great today, the data viz part especially.",
+  "candidates": {
+   "A": "Thanks! Glad the data viz part landed—that means a lot\n---\nlanded — 达到预期效果，让人理解或喜欢\nthat means a lot — 这份肯定对我很重要",
+   "B": "Thanks, that means a lot! Super glad the data viz part landed well.\n---\nthat means a lot — 这份肯定对我很重要\nlanded well — 达到了预期效果，反响不错"
+  }
+ },
+ {
+  "item": "r16/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Your presentation was great today, the data viz part especially.",
+  "candidates": {
+   "A": "Thanks! That’s a high compliment—making data easy on the eyes is half the battle.\n---\neasy on the eyes — 看着舒服、赏心悦目\nhalf the battle — 成功的一半；关键一步",
+   "B": "Thanks! Glad that part landed. Always nice when the charts do some of the talking.\n---\nlanded — 达到预期效果，让人领会\ndo some of the talking — 替自己传达部分信息"
+  }
+ },
+ {
+  "item": "r17/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Do you have any recommendations for good dim sum in the city?",
+  "candidates": {
+   "A": "Happy to help! What part of the city are you looking in?\n---\nHappy to help — 很乐意帮忙，语气自然友好\nWhat part of the city — 问城市里的哪个区域",
+   "B": "Which city? I can help you find a good spot!\n---\na good spot — 一家不错的店"
+  }
+ },
+ {
+  "item": "r17/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Do you have any recommendations for good dim sum in the city?",
+  "candidates": {
+   "A": "Which city? I’d hate to send you on a dumpling pilgrimage in the wrong direction.\n---\na dumpling pilgrimage — 为吃点心专程跑一趟的调侃说法",
+   "B": "Which city? Let’s narrow it down before I send you on a dumpling pilgrimage.\n---\nnarrow it down — 缩小范围\nsend you on a dumpling pilgrimage — 打趣说让你为吃点心跑老远"
+  }
+ },
+ {
+  "item": "r18/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "I've been thinking about quitting my job and traveling for a year. Am I crazy?\n我觉得他应该去",
+  "candidates": {
+   "A": "Not crazy at all—I say go for it! A year of traveling sounds like it could be an amazing experience\n---\ngo for it — 大胆去做吧\nsounds like it could be — 听起来可能会，表达期待但不说死",
+   "B": "Not crazy at all—I think you should go for it! A year of traveling sounds pretty amazing, tbh.\n---\ngo for it — 放手去做，鼓励对方行动\ntbh — 说真的，to be honest 的缩写"
+  }
+ },
+ {
+  "item": "r18/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "I've been thinking about quitting my job and traveling for a year. Am I crazy?\n我觉得他应该去",
+  "candidates": {
+   "A": "I think you should go for it. Taking a year to see the world hardly qualifies as losing your mind.\n---\ngo for it — 放手去做\nhardly qualifies as — 远远算不上",
+   "B": "I think you should go for it. A year off the career treadmill sounds pretty sane to me.\n---\ngo for it — 大胆去做吧\nthe career treadmill — 忙个不停的职场生活"
+  }
+ },
+ {
+  "item": "r19/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Hey all, the shared fridge has been kind of a mess lately. Could everyone label their stuff?",
+  "candidates": {
+   "A": "Yeah, no worries—I'll make sure my stuff’s labeled!\n---\nno worries — 没问题，轻松回应请求\nmake sure — 确保做到某事",
+   "B": "Will do! I'll make sure my stuff's labeled—thanks for the heads-up.\n---\nWill do! — 好的，会照做！\nthanks for the heads-up — 谢谢提醒"
+  }
+ },
+ {
+  "item": "r19/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Hey all, the shared fridge has been kind of a mess lately. Could everyone label their stuff?",
+  "candidates": {
+   "A": "Will do. A little less mystery in the fridge would be good for everyone.\n---\nWill do — 好的，会照做\na little less mystery — 委婉调侃东西来历不明",
+   "B": "Absolutely, I’ll label mine. No need to add detective work to anyone’s lunch break.\n---\nlabel mine — 给我自己的东西贴标签\ndetective work — 查来查去才能搞清楚的事"
+  }
+ },
+ {
+  "item": "r20/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Are we still on for dinner Friday or should we reschedule?",
+  "candidates": {
+   "A": "Still on! What time works for you?\n---\nStill on — 计划照旧，约定仍然有效\nWhat time works for you? — 你什么时间方便？",
+   "B": "Still on for Friday! Looking forward to it\n---\nStill on — 计划照旧，没有取消\nLooking forward to it — 很期待"
+  }
+ },
+ {
+  "item": "r20/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Are we still on for dinner Friday or should we reschedule?",
+  "candidates": {
+   "A": "Friday’s still on! No need to mess with a good plan. What time were you thinking?\n---\nstill on — 计划照旧，没有取消\nmess with a good plan — 折腾本来好好的安排",
+   "B": "Friday still works for me! Let’s not let scheduling become its own side project.\n---\nstill works for me — 对我来说仍然没问题\nits own side project — 另成一项工程，调侃事情变复杂"
+  }
+ }
+]

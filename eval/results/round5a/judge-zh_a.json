@@ -1,0 +1,548 @@
+[
+ {
+  "item": "sc01/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我今天状态不太好，脑子转不动。",
+  "candidates": [
+   {
+    "cid": "d1db730c",
+    "text": "I'm a little off today. My brain just isn't working.\n---\na little off"
+   },
+   {
+    "cid": "c8a05a17",
+    "text": "I'm kinda off my game today. My brain just isn't working.\n---\noff my game\nMy brain just isn't working"
+   },
+   {
+    "cid": "13f99e1c",
+    "text": "I'm feeling off today. My brain just isn't working.\n---\nfeeling off"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sc01/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我今天状态不太好，脑子转不动。",
+  "candidates": [
+   {
+    "cid": "96ec4db2",
+    "text": "I'm not at my best today. My brain just isn't working.\n---\nnot at my best"
+   },
+   {
+    "cid": "4966bbb1",
+    "text": "I'm off my game today. My brain just won't shift into gear.\n---\noff my game\nshift into gear"
+   },
+   {
+    "cid": "e767b56d",
+    "text": "I'm off my game today. My brain just isn't working.\n---\noff my game"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sc02/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "别提了，今天倒霉透了。",
+  "candidates": [
+   {
+    "cid": "4c719071",
+    "text": "Don't even ask. Nothing's gone right today.\n---\nDon't even ask\nNothing's gone right"
+   },
+   {
+    "cid": "43941690",
+    "text": "Don't even ask. Nothing's gone right today.\n---\nDon't even ask\nNothing's gone right"
+   },
+   {
+    "cid": "d42ce91c",
+    "text": "Don't even get me started. Today's been a total disaster.\n---\nDon't even get me started\na total disaster"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sc02/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "别提了，今天倒霉透了。",
+  "candidates": [
+   {
+    "cid": "712b49d6",
+    "text": "Don't even ask. Nothing has gone right today.\n---\nDon't even ask\nNothing has gone right"
+   },
+   {
+    "cid": "c9370c6a",
+    "text": "Don't even get me started. Nothing's gone right today.\n---\nDon't even get me started\nNothing's gone right"
+   },
+   {
+    "cid": "cce5ce9d",
+    "text": "Don't even ask. Nothing's gone right today.\n---\nDon't even ask\nNothing's gone right"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sc03/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我有点纠结，不知道该选哪个。",
+  "candidates": [
+   {
+    "cid": "02164c24",
+    "text": "I'm kinda torn. I don't know which one to pick.\n---\nI'm kinda torn"
+   },
+   {
+    "cid": "b955ef06",
+    "text": "I'm kinda torn. I don't know which one to pick.\n---\nI'm kinda torn"
+   },
+   {
+    "cid": "f3aaee50",
+    "text": "I'm kinda torn. I don't know which one to go with.\n---\nkinda torn\ngo with"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sc03/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我有点纠结，不知道该选哪个。",
+  "candidates": [
+   {
+    "cid": "fd03f6f9",
+    "text": "I'm torn. I don't know which one to choose.\n---\nI'm torn"
+   },
+   {
+    "cid": "657747da",
+    "text": "I'm a little torn. I can't quite settle on one.\n---\na little torn\nsettle on one"
+   },
+   {
+    "cid": "0b4f125b",
+    "text": "I'm torn. I don't know which one to choose.\n---\nI'm torn"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sc04/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这个东西性价比很高，强烈推荐。",
+  "candidates": [
+   {
+    "cid": "7760932f",
+    "text": "It's great value for the money. I'd definitely recommend it.\n---\ngreat value for the money\ndefinitely recommend it"
+   },
+   {
+    "cid": "4f406cb5",
+    "text": "It's great value for the money. I'd definitely recommend it.\n---\ngreat value for the money\ndefinitely recommend it"
+   },
+   {
+    "cid": "b523dbe7",
+    "text": "This is a great deal for what you get. Definitely recommend it.\n---\na great deal\nDefinitely recommend it"
+   }
+  ],
+  "scene": "recommending something to a friend"
+ },
+ {
+  "item": "sc04/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这个东西性价比很高，强烈推荐。",
+  "candidates": [
+   {
+    "cid": "8eca63a1",
+    "text": "This is a lot of bang for your buck. Can't recommend it enough.\n---\nbang for your buck\nCan't recommend it enough"
+   },
+   {
+    "cid": "77210389",
+    "text": "It's great value for money. I highly recommend it.\n---\ngreat value for money\nhighly recommend it"
+   },
+   {
+    "cid": "bd824c17",
+    "text": "This is great value for money. I highly recommend it.\n---\nvalue for money\nhighly recommend it"
+   }
+  ],
+  "scene": "recommending something to a friend"
+ },
+ {
+  "item": "sc05/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "你先忙，我不着急。",
+  "candidates": [
+   {
+    "cid": "bb0b431d",
+    "text": "Take your time. I'm in no rush.\n---\nTake your time\nin no rush"
+   },
+   {
+    "cid": "7b322505",
+    "text": "Go ahead and finish what you're doing. No rush.\n---\nNo rush"
+   },
+   {
+    "cid": "0c70234e",
+    "text": "No rush, do your thing. I'm not in a hurry.\n---\nNo rush\ndo your thing"
+   }
+  ],
+  "scene": "replying to a colleague"
+ },
+ {
+  "item": "sc05/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "你先忙，我不着急。",
+  "candidates": [
+   {
+    "cid": "a70ef226",
+    "text": "Go ahead and do your thing. I'm in no rush.\n---\ndo your thing\nin no rush"
+   },
+   {
+    "cid": "a22d8921",
+    "text": "Take care of what you need to do. I’m in no rush.\n---\nin no rush"
+   },
+   {
+    "cid": "49d64fa5",
+    "text": "Take your time. I'm in no rush.\n---\nTake your time\nin no rush"
+   }
+  ],
+  "scene": "replying to a colleague"
+ },
+ {
+  "item": "sc06/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "随便吧，我都行。",
+  "candidates": [
+   {
+    "cid": "cbe78e7a",
+    "text": "Whatever, I'm good with anything.\n---\nI'm good with anything"
+   },
+   {
+    "cid": "36b7a233",
+    "text": "Whatever works, I'm down for anything.\n---\nI'm down for anything"
+   },
+   {
+    "cid": "f3eae826",
+    "text": "Whatever works. I'm good with anything.\n---\nWhatever works\nI'm good with anything"
+   }
+  ],
+  "scene": "deciding where to eat with friends"
+ },
+ {
+  "item": "sc06/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "随便吧，我都行。",
+  "candidates": [
+   {
+    "cid": "498e8a34",
+    "text": "Whatever works. I’m fine with anything.\n---\nWhatever works\nfine with anything"
+   },
+   {
+    "cid": "79a31082",
+    "text": "Whatever you prefer. I'm fine with anything.\n---\nI'm fine with anything"
+   },
+   {
+    "cid": "f5d0c33a",
+    "text": "Whatever works. I'm not picky.\n---\nWhatever works\nI'm not picky"
+   }
+  ],
+  "scene": "deciding where to eat with friends"
+ },
+ {
+  "item": "sc07/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我跟他不太熟，就见过一两次。",
+  "candidates": [
+   {
+    "cid": "a60ad018",
+    "text": "I don't really know him that well. We've only met once or twice.\n---\nknow him that well\nonce or twice"
+   },
+   {
+    "cid": "009134bf",
+    "text": "I don't really know him that well. We've only met once or twice.\n---\nknow him that well\nonce or twice"
+   },
+   {
+    "cid": "4cc1cc38",
+    "text": "I don't really know him that well. We've only met once or twice.\n---\ndon't really know him that well"
+   }
+  ],
+  "scene": "talking about an acquaintance"
+ },
+ {
+  "item": "sc07/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我跟他不太熟，就见过一两次。",
+  "candidates": [
+   {
+    "cid": "865a02df",
+    "text": "I don’t know him that well. We’ve only met once or twice.\n---\ndon’t know him that well\nonce or twice"
+   },
+   {
+    "cid": "ea9beef5",
+    "text": "I don’t know him that well. We’ve only met once or twice.\n---\ndon’t know him that well\nonce or twice"
+   },
+   {
+    "cid": "0d87b6f5",
+    "text": "I barely know him. We've met once, maybe twice.\n---\nbarely know him"
+   }
+  ],
+  "scene": "talking about an acquaintance"
+ },
+ {
+  "item": "sc08/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "他说话总是拐弯抹角的，听得我很累。",
+  "candidates": [
+   {
+    "cid": "38505ffc",
+    "text": "He always talks in circles, and honestly, it's exhausting to listen to.\n---\ntalks in circles"
+   },
+   {
+    "cid": "9849741d",
+    "text": "He never gets to the point, and it's exhausting listening to him.\n---\ngets to the point"
+   },
+   {
+    "cid": "b548b27f",
+    "text": "He never gets to the point, and it's honestly exhausting to listen to.\n---\ngets to the point\nexhausting to listen to"
+   }
+  ],
+  "scene": "complaining to a friend"
+ },
+ {
+  "item": "sc08/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "他说话总是拐弯抹角的，听得我很累。",
+  "candidates": [
+   {
+    "cid": "81e48e19",
+    "text": "He always beats around the bush, and it's exhausting listening to him.\n---\nbeats around the bush"
+   },
+   {
+    "cid": "ead7d1a7",
+    "text": "He never gets to the point. Just listening to him wears me out.\n---\ngets to the point\nwears me out"
+   },
+   {
+    "cid": "e9c1f6ff",
+    "text": "He never gets to the point, and it's exhausting listening to him.\n---\ngets to the point"
+   }
+  ],
+  "scene": "complaining to a friend"
+ },
+ {
+  "item": "sc09/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我已经开始摆烂了，爱咋咋地。",
+  "candidates": [
+   {
+    "cid": "eb2f206b",
+    "text": "I'm not even trying anymore. Whatever happens, happens.\n---\nnot even trying\nWhatever happens, happens"
+   },
+   {
+    "cid": "532288af",
+    "text": "I've stopped trying at this point. Whatever happens, happens.\n---\nWhatever happens, happens"
+   },
+   {
+    "cid": "c838f80e",
+    "text": "I've stopped trying at this point. Whatever happens, happens.\n---\nstopped trying\nWhatever happens, happens"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sc09/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我已经开始摆烂了，爱咋咋地。",
+  "candidates": [
+   {
+    "cid": "e0ef33e5",
+    "text": "I'm not even trying anymore. Whatever happens, happens.\n---\nWhatever happens, happens"
+   },
+   {
+    "cid": "c0209f48",
+    "text": "I've pretty much stopped trying at this point. Whatever happens, happens.\n---\nWhatever happens, happens"
+   },
+   {
+    "cid": "d7de2c73",
+    "text": "I've stopped trying. Whatever happens, happens.\n---\nWhatever happens, happens"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sc10/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "昨天在全班面前讲错了，当场社死。",
+  "candidates": [
+   {
+    "cid": "df7368de",
+    "text": "I said the wrong thing in front of the whole class yesterday. I wanted to crawl into a hole.\n---\ncrawl into a hole"
+   },
+   {
+    "cid": "8865d9fa",
+    "text": "I said the wrong thing in front of the whole class yesterday. I wanted to crawl into a hole.\n---\ncrawl into a hole"
+   },
+   {
+    "cid": "ebc0cda4",
+    "text": "I said something wrong in front of the whole class yesterday. I wanted to disappear on the spot.\n---\nwanted to disappear\non the spot"
+   }
+  ],
+  "scene": "telling a friend what happened"
+ },
+ {
+  "item": "sc10/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "昨天在全班面前讲错了，当场社死。",
+  "candidates": [
+   {
+    "cid": "2bfebc9c",
+    "text": "I said the wrong thing in front of the whole class yesterday. I wanted the floor to swallow me up.\n---\nthe floor to swallow me up"
+   },
+   {
+    "cid": "7c67ac2e",
+    "text": "I said the wrong thing in front of the whole class yesterday. I wanted the floor to swallow me up.\n---\nwanted the floor to swallow me up"
+   },
+   {
+    "cid": "977beb62",
+    "text": "I said the wrong thing in front of the whole class yesterday. I wanted the floor to swallow me up.\n---\nthe floor to swallow me up"
+   }
+  ],
+  "scene": "telling a friend what happened"
+ },
+ {
+  "item": "sc11/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "最近太卷了，大家都在加班。",
+  "candidates": [
+   {
+    "cid": "4f4e4712",
+    "text": "Everyone's been trying to outdo each other lately, working overtime.\n---\noutdo each other\nworking overtime"
+   },
+   {
+    "cid": "dc179dc3",
+    "text": "The rat race has been pretty intense lately. Everyone's working late.\n---\nThe rat race\nworking late"
+   },
+   {
+    "cid": "a0cc3b50",
+    "text": "Everyone's trying to outdo each other lately, and we're all working overtime.\n---\noutdo each other\nworking overtime"
+   }
+  ],
+  "scene": "chatting about work"
+ },
+ {
+  "item": "sc11/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "最近太卷了，大家都在加班。",
+  "candidates": [
+   {
+    "cid": "b26a11a3",
+    "text": "The rat race has gotten ridiculous lately. Everyone's working overtime.\n---\nThe rat race"
+   },
+   {
+    "cid": "b88d8992",
+    "text": "Everyone’s trying to outdo each other lately. They’re all working overtime.\n---\noutdo each other\nworking overtime"
+   },
+   {
+    "cid": "1ba01448",
+    "text": "Everyone’s trying to outdo each other lately. They’re all working overtime.\n---\noutdo each other\nworking overtime"
+   }
+  ],
+  "scene": "chatting about work"
+ },
+ {
+  "item": "sc12/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我就是来吃瓜的，你们继续。",
+  "candidates": [
+   {
+    "cid": "1b979ef7",
+    "text": "I'm just here for the drama. Keep going.\n---\nhere for the drama"
+   },
+   {
+    "cid": "894e95da",
+    "text": "I'm just here for the drama. Don't mind me—keep going.\n---\nhere for the drama\nDon't mind me"
+   },
+   {
+    "cid": "53980d68",
+    "text": "I'm just here for the drama. Don't mind me, keep going.\n---\nhere for the drama\nDon't mind me"
+   }
+  ],
+  "scene": "joining a gossip thread in a group chat"
+ },
+ {
+  "item": "sc12/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我就是来吃瓜的，你们继续。",
+  "candidates": [
+   {
+    "cid": "7441db6d",
+    "text": "I'm just here for the drama. Don't let me stop you.\n---\nhere for the drama\nDon't let me stop you"
+   },
+   {
+    "cid": "6f3a0e30",
+    "text": "I'm just here for the drama. Carry on.\n---\nhere for the drama\nCarry on"
+   },
+   {
+    "cid": "2b57e9e9",
+    "text": "I'm just here for the drama. Carry on.\n---\nhere for the drama\nCarry on"
+   }
+  ],
+  "scene": "joining a gossip thread in a group chat"
+ },
+ {
+  "item": "sc13/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这首歌太上头了，我循环了一整天。",
+  "candidates": [
+   {
+    "cid": "a8dc2953",
+    "text": "This song's so catchy. I've had it on repeat all day.\n---\nso catchy\non repeat"
+   },
+   {
+    "cid": "74a5a2e1",
+    "text": "This song's so addictive. I've had it on repeat all day.\n---\nso addictive\non repeat"
+   },
+   {
+    "cid": "fdd8036b",
+    "text": "This song's so catchy, I've had it on repeat all day.\n---\nso catchy\non repeat"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sc13/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这首歌太上头了，我循环了一整天。",
+  "candidates": [
+   {
+    "cid": "e02efb90",
+    "text": "This song is so catchy. I've had it on repeat all day.\n---\nso catchy\non repeat"
+   },
+   {
+    "cid": "24c5d9c2",
+    "text": "This song is ridiculously catchy. I've had it on repeat all day.\n---\nridiculously catchy\non repeat"
+   },
+   {
+    "cid": "ed166147",
+    "text": "This song is so catchy. I've had it on repeat all day.\n---\nso catchy\non repeat"
+   }
+  ],
+  "scene": "texting a friend"
+ }
+]

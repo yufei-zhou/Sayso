@@ -1,0 +1,666 @@
+[
+ {
+  "item": "r04/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "ugh my flight got cancelled and now I'm stuck in Denver for the night",
+  "candidates": [
+   {
+    "cid": "16930683",
+    "text": "Ugh, what a hassle. Did the airline at least sort out a hotel for you?\n---\nwhat a hassle\nsort out"
+   },
+   {
+    "cid": "0b5e54fc",
+    "text": "Ugh, what a hassle. Have they at least sorted out a hotel for you?\n---\nwhat a hassle\nsorted out"
+   },
+   {
+    "cid": "23470d94",
+    "text": "Ugh, what a headache. Have they sorted out a hotel for you, at least?\n---\nwhat a headache\nsorted out"
+   }
+  ]
+ },
+ {
+  "item": "r05/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "So... I accidentally ate your leftovers. Sorry 😅",
+  "candidates": [
+   {
+    "cid": "51fa7184",
+    "text": "No worries, it happens! You owe me a meal though 😂\n---\nNo worries\nYou owe me a meal"
+   },
+   {
+    "cid": "b60602a2",
+    "text": "No worries, just get me back with some food next time.\n---\nNo worries\nget me back"
+   },
+   {
+    "cid": "1e9cc6d6",
+    "text": "No worries, just replace them and we’re good lol.\n---\nNo worries\nwe’re good"
+   }
+  ]
+ },
+ {
+  "item": "r05/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "So... I accidentally ate your leftovers. Sorry 😅",
+  "candidates": [
+   {
+    "cid": "ad81c125",
+    "text": "Apology accepted. A replacement meal would really seal the deal.\n---\nApology accepted\nseal the deal"
+   },
+   {
+    "cid": "532367fe",
+    "text": "Apology accepted, but you owe me a replacement meal. Those leftovers had a future.\n---\nApology accepted\nowe me a replacement"
+   },
+   {
+    "cid": "4f751c68",
+    "text": "Apology accepted, but I do take compensation in the form of replacement food.\n---\nApology accepted\nin the form of"
+   }
+  ]
+ },
+ {
+  "item": "r06/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Are you coming to Jake's thing tonight?",
+  "candidates": [
+   {
+    "cid": "0089c05b",
+    "text": "I'm gonna sit this one out—I'm pretty wiped today. Hope you guys have fun!\n---\nsit this one out\npretty wiped"
+   },
+   {
+    "cid": "ada812b7",
+    "text": "I’m gonna sit this one out—I’m pretty wiped today. Hope you guys have fun!\n---\nsit this one out\npretty wiped"
+   },
+   {
+    "cid": "55f76ac7",
+    "text": "I think I’m gonna sit this one out—I'm pretty wiped today. Hope you guys have fun!\n---\nsit this one out\npretty wiped"
+   }
+  ],
+  "note": "我想委婉拒绝，今天太累了"
+ },
+ {
+  "item": "r06/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Are you coming to Jake's thing tonight?",
+  "candidates": [
+   {
+    "cid": "1ff416e9",
+    "text": "I’m going to sit this one out. I’m pretty wiped today, but have a good time!\n---\nsit this one out\npretty wiped"
+   },
+   {
+    "cid": "2e5c867b",
+    "text": "I’m going to sit this one out. I’m pretty wiped today, but have fun!\n---\nsit this one out\npretty wiped"
+   },
+   {
+    "cid": "9f7e5cda",
+    "text": "I’m going to sit this one out. I’m pretty wiped today, and I’d be there in body only.\n---\nsit this one out\nthere in body only"
+   }
+  ],
+  "note": "我想委婉拒绝，今天太累了"
+ },
+ {
+  "item": "r07/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Quick heads up: the client moved the deadline up to Thursday.",
+  "candidates": [
+   {
+    "cid": "3eb09bd8",
+    "text": "Thanks for the heads up! I'll work toward Thursday and flag anything that might hold us up.\n---\nThanks for the heads up\nhold us up"
+   },
+   {
+    "cid": "2770bc29",
+    "text": "Thanks for the heads up! I'll work toward Thursday and flag anything that might hold us up.\n---\nThanks for the heads up\nhold us up"
+   },
+   {
+    "cid": "92c615d5",
+    "text": "Got it, thanks for the heads up. Anything you want me to prioritize so we can hit the new deadline?\n---\nthanks for the heads up\nhit the new deadline"
+   }
+  ]
+ },
+ {
+  "item": "r07/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Quick heads up: the client moved the deadline up to Thursday.",
+  "candidates": [
+   {
+    "cid": "675bbc72",
+    "text": "Thanks for the heads-up. I'll work toward Thursday and flag anything that looks tight.\n---\nwork toward\nflag anything"
+   },
+   {
+    "cid": "145d4305",
+    "text": "Thanks for the heads-up. What’s the priority if we need to trim the scope to make Thursday work?\n---\ntrim the scope\nmake Thursday work"
+   },
+   {
+    "cid": "12edb4e4",
+    "text": "Thanks for the heads-up. That tightens things up—we’ll need to prioritize what absolutely has to be ready by Thursday.\n---\nheads-up\ntightens things up"
+   }
+  ]
+ },
+ {
+  "item": "r08/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "My cat died this morning.",
+  "candidates": [
+   {
+    "cid": "35e9119d",
+    "text": "I'm so sorry. I'm here for you if you want to talk.\n---\nI'm so sorry\nI'm here for you"
+   },
+   {
+    "cid": "7ea2fc6d",
+    "text": "I'm so sorry. I'm here for you if you wanna talk.\n---\nI'm here for you"
+   },
+   {
+    "cid": "cc058f3e",
+    "text": "I'm so sorry. I'm here for you if you wanna talk.\n---\nI'm here for you"
+   }
+  ]
+ },
+ {
+  "item": "r08/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "My cat died this morning.",
+  "candidates": [
+   {
+    "cid": "dee11f5c",
+    "text": "I'm so sorry. If you want to talk about her, I'm here.\n---\nI'm here"
+   },
+   {
+    "cid": "6c856b97",
+    "text": "I'm so sorry. If you want to talk about them, I'm here to listen.\n---\nI'm here to listen"
+   },
+   {
+    "cid": "1b568c4b",
+    "text": "I'm so sorry. I'm here for you if you want to talk.\n---\nI'm here for you"
+   }
+  ]
+ },
+ {
+  "item": "r09/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "lol did you see the guy who proposed at the Knicks game and got rejected on the jumbotron",
+  "candidates": [
+   {
+    "cid": "37260e76",
+    "text": "No, I missed it! Getting rejected on the jumbotron is brutal 😭\n---\nI missed it\nis brutal"
+   },
+   {
+    "cid": "5f041fcd",
+    "text": "Wait, he got rejected on the jumbotron? That's brutal, I feel for him.\n---\nThat's brutal\nI feel for him"
+   },
+   {
+    "cid": "e13a2d7b",
+    "text": "Oh no, on the jumbotron? That's a rough way to get turned down 😭\n---\nget turned down"
+   }
+  ]
+ },
+ {
+  "item": "r09/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "lol did you see the guy who proposed at the Knicks game and got rejected on the jumbotron",
+  "candidates": [
+   {
+    "cid": "7239a84a",
+    "text": "Yeah, brutal. A public proposal is a hell of a way to put someone on the spot.\n---\na hell of a\nput someone on the spot"
+   },
+   {
+    "cid": "a25d5f00",
+    "text": "Oh no, getting rejected is rough enough without instant replay.\n---\nrough enough\ninstant replay"
+   },
+   {
+    "cid": "18d0fbb2",
+    "text": "Oof. Getting rejected is bad enough without the instant replay.\n---\nbad enough without"
+   }
+  ]
+ },
+ {
+  "item": "r10/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "How was your weekend?",
+  "candidates": [
+   {
+    "cid": "6f820d93",
+    "text": "Not bad! How was yours?\n---\nNot bad"
+   },
+   {
+    "cid": "e2a20eaf",
+    "text": "Not bad! How was yours—get up to anything fun?\n---\nNot bad\nget up to anything fun"
+   },
+   {
+    "cid": "c146839a",
+    "text": "Can't complain! How was yours?\n---\nCan't complain"
+   }
+  ]
+ },
+ {
+  "item": "r10/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "How was your weekend?",
+  "candidates": [
+   {
+    "cid": "a024b5e1",
+    "text": "I'm still coming to terms with the fact that it's over. How was yours?\n---\ncoming to terms with"
+   },
+   {
+    "cid": "f53885f3",
+    "text": "Pretty good, no complaints. How was yours?\n---\nno complaints"
+   },
+   {
+    "cid": "d0a17267",
+    "text": "Pretty good! How was yours?\n---"
+   }
+  ]
+ },
+ {
+  "item": "r11/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Thanks so much for helping me move yesterday, I owe you big time",
+  "candidates": [
+   {
+    "cid": "4ba176e2",
+    "text": "No worries, happy to help! You can get me back next time.\n---\nhappy to help\nget me back"
+   },
+   {
+    "cid": "7e40e272",
+    "text": "No worries, happy to help! Don't sweat it.\n---\nhappy to help\nDon't sweat it"
+   },
+   {
+    "cid": "bc4d3efe",
+    "text": "No worries, happy to help! Hope you're settling in.\n---\nNo worries\nsettling in"
+   }
+  ]
+ },
+ {
+  "item": "r11/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Thanks so much for helping me move yesterday, I owe you big time",
+  "candidates": [
+   {
+    "cid": "a4c35b49",
+    "text": "Happy to help. I’ll be collecting that debt in pizza, not another couch.\n---\nHappy to help\ncollecting that debt"
+   },
+   {
+    "cid": "c028bb7f",
+    "text": "Happy to help. I’ll take you up on that favor at some strategically convenient moment.\n---\nHappy to help\ntake you up on that"
+   },
+   {
+    "cid": "b2034bca",
+    "text": "Happy to help. I'll take you up on that next time I move.\n---\nHappy to help\ntake you up on that"
+   }
+  ]
+ },
+ {
+  "item": "r12/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Would you be interested in giving a short talk at our team meeting next week?",
+  "candidates": [
+   {
+    "cid": "e08ba31b",
+    "text": "Yeah, happy to! Let me know what you'd like me to cover.\n---\nhappy to\nLet me know"
+   },
+   {
+    "cid": "491ed5c3",
+    "text": "Yeah, happy to! What topic did you have in mind, and how long should I plan for?\n---\nhappy to\nWhat topic did you have in mind"
+   },
+   {
+    "cid": "a6595500",
+    "text": "Yeah, happy to! Lmk what you'd like me to cover.\n---\nhappy to\nwhat you'd like me to cover"
+   }
+  ]
+ },
+ {
+  "item": "r12/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Would you be interested in giving a short talk at our team meeting next week?",
+  "candidates": [
+   {
+    "cid": "763570ec",
+    "text": "Sure, happy to. What would you like me to cover?\n---\nhappy to\n"
+   },
+   {
+    "cid": "4c0920b1",
+    "text": "Happy to! What topic did you have in mind, and how short is “short”?\n---\nHappy to\ndid you have in mind"
+   },
+   {
+    "cid": "fbfaab81",
+    "text": "Sure, happy to. What topic did you have in mind, and how short are we talking?\n---\nhappy to\nhow short are we talking"
+   }
+  ]
+ },
+ {
+  "item": "r13/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Not to be dramatic but this is the worst coffee I've ever had",
+  "candidates": [
+   {
+    "cid": "b8a73bb8",
+    "text": "Damn, that bad? Might be time to cut your losses lol.\n---\nthat bad\ncut your losses"
+   },
+   {
+    "cid": "aade6cd0",
+    "text": "Damn, that bad? Sounds like you deserve a refund lol.\n---\nthat bad\ndeserve a refund"
+   },
+   {
+    "cid": "5b731064",
+    "text": "Lol, that bad? What's wrong with it?\n---\nthat bad"
+   }
+  ]
+ },
+ {
+  "item": "r13/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Not to be dramatic but this is the worst coffee I've ever had",
+  "candidates": [
+   {
+    "cid": "a18fda9b",
+    "text": "“Not to be dramatic” is doing a lot of work there.\n---\ndoing a lot of work"
+   },
+   {
+    "cid": "365fe92a",
+    "text": "I'll take your word for it. No need for a second opinion on that one.\n---\ntake your word for it\na second opinion"
+   },
+   {
+    "cid": "a60fe228",
+    "text": "That's a strong claim. What are we talking, burnt or actively hostile?\n---\nThat's a strong claim\nWhat are we talking"
+   }
+  ]
+ },
+ {
+  "item": "r14/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "I'm running like 15 min late, sorry!!",
+  "candidates": [
+   {
+    "cid": "c4510ea1",
+    "text": "No worries, thanks for the heads-up! See you in a bit.\n---\nNo worries\nthanks for the heads-up"
+   },
+   {
+    "cid": "b6120ecd",
+    "text": "No worries, take your time! See you in a bit.\n---\nNo worries\nSee you in a bit"
+   },
+   {
+    "cid": "8c72a308",
+    "text": "No worries, thanks for the heads-up! See you in a bit.\n---\nNo worries\nthanks for the heads-up"
+   }
+  ]
+ },
+ {
+  "item": "r14/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "I'm running like 15 min late, sorry!!",
+  "candidates": [
+   {
+    "cid": "f696fa19",
+    "text": "No worries, thanks for the heads-up.\n---\nNo worries\nthanks for the heads-up"
+   },
+   {
+    "cid": "71f55f93",
+    "text": "No worries, thanks for the heads-up. I’ll adjust my definition of “on time” accordingly.\n---\nthanks for the heads-up\nNo worries"
+   },
+   {
+    "cid": "c5ee00fd",
+    "text": "No worries, thanks for the heads-up. No need to turn it into a sprint.\n---\nNo worries\nthanks for the heads-up"
+   }
+  ]
+ },
+ {
+  "item": "r15/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Wanna split an uber to the airport tomorrow?",
+  "candidates": [
+   {
+    "cid": "f463ad07",
+    "text": "Yeah, I'm down! What time do you need to head out?\n---\nI'm down\nhead out"
+   },
+   {
+    "cid": "a2744065",
+    "text": "Yeah, I'm down! What time are you thinking?\n---\nI'm down\nWhat time are you thinking"
+   },
+   {
+    "cid": "3c54a14b",
+    "text": "Yeah, I'm down! What time are you heading out?\n---\nI'm down\nheading out"
+   }
+  ]
+ },
+ {
+  "item": "r15/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Wanna split an uber to the airport tomorrow?",
+  "candidates": [
+   {
+    "cid": "a99ce72b",
+    "text": "I'm in. What time are we heading out?\n---\nI'm in\nheading out"
+   },
+   {
+    "cid": "95012bc7",
+    "text": "Yeah, let's split it. What time are you heading out?\n---\nheading out"
+   },
+   {
+    "cid": "c6bbb8ef",
+    "text": "Absolutely. No sense paying for two rides when one will do.\n---\nNo sense paying for\none will do"
+   }
+  ]
+ },
+ {
+  "item": "r16/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Your presentation was great today, the data viz part especially.",
+  "candidates": [
+   {
+    "cid": "62106b6c",
+    "text": "Thanks, that means a lot! Glad the data viz landed.\n---\nthat means a lot\nGlad the data viz landed"
+   },
+   {
+    "cid": "aa05d50d",
+    "text": "Aw, thanks! Glad that part landed.\n---\nGlad that part landed"
+   },
+   {
+    "cid": "3b5ab1f3",
+    "text": "Aw, thanks! Super glad the data viz part landed.\n---\nglad the data viz part landed"
+   }
+  ]
+ },
+ {
+  "item": "r16/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Your presentation was great today, the data viz part especially.",
+  "candidates": [
+   {
+    "cid": "3e1279c8",
+    "text": "Thanks! Glad that part landed.\n---\nGlad that part landed"
+   },
+   {
+    "cid": "77f916b8",
+    "text": "Thanks! Glad the data viz landed. Always nice when the charts do some of the talking.\n---\nlanded\ndo some of the talking"
+   },
+   {
+    "cid": "4781540c",
+    "text": "Thanks! Glad that part landed. Always nice when the charts do some of the talking.\n---\nGlad that part landed\ndo some of the talking"
+   }
+  ]
+ },
+ {
+  "item": "r17/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Do you have any recommendations for good dim sum in the city?",
+  "candidates": [
+   {
+    "cid": "df22798c",
+    "text": "Nothing off the top of my head, but I can ask around!\n---\noff the top of my head\nask around"
+   },
+   {
+    "cid": "663fdc0a",
+    "text": "Ooh, which city are we talking? Don't wanna send you in the wrong direction.\n---\nwhich city are we talking\nsend you in the wrong direction"
+   },
+   {
+    "cid": "ee2a604a",
+    "text": "Nothing off the top of my head, but I can ask around!\n---\noff the top of my head\nask around"
+   }
+  ]
+ },
+ {
+  "item": "r17/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Do you have any recommendations for good dim sum in the city?",
+  "candidates": [
+   {
+    "cid": "6a16fbf2",
+    "text": "No place I can vouch for, but I can ask around.\n---\nvouch for\nask around"
+   },
+   {
+    "cid": "58e54251",
+    "text": "Which city are we talking about? I’d hate to send you on a dumpling pilgrimage in the wrong direction.\n---\nWhich city are we talking about\nsend you on"
+   },
+   {
+    "cid": "0b27a56e",
+    "text": "Which city? I don't want to steer you wrong.\n---\nsteer you wrong"
+   }
+  ]
+ },
+ {
+  "item": "r18/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "I've been thinking about quitting my job and traveling for a year. Am I crazy?",
+  "candidates": [
+   {
+    "cid": "65572a19",
+    "text": "Not crazy at all—I say go for it! If it's something you really want, it's worth taking the leap.\n---\ngo for it\ntaking the leap"
+   },
+   {
+    "cid": "a78d2036",
+    "text": "Not crazy at all—I think you should go for it! A year of traveling sounds pretty amazing, tbh.\n---\nNot crazy at all\ngo for it"
+   },
+   {
+    "cid": "d0edc310",
+    "text": "Not crazy at all—I think you should go for it! A year of traveling sounds pretty amazing, tbh.\n---\nNot crazy at all\ngo for it"
+   }
+  ],
+  "note": "我觉得他应该去"
+ },
+ {
+  "item": "r18/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "I've been thinking about quitting my job and traveling for a year. Am I crazy?",
+  "candidates": [
+   {
+    "cid": "08ea93f8",
+    "text": "Not crazy. If you’re seriously considering it, I say go for it.\n---\ngo for it"
+   },
+   {
+    "cid": "443dc139",
+    "text": "Not crazy. A year off to see the world sounds like a pretty good use of a year. I say go for it.\n---\nA year off\ngo for it"
+   },
+   {
+    "cid": "4a6fdb56",
+    "text": "Not crazy. A year off to see the world sounds like a pretty good use of a year, if you can swing it. I say go for it.\n---\nif you can swing it\ngo for it"
+   }
+  ],
+  "note": "我觉得他应该去"
+ },
+ {
+  "item": "r19/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Hey all, the shared fridge has been kind of a mess lately. Could everyone label their stuff?",
+  "candidates": [
+   {
+    "cid": "c02ac404",
+    "text": "Yeah, no worries—I’ll make sure my stuff’s labeled.\n---\nno worries"
+   },
+   {
+    "cid": "32931ef6",
+    "text": "Yeah, no worries—I’ll make sure my stuff’s labeled.\n---\nno worries\nI’ll make sure"
+   },
+   {
+    "cid": "a9499a1c",
+    "text": "For sure, I'll make sure my stuff's labeled.\n---\nFor sure\n"
+   }
+  ]
+ },
+ {
+  "item": "r19/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Hey all, the shared fridge has been kind of a mess lately. Could everyone label their stuff?",
+  "candidates": [
+   {
+    "cid": "a6290c9f",
+    "text": "Will do. A little less mystery in the fridge can only help.\n---\nWill do\ncan only help"
+   },
+   {
+    "cid": "b2acdbe9",
+    "text": "Will do. Mystery containers aren't doing anyone any favors.\n---\nWill do\ndoing anyone any favors"
+   },
+   {
+    "cid": "63b59d76",
+    "text": "Will do. I'll make sure my stuff is labeled.\n---\nWill do"
+   }
+  ]
+ },
+ {
+  "item": "r20/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Are we still on for dinner Friday or should we reschedule?",
+  "candidates": [
+   {
+    "cid": "c0fc66fc",
+    "text": "Yep, we're still on! Looking forward to it.\n---\nwe're still on\nLooking forward to it"
+   },
+   {
+    "cid": "2f2020fb",
+    "text": "We're still on! Looking forward to it.\n---\nWe're still on\nLooking forward to it"
+   },
+   {
+    "cid": "9bf7f167",
+    "text": "Still on for Friday! Looking forward to it.\n---\nStill on for\nLooking forward to it"
+   }
+  ]
+ },
+ {
+  "item": "r20/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Are we still on for dinner Friday or should we reschedule?",
+  "candidates": [
+   {
+    "cid": "052f74ed",
+    "text": "Friday’s still on! No need to put dinner through another round of scheduling.\n---\nstill on\nanother round of"
+   },
+   {
+    "cid": "b4865d40",
+    "text": "Friday’s still on. No need to mess with a good plan.\n---\nstill on\nmess with a good plan"
+   },
+   {
+    "cid": "0e5b65e7",
+    "text": "Friday still works for me. Let's keep it on the books.\n---\non the books"
+   }
+  ]
+ }
+]

@@ -1,0 +1,118 @@
+{
+ "polish_sharp": [
+  [
+   "The meeting is too long and nobody know what is the conclusion.",
+   "That meeting went on forever, and somehow nobody walked out knowing what we actually decided.\n---\nwent on forever\nwalked out knowing"
+  ],
+  [
+   "I am not sure if I can come to your party because I have many work.",
+   "I might have to sit this one out. Work has me completely buried right now.\n---\nsit this one out\nhas me completely buried"
+  ],
+  [
+   "My neighbor always park his car in my place, it makes me crazy.",
+   "My neighbor has apparently decided my parking spot is his now, and it's driving me up the wall.\n---\ndriving me up the wall"
+  ],
+  [
+   "Dear Ms. Clark, I want to confirm that I will attend the orientation on Monday. Please tell me if I need to bring any documents.",
+   "Dear Ms. Clark, I'm writing to confirm that I'll be at the orientation on Monday. Please let me know if there's anything I should bring.\n---\nI'm writing to confirm\nlet me know if there's anything"
+  ]
+ ],
+ "polish_chill": [
+  [
+   "The meeting is too long and nobody know what is the conclusion.",
+   "That meeting dragged on forever and no one even knows what we decided lol.\n---\ndragged on forever"
+  ],
+  [
+   "I am not sure if I can come to your party because I have many work.",
+   "Not sure I can make it, I'm kinda swamped with work rn.\n---\nmake it\nswamped with work"
+  ],
+  [
+   "My neighbor always park his car in my place, it makes me crazy.",
+   "My neighbor keeps parking in my spot and it's lowkey driving me nuts.\n---\ndriving me nuts"
+  ],
+  [
+   "Dear Ms. Clark, I want to confirm that I will attend the orientation on Monday. Please tell me if I need to bring any documents.",
+   "Dear Ms. Clark, I just wanted to confirm that I'll be at orientation on Monday. Please let me know if I should bring anything.\n---\njust wanted to confirm\nlet me know if"
+  ]
+ ],
+ "reply_sharp": [
+  [
+   "Message:\nDid you finish the report?",
+   "All done. Let me know if anything looks off.\n---\nlooks off"
+  ],
+  [
+   "Message:\nI got promoted!!",
+   "Congrats, that was long overdue. Drinks are on you.\n---\nlong overdue\nDrinks are on you"
+  ],
+  [
+   "Message:\nCan you cover my shift on Sunday?\n\nMy note: 可以，但想让他欠我一个人情",
+   "Sure, I've got you. Just know I'm keeping a running tab.\n---\nI've got you\nkeeping a running tab"
+  ],
+  [
+   "Message:\nWant to come to my improv show Friday?\n\nMy note: say yes, but warn them I might leave at intermission",
+   "Count me in. Fair warning, though: I may slip out at intermission, so don't take it personally.\n---\nCount me in\nFair warning"
+  ],
+  [
+   "Message:\nDear applicant, we are pleased to invite you to an interview on March 3 at 10:00. Please confirm your attendance.",
+   "Thank you for the invitation. I'm happy to confirm that I'll be there on March 3 at 10:00.\n---\nhappy to confirm\nI'll be there"
+  ]
+ ],
+ "reply_chill": [
+  [
+   "Message:\nDid you finish the report?",
+   "Yep, all done! Lmk if anything looks off.\n---\nLmk if anything looks off"
+  ],
+  [
+   "Message:\nI got promoted!!",
+   "Wait, no way!! Congrats, that's huge 🎉\n---\nthat's huge"
+  ],
+  [
+   "Message:\nCan you cover my shift on Sunday?\n\nMy note: 可以，但想让他欠我一个人情",
+   "Yeah, I got you! You owe me one tho 😏\n---\nI got you\nYou owe me one"
+  ],
+  [
+   "Message:\nWant to come to my improv show Friday?\n\nMy note: say yes, but warn them I might leave at intermission",
+   "I'm down! Heads up, I might have to dip at intermission tho.\n---\nI'm down\nhave to dip"
+  ],
+  [
+   "Message:\nDear applicant, we are pleased to invite you to an interview on March 3 at 10:00. Please confirm your attendance.",
+   "Thank you so much for the invitation! March 3 at 10:00 works for me, and I look forward to it.\n---\nworks for me\nI look forward to it"
+  ]
+ ],
+ "zh_sharp": [
+  [
+   "这个项目我是真的不想再碰了。",
+   "I am so done with this project. I never want to go near it again.\n---\nso done with\ngo near it"
+  ],
+  [
+   "他又在甩锅了。",
+   "And there he goes, passing the buck again.\n---\npassing the buck\nthere he goes"
+  ],
+  [
+   "这顿饭吃得我好撑，感觉要原地升天了。",
+   "I'm so full they might have to roll me out of here.\n---\nroll me out of here"
+  ],
+  [
+   "您好，我想咨询一下，这个课程现在还可以报名吗？",
+   "Hello, I was wondering whether it's still possible to sign up for this course.\n---\nI was wondering whether\nsign up for"
+  ]
+ ],
+ "zh_chill": [
+  [
+   "这个项目我是真的不想再碰了。",
+   "Honestly, I never wanna touch this project again lol.\n---\nnever wanna touch"
+  ],
+  [
+   "他又在甩锅了。",
+   "Ugh, he's throwing someone else under the bus again.\n---\nthrowing someone else under the bus"
+  ],
+  [
+   "这顿饭吃得我好撑，感觉要原地升天了。",
+   "I'm so stuffed rn, I literally can't move.\n---\nso stuffed\nI literally can't move"
+  ],
+  [
+   "您好，我想咨询一下，这个课程现在还可以报名吗？",
+   "Hi! I was wondering if I can still sign up for this course.\n---\nI was wondering if\nsign up for"
+  ]
+ ]
+}

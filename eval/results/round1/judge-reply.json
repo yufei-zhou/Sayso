@@ -1,0 +1,1442 @@
+[
+ {
+  "item": "hr01/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "omg I just spilled coffee all over my laptop",
+  "candidates": [
+   {
+    "cid": "37d91c9d",
+    "text": "Oh nooo, that’s the worst. Is it still working?\n---\nthat’s the worst — 表达对糟糕情况的同情\n"
+   },
+   {
+    "cid": "51647ecb",
+    "text": "Oh no, that sucks! Turn it off and unplug it ASAP. Hope it’s okay!\n---\nthat sucks — 表示同情：这也太倒霉了\nunplug it — 拔掉电源插头"
+   },
+   {
+    "cid": "03378597",
+    "text": "Oh no! Unplug it and turn it off ASAP if you haven't already—fingers crossed it's okay.\n---\nif you haven't already — 提醒对方做某事，兼顾其可能已做\nfingers crossed — 希望有好结果，常用于表达祝愿"
+   },
+   {
+    "cid": "307b9033",
+    "text": "Oh no, that sucks! Unplug it and turn it off ASAP if you haven't already.\n---\nthat sucks — 真倒霉，表示同情\nif you haven't already — 如果你还没这么做的话"
+   }
+  ]
+ },
+ {
+  "item": "hr01/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "omg I just spilled coffee all over my laptop",
+  "candidates": [
+   {
+    "cid": "db775429",
+    "text": "Oh no! Unplug it and turn it off if you haven’t already. Coffee belongs near a laptop, not in it.\n---\nUnplug it — 拔掉电源插头\nif you haven’t already — 如果你还没做的话"
+   },
+   {
+    "cid": "18cddce1",
+    "text": "Oh no, that’s brutal. Unplug it and power it off right away—coffee and laptops are a particularly bad combination.\n---\nthat’s brutal — 这也太惨了\npower it off — 把它关机"
+   },
+   {
+    "cid": "2380d8d5",
+    "text": "Oh no! Turn it off and unplug it right away. Is it still working?\n---\nright away — 立刻，马上"
+   },
+   {
+    "cid": "704c7a46",
+    "text": "Oh no! Unplug it and turn it off right away. Is it still on, or has it already given up?\n---\ngiven up — 这里拟人化指彻底罢工了"
+   }
+  ]
+ },
+ {
+  "item": "hr02/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Hey, would you mind reviewing my cover letter before I send it tonight?",
+  "candidates": [
+   {
+    "cid": "0cf44eff",
+    "text": "Yeah, happy to take a look! Send it over and lmk if there’s anything specific you want feedback on.\n---\ntake a look — 看一下，帮忙过目\nSend it over — 发过来\nlmk — let me know 的缩写"
+   },
+   {
+    "cid": "7f0778cb",
+    "text": "Yeah, no worries! Send it over and I’ll take a look.\n---\nno worries — 答应帮忙时表示没问题\ntake a look — 看一下，此处指帮忙审阅"
+   },
+   {
+    "cid": "a57103cb",
+    "text": "Sure, happy to take a look. Send it over when you’re ready, and I’ll get back to you tonight.\n---\ntake a look — 表示帮忙看一下，常用于请人审阅文件或内容\nSend it over — 让对方把文件发过来，语气随意友好"
+   },
+   {
+    "cid": "e277d406",
+    "text": "Yeah, no problem! Send it over and I’ll take a look.\n---\nSend it over — 让对方把东西发过来\ntake a look — 帮忙看一下、检查一下"
+   }
+  ]
+ },
+ {
+  "item": "hr02/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Hey, would you mind reviewing my cover letter before I send it tonight?",
+  "candidates": [
+   {
+    "cid": "75971990",
+    "text": "Of course—send it over. I’ll give it a careful read before you send it tonight.\n---\nsend it over — 把它发给我，常用于请对方发送文件\ngive it a careful read — 仔细读一遍，表示会认真审阅"
+   },
+   {
+    "cid": "8d551773",
+    "text": "Of course, send it over. I’ll give it a once-over and flag anything that sounds like it was written by a hiring committee.\n---\nsend it over — 发给我吧\ngive it a once-over — 快速检查一遍\nflag anything — 标出需要注意的地方"
+   },
+   {
+    "cid": "2ef85250",
+    "text": "Of course, send it over. A fresh pair of eyes never hurts.\n---\nsend it over — 发过来吧\na fresh pair of eyes — 换个人看，帮忙发现问题"
+   },
+   {
+    "cid": "5365db8c",
+    "text": "Sure, send it over. I’ll give it a once-over and flag anything that sounds like it was written by a committee.\n---\ngive it a once-over — 快速检查一遍\nflag anything — 标出任何需要注意的地方"
+   }
+  ]
+ },
+ {
+  "item": "hr03/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "We're thinking of getting a dog. Thoughts?",
+  "candidates": [
+   {
+    "cid": "5066c88b",
+    "text": "That’d be so fun! Do you have a breed in mind?\n---\nhave a breed in mind — 询问是否已经考虑好狗的品种"
+   },
+   {
+    "cid": "7096bd2b",
+    "text": "Ooh, that’s a big commitment, but could be super fun! What kind of dog are you thinking?\n---\na big commitment — 需要长期投入和承担责任的事\nWhat kind of — 询问对方考虑的是哪种类型"
+   },
+   {
+    "cid": "add2e48a",
+    "text": "Aww, that sounds exciting! Have you thought about what kind of dog you’d want?\n---\nwhat kind of dog — 什么类型的狗，可用于询问品种或特点"
+   },
+   {
+    "cid": "6a819a0f",
+    "text": "That could be super fun! Have you thought about what kind of dog would fit your lifestyle?\n---\nsuper fun — 特别有意思，口语化表达\nfit your lifestyle — 适合你的生活方式"
+   }
+  ]
+ },
+ {
+  "item": "hr03/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "We're thinking of getting a dog. Thoughts?",
+  "candidates": [
+   {
+    "cid": "89b026f3",
+    "text": "I'm all for it, as long as you're both ready for a roommate who doesn't pay rent and needs to be walked. Have you thought about what kind?\n---\nI'm all for it — 我完全赞成，表示支持某个想法\nwhat kind — 哪一种，这里指想养什么类型的狗"
+   },
+   {
+    "cid": "4b4989ba",
+    "text": "I say go for it, as long as you’re ready for the walks, the vet bills, and a new boss who can’t pay rent.\n---\ngo for it — 放手去做，表示支持\nvet bills — 宠物看兽医的费用"
+   },
+   {
+    "cid": "b353cb7a",
+    "text": "I’m pro-dog, but I’d make sure you’re ready for the full-time job: cute face, zero respect for your schedule.\n---\npro-dog — 支持养狗\nthe full-time job — 形容养狗需要持续投入精力"
+   },
+   {
+    "cid": "41f95d14",
+    "text": "I'm all for it, as long as you're both up for the daily walks and the vet bills. The cute part pretty much sells itself.\n---\nI'm all for it — 我完全支持\nup for — 愿意且能应付\nsells itself — 本身就很有吸引力"
+   }
+  ]
+ },
+ {
+  "item": "hr04/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Happy birthday!! Hope you have an amazing day 🎂",
+  "candidates": [
+   {
+    "cid": "01eb11a4",
+    "text": "Aw, thank you!! That's super sweet of you.\n---\nsweet of you — 夸对方贴心，常用于回应祝福或好意"
+   },
+   {
+    "cid": "bc8b2010",
+    "text": "Thanks so much!! That’s so sweet of you 😊\n---\nThat’s so sweet of you — 用来感谢别人贴心的祝福或举动"
+   },
+   {
+    "cid": "95965c73",
+    "text": "Thank you!! That's super sweet of you.\n---\nsuper sweet of you — 你太贴心了"
+   },
+   {
+    "cid": "8b0fcd7a",
+    "text": "Thank you so much!! That’s super sweet of you 😊\n---\nthat's super sweet of you — 感谢对方的贴心举动"
+   }
+  ]
+ },
+ {
+  "item": "hr04/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Happy birthday!! Hope you have an amazing day 🎂",
+  "candidates": [
+   {
+    "cid": "30f65850",
+    "text": "Thank you!! I’m taking this as official permission to eat cake for breakfast.\n---\ntaking this as — 把这当作……，用来引出自己的解读\nofficial permission — 正式许可；这里故作认真地开玩笑"
+   },
+   {
+    "cid": "635309c8",
+    "text": "Thank you!! I’m doing my best to make the day live up to the cake 🎂\n---\nlive up to the cake — 不辜负生日蛋糕的排场"
+   },
+   {
+    "cid": "480d54db",
+    "text": "Thank you!! I’m choosing to believe the cake calories don’t count today 🎂\n---\ndon’t count — 不算数，常用于开玩笑"
+   },
+   {
+    "cid": "8bf2db1d",
+    "text": "Thank you!! Getting older is much easier with this kind of hype 😂\n---\nthis kind of hype — 这种热情捧场和鼓劲"
+   }
+  ]
+ },
+ {
+  "item": "hr05/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Did you end up going to that concert?\n我去了，超好看，但是人太多了",
+  "candidates": [
+   {
+    "cid": "448a611b",
+    "text": "Yeah, I went—it was amazing, but it was way too crowded.\n---\nway too crowded — 人太多了，强调拥挤得受不了"
+   },
+   {
+    "cid": "15ec1343",
+    "text": "Yeah, I went! It was so good, but it was super crowded.\n---\nsuper crowded — 人特别多，十分拥挤"
+   },
+   {
+    "cid": "a4d388e0",
+    "text": "Yeah, I went! It was amazing, but it was super crowded.\n---\nsuper crowded — 人特别多，非常拥挤"
+   },
+   {
+    "cid": "1a19d54b",
+    "text": "Yeah, I went! The show was amazing, but it was super packed.\n---\nsuper packed — 人特别多、非常拥挤\n"
+   }
+  ]
+ },
+ {
+  "item": "hr05/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Did you end up going to that concert?\n我去了，超好看，但是人太多了",
+  "candidates": [
+   {
+    "cid": "d99a2595",
+    "text": "Yeah, it was incredible, but the crowd was a whole other story. Personal space was not on the menu.\n---\na whole other story — 完全是另一回事，常用于引出反差\nnot on the menu — 不在选项中；这里调侃根本不存在"
+   },
+   {
+    "cid": "ca3a5e12",
+    "text": "I did! The show was incredible, but the crowd was a lot.\n---\nthe crowd was a lot — 人太多了，挤得有点受不了"
+   },
+   {
+    "cid": "11f63c38",
+    "text": "Yeah, I went! The show was incredible, but apparently half the city had the same idea.\n---\nhad the same idea — 也想到一块儿去了"
+   },
+   {
+    "cid": "cdd780f4",
+    "text": "Yeah, I went! It was amazing, but the crowd was a whole other story.\n---\na whole other story — 完全是另一回事，常用于引出不同的情况"
+   }
+  ]
+ },
+ {
+  "item": "hr06/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "The 3pm meeting is moved to tomorrow, sorry for the short notice.",
+  "candidates": [
+   {
+    "cid": "c378d052",
+    "text": "No worries, thanks for the heads-up! Is it still at 3 tomorrow?\n---\nNo worries — 没关系，别在意\nthanks for the heads-up — 谢谢提前告知"
+   },
+   {
+    "cid": "f3f8c993",
+    "text": "No worries, thanks for the heads-up. Tomorrow works for me.\n---\nthanks for the heads-up — 感谢对方提前告知消息"
+   },
+   {
+    "cid": "9a80ca4e",
+    "text": "No worries, thanks for the heads-up! Is it still at 3 tomorrow?\n---\nNo worries — 回应道歉，表示没关系\nthanks for the heads-up — 感谢对方提前告知变动或提醒"
+   },
+   {
+    "cid": "310413e1",
+    "text": "No worries, thanks for the heads-up!\n---\nthanks for the heads-up — 感谢对方提前通知"
+   }
+  ]
+ },
+ {
+  "item": "hr06/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "The 3pm meeting is moved to tomorrow, sorry for the short notice.",
+  "candidates": [
+   {
+    "cid": "99f2591b",
+    "text": "No worries, thanks for the heads-up. Still 3 tomorrow, or is that moving too?\n---\nthanks for the heads-up — 谢谢提前告知\n"
+   },
+   {
+    "cid": "59e2a3cc",
+    "text": "No worries, thanks for the heads-up. Tomorrow it is.\n---\nheads-up — 提前通知或提醒\nTomorrow it is — 那就定在明天吧"
+   },
+   {
+    "cid": "8772a995",
+    "text": "No worries, thanks for the heads-up. Tomorrow it is.\n---\nthanks for the heads-up — 谢谢提前告知\nTomorrow it is — 那就改到明天了"
+   },
+   {
+    "cid": "527ffa24",
+    "text": "No worries, thanks for the heads-up. One less meeting today is hardly bad news.\n---\nthanks for the heads-up — 谢谢提前告知，常用于临时变动\nhardly bad news — 算不上坏消息，带轻松调侃语气"
+   }
+  ]
+ },
+ {
+  "item": "hr07/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "I failed my driving test again 😩",
+  "candidates": [
+   {
+    "cid": "f92fea6e",
+    "text": "Ugh, that sucks. Wanna talk about what happened?\n---\nthat sucks — 表达同情：这也太糟心了\nWanna talk about — 温和询问对方是否想聊聊"
+   },
+   {
+    "cid": "3c32c241",
+    "text": "Aw, that sucks. I’m sorry—it’s so frustrating when you’ve gotta go through it again.\n---\nthat sucks — 表示同情：那真让人难受\ngo through it again — 再经历一遍不愉快的事"
+   },
+   {
+    "cid": "a422f69e",
+    "text": "Ah, I’m sorry—that really sucks. You’ll get it next time.\n---\nthat really sucks — 表达对别人遭遇不顺的同情\nYou’ll get it next time — 鼓励别人下次会成功"
+   },
+   {
+    "cid": "0be5021b",
+    "text": "Ugh, I’m sorry—that’s so frustrating. Wanna talk about what happened?\n---\nWanna talk — 想聊聊吗，口语化的关心\n"
+   }
+  ]
+ },
+ {
+  "item": "hr07/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "I failed my driving test again 😩",
+  "candidates": [
+   {
+    "cid": "5945efbd",
+    "text": "Ugh, I’m sorry. That’s so frustrating, especially after putting yourself through the whole thing again.\n---\nputting yourself through — 经历一件辛苦或令人不快的事"
+   },
+   {
+    "cid": "4a5644a3",
+    "text": "Oh no, I’m sorry. That’s so frustrating, especially when you’ve already been through it once. You’ll get there.\n---\nbeen through it — 经历过这种事\nyou’ll get there — 你最终会做到的"
+   },
+   {
+    "cid": "da320086",
+    "text": "Ugh, I’m sorry. That’s so frustrating, especially after going through it all again. Want to vent?\n---\ngoing through it all — 经历这一整套过程\nWant to vent — 想吐槽一下吗"
+   },
+   {
+    "cid": "5d5abb9d",
+    "text": "Ugh, I’m sorry. Don’t beat yourself up over it. What tripped you up this time?\n---\nbeat yourself up — 因失误而过度自责\ntripped you up — 让你出错或栽跟头"
+   }
+  ]
+ },
+ {
+  "item": "hr08/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Can I borrow your car this weekend?\n不想借，委婉一点",
+  "candidates": [
+   {
+    "cid": "80ab61a1",
+    "text": "Sorry, I’m not super comfortable lending out my car. Hope you understand.\n---\nnot super comfortable — 委婉表达不太愿意做某事\nlending out my car — 把自己的车借给别人"
+   },
+   {
+    "cid": "3b7b5488",
+    "text": "Sorry, I’m not really comfortable lending out my car. Hope you understand.\n---\nnot really comfortable — 委婉表达不太愿意\nlending out — 借出给别人"
+   },
+   {
+    "cid": "9228bd75",
+    "text": "I’m sorry, but I can’t lend it out this weekend. Hope you understand!\n---\nlend it out — 把东西借给别人使用\nHope you understand — 委婉表达拒绝后，希望对方理解"
+   },
+   {
+    "cid": "f0c88afb",
+    "text": "Sorry, I’m not really comfortable lending out my car. Hope you understand!\n---\nnot really comfortable — 委婉表达自己不太愿意做某事\nlending out my car — 把车借给别人使用"
+   }
+  ]
+ },
+ {
+  "item": "hr08/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Can I borrow your car this weekend?\n不想借，委婉一点",
+  "candidates": [
+   {
+    "cid": "0e3c0161",
+    "text": "Sorry, I’m not comfortable lending out my car. Hope you can find another way to get around!\n---\nnot comfortable lending out — 不太愿意借出，委婉表达拒绝\nget around — 出行、到处走动"
+   },
+   {
+    "cid": "d1925087",
+    "text": "Sorry, I’m a little precious about lending out my car, so I’ll have to pass. Hope you can find another option!\n---\na little precious about — 对某事有点过分在意，委婉自嘲\nhave to pass — 得婉拒，这次就算了"
+   },
+   {
+    "cid": "aec0b7ac",
+    "text": "Sorry, I’m a little protective of my car, so I don’t lend it out. Hope you can find another option!\n---\na little protective of — 有点宝贝，委婉表达不愿出借\nlend it out — 把它借给别人"
+   },
+   {
+    "cid": "1a18b082",
+    "text": "I’m afraid I can’t lend it out this weekend, but I hope you can find another option.\n---\nlend it out — 把东西借给别人用\nfind another option — 找其他办法或选择"
+   }
+  ]
+ },
+ {
+  "item": "hr09/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "dude you have to try this new taco place, it's insane",
+  "candidates": [
+   {
+    "cid": "e3db210f",
+    "text": "Oh, I’m so down! What’s it called?\n---\nI’m so down — 很愿意尝试或参加"
+   },
+   {
+    "cid": "ff2ff7bc",
+    "text": "I'm down! Where's it at?\n---\nI'm down — 我愿意，表示很有兴趣\nWhere's it at — 在哪儿？很口语的问法"
+   },
+   {
+    "cid": "f76fb50a",
+    "text": "I'm down! What's the place called?\n---\nI'm down — 表示愿意尝试或参加：我愿意"
+   },
+   {
+    "cid": "d3d96c05",
+    "text": "Oh, I’m down! What’s it called? Sounds legit.\n---\nI’m down — 表示很乐意去或参与某件事\nSounds legit — 表示听起来很不错、很靠谱"
+   }
+  ]
+ },
+ {
+  "item": "hr09/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "dude you have to try this new taco place, it's insane",
+  "candidates": [
+   {
+    "cid": "537eb472",
+    "text": "All right, I'm sold. What's the place called?\n---\nI'm sold — 我被说服了；表示愿意尝试"
+   },
+   {
+    "cid": "a9da03e6",
+    "text": "That’s a strong endorsement. I’m in—what’s the place called?\n---\na strong endorsement — 高度推荐，用于回应别人的赞赏\nI’m in — 我加入，表示愿意参加或尝试"
+   },
+   {
+    "cid": "3c7044e0",
+    "text": "All right, with that kind of endorsement, I’m in. Where is it?\n---\nwith that kind of endorsement — 既然你都这么力荐了\nI’m in — 算我一个；我愿意参加"
+   },
+   {
+    "cid": "b10b1ba3",
+    "text": "You’re making a pretty strong case. What’s the place called?\n---\nmaking a strong case — 说得很有说服力\npretty — 用来缓和语气，表示“挺、相当”"
+   }
+  ]
+ },
+ {
+  "item": "hr10/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "My mom's in the hospital, I might be offline for a few days.",
+  "candidates": [
+   {
+    "cid": "4bd9fdea",
+    "text": "I'm so sorry to hear that. Don't worry about replying—take all the time you need, and I hope your mom gets better soon.\n---\ntake all the time you need — 不用着急，按你需要的时间来"
+   },
+   {
+    "cid": "4047061e",
+    "text": "I'm so sorry to hear that. Take all the time you need, and don't worry about replying.\n---\nTake all the time — 表示不用着急，可以慢慢来\ndon't worry about replying — 告诉对方不必有回复消息的压力"
+   },
+   {
+    "cid": "6330eaa9",
+    "text": "I’m so sorry to hear that. Don’t worry about being offline—just take care of yourself and your mom. I’m here if you need anything.\n---\nI’m here if you need anything — 表达愿意在对方有需要时提供支持"
+   },
+   {
+    "cid": "7863ffbb",
+    "text": "I'm so sorry to hear that. Take all the time you need, and I hope your mom gets better soon.\n---\nTake all the time you need — 告诉对方不必着急，安心处理事情"
+   }
+  ]
+ },
+ {
+  "item": "hr10/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "My mom's in the hospital, I might be offline for a few days.",
+  "candidates": [
+   {
+    "cid": "f61cabba",
+    "text": "I'm so sorry to hear that. Take all the time you need, and don't worry about getting back to me.\n---\nTake all the time you need — 不用着急，安心处理眼前的事\ngetting back to me — 回复我"
+   },
+   {
+    "cid": "592c51fd",
+    "text": "I'm so sorry. Take all the time you need, and don't worry about replying. I'm here if you need anything.\n---\nTake all the time you need — 安心处理，不用着急\ndon't worry about replying — 不用惦记着回复"
+   },
+   {
+    "cid": "7b4baf51",
+    "text": "I’m so sorry. Don’t worry about being offline—just focus on your mom, and I’m here if you need anything.\n---\nDon’t worry about — 不用担心；常用于安慰对方不用顾虑某件事\nI’m here if you need anything — 需要帮忙时我都在"
+   },
+   {
+    "cid": "5a3e9653",
+    "text": "I’m so sorry to hear that. Take all the time you need, and I hope your mom gets better soon.\n---\nTake all the time you need — 安心处理，不必着急回来"
+   }
+  ]
+ },
+ {
+  "item": "r01/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "hey are you free this saturday? thinking of doing a hike if the weather holds up",
+  "candidates": [
+   {
+    "cid": "c56dafe7",
+    "text": "Yeah, I’m free! I’d be down for a hike if the weather holds up. What trail are you thinking?\n---\nI’d be down for — 表示愿意参加某个活动\nif the weather holds up — 指天气允许、情况顺利的话"
+   },
+   {
+    "cid": "7cb44018",
+    "text": "I'm down for a hike! What time were you thinking?\n---\ndown for a hike — 愿意去徒步，随意地表示接受邀请\nWhat time were you thinking — 询问对方原本打算约几点"
+   },
+   {
+    "cid": "94595b1f",
+    "text": "I'm down for a hike! What time were you thinking?\n---\ndown for — 愿意参加，很乐意\nWhat time were you thinking — 你打算几点？"
+   },
+   {
+    "cid": "ef13bb3a",
+    "text": "I might be! A hike sounds fun. What time are you thinking?\n---\nWhat time are you thinking — 询问对方打算定在几点"
+   }
+  ]
+ },
+ {
+  "item": "r01/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "hey are you free this saturday? thinking of doing a hike if the weather holds up",
+  "candidates": [
+   {
+    "cid": "8edc5be3",
+    "text": "Yeah, I’m free! I’m in for a hike if the weather cooperates—nothing like letting the forecast make the plans for us.\n---\nI’m in for — 我愿意参加；用于爽快接受邀请\nif the weather cooperates — 如果天气允许；常用于天气影响计划时"
+   },
+   {
+    "cid": "74d2a730",
+    "text": "I'm in, weather permitting. What trail are you thinking?\n---\nI'm in — 算我一个，表示愿意参加\nweather permitting — 天气允许的话"
+   },
+   {
+    "cid": "3890e3bf",
+    "text": "A hike sounds great, weather permitting! What time are you thinking?\n---\nweather permitting — 如果天气允许，用于计划户外活动"
+   },
+   {
+    "cid": "ffcabad8",
+    "text": "I'm in if the weather cooperates. What trail are you thinking?\n---\nI'm in — 算我一个，我参加\nif the weather cooperates — 如果天气作美\n"
+   }
+  ]
+ },
+ {
+  "item": "r02/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Just got the job offer!!! 🎉",
+  "candidates": [
+   {
+    "cid": "b8630663",
+    "text": "Ahh congrats!! That’s huge—you’ve gotta be so excited!\n---\nThat’s huge — 回应重大好消息：这可是件大喜事\nyou’ve gotta be — 表示强烈推测：你肯定很……"
+   },
+   {
+    "cid": "1d681ae4",
+    "text": "That’s awesome—congrats!! You must be so excited!\n---\nThat’s awesome — 用来热情回应好消息\nYou must be so excited — 表达替对方开心、猜测对方心情"
+   },
+   {
+    "cid": "6864efdb",
+    "text": "Congrats!! That's huge! I'm so happy for you 🎉\n---\nThat's huge — 表示这消息很重要或很了不起"
+   },
+   {
+    "cid": "c9182771",
+    "text": "Congrats!! That’s huge—so happy for you! 🎉\n---\nThat’s huge — 这可是个大好消息\nso happy for you — 真替你高兴"
+   }
+  ]
+ },
+ {
+  "item": "r02/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Just got the job offer!!! 🎉",
+  "candidates": [
+   {
+    "cid": "57c852df",
+    "text": "Congrats!! 🎉 They clearly know a good thing when they see it. When do you start?\n---\nknow a good thing — 识货，有眼光\n"
+   },
+   {
+    "cid": "8626ea64",
+    "text": "That’s amazing!! Congrats, you got the offer! 🎉 They clearly know talent when they see it.\n---\ngot the offer — 收到了录用通知\nknow talent when they see it — 懂得识才、有眼光"
+   },
+   {
+    "cid": "a4c784af",
+    "text": "That’s huge—congratulations! All that hard work finally paid off.\n---\npaid off — 付出有了回报"
+   },
+   {
+    "cid": "0fe61274",
+    "text": "Congrats!! Now that’s a notification worth getting. 🎉\n---\nworth getting — 值得收到的；这里调侃通知通常没用"
+   }
+  ]
+ },
+ {
+  "item": "r03/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Can you take a look at my PR when you get a chance? No rush.",
+  "candidates": [
+   {
+    "cid": "82c11c92",
+    "text": "Sure, I’ll take a look when I get a chance.\n---\ntake a look — 看一看；常用于请人帮忙检查或审阅."
+   },
+   {
+    "cid": "78ac1fbb",
+    "text": "Yeah, no worries! I’ll take a look when I get a chance.\n---\nno worries — 没问题，轻松答应请求\ntake a look — 看一下，检查一下\nwhen I get a chance — 等我有空的时候"
+   },
+   {
+    "cid": "1cc136f9",
+    "text": "Sure, happy to take a look! I'll let you know if anything jumps out.\n---\ntake a look — 看一下；常用于答应检查或审阅\njumps out — 显得突出或引人注意，常指明显的问题"
+   },
+   {
+    "cid": "83d988b5",
+    "text": "Sure, I’ll take a look when I get a chance!\n---\ntake a look — 看一下，常用于答应检查或审阅"
+   }
+  ]
+ },
+ {
+  "item": "r03/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Can you take a look at my PR when you get a chance? No rush.",
+  "candidates": [
+   {
+    "cid": "bb381074",
+    "text": "Sure, I’ll take a look when I get a chance. “No rush” is a nice change of pace from the PRs that arrive wearing a tiny emergency siren.\n---\ntake a look — 看一看、审阅一下\na nice change of pace — 让人耳目一新 / 难得的轻松一下"
+   },
+   {
+    "cid": "06d9bd79",
+    "text": "Sure, I’ll take a look. Appreciate the “no rush” clause.\n---\ntake a look — 看一下，此处指审查代码\nno rush — 不着急，表示不用马上处理"
+   },
+   {
+    "cid": "59dcb414",
+    "text": "Sure, I’ll take a look. Thanks for the breathing room.\n---\ntake a look — 看一下，常用于答应帮忙查看\nbreathing room — 留出的宽裕时间或空间"
+   },
+   {
+    "cid": "5f908d34",
+    "text": "Sure, I’ll take a look and flag anything that needs a second set of eyes.\n---\ntake a look — 看一下、检查一下\nflag anything — 标出需要注意的地方\na second set of eyes — 另一个人帮忙检查"
+   }
+  ]
+ },
+ {
+  "item": "r04/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "ugh my flight got cancelled and now I'm stuck in Denver for the night",
+  "candidates": [
+   {
+    "cid": "2f833d70",
+    "text": "Ugh, that sucks. Hope they can get you rebooked soon.\n---\nget you rebooked — 帮你改签到新的航班\n"
+   },
+   {
+    "cid": "db7a2b41",
+    "text": "Ugh, that sucks. Have you got a place to crash tonight?\n---\nthat sucks — 太糟心了，表达同情\na place to crash — 临时过夜的地方"
+   },
+   {
+    "cid": "6c7347a2",
+    "text": "Ugh, that sucks. Have you been able to find a place to crash for the night?\n---\nthat sucks — 表示同情：这也太糟了\na place to crash — 临时过夜的地方，口语用法"
+   },
+   {
+    "cid": "b6d693fb",
+    "text": "Ugh, that sucks. Hope you can find somewhere to stay and get on another flight soon.\n---\nsomewhere to stay — 可以过夜的地方\nget on another flight — 搭乘另一班航班"
+   }
+  ]
+ },
+ {
+  "item": "r04/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "ugh my flight got cancelled and now I'm stuck in Denver for the night",
+  "candidates": [
+   {
+    "cid": "d5f4f34e",
+    "text": "Ugh, that’s such a pain. Hope you can get rebooked soon and find somewhere decent to crash tonight.\n---\na pain — 麻烦事；令人头疼的事\nget rebooked — 重新订到航班"
+   },
+   {
+    "cid": "3a435b98",
+    "text": "Ugh, what a hassle. Did they at least sort out a hotel for you, or are you stuck playing travel agent too?\n---\nwhat a hassle — 真够折腾的，用来回应麻烦事\nsort out a hotel — 安排好酒店"
+   },
+   {
+    "cid": "fd28db19",
+    "text": "Ugh, what a headache. Did the airline at least sort out a hotel, or are they leaving you to figure that out too?\n---\nwhat a headache — 真够让人头疼的\nsort out a hotel — 安排好酒店\nleaving you to figure that out — 丢给你自己想办法"
+   },
+   {
+    "cid": "94084f83",
+    "text": "Ugh, that’s the worst. I hope the airline at least sorts out a hotel for you. Have they rebooked you yet?\n---\nsorts out a hotel — 安排好酒店\nrebooked you — 给你重新订了航班"
+   }
+  ]
+ },
+ {
+  "item": "r05/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "So... I accidentally ate your leftovers. Sorry 😅",
+  "candidates": [
+   {
+    "cid": "c2e58ed0",
+    "text": "Haha, no worries. Thanks for letting me know!\n---\nno worries — 没关系，别放在心上\nletting me know — 告诉我一声"
+   },
+   {
+    "cid": "2742f36f",
+    "text": "Haha, no worries! Just give me a heads-up next time 😅\n---\ngive me a heads-up — 提前跟我说一声"
+   },
+   {
+    "cid": "0db5e0f3",
+    "text": "No worries, it happens! Just leave me some next time 😅\n---\nNo worries — 用来表示“没关系”，回应道歉\nleave me some next time — 开玩笑地提醒对方下次留一些"
+   },
+   {
+    "cid": "01ca839b",
+    "text": "No worries, it happens! Just give me a heads-up next time.\n---\nNo worries — 回应道歉时表示没关系\ngive me a heads-up — 提前跟我说一声"
+   }
+  ]
+ },
+ {
+  "item": "r05/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "So... I accidentally ate your leftovers. Sorry 😅",
+  "candidates": [
+   {
+    "cid": "69bd4bb9",
+    "text": "Well, the leftovers have left us. I appreciate the confession—just replace them when you get a chance.\n---\nthe leftovers have left us — 用重复词制造轻松的玩笑感\nreplace them when you get a chance — 有空时补上，语气不强硬"
+   },
+   {
+    "cid": "6766a7ea",
+    "text": "I’ll let it slide this time, but my leftovers and I are keeping an eye on you 😄\n---\nlet it slide — 不追究，放过某人这次\nkeeping an eye on you — 盯着你，留意你的举动"
+   },
+   {
+    "cid": "754a2b7a",
+    "text": "Apology accepted. I’ll also accept replacement food.\n---\nApology accepted — 接受道歉，略带一本正经的幽默\nI’ll also accept — 我也接受，用来顺势提出补偿"
+   },
+   {
+    "cid": "e25a0134",
+    "text": "Apology accepted, but I do take reimbursement in the form of food.\n---\nApology accepted — 接受道歉，略带调侃\nin the form of — 以某种形式"
+   }
+  ]
+ },
+ {
+  "item": "r06/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Are you coming to Jake's thing tonight?\n我想委婉拒绝，今天太累了",
+  "candidates": [
+   {
+    "cid": "075e6a0a",
+    "text": "I’m gonna sit this one out—I’m pretty wiped today. Hope you guys have fun!\n---\nsit this one out — 委婉表示这次不参加\npretty wiped — 挺累的，感觉精力耗尽"
+   },
+   {
+    "cid": "c17a6d47",
+    "text": "I think I’m gonna sit this one out—I'm pretty wiped today. Hope you guys have fun!\n---\nsit this one out — 这次就不参加了\npretty wiped — 累得够呛"
+   },
+   {
+    "cid": "0ecc15dc",
+    "text": "I’m gonna sit this one out tonight—I’m kinda wiped. Hope you guys have fun!\n---\nsit this one out — 委婉表示这次不参加\nI’m kinda wiped — 表示自己很累、没什么精力"
+   },
+   {
+    "cid": "12247551",
+    "text": "I’m gonna sit this one out, I’m pretty wiped today. Hope you guys have fun!\n---\nsit this one out — 这次不参加，用于委婉拒绝\npretty wiped — 挺累的，形容精疲力尽"
+   }
+  ]
+ },
+ {
+  "item": "r06/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Are you coming to Jake's thing tonight?\n我想委婉拒绝，今天太累了",
+  "candidates": [
+   {
+    "cid": "e5f208ad",
+    "text": "I’m going to sit this one out tonight—I’m completely wiped. Hope you all have a good time.\n---\nsit this one out — 这次不参加\ncompletely wiped — 累得精疲力尽"
+   },
+   {
+    "cid": "98c3b742",
+    "text": "I’m going to sit this one out. I’m running on empty today, but I hope you all have a great time!\n---\nsit this one out — 这次不参加，常用于婉拒\nrunning on empty — 精疲力尽，没什么精力了"
+   },
+   {
+    "cid": "5b720f8f",
+    "text": "I'm going to sit this one out. I'm wiped today, and I’d be pretty lousy company.\n---\nsit this one out — 这次就不参加了\nI'm wiped — 我累瘫了\nlousy company — 没精力陪聊，怕扫大家的兴"
+   },
+   {
+    "cid": "9aa03b1b",
+    "text": "I’m going to sit this one out. I’m wiped today, so I’d be pretty useless company.\n---\nsit this one out — 这次不参加，委婉拒绝邀约\npretty useless company — 没什么精力陪人聊天，自嘲说法"
+   }
+  ]
+ },
+ {
+  "item": "r07/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Quick heads up: the client moved the deadline up to Thursday.",
+  "candidates": [
+   {
+    "cid": "b13759b9",
+    "text": "Thanks for the heads up! What's the priority so we can figure out what’s doable by Thursday?\n---\nheads up — 提前通知，让对方有时间准备\nwhat’s doable — 在现有时间或条件下能完成的事"
+   },
+   {
+    "cid": "53d1d918",
+    "text": "Oof, thanks for the heads-up. I’ll adjust and get it done by Thursday.\n---\nthanks for the heads-up — 感谢对方提前告知时的说法\nget it done by Thursday — 表示会在周四前完成某事"
+   },
+   {
+    "cid": "eb48a063",
+    "text": "Thanks for the heads-up! I’ll prioritize this—do we know if there’s any flexibility on scope?\n---\nheads-up — 提前提醒或通知\nflexibility on scope — 工作范围是否有调整余地"
+   },
+   {
+    "cid": "4091a554",
+    "text": "Thanks for the heads up! I’ll make sure we’re ready for Thursday.\n---\nheads up — 提前告知，提醒注意\nmake sure — 确保某事做到或发生"
+   }
+  ]
+ },
+ {
+  "item": "r07/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Quick heads up: the client moved the deadline up to Thursday.",
+  "candidates": [
+   {
+    "cid": "d2447f33",
+    "text": "Thanks for the heads-up. What’s the priority if we need to trim the scope to make Thursday?\n---\ntrim the scope — 缩减工作范围，常用于项目取舍\nmake Thursday — 赶上周四这个截止时间"
+   },
+   {
+    "cid": "f9ccecbb",
+    "text": "Got it. Thursday it is—nothing like a deadline getting a head start.\n---\ndeadline getting a head start — 截止日期提前了；用拟人的说法表达无奈"
+   },
+   {
+    "cid": "fbd81a28",
+    "text": "Thanks for the heads-up. Thursday it is — I’ll adjust the plan.\n---\nheads-up — 提前告知或提醒\nThursday it is — 那就定在周四吧"
+   },
+   {
+    "cid": "bd8008f3",
+    "text": "Thanks for the heads-up. What’s the priority if we need to trim the wish list to make Thursday?\n---\nheads-up — 提前提醒\ntrim the wish list — 精简想做的内容\nmake Thursday — 赶上周四的截止时间"
+   }
+  ]
+ },
+ {
+  "item": "r08/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "My cat died this morning.",
+  "candidates": [
+   {
+    "cid": "6e58ddf9",
+    "text": "I'm so sorry. That's heartbreaking. I'm here if you want to talk. \n---\nI'm here if you want to talk — 表示愿意陪对方聊聊、倾听"
+   },
+   {
+    "cid": "53239dd9",
+    "text": "I'm so sorry. I'm here for you if you wanna talk.\n---\nI'm here for you — 表达支持：需要倾诉或陪伴时我都在"
+   },
+   {
+    "cid": "b0a315c8",
+    "text": "Oh no, I’m so sorry. I know how much they can mean to you—if you wanna talk, I’m here.\n---\nI’m so sorry — 听到坏消息时表达真诚的慰问\nif you wanna talk — 告诉对方愿意倾听，给予支持"
+   },
+   {
+    "cid": "9e074bbb",
+    "text": "I'm so sorry. I'm here if you wanna talk about it.\n---\nI'm here if you wanna — 表示愿意随时倾听和支持"
+   }
+  ]
+ },
+ {
+  "item": "r08/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "My cat died this morning.",
+  "candidates": [
+   {
+    "cid": "5c9185ec",
+    "text": "I'm so sorry. If you want to talk about your cat, I'm here.\n---\nI'm here — 我在，随时愿意倾听"
+   },
+   {
+    "cid": "32bd65a9",
+    "text": "I’m so sorry. Losing a pet is heartbreaking. I’m here if you want to talk.\n---\nI’m here if you want to talk — 表示愿意倾听和陪伴"
+   },
+   {
+    "cid": "4875a096",
+    "text": "I'm so sorry. I know how much your cat meant to you. If you want to talk, I'm here.\n---\nI'm here — 我愿意陪着你、听你说"
+   },
+   {
+    "cid": "907386dd",
+    "text": "I’m so sorry. Losing a pet is heartbreaking, and I’m here if you want to talk or just sit with it for a while.\n---\nsit with it — 陪伴并接纳悲伤的情绪"
+   }
+  ]
+ },
+ {
+  "item": "r09/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "lol did you see the guy who proposed at the Knicks game and got rejected on the jumbotron",
+  "candidates": [
+   {
+    "cid": "bce438e8",
+    "text": "Oh no, in front of the whole arena? That's brutal—I feel for him.\n---\nThat's brutal — 表示某事太惨了，替对方难受\nI feel for him — 表示同情他、能体会他的难受"
+   },
+   {
+    "cid": "16eaf967",
+    "text": "Oof, getting rejected on the jumbotron is brutal. Did the crowd see the whole thing?\n---\nthe whole thing — 整个过程；这里指求婚到被拒绝\n---"
+   },
+   {
+    "cid": "e02cdb33",
+    "text": "Wait, no, what happened? Getting rejected on the jumbotron sounds brutal.\n---\nsounds brutal — 听起来太惨了"
+   },
+   {
+    "cid": "19132d75",
+    "text": "Yeah, I saw that—so awkward, I felt bad for him 😬\n---\nfelt bad for him — 表示替某人感到难受或同情"
+   }
+  ]
+ },
+ {
+  "item": "r09/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "lol did you see the guy who proposed at the Knicks game and got rejected on the jumbotron",
+  "candidates": [
+   {
+    "cid": "d4b6146d",
+    "text": "Yeah, that was brutal. Nothing says “private moment” like a 20-foot screen and 20,000 witnesses.\n---\nnothing says…like… — ……最能说明不过了\n20,000 witnesses — 两万名围观者"
+   },
+   {
+    "cid": "689f9354",
+    "text": "Oh no, getting rejected is bad enough without the jumbotron making it a group experience.\n---\nbad enough without — 本来就够糟了，更别提\na group experience — 大家一起经历的事，此处指公开出丑"
+   },
+   {
+    "cid": "8b5e70b2",
+    "text": "No, but getting rejected is bad enough without instant replay. What did he do after?\n---\nbad enough without — 本来就够惨了，更别提\ninstant replay — 即时回放\n"
+   },
+   {
+    "cid": "7c6f34ce",
+    "text": "No, but getting rejected is rough enough without instant replay.\n---\nrough enough — 已经够难受了\ninstant replay — 即时回放，常用于体育转播"
+   }
+  ]
+ },
+ {
+  "item": "r10/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "How was your weekend?",
+  "candidates": [
+   {
+    "cid": "19a20677",
+    "text": "Thanks for asking! How was yours?\n---\nHow was yours — 反问对方同样的问题"
+   },
+   {
+    "cid": "bdf4be8b",
+    "text": "It was good, thanks! How about yours?\n---\nHow about yours — 反问对方同一个问题"
+   },
+   {
+    "cid": "7bf56d0b",
+    "text": "It was pretty chill, thanks! How was yours?\n---\npretty chill — 形容周末轻松、没做什么特别的事"
+   },
+   {
+    "cid": "b7c4bd86",
+    "text": "Hey, thanks for asking! How was yours?\n---\nHow was yours — 反问对方同样的问题，避免重复主题"
+   }
+  ]
+ },
+ {
+  "item": "r10/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "How was your weekend?",
+  "candidates": [
+   {
+    "cid": "b638dd96",
+    "text": "No complaints, which is about as much as you can ask of a weekend. How was yours?\n---\nNo complaints — 挺好的，没什么可抱怨的\nas much as you can ask — 能期待的也就这么多了"
+   },
+   {
+    "cid": "cc639921",
+    "text": "Do you want the highlights or the director’s cut? How was yours?\n---\nthe highlights — 最精彩或最重要的部分\nthe director’s cut — 借“导演剪辑版”打趣指详细版"
+   },
+   {
+    "cid": "4be2a82b",
+    "text": "Pretty good, thanks for asking. Nothing wildly eventful, which is honestly the weekend doing its job.\n---\ndoing its job — 达到它该有的效果"
+   },
+   {
+    "cid": "c05b0e8c",
+    "text": "Pretty good, thanks! How about yours? Anything worth reporting?\n---\nworth reporting — 值得一提，有什么新鲜事"
+   }
+  ]
+ },
+ {
+  "item": "r11/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Thanks so much for helping me move yesterday, I owe you big time",
+  "candidates": [
+   {
+    "cid": "7e1b868a",
+    "text": "Anytime! You don’t owe me a thing—it was no big deal.\n---\nAnytime — 用来回应感谢，表示“随时都愿意帮忙”\nNo big deal — 表示某事没什么大不了，不用放在心上"
+   },
+   {
+    "cid": "937053b1",
+    "text": "No worries, happy to help! Hope you're settling in.\n---\nNo worries — 回应感谢时表示不用客气\nsettling in — 搬到新地方后逐渐安顿、适应"
+   },
+   {
+    "cid": "eec2eda6",
+    "text": "No worries, happy to help! Hope you’re settling in.\n---\nNo worries — 不客气，别放在心上\nsettling in — 逐渐适应新住处或环境"
+   },
+   {
+    "cid": "84d95ed0",
+    "text": "No worries, happy to help! Glad I could make it a little easier.\n---\nhappy to help — 回应感谢时说“很乐意帮忙”\nmake it a little easier — 让事情稍微轻松一点"
+   }
+  ]
+ },
+ {
+  "item": "r11/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Thanks so much for helping me move yesterday, I owe you big time",
+  "candidates": [
+   {
+    "cid": "ea69373f",
+    "text": "Of course! I’ll keep that “I owe you” on file for a rainy day.\n---\non file — 存档留着，以备后用\nfor a rainy day — 留待将来需要时用"
+   },
+   {
+    "cid": "831c16ef",
+    "text": "Happy to help! I’ll take repayment in pizza, a currency I trust.\n---\nHappy to help — 乐意帮忙，回应感谢时用\nI’ll take repayment in — 用玩笑口吻指定对方如何还人情"
+   },
+   {
+    "cid": "11bd5ac6",
+    "text": "Of course! I’ll let you know when it’s time to cash in that favor.\n---\ncash in that favor — 让对方兑现欠下的人情"
+   },
+   {
+    "cid": "386be38e",
+    "text": "Anytime. I’ve added it to the ledger, so I’m sure I’ll find a suitably inconvenient moment to cash in.\n---\nadded it to the ledger — 记到人情账上\ncash in — 讨回人情、兑现欠下的人情"
+   }
+  ]
+ },
+ {
+  "item": "r12/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Would you be interested in giving a short talk at our team meeting next week?",
+  "candidates": [
+   {
+    "cid": "8c66cec5",
+    "text": "Yeah, I’d be happy to! What would you like me to talk about?\n---\nI’d be happy to — 愉快接受邀请时的表达"
+   },
+   {
+    "cid": "9dd58089",
+    "text": "Yeah, I'd be happy to! What topic did you have in mind, and how long should I plan for?\n---\nI'd be happy to — 很乐意，友好地答应邀请\nhave in mind — 心里想的是；有什么打算\nplan for — 按某个时长或情况做准备"
+   },
+   {
+    "cid": "056201b9",
+    "text": "Yeah, I'd be happy to! What topic did you have in mind, and how long should I plan for?\n---\nI'd be happy to — 欣然答应邀请或请求\nhave in mind — 心里有某个想法或打算"
+   },
+   {
+    "cid": "e8196e04",
+    "text": "Yeah, I'd be happy to! What topic did you have in mind?\n---\nhave in mind — 心里想的是，常用于询问对方的想法"
+   }
+  ]
+ },
+ {
+  "item": "r12/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Would you be interested in giving a short talk at our team meeting next week?",
+  "candidates": [
+   {
+    "cid": "22b94520",
+    "text": "Sure, I’d be happy to! What topic did you have in mind, and how short are we talking?\n---\nhave in mind — 心里想的是\nhow short are we talking — 具体要多短"
+   },
+   {
+    "cid": "12408f94",
+    "text": "Sure, I’d be happy to. Just tell me how much time I have before I turn a short talk into a full production.\n---\nI’d be happy to — 乐意接受邀请时使用\nturn a short talk into a full production — 把简短发言搞成大阵仗"
+   },
+   {
+    "cid": "feed72a6",
+    "text": "Sure, happy to! What topic did you have in mind, and how short are we talking?\n---\nWhat topic did you have in mind — 你原本想安排什么主题？\nhow short are we talking — 具体要多短？随口确认时长"
+   },
+   {
+    "cid": "0e5a113b",
+    "text": "Sure, happy to! What topic did you have in mind, and how short are we talking?\n---\nhappy to — 很乐意，口语中自然应允\nhave in mind — 心里有怎样的想法或打算\nhow short are we talking — 具体要多短？轻松问清要求"
+   }
+  ]
+ },
+ {
+  "item": "r13/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Not to be dramatic but this is the worst coffee I've ever had",
+  "candidates": [
+   {
+    "cid": "c88180ce",
+    "text": "Lol, that bad? Sounds like you deserve a refund.\n---\nthat bad — 有那么糟吗？用于回应对方的吐槽\ndeserve a refund — 差到该退款，常用于吐槽消费体验"
+   },
+   {
+    "cid": "be079797",
+    "text": "Damn, that bad? What’s wrong with it?\n---\nthat bad — 有那么糟吗；追问对方的评价"
+   },
+   {
+    "cid": "df68c825",
+    "text": "Lol, that bad? Might be time to ask for a refund.\n---\nthat bad — 有那么难喝吗，回应对方的吐槽\nask for a refund — 要求退款"
+   },
+   {
+    "cid": "fbe376ce",
+    "text": "Oof, that bad? What’s wrong with it?\n---\nthat bad? — 表示惊讶并追问具体情况"
+   }
+  ]
+ },
+ {
+  "item": "r13/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Not to be dramatic but this is the worst coffee I've ever had",
+  "candidates": [
+   {
+    "cid": "ed3508bb",
+    "text": "That bad? What did they do to it?\n---\nWhat did they do to it? — 反问出了什么问题，带调侃语气"
+   },
+   {
+    "cid": "9ee7b2ac",
+    "text": "You’re not being dramatic. This coffee tastes like it was brewed as a punishment.\n---\nbeing dramatic — 小题大做、反应过度\nbrewed as a punishment — 像是为了惩罚人而冲出来的；夸张吐槽难喝的东西"
+   },
+   {
+    "cid": "a93a05cd",
+    "text": "That’s a pretty competitive category. What’s wrong with it?\n---\na pretty competitive category — 调侃：这方面竞争可激烈了"
+   },
+   {
+    "cid": "3d4fe356",
+    "text": "That’s a pretty competitive category. What’s wrong with it?\n---\na pretty competitive category — 调侃同类差劲事物不少\n"
+   }
+  ]
+ },
+ {
+  "item": "r14/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "I'm running like 15 min late, sorry!!",
+  "candidates": [
+   {
+    "cid": "28dc75a4",
+    "text": "No worries, thanks for the heads-up! See you soon.\n---\nNo worries — 没关系，别担心\nthanks for the heads-up — 谢谢提前告诉我"
+   },
+   {
+    "cid": "0607113f",
+    "text": "No worries, thanks for letting me know!\n---\nNo worries — 没关系，用来回应道歉\nthanks for letting me know — 谢谢你提前告诉我"
+   },
+   {
+    "cid": "13e96dd4",
+    "text": "No worries, thanks for letting me know!\n---\nNo worries — 回应道歉时表示没关系\nthanks for letting me know — 感谢对方及时告知情况"
+   },
+   {
+    "cid": "99e223c8",
+    "text": "No worries, thanks for the heads-up! See you soon.\n---\nthanks for the heads-up — 感谢对方提前告知时使用"
+   }
+  ]
+ },
+ {
+  "item": "r14/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "I'm running like 15 min late, sorry!!",
+  "candidates": [
+   {
+    "cid": "724db179",
+    "text": "No worries! See you in 15, give or take.\n---\ngive or take — 左右，表示时间不必精确"
+   },
+   {
+    "cid": "4190ac68",
+    "text": "No worries, thanks for the heads-up. I’ll try not to become one with the waiting room furniture.\n---\nthanks for the heads-up — 谢谢你提前告知\nbecome one with — 和……融为一体；这里幽默地表示等太久了"
+   },
+   {
+    "cid": "0fd08d56",
+    "text": "No worries, thanks for the heads-up. Fifteen minutes I can work with.\n---\nthanks for the heads-up — 谢谢提前告知，回应对方的提醒\nI can work with — 这我能接受或应付，表示可以配合"
+   },
+   {
+    "cid": "f5edbaa5",
+    "text": "No worries, thanks for the heads-up! I'll factor in the bonus 15 minutes.\n---\nheads-up — 提前告知\nfactor in — 把……考虑进去"
+   }
+  ]
+ },
+ {
+  "item": "r15/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Wanna split an uber to the airport tomorrow?",
+  "candidates": [
+   {
+    "cid": "ae0b3f08",
+    "text": "Yeah, I’m down! What time are you thinking?\n---\nI’m down — 表示愿意参与或接受提议\nWhat time are you thinking — 询问对方打算几点出发"
+   },
+   {
+    "cid": "722d7104",
+    "text": "Yeah, I'm down! What time are you heading out?\n---\nI'm down — 我愿意；我可以\nheading out — 出发；动身"
+   },
+   {
+    "cid": "cb81daff",
+    "text": "Yeah, I’m down! What time are you heading out?\n---\nI’m down — 表示乐意一起做某事\nWhat time are you heading out? — 询问对方准备何时出发"
+   },
+   {
+    "cid": "b7f9517e",
+    "text": "Yeah, I'm down! What time are you heading out?\n---\nI'm down — 表示愿意参加或接受提议\nheading out — 出发、动身，常用于询问行程"
+   }
+  ]
+ },
+ {
+  "item": "r15/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Wanna split an uber to the airport tomorrow?",
+  "candidates": [
+   {
+    "cid": "a9e2f7fb",
+    "text": "Yeah, let's split it. What time are we heading out?\n---\nsplit it — 分摊费用\nheading out — 出发；动身"
+   },
+   {
+    "cid": "99194214",
+    "text": "Yeah, I’m in. Splitting the ride is much better than splitting the fare with a stranger who thinks small talk is mandatory.\n---\nI’m in — 我参加／我愿意\nsmall talk is mandatory — 闲聊是必修课"
+   },
+   {
+    "cid": "4985dae6",
+    "text": "Yeah, let’s split one. What time are you thinking? Airport timing is a delicate science.\n---\nsplit one — 合乘一辆并分摊费用\na delicate science — 需要仔细拿捏的事"
+   },
+   {
+    "cid": "250feefb",
+    "text": "Yeah, let’s split it. What time are you heading out?\n---\nsplit it — 平摊费用\nheading out — 出发；动身"
+   }
+  ]
+ },
+ {
+  "item": "r16/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Your presentation was great today, the data viz part especially.",
+  "candidates": [
+   {
+    "cid": "02daae8b",
+    "text": "Thanks, I really appreciate it! Glad the data viz part landed.\n---\nI really appreciate it — 真心感谢对方的夸奖\nthe data viz part landed — 数据可视化部分取得了预期效果"
+   },
+   {
+    "cid": "9d694193",
+    "text": "Thanks, that means a lot! Glad the data viz part stood out.\n---\nthat means a lot — 回应认可时表示：这对我很有意义\nstood out — 格外突出、给人留下印象"
+   },
+   {
+    "cid": "0a0467a6",
+    "text": "Thanks, that means a lot! I’m glad the data viz stood out.\n---\nmeans a lot — 表示这句夸奖对自己很重要\nstood out — 表示某个部分特别突出、令人印象深刻"
+   },
+   {
+    "cid": "24850406",
+    "text": "Thanks, that means a lot! Super glad the data viz part landed.\n---\nthat means a lot — 这对我来说是很大的肯定\nlanded — 成功传达并获得认可"
+   }
+  ]
+ },
+ {
+  "item": "r16/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Your presentation was great today, the data viz part especially.",
+  "candidates": [
+   {
+    "cid": "c0826005",
+    "text": "Thanks! That’s exactly the part you want doing the heavy lifting, so I’m glad it landed.\n---\ndoing the heavy lifting — 承担主要作用\nglad it landed — 很高兴达到了预期效果"
+   },
+   {
+    "cid": "1bae9929",
+    "text": "Thanks! Glad the data viz landed. I was hoping the charts would do some of the talking for me.\n---\nlanded — 被理解或受到好评\ndo some of the talking — 替人传达一部分信息"
+   },
+   {
+    "cid": "34da6fc5",
+    "text": "Thanks! Always nice when the charts clarify things instead of just decorating the slides.\n---\nclarify things — 把事情解释清楚\ndecorating the slides — 给幻灯片充门面，略带调侃"
+   },
+   {
+    "cid": "c2ae25a2",
+    "text": "Thanks! I’m glad the visuals landed—there’s nothing like a chart that makes the numbers do their own talking.\n---\nthe visuals landed — 视觉呈现很成功\ndo their own talking — 不用多解释就能说明问题"
+   }
+  ]
+ },
+ {
+  "item": "r17/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Do you have any recommendations for good dim sum in the city?",
+  "candidates": [
+   {
+    "cid": "ecf278da",
+    "text": "I'm not sure off the top of my head, but I can help you look! What part of the city are you thinking?\n---\noff the top of my head — 不查资料、凭印象马上想到\nWhat part of the city — 询问对方想在哪个城区找"
+   },
+   {
+    "cid": "b1e2cbe0",
+    "text": "I’m not sure about the best spots, but what part of the city are you looking in?\n---\nwhat part of the city — 询问对方想找哪个区域时使用"
+   },
+   {
+    "cid": "71e26e1d",
+    "text": "What city are you in? I can help you find a good spot!\n---\na good spot — 指值得去的好地方，常用于餐厅等场所"
+   },
+   {
+    "cid": "2741e1ef",
+    "text": "Which city? Happy to help you find a good spot!\n---\na good spot — 一家不错的店或地方"
+   }
+  ]
+ },
+ {
+  "item": "r17/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Do you have any recommendations for good dim sum in the city?",
+  "candidates": [
+   {
+    "cid": "69016981",
+    "text": "What part of the city are you in? Dim sum is worth crossing town for, but not worth turning lunch into a transit project.\n---\ncrossing town — 横穿城市\na transit project — 一场交通规划工程，调侃路程太折腾"
+   },
+   {
+    "cid": "ec6bae2c",
+    "text": "Which city are we talking about? I need to narrow it down before I start sending you on a dumpling pilgrimage.\n---\nnarrow it down — 缩小范围，筛选选项\nsending you on — 让你踏上某段行程"
+   },
+   {
+    "cid": "e23cdef0",
+    "text": "Which city? Dim sum is too important for me to send you on a wild-goose chase.\n---\na wild-goose chase — 白跑一趟；徒劳的寻找"
+   },
+   {
+    "cid": "a9c9ebcc",
+    "text": "Happy to help you track down a good spot. Which city are we talking about?\n---\ntrack down — 设法找到，常用于寻找某物或某人\nwhich city are we talking about — 具体说的是哪个城市？"
+   }
+  ]
+ },
+ {
+  "item": "r18/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "I've been thinking about quitting my job and traveling for a year. Am I crazy?\n我觉得他应该去",
+  "candidates": [
+   {
+    "cid": "48c36df4",
+    "text": "Not crazy at all—I say go for it! A year of traveling sounds pretty incredible, tbh.\n---\ngo for it — 大胆去做吧\ntbh — 说实话，语气随意"
+   },
+   {
+    "cid": "db31a959",
+    "text": "Not crazy at all! I think you should go for it. That sounds like an amazing adventure.\n---\ngo for it — 鼓励别人放手去做"
+   },
+   {
+    "cid": "03a16347",
+    "text": "You’re not crazy at all—if you’ve been thinking about it for a while, it could be an amazing experience. You should go for it!\n---\ngo for it — 鼓励别人大胆去做某事"
+   },
+   {
+    "cid": "ca60b3e5",
+    "text": "Not crazy at all—I think you should go for it! A year of traveling sounds pretty amazing, tbh.\n---\ngo for it — 鼓励对方大胆去做\nNot crazy at all — 回应对方的顾虑：一点也不疯狂"
+   }
+  ]
+ },
+ {
+  "item": "r18/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "I've been thinking about quitting my job and traveling for a year. Am I crazy?\n我觉得他应该去",
+  "candidates": [
+   {
+    "cid": "36ed7784",
+    "text": "I think you should go for it. A year off the career treadmill sounds pretty sane to me.\n---\ngo for it — 放手去做\nthe career treadmill — 忙个不停的职场跑步机"
+   },
+   {
+    "cid": "c54c8430",
+    "text": "I think you should go for it. Taking a year to see the world sounds like a pretty good use of a year, frankly.\n---\ngo for it — 放手去做，用来鼓励对方\na pretty good use of — 很值得用来做某事，表达肯定"
+   },
+   {
+    "cid": "5d888886",
+    "text": "Not crazy. If the job can wait and the money works, I think you should go. A year is a pretty good window to find out what you want, and work will still be there afterward.\n---\nthe money works — 经济上可行\na pretty good window — 一个挺合适的时间段"
+   },
+   {
+    "cid": "fcdfe868",
+    "text": "Not crazy at all. I think you should go for it — a year of travel sounds like the kind of thing you’d regret not doing.\n---\ngo for it — 放手去做，常用于鼓励别人\nregret not doing — 后悔没有做某事"
+   }
+  ]
+ },
+ {
+  "item": "r19/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Hey all, the shared fridge has been kind of a mess lately. Could everyone label their stuff?",
+  "candidates": [
+   {
+    "cid": "13dfc68c",
+    "text": "Yep, no worries—I’ll make sure my stuff’s labeled.\n---\nno worries — 没问题，轻松答应对方\nmake sure — 确保做到某事"
+   },
+   {
+    "cid": "250e765c",
+    "text": "For sure, I’ll make sure my stuff’s labeled. Thanks for the heads-up!\n---\nFor sure — 爽快答应：没问题\nThanks for the heads-up — 感谢对方提醒或提前告知"
+   },
+   {
+    "cid": "bc59d5bd",
+    "text": "Yep, no problem! I’ll label my stuff.\n---\nno problem — 轻松答应请求：没问题"
+   },
+   {
+    "cid": "ac074400",
+    "text": "Yeah, totally—I'll make sure to label my stuff from now on.\n---\nmake sure to — 用于承诺会确保做到某事"
+   }
+  ]
+ },
+ {
+  "item": "r19/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Hey all, the shared fridge has been kind of a mess lately. Could everyone label their stuff?",
+  "candidates": [
+   {
+    "cid": "31c3b93f",
+    "text": "Absolutely. A label is a lot less awkward than playing fridge detective.\n---\nfridge detective — 在冰箱里当侦探，指翻找辨认食物\na lot less awkward — 没那么尴尬"
+   },
+   {
+    "cid": "0bc846d6",
+    "text": "Will do. A name and a date should take some of the mystery out of there.\n---\nWill do — 好的，会照做\ntake some of the mystery out — 减少些让人摸不着头脑的情况"
+   },
+   {
+    "cid": "a476e948",
+    "text": "Will do. Anything that cuts down on the fridge detective work.\n---\nWill do — 好的，答应照做时用\ncuts down on — 减少某事的数量或程度"
+   },
+   {
+    "cid": "1173c179",
+    "text": "Will do. A label seems like a small price to pay for fridge peace.\n---\nWill do — 好的，我会照办\na small price to pay — 值得付出的一点小代价"
+   }
+  ]
+ },
+ {
+  "item": "r20/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Are we still on for dinner Friday or should we reschedule?",
+  "candidates": [
+   {
+    "cid": "9c536bfa",
+    "text": "We're still on! I'm down for Friday.\n---\nWe're still on — 确认之前的约定仍然有效\ndown for — 表示愿意参加或接受某个安排"
+   },
+   {
+    "cid": "088a23e8",
+    "text": "Friday works for me! Still on.\n---\nStill on — 确认原定计划不变"
+   },
+   {
+    "cid": "1ed183d9",
+    "text": "Friday still works! Looking forward to it.\n---\nstill works — 仍然可以，时间安排没变\nLooking forward to it — 很期待，聊天中常省略主语"
+   },
+   {
+    "cid": "ea6b9fad",
+    "text": "Yep, we’re still on for Friday! Looking forward to it.\n---\nwe’re still on — 确认原定安排仍然照常进行"
+   }
+  ]
+ },
+ {
+  "item": "r20/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Are we still on for dinner Friday or should we reschedule?",
+  "candidates": [
+   {
+    "cid": "b971866d",
+    "text": "Friday works for me. Let’s keep it on the calendar.\n---\nworks for me — 表示时间或安排合适\nkeep it on the calendar — 按原计划进行，不取消"
+   },
+   {
+    "cid": "6e892c35",
+    "text": "Friday’s still on! No need to send dinner back to the scheduling committee.\n---\nstill on — 仍按原计划进行\n"
+   },
+   {
+    "cid": "703ebd7b",
+    "text": "Friday still works! Let’s not let dinner turn into a scheduling project.\n---\nFriday still works — 周五仍然可以，用来确认安排\na scheduling project — 调侃约饭变成了复杂的排期工作"
+   },
+   {
+    "cid": "af75be6a",
+    "text": "Yeah, Friday still works for me. No need to make the calendar do gymnastics.\n---\nworks for me — 我这边没问题\ndo gymnastics — 绕来绕去地变动，带点幽默感"
+   }
+  ]
+ }
+]

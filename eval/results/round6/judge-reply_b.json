@@ -1,0 +1,656 @@
+[
+ {
+  "item": "sr06/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Can you give me a rough estimate of when the migration will be done?",
+  "candidates": [
+   {
+    "cid": "4390454c",
+    "text": "My best estimate is another two weeks, but that's tentative since we haven't started testing yet.\n---\nMy best estimate\nthat's tentative"
+   },
+   {
+    "cid": "48cda5e3",
+    "text": "My best estimate is another two weeks, but that’s tentative since we haven’t started testing yet.\n---\nMy best estimate\nthat’s tentative"
+   }
+  ],
+  "note": "大概还要两周，但不太确定，因为测试还没开始",
+  "scene": "work chat from your manager"
+ },
+ {
+  "item": "sr07/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Hi Yufei, thanks for your application. Are you available for a 30-minute call next week to discuss the role?",
+  "candidates": [
+   {
+    "cid": "789e8031",
+    "text": "Thanks for reaching out! I’m available Wednesday or Thursday afternoon next week for a 30-minute call to discuss the role.\n---\nThanks for reaching out"
+   },
+   {
+    "cid": "c427f1da",
+    "text": "Thanks for reaching out! I’m available Wednesday or Thursday afternoon next week for a 30-minute call. Please let me know what works best for you.\n---\nreaching out\nwhat works best for you"
+   }
+  ],
+  "note": "有空，周三周四下午都可以",
+  "scene": "email from a recruiter"
+ },
+ {
+  "item": "sr07/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Hi Yufei, thanks for your application. Are you available for a 30-minute call next week to discuss the role?",
+  "candidates": [
+   {
+    "cid": "74f2f76f",
+    "text": "Thank you for reaching out. I'm available Wednesday or Thursday afternoon next week for a 30-minute call to discuss the role.\n---\nreaching out\n"
+   },
+   {
+    "cid": "f5cd19e8",
+    "text": "Thank you for reaching out. I’m available Wednesday or Thursday afternoon next week for a 30-minute call. Please let me know what time works best for you.\n---\nThank you for reaching out\nwhat time works best for you"
+   }
+  ],
+  "note": "有空，周三周四下午都可以",
+  "scene": "email from a recruiter"
+ },
+ {
+  "item": "sr08/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "we're getting drinks after work on friday, you in?",
+  "candidates": [
+   {
+    "cid": "87f923ee",
+    "text": "Yeah, I'm down! Count me in.\n---\nI'm down\nCount me in"
+   },
+   {
+    "cid": "7368406a",
+    "text": "Yeah, I'm in! Thanks for the invite.\n---\nI'm in\nThanks for the invite"
+   }
+  ],
+  "scene": "text from a friend"
+ },
+ {
+  "item": "sr08/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "we're getting drinks after work on friday, you in?",
+  "candidates": [
+   {
+    "cid": "f8bd09ad",
+    "text": "Count me in. Thanks for the invite!\n---\nCount me in"
+   },
+   {
+    "cid": "476fef5d",
+    "text": "Count me in. See you Friday!\n---\nCount me in"
+   }
+  ],
+  "scene": "text from a friend"
+ },
+ {
+  "item": "sr09/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "I failed my driving test again 😩 third time",
+  "candidates": [
+   {
+    "cid": "0007c22d",
+    "text": "Ugh, I'm sorry. That’s so frustrating, especially after three tries.\n---\nThat’s so frustrating"
+   },
+   {
+    "cid": "f60a82fc",
+    "text": "Ugh, I’m sorry. Don’t beat yourself up—failing again doesn’t mean you won’t get there.\n---\nDon’t beat yourself up\nget there"
+   }
+  ],
+  "scene": "text from a friend"
+ },
+ {
+  "item": "sr09/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "I failed my driving test again 😩 third time",
+  "candidates": [
+   {
+    "cid": "48bd36c2",
+    "text": "Ugh, that’s so frustrating. Don’t beat yourself up over it.\n---\nbeat yourself up"
+   },
+   {
+    "cid": "1ceb4143",
+    "text": "Ugh, that’s so frustrating, especially on the third try. I’m sorry it didn’t go your way.\n---\ndidn’t go your way"
+   }
+  ],
+  "scene": "text from a friend"
+ },
+ {
+  "item": "sr10/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "omg I just got engaged!!!",
+  "candidates": [
+   {
+    "cid": "c59bd647",
+    "text": "Omg congrats!! I'm so happy for you! How'd they pop the question?\n---\npop the question"
+   },
+   {
+    "cid": "47ef869a",
+    "text": "Omg, congrats!! I'm so happy for you! 🎉\n---\nI'm so happy for you"
+   }
+  ],
+  "scene": "text from a friend"
+ },
+ {
+  "item": "sr10/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "omg I just got engaged!!!",
+  "candidates": [
+   {
+    "cid": "72ebd03b",
+    "text": "Oh my god, congratulations! I’m so happy for you!\n---\nI’m so happy for you"
+   },
+   {
+    "cid": "8b0374bf",
+    "text": "Congratulations!! I'm so happy for you!\n---\nso happy for you"
+   }
+  ],
+  "scene": "text from a friend"
+ },
+ {
+  "item": "sr11/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "can I borrow your charger? mine died",
+  "candidates": [
+   {
+    "cid": "df87953b",
+    "text": "Yeah, no problem! Just get it back to me before 5—I’m heading out then.\n---\nno problem\nget it back to me"
+   },
+   {
+    "cid": "3fe55055",
+    "text": "Yeah, no problem! Just get it back to me before I leave at five.\n---\nno problem\nget it back to me"
+   }
+  ],
+  "note": "可以，但我五点要走，之前还我",
+  "scene": "text from a friend"
+ },
+ {
+  "item": "sr11/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "can I borrow your charger? mine died",
+  "candidates": [
+   {
+    "cid": "4cea2540",
+    "text": "Sure, just get it back to me before five. I'm leaving then.\n---\nget it back to me"
+   },
+   {
+    "cid": "3eb5df7c",
+    "text": "Sure, just get it back to me before five. I’m heading out then.\n---\nget it back to me\nheading out"
+   }
+  ],
+  "note": "可以，但我五点要走，之前还我",
+  "scene": "text from a friend"
+ },
+ {
+  "item": "sr12/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "what did you think of the movie?",
+  "candidates": [
+   {
+    "cid": "e299fb1a",
+    "text": "It was just okay—the first half dragged, but the ending was pretty good.\n---\njust okay\nthe first half dragged"
+   },
+   {
+    "cid": "32f146a7",
+    "text": "It was okay—the first half kinda dragged, but the ending was pretty good.\n---\nkinda dragged"
+   }
+  ],
+  "note": "一般，前半段太慢了，但结尾不错",
+  "scene": "text from a friend"
+ },
+ {
+  "item": "sr12/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "what did you think of the movie?",
+  "candidates": [
+   {
+    "cid": "b050f312",
+    "text": "It was just okay. The first half dragged, but the ending was good.\n---\njust okay\nThe first half dragged"
+   },
+   {
+    "cid": "166f298d",
+    "text": "It was just okay. The first half dragged, but the ending was good.\n---\nThe first half dragged"
+   }
+  ],
+  "note": "一般，前半段太慢了，但结尾不错",
+  "scene": "text from a friend"
+ },
+ {
+  "item": "sr13/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Hello, I will need to come by on Wednesday morning to check the boiler. Will someone be home?",
+  "candidates": [
+   {
+    "cid": "6452b371",
+    "text": "I won’t be home on Wednesday morning. Would Thursday work instead?\n---\nWould Thursday work instead"
+   },
+   {
+    "cid": "8205dbbc",
+    "text": "I won't be home on Wednesday morning. Would Thursday work instead?\n---\nWould Thursday work instead"
+   }
+  ],
+  "note": "周三上午不在，周四可以吗",
+  "scene": "message from your landlord"
+ },
+ {
+  "item": "sr13/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Hello, I will need to come by on Wednesday morning to check the boiler. Will someone be home?",
+  "candidates": [
+   {
+    "cid": "f2baa70c",
+    "text": "No one will be home on Wednesday morning. Would Thursday work instead?\n---\nWould Thursday work instead"
+   },
+   {
+    "cid": "ddf9590d",
+    "text": "I won't be home on Wednesday morning. Could you come by on Thursday instead?\n---\ncome by"
+   }
+  ],
+  "note": "周三上午不在，周四可以吗",
+  "scene": "message from your landlord"
+ },
+ {
+  "item": "sr14/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Who used my milk? There's like nothing left 🙄",
+  "candidates": [
+   {
+    "cid": "ba5040f1",
+    "text": "That was me, my bad. I'll grab you a new bottle tonight.\n---\nmy bad\ngrab you a new bottle"
+   },
+   {
+    "cid": "f6ecf596",
+    "text": "That was me, my bad! I'll grab you a new bottle tonight.\n---\nmy bad\ngrab you a new bottle"
+   }
+  ],
+  "note": "是我，抱歉，今晚买一瓶还你",
+  "scene": "roommates' group chat"
+ },
+ {
+  "item": "sr14/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Who used my milk? There's like nothing left 🙄",
+  "candidates": [
+   {
+    "cid": "8f5dd325",
+    "text": "That was me, sorry. I’ll pick up a bottle tonight to replace it.\n---\nThat was me\npick up a bottle"
+   },
+   {
+    "cid": "ad5e357d",
+    "text": "That was me, sorry. I'll replace it tonight.\n---\nreplace it"
+   }
+  ],
+  "note": "是我，抱歉，今晚买一瓶还你",
+  "scene": "roommates' group chat"
+ },
+ {
+  "item": "sr15/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Do you want to work on the project together this weekend?",
+  "candidates": [
+   {
+    "cid": "757893eb",
+    "text": "Yeah, I'm down! Sunday's the only day I'm free, though. Does that work for you?\n---\nI'm down\nDoes that work for you"
+   },
+   {
+    "cid": "7cfbbac1",
+    "text": "I'm down, but I'm only free on Sunday. Does that work for you?\n---\nI'm down\nDoes that work for you"
+   }
+  ],
+  "note": "想，但是只有周日有空",
+  "scene": "message from a classmate"
+ },
+ {
+  "item": "sr15/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Do you want to work on the project together this weekend?",
+  "candidates": [
+   {
+    "cid": "9fa55891",
+    "text": "I'd like to, but Sunday is the only day I can make it. Does that work for you?\n---\ncan make it\nDoes that work for you"
+   },
+   {
+    "cid": "53cbd3c1",
+    "text": "I'd be happy to, but Sunday is the only day I'm free. Does that work for you?\n---\nI'd be happy to\nDoes that work for you"
+   }
+  ],
+  "note": "想，但是只有周日有空",
+  "scene": "message from a classmate"
+ },
+ {
+  "item": "sr16/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Hi, is the bike still available? Could you do 80 euros?",
+  "candidates": [
+   {
+    "cid": "006a850a",
+    "text": "Hi, it's still available! The lowest I can go is 90 euros.\n---\nThe lowest I can go"
+   },
+   {
+    "cid": "ddea515b",
+    "text": "Hi, yes, it’s still available! The lowest I can go is 90 euros.\n---\nThe lowest I can go"
+   }
+  ],
+  "note": "还在，最低90",
+  "scene": "message from a stranger about something you're selling"
+ },
+ {
+  "item": "sr16/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Hi, is the bike still available? Could you do 80 euros?",
+  "candidates": [
+   {
+    "cid": "e287c964",
+    "text": "Hi, yes, it’s still available. The lowest I can go is €90.\n---\nThe lowest I can go"
+   },
+   {
+    "cid": "61b668da",
+    "text": "Yes, it’s still available. The lowest I can go is 90 euros.\n---\nThe lowest I can go"
+   }
+  ],
+  "note": "还在，最低90",
+  "scene": "message from a stranger about something you're selling"
+ },
+ {
+  "item": "sr17/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "I think me and Tom are breaking up. I don't really know what to do.",
+  "candidates": [
+   {
+    "cid": "1bd2d920",
+    "text": "I'm so sorry. You don't have to figure it all out right now—I'm here if you wanna talk.\n---\nfigure it all out\nI'm here if you wanna talk"
+   },
+   {
+    "cid": "85c2b312",
+    "text": "I'm so sorry. You don't have to figure it all out right now—I'm here if you want to talk.\n---\nfigure it all out\nI'm here if you want to talk"
+   }
+  ],
+  "scene": "text from a close friend"
+ },
+ {
+  "item": "sr17/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "I think me and Tom are breaking up. I don't really know what to do.",
+  "candidates": [
+   {
+    "cid": "4a8a9b74",
+    "text": "I'm so sorry. You don't have to figure it all out right now. Do you want to talk about what happened?\n---\nfigure it all out"
+   },
+   {
+    "cid": "52a21d6d",
+    "text": "I'm so sorry. You don't have to figure it all out right now. Do you want to talk about what happened?\n---\nfigure it all out"
+   }
+  ],
+  "scene": "text from a close friend"
+ },
+ {
+  "item": "sr18/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Thanks for covering for me last week, you're a lifesaver",
+  "candidates": [
+   {
+    "cid": "419aaed2",
+    "text": "No worries, happy to help!\n---\nNo worries\nhappy to help"
+   },
+   {
+    "cid": "ca2b401c",
+    "text": "No worries, happy to help!\n---\nNo worries\nhappy to help"
+   }
+  ],
+  "scene": "work chat from a colleague"
+ },
+ {
+  "item": "sr18/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Thanks for covering for me last week, you're a lifesaver",
+  "candidates": [
+   {
+    "cid": "2d65861b",
+    "text": "Of course. Happy to return the favor anytime.\n---\nreturn the favor"
+   },
+   {
+    "cid": "6f91808f",
+    "text": "Of course. Glad I could help.\n---\nGlad I could help"
+   }
+  ],
+  "scene": "work chat from a colleague"
+ },
+ {
+  "item": "sr19/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "We're sorry for the inconvenience. We can offer you a refund or a replacement. Which would you prefer?",
+  "candidates": [
+   {
+    "cid": "7f771a98",
+    "text": "I'd prefer a refund, please. Thank you for your help.\n---\nI'd prefer a refund"
+   },
+   {
+    "cid": "1ba9b906",
+    "text": "I'd prefer a refund, please. Thank you for your help.\n---\nI'd prefer a refund"
+   }
+  ],
+  "note": "要退款",
+  "scene": "email from customer support"
+ },
+ {
+  "item": "sr19/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "We're sorry for the inconvenience. We can offer you a refund or a replacement. Which would you prefer?",
+  "candidates": [
+   {
+    "cid": "d1ea34e7",
+    "text": "I'd prefer a refund, please. Thank you for your help.\n---\nI'd prefer a refund"
+   },
+   {
+    "cid": "bd472d0f",
+    "text": "I’d prefer a refund, please. Thank you for your help.\n---\nI’d prefer a refund"
+   }
+  ],
+  "note": "要退款",
+  "scene": "email from customer support"
+ },
+ {
+  "item": "sr20/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Happy birthday Yufei!! 🎂🎉 hope you have an amazing day",
+  "candidates": [
+   {
+    "cid": "692a6de1",
+    "text": "Aww, thank you!! Means a lot 🥰\n---\nMeans a lot"
+   },
+   {
+    "cid": "34756b67",
+    "text": "Aw, thanks so much!! That means a lot 😊\n---\nThat means a lot"
+   }
+  ],
+  "scene": "friends' group chat"
+ },
+ {
+  "item": "sr20/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Happy birthday Yufei!! 🎂🎉 hope you have an amazing day",
+  "candidates": [
+   {
+    "cid": "ae53b954",
+    "text": "Thank you! That's so sweet of you.\n---\nThat's so sweet of you"
+   },
+   {
+    "cid": "155a52aa",
+    "text": "Thank you!! So nice of you to think of me!\n---\nthink of me"
+   }
+  ],
+  "scene": "friends' group chat"
+ },
+ {
+  "item": "sr21/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "The results look promising, but I'm not convinced by the evaluation. Have you compared against a stronger baseline?",
+  "candidates": [
+   {
+    "cid": "eb206851",
+    "text": "Not yet, but I’ll add comparisons against two stronger baselines next week.\n---\ncomparisons against"
+   },
+   {
+    "cid": "029cba92",
+    "text": "Not yet, but I'll add comparisons against two stronger baselines next week.\n---\ncomparisons against"
+   }
+  ],
+  "note": "还没有，下周会加上两个更强的 baseline",
+  "scene": "feedback from your professor in a chat"
+ },
+ {
+  "item": "sr21/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "The results look promising, but I'm not convinced by the evaluation. Have you compared against a stronger baseline?",
+  "candidates": [
+   {
+    "cid": "9d0eced0",
+    "text": "Not yet. I’ll add comparisons against two stronger baselines next week.\n---\ncomparisons against"
+   },
+   {
+    "cid": "a06aaa92",
+    "text": "Not yet. I'll add comparisons against two stronger baselines next week.\n---\ncomparisons against"
+   }
+  ],
+  "note": "还没有，下周会加上两个更强的 baseline",
+  "scene": "feedback from your professor in a chat"
+ },
+ {
+  "item": "sr22/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Thinking of doing a board game night at mine on Saturday. Bring snacks?",
+  "candidates": [
+   {
+    "cid": "da0450a7",
+    "text": "Can't make it Saturday—I've got a deadline to meet. Count me in next time!\n---\nCan't make it\nCount me in"
+   },
+   {
+    "cid": "fb49b430",
+    "text": "Ah, can't make it Saturday—I've got a deadline to hit. I'm in for the next one!\n---\ncan't make it\nI'm in"
+   }
+  ],
+  "note": "去不了，那天要赶 deadline，下次一定",
+  "scene": "text from a friend"
+ },
+ {
+  "item": "sr22/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Thinking of doing a board game night at mine on Saturday. Bring snacks?",
+  "candidates": [
+   {
+    "cid": "61fa13ab",
+    "text": "I can't make it Saturday. I've got a deadline to meet, but count me in next time.\n---\ncan't make it\ncount me in"
+   },
+   {
+    "cid": "bd30626c",
+    "text": "I can’t make it Saturday. I’ve got a deadline to meet, but count me in next time.\n---\ncan’t make it\ncount me in"
+   }
+  ],
+  "note": "去不了，那天要赶 deadline，下次一定",
+  "scene": "text from a friend"
+ },
+ {
+  "item": "sr23/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "How was your vacation? You went to Japan, right?",
+  "candidates": [
+   {
+    "cid": "f207e566",
+    "text": "Yeah, it was great! Ate a ton, but it was way too hot.\n---\nAte a ton\nway too hot"
+   },
+   {
+    "cid": "a15d03ba",
+    "text": "Yeah, Japan! It was great—ate a ton, but it was way too hot.\n---\nate a ton\nway too hot"
+   }
+  ],
+  "note": "很好，吃了很多，就是太热了",
+  "scene": "small talk from a colleague"
+ },
+ {
+  "item": "sr23/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "How was your vacation? You went to Japan, right?",
+  "candidates": [
+   {
+    "cid": "6b4dcbd5",
+    "text": "Yes, Japan! It was great. I ate my way through it, but the heat was a bit much.\n---\nate my way through\na bit much"
+   },
+   {
+    "cid": "906ba429",
+    "text": "Yes, Japan! It was great. I ate a ton, but it was way too hot.\n---\nate a ton\nway too hot"
+   }
+  ],
+  "note": "很好，吃了很多，就是太热了",
+  "scene": "small talk from a colleague"
+ },
+ {
+  "item": "sr24/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Honestly I felt a bit left out when you guys went without telling me.",
+  "candidates": [
+   {
+    "cid": "c9f6ae71",
+    "text": "I'm sorry we left you out. It wasn't intentional, and I'll make sure to invite you next time.\n---\nleft you out\nIt wasn't intentional"
+   },
+   {
+    "cid": "7add3a05",
+    "text": "I'm sorry, I didn't mean to leave you out. I'll make sure you're in the loop next time.\n---\nleave you out\nin the loop"
+   }
+  ],
+  "note": "道歉，不是故意的，下次一定叫上",
+  "scene": "text from a friend who is upset with you"
+ },
+ {
+  "item": "sr24/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Honestly I felt a bit left out when you guys went without telling me.",
+  "candidates": [
+   {
+    "cid": "dce1c903",
+    "text": "I'm sorry we left you out. It wasn't intentional, and we'll make sure to include you next time.\n---\nleft you out\nmake sure to"
+   },
+   {
+    "cid": "0e46dc20",
+    "text": "I'm sorry we left you out. It wasn't intentional, and we'll make sure to include you next time.\n---\nleft you out\nIt wasn't intentional"
+   }
+  ],
+  "note": "道歉，不是故意的，下次一定叫上",
+  "scene": "text from a friend who is upset with you"
+ }
+]

@@ -1,0 +1,3226 @@
+[
+ {
+  "item": "c01/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    5,
+    4
+   ],
+   "C": [
+    5,
+    3,
+    3
+   ]
+  },
+  "rank": [
+   "B",
+   "A",
+   "C"
+  ],
+  "comment": "C's \"exhausted\" is flat and less idiomatic than \"wiped out\"."
+ },
+ {
+  "item": "c01/sharp",
+  "scores": {
+   "A": [
+    5,
+    3,
+    5
+   ],
+   "B": [
+    4,
+    4,
+    4
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "B",
+   "A"
+  ],
+  "comment": "C's \"a damn thing\" hits the voice; A is tame; B's \"off the table\" slightly off."
+ },
+ {
+  "item": "c02/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    4
+   ],
+   "B": [
+    5,
+    4,
+    4
+   ],
+   "C": [
+    4,
+    5,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "C",
+   "B"
+  ],
+  "comment": "All fine; A's \"kinda underwhelming\" most natural."
+ },
+ {
+  "item": "c02/sharp",
+  "scores": {
+   "A": [
+    5,
+    3,
+    3
+   ],
+   "B": [
+    5,
+    5,
+    5
+   ],
+   "C": [
+    5,
+    3,
+    3
+   ]
+  },
+  "rank": [
+   "B",
+   "C",
+   "A"
+  ],
+  "comment": "Only B (\"aggressively average\") is actually sharp."
+ },
+ {
+  "item": "c03/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    3
+   ],
+   "B": [
+    5,
+    5,
+    3
+   ],
+   "C": [
+    5,
+    4,
+    3
+   ]
+  },
+  "rank": [
+   "B",
+   "A",
+   "C"
+  ],
+  "comment": "Near-identical; B's \"in a bit\" most casual."
+ },
+ {
+  "item": "c03/sharp",
+  "scores": {
+   "A": [
+    5,
+    3,
+    3
+   ],
+   "B": [
+    5,
+    3,
+    3
+   ],
+   "C": [
+    5,
+    3,
+    4
+   ]
+  },
+  "rank": [
+   "C",
+   "A",
+   "B"
+  ],
+  "comment": "All three are plain and indistinguishable from neutral style."
+ },
+ {
+  "item": "c04/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    5
+   ],
+   "B": [
+    5,
+    4,
+    4
+   ],
+   "C": [
+    5,
+    5,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "C",
+   "B"
+  ],
+  "comment": "A's \"talks tough\" captures 嘴硬; B missing period."
+ },
+ {
+  "item": "c04/sharp",
+  "scores": {
+   "A": [
+    5,
+    3,
+    5
+   ],
+   "B": [
+    3,
+    3,
+    2
+   ],
+   "C": [
+    5,
+    3,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "A",
+   "B"
+  ],
+  "comment": "B's \"got a soft spot\" changes meaning (soft spot for someone) and note is misquoted."
+ },
+ {
+  "item": "c05/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    4,
+    4
+   ],
+   "C": [
+    4,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "B",
+   "A",
+   "C"
+  ],
+  "comment": "C drops 最近; A missing period."
+ },
+ {
+  "item": "c05/sharp",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    3,
+    4
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "A",
+   "B"
+  ],
+  "comment": "C's \"bubble tea is my kryptonite\" is the only witty take; B is wordy."
+ },
+ {
+  "item": "c06/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    3,
+    4
+   ],
+   "C": [
+    5,
+    3,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "B",
+   "C"
+  ],
+  "comment": "All neutral-polite; C's \"go over it together again\" clunky."
+ },
+ {
+  "item": "c06/sharp",
+  "scores": {
+   "A": [
+    5,
+    4,
+    5
+   ],
+   "B": [
+    5,
+    4,
+    5
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "B",
+   "C"
+  ],
+  "comment": "\"kinks to work out\" / \"iron out\" both good; little sharpness."
+ },
+ {
+  "item": "c07/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    5
+   ],
+   "B": [
+    4,
+    4,
+    3
+   ],
+   "C": [
+    5,
+    4,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "A",
+   "B"
+  ],
+  "comment": "B drops \"那种人\" and misses period."
+ },
+ {
+  "item": "c07/sharp",
+  "scores": {
+   "A": [
+    5,
+    3,
+    5
+   ],
+   "B": [
+    5,
+    4,
+    5
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "B",
+   "A"
+  ],
+  "comment": "C's \"He has no filter\" is crisp and idiomatic."
+ },
+ {
+  "item": "c08/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    4
+   ],
+   "B": [
+    5,
+    5,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "B",
+   "C"
+  ],
+  "comment": "C's \"while we're at it\" awkward for hike+hotpot."
+ },
+ {
+  "item": "c08/sharp",
+  "scores": {
+   "A": [
+    5,
+    3,
+    4
+   ],
+   "B": [
+    5,
+    3,
+    3
+   ],
+   "C": [
+    4,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "C",
+   "A",
+   "B"
+  ],
+  "comment": "C adds a tagline that's a bit stiff; A/B are plain."
+ },
+ {
+  "item": "c09/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    4
+   ],
+   "B": [
+    5,
+    5,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    3
+   ]
+  },
+  "rank": [
+   "A",
+   "B",
+   "C"
+  ],
+  "comment": "C rewrites more loosely and misses period."
+ },
+ {
+  "item": "c09/sharp",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    5,
+    5
+   ],
+   "C": [
+    5,
+    3,
+    3
+   ]
+  },
+  "rank": [
+   "B",
+   "A",
+   "C"
+  ],
+  "comment": "B's \"Unbelievable. Stuck working till eleven again.\" is punchy."
+ },
+ {
+  "item": "c10/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    4,
+    3
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "A",
+   "C",
+   "B"
+  ],
+  "comment": "B missing period, thin note."
+ },
+ {
+  "item": "c10/sharp",
+  "scores": {
+   "A": [
+    5,
+    5,
+    4
+   ],
+   "B": [
+    5,
+    4,
+    5
+   ],
+   "C": [
+    5,
+    3,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "B",
+   "C"
+  ],
+  "comment": "A's \"nowhere near a done deal\" sharpest."
+ },
+ {
+  "item": "c11/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    4,
+    4
+   ],
+   "C": [
+    4,
+    4,
+    3
+   ]
+  },
+  "rank": [
+   "A",
+   "B",
+   "C"
+  ],
+  "comment": "C's \"socially awkward\" ≠ 社恐."
+ },
+ {
+  "item": "c11/sharp",
+  "scores": {
+   "A": [
+    5,
+    4,
+    5
+   ],
+   "B": [
+    5,
+    4,
+    5
+   ],
+   "C": [
+    4,
+    4,
+    3
+   ]
+  },
+  "rank": [
+   "B",
+   "A",
+   "C"
+  ],
+  "comment": "C drops 社恐 and adds a new idea."
+ },
+ {
+  "item": "c12/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    4,
+    5
+   ],
+   "C": [
+    5,
+    5,
+    4
+   ]
+  },
+  "rank": [
+   "B",
+   "C",
+   "A"
+  ],
+  "comment": "A's \"big promises\" weaker than \"empty promises\"."
+ },
+ {
+  "item": "c12/sharp",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    4,
+    3
+   ],
+   "C": [
+    5,
+    3,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "B",
+   "C"
+  ],
+  "comment": "A's \"promising the moon\" is the best match for 画大饼."
+ },
+ {
+  "item": "c13/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    4,
+    4,
+    4
+   ],
+   "C": [
+    5,
+    5,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "C",
+   "B"
+  ],
+  "comment": "B's \"It's on me\" ambiguous about whose coffee; missing period."
+ },
+ {
+  "item": "c13/sharp",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    4,
+    5
+   ],
+   "C": [
+    4,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "B",
+   "A",
+   "C"
+  ],
+  "comment": "C's \"It's on me\" ambiguous; none sharp."
+ },
+ {
+  "item": "c14/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    5,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "B",
+   "C"
+  ],
+  "comment": "A's rain check fits; B missing period."
+ },
+ {
+  "item": "c14/sharp",
+  "scores": {
+   "A": [
+    5,
+    3,
+    4
+   ],
+   "B": [
+    5,
+    4,
+    5
+   ],
+   "C": [
+    5,
+    4,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "B",
+   "A"
+  ],
+  "comment": "A is plain; others use rain check."
+ },
+ {
+  "item": "c15/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    5,
+    5
+   ],
+   "C": [
+    4,
+    4,
+    3
+   ]
+  },
+  "rank": [
+   "B",
+   "A",
+   "C"
+  ],
+  "comment": "C loses 燃 (\"picked up\"); A's \"pretty hype\" slightly off."
+ },
+ {
+  "item": "c15/sharp",
+  "scores": {
+   "A": [
+    4,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    4,
+    5
+   ],
+   "C": [
+    4,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "B",
+   "C",
+   "A"
+  ],
+  "comment": "A and C soften 燃 to \"picks up/kicks into gear\"."
+ },
+ {
+  "item": "p01/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    4,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    5
+   ]
+  },
+  "rank": [
+   "A",
+   "C",
+   "B"
+  ],
+  "comment": "All correct; C missing period."
+ },
+ {
+  "item": "p01/sharp",
+  "scores": {
+   "A": [
+    4,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    3,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "C",
+   "B"
+  ],
+  "comment": "A's \"gone downhill\" crisp; B clunky."
+ },
+ {
+  "item": "p02/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    5,
+    5
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "B",
+   "C",
+   "A"
+  ],
+  "comment": "B's \"went quiet\" natural; A missing period."
+ },
+ {
+  "item": "p02/sharp",
+  "scores": {
+   "A": [
+    5,
+    3,
+    4
+   ],
+   "B": [
+    5,
+    3,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "C",
+   "A",
+   "B"
+  ],
+  "comment": "All essentially neutral; no sharpness."
+ },
+ {
+  "item": "p03/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    4,
+    3
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "A",
+   "B"
+  ],
+  "comment": "C's \"never came through on my end\" most natural; A/B missing periods."
+ },
+ {
+  "item": "p03/sharp",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    4,
+    5
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "B",
+   "A",
+   "C"
+  ],
+  "comment": "Close; none notably sharp."
+ },
+ {
+  "item": "p04/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    5
+   ],
+   "B": [
+    4,
+    5,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    3
+   ]
+  },
+  "rank": [
+   "A",
+   "B",
+   "C"
+  ],
+  "comment": "A's note explains the tense fix; B shifts \"it\" to the city; C note trivial."
+ },
+ {
+  "item": "p04/sharp",
+  "scores": {
+   "A": [
+    5,
+    3,
+    3
+   ],
+   "B": [
+    4,
+    5,
+    4
+   ],
+   "C": [
+    4,
+    4,
+    3
+   ]
+  },
+  "rank": [
+   "B",
+   "A",
+   "C"
+  ],
+  "comment": "B's \"lived up to the hype\" adds a framing; C invents \"still thinking about it\"; none explain tense."
+ },
+ {
+  "item": "p05/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    5,
+    5
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "B",
+   "C"
+  ],
+  "comment": "All fine."
+ },
+ {
+  "item": "p05/sharp",
+  "scores": {
+   "A": [
+    5,
+    4,
+    5
+   ],
+   "B": [
+    4,
+    4,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "C",
+   "B"
+  ],
+  "comment": "B's \"had to try\" overstates \"suggested\"."
+ },
+ {
+  "item": "p06/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    4,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    3
+   ]
+  },
+  "rank": [
+   "A",
+   "B",
+   "C"
+  ],
+  "comment": "Near-identical; none explain \"discuss about\"."
+ },
+ {
+  "item": "p06/sharp",
+  "scores": {
+   "A": [
+    5,
+    3,
+    4
+   ],
+   "B": [
+    5,
+    3,
+    4
+   ],
+   "C": [
+    4,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "B",
+   "C"
+  ],
+  "comment": "C's \"pick this up\" assumes an ongoing discussion; none explain \"discuss about\"."
+ },
+ {
+  "item": "p07/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    4,
+    4
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "A",
+   "B"
+  ],
+  "comment": "All fine; C most casual."
+ },
+ {
+  "item": "p07/sharp",
+  "scores": {
+   "A": [
+    5,
+    3,
+    4
+   ],
+   "B": [
+    3,
+    3,
+    3
+   ],
+   "C": [
+    5,
+    3,
+    4
+   ]
+  },
+  "rank": [
+   "C",
+   "A",
+   "B"
+  ],
+  "comment": "B invents \"It's been a while!\" and has trivial notes."
+ },
+ {
+  "item": "p08/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    5,
+    5
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "B",
+   "A",
+   "C"
+  ],
+  "comment": "B's \"snag a bench\" nice; C missing period."
+ },
+ {
+  "item": "p08/sharp",
+  "scores": {
+   "A": [
+    5,
+    3,
+    4
+   ],
+   "B": [
+    5,
+    3,
+    4
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "B",
+   "A"
+  ],
+  "comment": "Only C (\"an open bench is too much to ask\") is sharp."
+ },
+ {
+  "item": "p09/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    5,
+    4
+   ],
+   "C": [
+    5,
+    3,
+    3
+   ]
+  },
+  "rank": [
+   "B",
+   "A",
+   "C"
+  ],
+  "comment": "C missing period and flat."
+ },
+ {
+  "item": "p09/sharp",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    3,
+    3
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "C",
+   "B"
+  ],
+  "comment": "A's \"came in handy. Thanks for the assist.\" is lively; B is formal."
+ },
+ {
+  "item": "p10/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    4,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "B",
+   "C"
+  ],
+  "comment": "None explain the \"think so\" error."
+ },
+ {
+  "item": "p10/sharp",
+  "scores": {
+   "A": [
+    5,
+    2,
+    2
+   ],
+   "B": [
+    5,
+    3,
+    2
+   ],
+   "C": [
+    5,
+    5,
+    4
+   ]
+  },
+  "rank": [
+   "C",
+   "B",
+   "A"
+  ],
+  "comment": "A/B give no notes despite a notable grammar error; C's \"not betting on rain\" is sharp."
+ },
+ {
+  "item": "p11/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    4,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "B",
+   "C",
+   "A"
+  ],
+  "comment": "All equivalent; none explain the \"let me to\" error."
+ },
+ {
+  "item": "p11/sharp",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    4,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "B",
+   "A"
+  ],
+  "comment": "C's note addresses \"let\"; all tame for sharp."
+ },
+ {
+  "item": "p12/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    5
+   ],
+   "B": [
+    5,
+    5,
+    4
+   ],
+   "C": [
+    5,
+    5,
+    4
+   ]
+  },
+  "rank": [
+   "B",
+   "A",
+   "C"
+  ],
+  "comment": "A's note teaches the although/but fix but is less chill and misses period."
+ },
+ {
+  "item": "p12/sharp",
+  "scores": {
+   "A": [
+    4,
+    4,
+    4
+   ],
+   "B": [
+    4,
+    5,
+    5
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "B",
+   "A"
+  ],
+  "comment": "A's added quip is forced; B shifts tense slightly."
+ },
+ {
+  "item": "p13/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    3
+   ],
+   "B": [
+    5,
+    5,
+    4
+   ],
+   "C": [
+    5,
+    5,
+    3
+   ]
+  },
+  "rank": [
+   "B",
+   "C",
+   "A"
+  ],
+  "comment": "No candidate notes the boring/bored error."
+ },
+ {
+  "item": "p13/sharp",
+  "scores": {
+   "A": [
+    4,
+    5,
+    4
+   ],
+   "B": [
+    5,
+    4,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "B",
+   "C"
+  ],
+  "comment": "A's \"stir-crazy\" is vivid but means cooped up, slight drift."
+ },
+ {
+  "item": "p14/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    2
+   ],
+   "B": [
+    5,
+    5,
+    5
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "B",
+   "C",
+   "A"
+  ],
+  "comment": "A has a format bug (\"---\" on the text line)."
+ },
+ {
+  "item": "p14/sharp",
+  "scores": {
+   "A": [
+    5,
+    3,
+    4
+   ],
+   "B": [
+    5,
+    4,
+    5
+   ],
+   "C": [
+    5,
+    4,
+    5
+   ]
+  },
+  "rank": [
+   "B",
+   "C",
+   "A"
+  ],
+  "comment": "Close; A plain."
+ },
+ {
+  "item": "p15/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    4,
+    4
+   ],
+   "C": [
+    5,
+    5,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "C",
+   "B"
+  ],
+  "comment": "All good; A notes most complete."
+ },
+ {
+  "item": "p15/sharp",
+  "scores": {
+   "A": [
+    4,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    4,
+    4
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "A",
+   "B"
+  ],
+  "comment": "C's \"draws the line\" funny and faithful; A's \"beneath her\" adds judgement."
+ },
+ {
+  "item": "p16/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    5,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "B",
+   "C"
+  ],
+  "comment": "C missing period."
+ },
+ {
+  "item": "p16/sharp",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    3,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    5
+   ]
+  },
+  "rank": [
+   "A",
+   "C",
+   "B"
+  ],
+  "comment": "A's \"stuck with the lousy seats\" has bite."
+ },
+ {
+  "item": "p17/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    4,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "C",
+   "B"
+  ],
+  "comment": "A's \"out of the way\" more idiomatic; B missing period."
+ },
+ {
+  "item": "p17/sharp",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    5,
+    5
+   ],
+   "C": [
+    5,
+    4,
+    5
+   ]
+  },
+  "rank": [
+   "B",
+   "C",
+   "A"
+  ],
+  "comment": "B's \"one thing off my plate\" adds light wit."
+ },
+ {
+  "item": "p18/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    4,
+    5
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "B",
+   "A"
+  ],
+  "comment": "C's \"Tbh, don't really know my way around\" chill; B's note teaches \"familiar with\"."
+ },
+ {
+  "item": "p18/sharp",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    4,
+    4,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "C",
+   "B"
+  ],
+  "comment": "B's \"up to speed\" shifts meaning toward being current."
+ },
+ {
+  "item": "p19/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    5
+   ],
+   "B": [
+    5,
+    5,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "B",
+   "C"
+  ],
+  "comment": "C missing period."
+ },
+ {
+  "item": "p19/sharp",
+  "scores": {
+   "A": [
+    5,
+    3,
+    4
+   ],
+   "B": [
+    5,
+    3,
+    4
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "A",
+   "B"
+  ],
+  "comment": "C's \"three years under my belt\" sharpest."
+ },
+ {
+  "item": "p20/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    3
+   ],
+   "B": [
+    5,
+    5,
+    5
+   ],
+   "C": [
+    5,
+    4,
+    5
+   ]
+  },
+  "rank": [
+   "B",
+   "C",
+   "A"
+  ],
+  "comment": "C's note covers the conditional fix; A's note trivial."
+ },
+ {
+  "item": "p20/sharp",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    3,
+    5
+   ],
+   "C": [
+    5,
+    3,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "B",
+   "C"
+  ],
+  "comment": "All correct; A has the idiom \"heads-up\"."
+ },
+ {
+  "item": "p21/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    4
+   ],
+   "B": [
+    5,
+    4,
+    4
+   ],
+   "C": [
+    5,
+    5,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "C",
+   "B"
+  ],
+  "comment": "Input already fine; B barely changes it."
+ },
+ {
+  "item": "p21/sharp",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    3,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    5
+   ]
+  },
+  "rank": [
+   "A",
+   "C",
+   "B"
+  ],
+  "comment": "A's \"thinking this thing to death\" sharpest."
+ },
+ {
+  "item": "p22/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    5,
+    3
+   ],
+   "C": [
+    5,
+    4,
+    3
+   ]
+  },
+  "rank": [
+   "A",
+   "B",
+   "C"
+  ],
+  "comment": "C has no notes and barely changes the input."
+ },
+ {
+  "item": "p22/sharp",
+  "scores": {
+   "A": [
+    5,
+    4,
+    5
+   ],
+   "B": [
+    5,
+    3,
+    3
+   ],
+   "C": [
+    5,
+    4,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "A",
+   "B"
+  ],
+  "comment": "B leaves input unchanged."
+ },
+ {
+  "item": "p23/chill",
+  "scores": {
+   "A": [
+    4,
+    3,
+    3
+   ],
+   "B": [
+    5,
+    5,
+    4
+   ],
+   "C": [
+    4,
+    3,
+    3
+   ]
+  },
+  "rank": [
+   "B",
+   "A",
+   "C"
+  ],
+  "comment": "A and C destroy the idiom; B keeps it with \"lol\"."
+ },
+ {
+  "item": "p23/sharp",
+  "scores": {
+   "A": [
+    5,
+    4,
+    3
+   ],
+   "B": [
+    5,
+    4,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "B",
+   "C",
+   "A"
+  ],
+  "comment": "Input is already idiomatic; rewrites add little."
+ },
+ {
+  "item": "p24/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    5,
+    5
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "B",
+   "A"
+  ],
+  "comment": "All good."
+ },
+ {
+  "item": "p24/sharp",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    3,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "C",
+   "B"
+  ],
+  "comment": "A's \"You lost me there\" natural and sharp."
+ },
+ {
+  "item": "p25/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    4,
+    5
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "B",
+   "A"
+  ],
+  "comment": "C most natural (\"a few drinks in\")."
+ },
+ {
+  "item": "p25/sharp",
+  "scores": {
+   "A": [
+    5,
+    4,
+    5
+   ],
+   "B": [
+    5,
+    3,
+    5
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "A",
+   "B"
+  ],
+  "comment": "B close to neutral polish; no humor anywhere."
+ },
+ {
+  "item": "p26/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    5,
+    5
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "B",
+   "C",
+   "A"
+  ],
+  "comment": "All fine."
+ },
+ {
+  "item": "p26/sharp",
+  "scores": {
+   "A": [
+    5,
+    4,
+    5
+   ],
+   "B": [
+    5,
+    4,
+    5
+   ],
+   "C": [
+    5,
+    4,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "A",
+   "B"
+  ],
+  "comment": "Nearly identical; none sharp."
+ },
+ {
+  "item": "p27/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    3
+   ],
+   "B": [
+    5,
+    5,
+    5
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "B",
+   "A"
+  ],
+  "comment": "All fine; A note thin."
+ },
+ {
+  "item": "p27/sharp",
+  "scores": {
+   "A": [
+    5,
+    3,
+    4
+   ],
+   "B": [
+    5,
+    3,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "A",
+   "B"
+  ],
+  "comment": "C's \"grocery run\" a little livelier."
+ },
+ {
+  "item": "r01/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    5,
+    5
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "B",
+   "A",
+   "C"
+  ],
+  "comment": "C hands the weather decision back awkwardly; B missing period."
+ },
+ {
+  "item": "r01/sharp",
+  "scores": {
+   "A": [
+    5,
+    4,
+    5
+   ],
+   "B": [
+    5,
+    5,
+    5
+   ],
+   "C": [
+    5,
+    5,
+    2
+   ]
+  },
+  "rank": [
+   "B",
+   "A",
+   "C"
+  ],
+  "comment": "C notes \"holds up\", which isn't in its text."
+ },
+ {
+  "item": "r02/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    4
+   ],
+   "B": [
+    5,
+    5,
+    4
+   ],
+   "C": [
+    5,
+    5,
+    4
+   ]
+  },
+  "rank": [
+   "C",
+   "B",
+   "A"
+  ],
+  "comment": "All good."
+ },
+ {
+  "item": "r02/sharp",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    4,
+    4,
+    4
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "A",
+   "B"
+  ],
+  "comment": "B assumes \"all that hard work\"."
+ },
+ {
+  "item": "r03/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    4,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "B",
+   "C"
+  ],
+  "comment": "A's \"if anything jumps out\" most natural."
+ },
+ {
+  "item": "r03/sharp",
+  "scores": {
+   "A": [
+    4,
+    4,
+    3
+   ],
+   "B": [
+    5,
+    3,
+    3
+   ],
+   "C": [
+    5,
+    4,
+    3
+   ]
+  },
+  "rank": [
+   "C",
+   "A",
+   "B"
+  ],
+  "comment": "B's \"no-rush reprieve\" stiff; A's note has an odd gloss."
+ },
+ {
+  "item": "r04/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    5,
+    5
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "B",
+   "C"
+  ],
+  "comment": "All empathetic; C thin."
+ },
+ {
+  "item": "r04/sharp",
+  "scores": {
+   "A": [
+    5,
+    4,
+    5
+   ],
+   "B": [
+    5,
+    5,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    3
+   ]
+  },
+  "rank": [
+   "B",
+   "A",
+   "C"
+  ],
+  "comment": "B's \"leaving you to figure that out too?\" has bite."
+ },
+ {
+  "item": "r05/chill",
+  "scores": {
+   "A": [
+    4,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    5,
+    4
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "B",
+   "A"
+  ],
+  "comment": "A's \"save some for myself\" odd."
+ },
+ {
+  "item": "r05/sharp",
+  "scores": {
+   "A": [
+    5,
+    5,
+    4
+   ],
+   "B": [
+    5,
+    2,
+    3
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "A",
+   "C",
+   "B"
+  ],
+  "comment": "B's \"accepting repayment in the form of replacing them\" stiff."
+ },
+ {
+  "item": "r06/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    5,
+    5
+   ],
+   "C": [
+    5,
+    5,
+    4
+   ]
+  },
+  "rank": [
+   "B",
+   "A",
+   "C"
+  ],
+  "comment": "All follow the polite-decline intent; C comma splice."
+ },
+ {
+  "item": "r06/sharp",
+  "scores": {
+   "A": [
+    5,
+    3,
+    5
+   ],
+   "B": [
+    5,
+    3,
+    5
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "A",
+   "B"
+  ],
+  "comment": "C's \"running on fumes\" livelier; A/B plain."
+ },
+ {
+  "item": "r07/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    4,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "C",
+   "B",
+   "A"
+  ],
+  "comment": "All fine; A's \"Oh,\" slightly stiff."
+ },
+ {
+  "item": "r07/sharp",
+  "scores": {
+   "A": [
+    3,
+    5,
+    4
+   ],
+   "B": [
+    5,
+    4,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "C",
+   "B",
+   "A"
+  ],
+  "comment": "A invents \"five days into three\"; B's \"haircut\" slightly cute."
+ },
+ {
+  "item": "r08/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    3
+   ],
+   "B": [
+    5,
+    5,
+    5
+   ],
+   "C": [
+    5,
+    5,
+    4
+   ]
+  },
+  "rank": [
+   "B",
+   "C",
+   "A"
+  ],
+  "comment": "A has no notes and trailing whitespace."
+ },
+ {
+  "item": "r08/sharp",
+  "scores": {
+   "A": [
+    5,
+    5,
+    3
+   ],
+   "B": [
+    5,
+    5,
+    4
+   ],
+   "C": [
+    5,
+    5,
+    4
+   ]
+  },
+  "rank": [
+   "C",
+   "B",
+   "A"
+  ],
+  "comment": "All drop humor correctly; A no notes."
+ },
+ {
+  "item": "r09/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    5
+   ],
+   "B": [
+    5,
+    5,
+    5
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "B",
+   "C",
+   "A"
+  ],
+  "comment": "All good."
+ },
+ {
+  "item": "r09/sharp",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    5,
+    2
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "B",
+   "A"
+  ],
+  "comment": "B is witty but has no notes despite a notable pattern."
+ },
+ {
+  "item": "r10/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    4
+   ],
+   "B": [
+    5,
+    5,
+    4
+   ],
+   "C": [
+    4,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "B",
+   "C"
+  ],
+  "comment": "C invents weekend details."
+ },
+ {
+  "item": "r10/sharp",
+  "scores": {
+   "A": [
+    5,
+    4,
+    5
+   ],
+   "B": [
+    5,
+    5,
+    5
+   ],
+   "C": [
+    3,
+    5,
+    4
+   ]
+  },
+  "rank": [
+   "B",
+   "A",
+   "C"
+  ],
+  "comment": "C invents details and doesn't ask back."
+ },
+ {
+  "item": "r11/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    4,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    3
+   ]
+  },
+  "rank": [
+   "A",
+   "B",
+   "C"
+  ],
+  "comment": "A's \"we're even\" playful; missing period."
+ },
+ {
+  "item": "r11/sharp",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    4,
+    5
+   ],
+   "C": [
+    5,
+    5,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "C",
+   "B"
+  ],
+  "comment": "A's \"legally binding favor\" best."
+ },
+ {
+  "item": "r12/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    3
+   ],
+   "B": [
+    5,
+    4,
+    3
+   ],
+   "C": [
+    5,
+    5,
+    4
+   ]
+  },
+  "rank": [
+   "C",
+   "A",
+   "B"
+  ],
+  "comment": "All fine."
+ },
+ {
+  "item": "r12/sharp",
+  "scores": {
+   "A": [
+    5,
+    3,
+    3
+   ],
+   "B": [
+    5,
+    3,
+    4
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "B",
+   "A"
+  ],
+  "comment": "C's \"how short are we talking?\" adds sharp wit."
+ },
+ {
+  "item": "r13/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    2
+   ],
+   "B": [
+    5,
+    5,
+    3
+   ],
+   "C": [
+    5,
+    4,
+    3
+   ]
+  },
+  "rank": [
+   "B",
+   "C",
+   "A"
+  ],
+  "comment": "A notes a phrase not in its text; C note has hidden chars."
+ },
+ {
+  "item": "r13/sharp",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    4,
+    5
+   ],
+   "C": [
+    3,
+    3,
+    2
+   ]
+  },
+  "rank": [
+   "A",
+   "B",
+   "C"
+  ],
+  "comment": "C's \"making a strong case for itself\" is muddled."
+ },
+ {
+  "item": "r14/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    3
+   ],
+   "B": [
+    5,
+    5,
+    4
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "B",
+   "A"
+  ],
+  "comment": "A has no notes; C missing period."
+ },
+ {
+  "item": "r14/sharp",
+  "scores": {
+   "A": [
+    5,
+    5,
+    4
+   ],
+   "B": [
+    5,
+    5,
+    5
+   ],
+   "C": [
+    4,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "B",
+   "C",
+   "A"
+  ],
+  "comment": "C assumes a restaurant."
+ },
+ {
+  "item": "r15/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    5,
+    5
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "B",
+   "C",
+   "A"
+  ],
+  "comment": "A's \"Let's split the fare\" redundant."
+ },
+ {
+  "item": "r15/sharp",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    5,
+    4
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "B",
+   "C",
+   "A"
+  ],
+  "comment": "B's \"pay twice for the same traffic\" and C's \"solo traveler tax\" both sharp."
+ },
+ {
+  "item": "r16/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    4,
+    4
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "A",
+   "B"
+  ],
+  "comment": "All good."
+ },
+ {
+  "item": "r16/sharp",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    5,
+    5
+   ],
+   "C": [
+    5,
+    4,
+    5
+   ]
+  },
+  "rank": [
+   "B",
+   "A",
+   "C"
+  ],
+  "comment": "All good."
+ },
+ {
+  "item": "r17/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    4
+   ],
+   "B": [
+    4,
+    4,
+    4
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "C",
+   "B"
+  ],
+  "comment": "B invents not having a go-to spot."
+ },
+ {
+  "item": "r17/sharp",
+  "scores": {
+   "A": [
+    4,
+    5,
+    4
+   ],
+   "B": [
+    5,
+    4,
+    2
+   ],
+   "C": [
+    4,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "B",
+   "C"
+  ],
+  "comment": "A's \"Which city?\" ignores \"the city\"; B no notes; C invents."
+ },
+ {
+  "item": "r18/chill",
+  "scores": {
+   "A": [
+    5,
+    4,
+    4
+   ],
+   "B": [
+    5,
+    5,
+    5
+   ],
+   "C": [
+    5,
+    4,
+    4
+   ]
+  },
+  "rank": [
+   "B",
+   "C",
+   "A"
+  ],
+  "comment": "All follow the encourage-intent."
+ },
+ {
+  "item": "r18/sharp",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    3,
+    5
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "A",
+   "C",
+   "B"
+  ],
+  "comment": "B is earnest and wordy."
+ },
+ {
+  "item": "r19/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    3
+   ],
+   "B": [
+    5,
+    5,
+    4
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "C",
+   "B",
+   "A"
+  ],
+  "comment": "A's note doesn't match text."
+ },
+ {
+  "item": "r19/sharp",
+  "scores": {
+   "A": [
+    5,
+    5,
+    5
+   ],
+   "B": [
+    5,
+    4,
+    5
+   ],
+   "C": [
+    5,
+    3,
+    4
+   ]
+  },
+  "rank": [
+   "A",
+   "B",
+   "C"
+  ],
+  "comment": "A's \"communal mystery box\" funniest."
+ },
+ {
+  "item": "r20/chill",
+  "scores": {
+   "A": [
+    5,
+    5,
+    4
+   ],
+   "B": [
+    5,
+    5,
+    5
+   ],
+   "C": [
+    5,
+    5,
+    5
+   ]
+  },
+  "rank": [
+   "B",
+   "C",
+   "A"
+  ],
+  "comment": "All good."
+ },
+ {
+  "item": "r20/sharp",
+  "scores": {
+   "A": [
+    5,
+    3,
+    4
+   ],
+   "B": [
+    5,
+    5,
+    5
+   ],
+   "C": [
+    5,
+    3,
+    3
+   ]
+  },
+  "rank": [
+   "B",
+   "A",
+   "C"
+  ],
+  "comment": "C has no notes and a flat second sentence."
+ }
+]

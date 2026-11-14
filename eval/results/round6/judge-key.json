@@ -1,0 +1,2362 @@
+{
+ "ee5e768e": {
+  "cfg": "ex",
+  "id": "sp01",
+  "style": "sharp"
+ },
+ "75dc5323": {
+  "cfg": "ex",
+  "id": "sp01",
+  "style": "chill"
+ },
+ "68f0a18c": {
+  "cfg": "ex",
+  "id": "sp02",
+  "style": "sharp"
+ },
+ "134971c2": {
+  "cfg": "ex",
+  "id": "sp02",
+  "style": "chill"
+ },
+ "67f9cd16": {
+  "cfg": "ex",
+  "id": "sp03",
+  "style": "sharp"
+ },
+ "bc31618b": {
+  "cfg": "ex",
+  "id": "sp03",
+  "style": "chill"
+ },
+ "f62fe3f9": {
+  "cfg": "ex",
+  "id": "sp04",
+  "style": "sharp"
+ },
+ "b4eb549b": {
+  "cfg": "ex",
+  "id": "sp04",
+  "style": "chill"
+ },
+ "ca2facd0": {
+  "cfg": "ex",
+  "id": "sp05",
+  "style": "sharp"
+ },
+ "58a519d2": {
+  "cfg": "ex",
+  "id": "sp05",
+  "style": "chill"
+ },
+ "7cc31353": {
+  "cfg": "ex",
+  "id": "sp06",
+  "style": "sharp"
+ },
+ "bedd9c8b": {
+  "cfg": "ex",
+  "id": "sp06",
+  "style": "chill"
+ },
+ "2d3e9c4f": {
+  "cfg": "ex",
+  "id": "sp07",
+  "style": "sharp"
+ },
+ "fa61956a": {
+  "cfg": "ex",
+  "id": "sp07",
+  "style": "chill"
+ },
+ "168e657c": {
+  "cfg": "ex",
+  "id": "sp08",
+  "style": "sharp"
+ },
+ "a607b43e": {
+  "cfg": "ex",
+  "id": "sp08",
+  "style": "chill"
+ },
+ "7011f2fe": {
+  "cfg": "ex",
+  "id": "sp09",
+  "style": "sharp"
+ },
+ "eb81d8d3": {
+  "cfg": "ex",
+  "id": "sp09",
+  "style": "chill"
+ },
+ "ae60c277": {
+  "cfg": "ex",
+  "id": "sp10",
+  "style": "sharp"
+ },
+ "ad46f047": {
+  "cfg": "ex",
+  "id": "sp10",
+  "style": "chill"
+ },
+ "dfb9f5bf": {
+  "cfg": "ex",
+  "id": "sp11",
+  "style": "sharp"
+ },
+ "118df2d9": {
+  "cfg": "ex",
+  "id": "sp11",
+  "style": "chill"
+ },
+ "54195019": {
+  "cfg": "ex",
+  "id": "sp12",
+  "style": "sharp"
+ },
+ "a3a77784": {
+  "cfg": "ex",
+  "id": "sp12",
+  "style": "chill"
+ },
+ "7226c01e": {
+  "cfg": "ex",
+  "id": "sp13",
+  "style": "sharp"
+ },
+ "18b4442a": {
+  "cfg": "ex",
+  "id": "sp13",
+  "style": "chill"
+ },
+ "5fe3676c": {
+  "cfg": "ex",
+  "id": "sp14",
+  "style": "sharp"
+ },
+ "95e686ac": {
+  "cfg": "ex",
+  "id": "sp14",
+  "style": "chill"
+ },
+ "d0780d77": {
+  "cfg": "ex",
+  "id": "sp15",
+  "style": "sharp"
+ },
+ "1d65f236": {
+  "cfg": "ex",
+  "id": "sp15",
+  "style": "chill"
+ },
+ "c685c287": {
+  "cfg": "ex",
+  "id": "sp16",
+  "style": "sharp"
+ },
+ "7d2a3296": {
+  "cfg": "ex",
+  "id": "sp16",
+  "style": "chill"
+ },
+ "45c22e55": {
+  "cfg": "ex",
+  "id": "sp17",
+  "style": "sharp"
+ },
+ "09fbe89e": {
+  "cfg": "ex",
+  "id": "sp17",
+  "style": "chill"
+ },
+ "36cdd724": {
+  "cfg": "ex",
+  "id": "sp18",
+  "style": "sharp"
+ },
+ "1d9e4e3c": {
+  "cfg": "ex",
+  "id": "sp18",
+  "style": "chill"
+ },
+ "ed892f17": {
+  "cfg": "ex",
+  "id": "sp19",
+  "style": "sharp"
+ },
+ "551111a4": {
+  "cfg": "ex",
+  "id": "sp19",
+  "style": "chill"
+ },
+ "ac3d56f7": {
+  "cfg": "ex",
+  "id": "sp20",
+  "style": "sharp"
+ },
+ "1a248709": {
+  "cfg": "ex",
+  "id": "sp20",
+  "style": "chill"
+ },
+ "7dd42b62": {
+  "cfg": "ex",
+  "id": "sp21",
+  "style": "sharp"
+ },
+ "6fe6a780": {
+  "cfg": "ex",
+  "id": "sp21",
+  "style": "chill"
+ },
+ "67069828": {
+  "cfg": "ex",
+  "id": "sp22",
+  "style": "sharp"
+ },
+ "a13de739": {
+  "cfg": "ex",
+  "id": "sp22",
+  "style": "chill"
+ },
+ "5296b8b7": {
+  "cfg": "ex",
+  "id": "sp23",
+  "style": "sharp"
+ },
+ "a53e0087": {
+  "cfg": "ex",
+  "id": "sp23",
+  "style": "chill"
+ },
+ "0c137b8c": {
+  "cfg": "ex",
+  "id": "sp24",
+  "style": "sharp"
+ },
+ "eb5d3c22": {
+  "cfg": "ex",
+  "id": "sp24",
+  "style": "chill"
+ },
+ "60fecb76": {
+  "cfg": "ex",
+  "id": "sp25",
+  "style": "sharp"
+ },
+ "5d73a678": {
+  "cfg": "ex",
+  "id": "sp25",
+  "style": "chill"
+ },
+ "e109be01": {
+  "cfg": "ex",
+  "id": "sp26",
+  "style": "sharp"
+ },
+ "f9c488be": {
+  "cfg": "ex",
+  "id": "sp26",
+  "style": "chill"
+ },
+ "3f650ada": {
+  "cfg": "ex",
+  "id": "sp27",
+  "style": "sharp"
+ },
+ "56ca4294": {
+  "cfg": "ex",
+  "id": "sp27",
+  "style": "chill"
+ },
+ "97e11a08": {
+  "cfg": "ex",
+  "id": "sp28",
+  "style": "sharp"
+ },
+ "8c576734": {
+  "cfg": "ex",
+  "id": "sp28",
+  "style": "chill"
+ },
+ "5684b5df": {
+  "cfg": "ex",
+  "id": "sp29",
+  "style": "sharp"
+ },
+ "f577a4ad": {
+  "cfg": "ex",
+  "id": "sp29",
+  "style": "chill"
+ },
+ "98e4f434": {
+  "cfg": "ex",
+  "id": "sp30",
+  "style": "sharp"
+ },
+ "3c71dcbb": {
+  "cfg": "ex",
+  "id": "sp30",
+  "style": "chill"
+ },
+ "ece450bb": {
+  "cfg": "ex",
+  "id": "hp01",
+  "style": "sharp"
+ },
+ "9b04aa37": {
+  "cfg": "ex",
+  "id": "hp01",
+  "style": "chill"
+ },
+ "538d1cc5": {
+  "cfg": "ex",
+  "id": "hp02",
+  "style": "sharp"
+ },
+ "e86def6a": {
+  "cfg": "ex",
+  "id": "hp02",
+  "style": "chill"
+ },
+ "945ffe17": {
+  "cfg": "ex",
+  "id": "hp03",
+  "style": "sharp"
+ },
+ "03e62756": {
+  "cfg": "ex",
+  "id": "hp03",
+  "style": "chill"
+ },
+ "300ec4ba": {
+  "cfg": "ex",
+  "id": "hp04",
+  "style": "sharp"
+ },
+ "0fd27f9d": {
+  "cfg": "ex",
+  "id": "hp04",
+  "style": "chill"
+ },
+ "95266d0b": {
+  "cfg": "ex",
+  "id": "hp05",
+  "style": "sharp"
+ },
+ "7b40c035": {
+  "cfg": "ex",
+  "id": "hp05",
+  "style": "chill"
+ },
+ "280da124": {
+  "cfg": "ex",
+  "id": "hp06",
+  "style": "sharp"
+ },
+ "a3b78ac9": {
+  "cfg": "ex",
+  "id": "hp06",
+  "style": "chill"
+ },
+ "160dd70b": {
+  "cfg": "ex",
+  "id": "hp07",
+  "style": "sharp"
+ },
+ "4fe561fa": {
+  "cfg": "ex",
+  "id": "hp07",
+  "style": "chill"
+ },
+ "c31ba4f1": {
+  "cfg": "ex",
+  "id": "hp08",
+  "style": "sharp"
+ },
+ "1e863777": {
+  "cfg": "ex",
+  "id": "hp08",
+  "style": "chill"
+ },
+ "8d013626": {
+  "cfg": "ex",
+  "id": "hp09",
+  "style": "sharp"
+ },
+ "c99e078b": {
+  "cfg": "ex",
+  "id": "hp09",
+  "style": "chill"
+ },
+ "db6910df": {
+  "cfg": "ex",
+  "id": "hp10",
+  "style": "sharp"
+ },
+ "a158b160": {
+  "cfg": "ex",
+  "id": "hp10",
+  "style": "chill"
+ },
+ "97275416": {
+  "cfg": "ex",
+  "id": "hp11",
+  "style": "sharp"
+ },
+ "7641f6e6": {
+  "cfg": "ex",
+  "id": "hp11",
+  "style": "chill"
+ },
+ "7642619a": {
+  "cfg": "ex",
+  "id": "hp12",
+  "style": "sharp"
+ },
+ "964656ad": {
+  "cfg": "ex",
+  "id": "hp12",
+  "style": "chill"
+ },
+ "a3f7628f": {
+  "cfg": "ex",
+  "id": "hp13",
+  "style": "sharp"
+ },
+ "f8dd9f48": {
+  "cfg": "ex",
+  "id": "hp13",
+  "style": "chill"
+ },
+ "2df6e376": {
+  "cfg": "ex",
+  "id": "hp14",
+  "style": "sharp"
+ },
+ "443ed760": {
+  "cfg": "ex",
+  "id": "hp14",
+  "style": "chill"
+ },
+ "5bfc1e56": {
+  "cfg": "ex",
+  "id": "hp15",
+  "style": "sharp"
+ },
+ "62ae2aa7": {
+  "cfg": "ex",
+  "id": "hp15",
+  "style": "chill"
+ },
+ "e0a49cab": {
+  "cfg": "ex",
+  "id": "sr01",
+  "style": "sharp"
+ },
+ "2eebaeec": {
+  "cfg": "ex",
+  "id": "sr01",
+  "style": "chill"
+ },
+ "72f05a23": {
+  "cfg": "ex",
+  "id": "sr02",
+  "style": "sharp"
+ },
+ "279ba155": {
+  "cfg": "ex",
+  "id": "sr02",
+  "style": "chill"
+ },
+ "af48d197": {
+  "cfg": "ex",
+  "id": "sr03",
+  "style": "sharp"
+ },
+ "cca9598d": {
+  "cfg": "ex",
+  "id": "sr03",
+  "style": "chill"
+ },
+ "1bb9d2a9": {
+  "cfg": "ex",
+  "id": "sr04",
+  "style": "sharp"
+ },
+ "8caffaae": {
+  "cfg": "ex",
+  "id": "sr04",
+  "style": "chill"
+ },
+ "7f70df4a": {
+  "cfg": "ex",
+  "id": "sr05",
+  "style": "sharp"
+ },
+ "8bb81afc": {
+  "cfg": "ex",
+  "id": "sr05",
+  "style": "chill"
+ },
+ "4390454c": {
+  "cfg": "ex",
+  "id": "sr06",
+  "style": "sharp"
+ },
+ "51989416": {
+  "cfg": "ex",
+  "id": "sr06",
+  "style": "chill"
+ },
+ "74f2f76f": {
+  "cfg": "ex",
+  "id": "sr07",
+  "style": "sharp"
+ },
+ "789e8031": {
+  "cfg": "ex",
+  "id": "sr07",
+  "style": "chill"
+ },
+ "f8bd09ad": {
+  "cfg": "ex",
+  "id": "sr08",
+  "style": "sharp"
+ },
+ "7368406a": {
+  "cfg": "ex",
+  "id": "sr08",
+  "style": "chill"
+ },
+ "1ceb4143": {
+  "cfg": "ex",
+  "id": "sr09",
+  "style": "sharp"
+ },
+ "0007c22d": {
+  "cfg": "ex",
+  "id": "sr09",
+  "style": "chill"
+ },
+ "8b0374bf": {
+  "cfg": "ex",
+  "id": "sr10",
+  "style": "sharp"
+ },
+ "47ef869a": {
+  "cfg": "ex",
+  "id": "sr10",
+  "style": "chill"
+ },
+ "4cea2540": {
+  "cfg": "ex",
+  "id": "sr11",
+  "style": "sharp"
+ },
+ "3fe55055": {
+  "cfg": "ex",
+  "id": "sr11",
+  "style": "chill"
+ },
+ "166f298d": {
+  "cfg": "ex",
+  "id": "sr12",
+  "style": "sharp"
+ },
+ "32f146a7": {
+  "cfg": "ex",
+  "id": "sr12",
+  "style": "chill"
+ },
+ "ddf9590d": {
+  "cfg": "ex",
+  "id": "sr13",
+  "style": "sharp"
+ },
+ "6452b371": {
+  "cfg": "ex",
+  "id": "sr13",
+  "style": "chill"
+ },
+ "ad5e357d": {
+  "cfg": "ex",
+  "id": "sr14",
+  "style": "sharp"
+ },
+ "f6ecf596": {
+  "cfg": "ex",
+  "id": "sr14",
+  "style": "chill"
+ },
+ "53cbd3c1": {
+  "cfg": "ex",
+  "id": "sr15",
+  "style": "sharp"
+ },
+ "7cfbbac1": {
+  "cfg": "ex",
+  "id": "sr15",
+  "style": "chill"
+ },
+ "61b668da": {
+  "cfg": "ex",
+  "id": "sr16",
+  "style": "sharp"
+ },
+ "006a850a": {
+  "cfg": "ex",
+  "id": "sr16",
+  "style": "chill"
+ },
+ "52a21d6d": {
+  "cfg": "ex",
+  "id": "sr17",
+  "style": "sharp"
+ },
+ "85c2b312": {
+  "cfg": "ex",
+  "id": "sr17",
+  "style": "chill"
+ },
+ "6f91808f": {
+  "cfg": "ex",
+  "id": "sr18",
+  "style": "sharp"
+ },
+ "419aaed2": {
+  "cfg": "ex",
+  "id": "sr18",
+  "style": "chill"
+ },
+ "d1ea34e7": {
+  "cfg": "ex",
+  "id": "sr19",
+  "style": "sharp"
+ },
+ "7f771a98": {
+  "cfg": "ex",
+  "id": "sr19",
+  "style": "chill"
+ },
+ "ae53b954": {
+  "cfg": "ex",
+  "id": "sr20",
+  "style": "sharp"
+ },
+ "692a6de1": {
+  "cfg": "ex",
+  "id": "sr20",
+  "style": "chill"
+ },
+ "a06aaa92": {
+  "cfg": "ex",
+  "id": "sr21",
+  "style": "sharp"
+ },
+ "029cba92": {
+  "cfg": "ex",
+  "id": "sr21",
+  "style": "chill"
+ },
+ "61fa13ab": {
+  "cfg": "ex",
+  "id": "sr22",
+  "style": "sharp"
+ },
+ "da0450a7": {
+  "cfg": "ex",
+  "id": "sr22",
+  "style": "chill"
+ },
+ "6b4dcbd5": {
+  "cfg": "ex",
+  "id": "sr23",
+  "style": "sharp"
+ },
+ "f207e566": {
+  "cfg": "ex",
+  "id": "sr23",
+  "style": "chill"
+ },
+ "0e46dc20": {
+  "cfg": "ex",
+  "id": "sr24",
+  "style": "sharp"
+ },
+ "c9f6ae71": {
+  "cfg": "ex",
+  "id": "sr24",
+  "style": "chill"
+ },
+ "8cb5d6f8": {
+  "cfg": "ex",
+  "id": "hr01",
+  "style": "sharp"
+ },
+ "7ed7d738": {
+  "cfg": "ex",
+  "id": "hr01",
+  "style": "chill"
+ },
+ "cbe9feef": {
+  "cfg": "ex",
+  "id": "hr02",
+  "style": "sharp"
+ },
+ "d6de7348": {
+  "cfg": "ex",
+  "id": "hr02",
+  "style": "chill"
+ },
+ "a9358974": {
+  "cfg": "ex",
+  "id": "hr03",
+  "style": "sharp"
+ },
+ "2e82bcce": {
+  "cfg": "ex",
+  "id": "hr03",
+  "style": "chill"
+ },
+ "aef548da": {
+  "cfg": "ex",
+  "id": "hr04",
+  "style": "sharp"
+ },
+ "ddb7347d": {
+  "cfg": "ex",
+  "id": "hr04",
+  "style": "chill"
+ },
+ "f3bd1692": {
+  "cfg": "ex",
+  "id": "hr05",
+  "style": "sharp"
+ },
+ "fd63af6b": {
+  "cfg": "ex",
+  "id": "hr05",
+  "style": "chill"
+ },
+ "a21676e7": {
+  "cfg": "ex",
+  "id": "hr06",
+  "style": "sharp"
+ },
+ "950e0819": {
+  "cfg": "ex",
+  "id": "hr06",
+  "style": "chill"
+ },
+ "5bae27e4": {
+  "cfg": "ex",
+  "id": "hr07",
+  "style": "sharp"
+ },
+ "dcf026ab": {
+  "cfg": "ex",
+  "id": "hr07",
+  "style": "chill"
+ },
+ "925e6bc5": {
+  "cfg": "ex",
+  "id": "hr08",
+  "style": "sharp"
+ },
+ "c12d17ff": {
+  "cfg": "ex",
+  "id": "hr08",
+  "style": "chill"
+ },
+ "12f39598": {
+  "cfg": "ex",
+  "id": "hr09",
+  "style": "sharp"
+ },
+ "9c75e50a": {
+  "cfg": "ex",
+  "id": "hr09",
+  "style": "chill"
+ },
+ "17cef97d": {
+  "cfg": "ex",
+  "id": "hr10",
+  "style": "sharp"
+ },
+ "d6560554": {
+  "cfg": "ex",
+  "id": "hr10",
+  "style": "chill"
+ },
+ "d9772471": {
+  "cfg": "ex",
+  "id": "hr11",
+  "style": "sharp"
+ },
+ "e1b3d3a7": {
+  "cfg": "ex",
+  "id": "hr11",
+  "style": "chill"
+ },
+ "8a193d0c": {
+  "cfg": "ex",
+  "id": "hr12",
+  "style": "sharp"
+ },
+ "14422065": {
+  "cfg": "ex",
+  "id": "hr12",
+  "style": "chill"
+ },
+ "abc28ba5": {
+  "cfg": "ex",
+  "id": "hr13",
+  "style": "sharp"
+ },
+ "c085335e": {
+  "cfg": "ex",
+  "id": "hr13",
+  "style": "chill"
+ },
+ "436e1162": {
+  "cfg": "ex",
+  "id": "sc01",
+  "style": "sharp"
+ },
+ "485c40cc": {
+  "cfg": "ex",
+  "id": "sc01",
+  "style": "chill"
+ },
+ "22eb32d3": {
+  "cfg": "ex",
+  "id": "sc02",
+  "style": "sharp"
+ },
+ "501fad6f": {
+  "cfg": "ex",
+  "id": "sc02",
+  "style": "chill"
+ },
+ "fc626014": {
+  "cfg": "ex",
+  "id": "sc03",
+  "style": "sharp"
+ },
+ "2e837147": {
+  "cfg": "ex",
+  "id": "sc03",
+  "style": "chill"
+ },
+ "dc509695": {
+  "cfg": "ex",
+  "id": "sc04",
+  "style": "sharp"
+ },
+ "da596685": {
+  "cfg": "ex",
+  "id": "sc04",
+  "style": "chill"
+ },
+ "204fbfd6": {
+  "cfg": "ex",
+  "id": "sc05",
+  "style": "sharp"
+ },
+ "2be0778a": {
+  "cfg": "ex",
+  "id": "sc05",
+  "style": "chill"
+ },
+ "51e10f82": {
+  "cfg": "ex",
+  "id": "sc06",
+  "style": "sharp"
+ },
+ "40455f3f": {
+  "cfg": "ex",
+  "id": "sc06",
+  "style": "chill"
+ },
+ "2b1dff56": {
+  "cfg": "ex",
+  "id": "sc07",
+  "style": "sharp"
+ },
+ "bd5522f6": {
+  "cfg": "ex",
+  "id": "sc07",
+  "style": "chill"
+ },
+ "acff8219": {
+  "cfg": "ex",
+  "id": "sc08",
+  "style": "sharp"
+ },
+ "26cfeef6": {
+  "cfg": "ex",
+  "id": "sc08",
+  "style": "chill"
+ },
+ "c23b43b9": {
+  "cfg": "ex",
+  "id": "sc09",
+  "style": "sharp"
+ },
+ "d23754c4": {
+  "cfg": "ex",
+  "id": "sc09",
+  "style": "chill"
+ },
+ "54ba640d": {
+  "cfg": "ex",
+  "id": "sc10",
+  "style": "sharp"
+ },
+ "3fcc7861": {
+  "cfg": "ex",
+  "id": "sc10",
+  "style": "chill"
+ },
+ "585fb1df": {
+  "cfg": "ex",
+  "id": "sc11",
+  "style": "sharp"
+ },
+ "8b052de1": {
+  "cfg": "ex",
+  "id": "sc11",
+  "style": "chill"
+ },
+ "e77133c4": {
+  "cfg": "ex",
+  "id": "sc12",
+  "style": "sharp"
+ },
+ "82abe057": {
+  "cfg": "ex",
+  "id": "sc12",
+  "style": "chill"
+ },
+ "cfbe8378": {
+  "cfg": "ex",
+  "id": "sc13",
+  "style": "sharp"
+ },
+ "abb197fc": {
+  "cfg": "ex",
+  "id": "sc13",
+  "style": "chill"
+ },
+ "f5f42bea": {
+  "cfg": "ex",
+  "id": "sc14",
+  "style": "sharp"
+ },
+ "3b6e87cb": {
+  "cfg": "ex",
+  "id": "sc14",
+  "style": "chill"
+ },
+ "b7c3cafd": {
+  "cfg": "ex",
+  "id": "sc15",
+  "style": "sharp"
+ },
+ "c4a18dff": {
+  "cfg": "ex",
+  "id": "sc15",
+  "style": "chill"
+ },
+ "4196be79": {
+  "cfg": "ex",
+  "id": "sc16",
+  "style": "sharp"
+ },
+ "8a95f14f": {
+  "cfg": "ex",
+  "id": "sc16",
+  "style": "chill"
+ },
+ "0ef0468b": {
+  "cfg": "ex",
+  "id": "sc17",
+  "style": "sharp"
+ },
+ "8cc5f6cc": {
+  "cfg": "ex",
+  "id": "sc17",
+  "style": "chill"
+ },
+ "c3fd93d2": {
+  "cfg": "ex",
+  "id": "sc18",
+  "style": "sharp"
+ },
+ "0deb261b": {
+  "cfg": "ex",
+  "id": "sc18",
+  "style": "chill"
+ },
+ "1cce0a28": {
+  "cfg": "ex",
+  "id": "sc19",
+  "style": "sharp"
+ },
+ "31404585": {
+  "cfg": "ex",
+  "id": "sc19",
+  "style": "chill"
+ },
+ "b1a86a7b": {
+  "cfg": "ex",
+  "id": "sc20",
+  "style": "sharp"
+ },
+ "18968b6f": {
+  "cfg": "ex",
+  "id": "sc20",
+  "style": "chill"
+ },
+ "6643eb88": {
+  "cfg": "ex",
+  "id": "sc21",
+  "style": "sharp"
+ },
+ "d62c195d": {
+  "cfg": "ex",
+  "id": "sc21",
+  "style": "chill"
+ },
+ "43420203": {
+  "cfg": "ex",
+  "id": "sc22",
+  "style": "sharp"
+ },
+ "aac20a5d": {
+  "cfg": "ex",
+  "id": "sc22",
+  "style": "chill"
+ },
+ "5a80bb41": {
+  "cfg": "ex",
+  "id": "sc23",
+  "style": "sharp"
+ },
+ "23a39afc": {
+  "cfg": "ex",
+  "id": "sc23",
+  "style": "chill"
+ },
+ "03feacff": {
+  "cfg": "ex",
+  "id": "sc24",
+  "style": "sharp"
+ },
+ "1ca07c6b": {
+  "cfg": "ex",
+  "id": "sc24",
+  "style": "chill"
+ },
+ "9fb8fdea": {
+  "cfg": "ex",
+  "id": "sc25",
+  "style": "sharp"
+ },
+ "45f00597": {
+  "cfg": "ex",
+  "id": "sc25",
+  "style": "chill"
+ },
+ "386e555b": {
+  "cfg": "ex",
+  "id": "sc26",
+  "style": "sharp"
+ },
+ "21c4ff61": {
+  "cfg": "ex",
+  "id": "sc26",
+  "style": "chill"
+ },
+ "426ee3a9": {
+  "cfg": "ex",
+  "id": "hc01",
+  "style": "sharp"
+ },
+ "a6b36370": {
+  "cfg": "ex",
+  "id": "hc01",
+  "style": "chill"
+ },
+ "855c962b": {
+  "cfg": "ex",
+  "id": "hc02",
+  "style": "sharp"
+ },
+ "f319bb44": {
+  "cfg": "ex",
+  "id": "hc02",
+  "style": "chill"
+ },
+ "4dbc54cf": {
+  "cfg": "ex",
+  "id": "hc03",
+  "style": "sharp"
+ },
+ "a603e22a": {
+  "cfg": "ex",
+  "id": "hc03",
+  "style": "chill"
+ },
+ "441cb6cd": {
+  "cfg": "ex",
+  "id": "hc04",
+  "style": "sharp"
+ },
+ "0d444f50": {
+  "cfg": "ex",
+  "id": "hc04",
+  "style": "chill"
+ },
+ "54ecdaa6": {
+  "cfg": "ex",
+  "id": "hc05",
+  "style": "sharp"
+ },
+ "b531647a": {
+  "cfg": "ex",
+  "id": "hc05",
+  "style": "chill"
+ },
+ "f49be13c": {
+  "cfg": "ex",
+  "id": "hc06",
+  "style": "sharp"
+ },
+ "bb9b23db": {
+  "cfg": "ex",
+  "id": "hc06",
+  "style": "chill"
+ },
+ "136ef66e": {
+  "cfg": "ex",
+  "id": "hc07",
+  "style": "sharp"
+ },
+ "ad3ec05a": {
+  "cfg": "ex",
+  "id": "hc07",
+  "style": "chill"
+ },
+ "85743496": {
+  "cfg": "ex",
+  "id": "hc08",
+  "style": "sharp"
+ },
+ "4ec33d5f": {
+  "cfg": "ex",
+  "id": "hc08",
+  "style": "chill"
+ },
+ "baf92444": {
+  "cfg": "ex",
+  "id": "hc09",
+  "style": "sharp"
+ },
+ "6d8e1267": {
+  "cfg": "ex",
+  "id": "hc09",
+  "style": "chill"
+ },
+ "c0561201": {
+  "cfg": "ex",
+  "id": "hc10",
+  "style": "sharp"
+ },
+ "5bd16be4": {
+  "cfg": "ex",
+  "id": "hc10",
+  "style": "chill"
+ },
+ "dba27df5": {
+  "cfg": "noex",
+  "id": "sp01",
+  "style": "sharp"
+ },
+ "1f440932": {
+  "cfg": "noex",
+  "id": "sp01",
+  "style": "chill"
+ },
+ "3dd08ec6": {
+  "cfg": "noex",
+  "id": "sp02",
+  "style": "sharp"
+ },
+ "b960fad0": {
+  "cfg": "noex",
+  "id": "sp02",
+  "style": "chill"
+ },
+ "a317a19b": {
+  "cfg": "noex",
+  "id": "sp03",
+  "style": "sharp"
+ },
+ "607b4425": {
+  "cfg": "noex",
+  "id": "sp03",
+  "style": "chill"
+ },
+ "c33fecd1": {
+  "cfg": "noex",
+  "id": "sp04",
+  "style": "sharp"
+ },
+ "868dd8c0": {
+  "cfg": "noex",
+  "id": "sp04",
+  "style": "chill"
+ },
+ "d51940bc": {
+  "cfg": "noex",
+  "id": "sp05",
+  "style": "sharp"
+ },
+ "45d4f434": {
+  "cfg": "noex",
+  "id": "sp05",
+  "style": "chill"
+ },
+ "e4717bd5": {
+  "cfg": "noex",
+  "id": "sp06",
+  "style": "sharp"
+ },
+ "5ad8dd0e": {
+  "cfg": "noex",
+  "id": "sp06",
+  "style": "chill"
+ },
+ "fe5c1ccf": {
+  "cfg": "noex",
+  "id": "sp07",
+  "style": "sharp"
+ },
+ "578e5fcc": {
+  "cfg": "noex",
+  "id": "sp07",
+  "style": "chill"
+ },
+ "2378fc4b": {
+  "cfg": "noex",
+  "id": "sp08",
+  "style": "sharp"
+ },
+ "12267fe7": {
+  "cfg": "noex",
+  "id": "sp08",
+  "style": "chill"
+ },
+ "636e5187": {
+  "cfg": "noex",
+  "id": "sp09",
+  "style": "sharp"
+ },
+ "ab315d52": {
+  "cfg": "noex",
+  "id": "sp09",
+  "style": "chill"
+ },
+ "b6026543": {
+  "cfg": "noex",
+  "id": "sp10",
+  "style": "sharp"
+ },
+ "ee7f2990": {
+  "cfg": "noex",
+  "id": "sp10",
+  "style": "chill"
+ },
+ "25398dec": {
+  "cfg": "noex",
+  "id": "sp11",
+  "style": "sharp"
+ },
+ "3079dd52": {
+  "cfg": "noex",
+  "id": "sp11",
+  "style": "chill"
+ },
+ "c34f138f": {
+  "cfg": "noex",
+  "id": "sp12",
+  "style": "sharp"
+ },
+ "dbcca5fe": {
+  "cfg": "noex",
+  "id": "sp12",
+  "style": "chill"
+ },
+ "d4838e82": {
+  "cfg": "noex",
+  "id": "sp13",
+  "style": "sharp"
+ },
+ "8a380af8": {
+  "cfg": "noex",
+  "id": "sp13",
+  "style": "chill"
+ },
+ "6b60cd78": {
+  "cfg": "noex",
+  "id": "sp14",
+  "style": "sharp"
+ },
+ "bff14abd": {
+  "cfg": "noex",
+  "id": "sp14",
+  "style": "chill"
+ },
+ "43488eed": {
+  "cfg": "noex",
+  "id": "sp15",
+  "style": "sharp"
+ },
+ "aabeacc6": {
+  "cfg": "noex",
+  "id": "sp15",
+  "style": "chill"
+ },
+ "7e32322e": {
+  "cfg": "noex",
+  "id": "sp16",
+  "style": "sharp"
+ },
+ "57c57ecc": {
+  "cfg": "noex",
+  "id": "sp16",
+  "style": "chill"
+ },
+ "ccc62483": {
+  "cfg": "noex",
+  "id": "sp17",
+  "style": "sharp"
+ },
+ "2216dc8e": {
+  "cfg": "noex",
+  "id": "sp17",
+  "style": "chill"
+ },
+ "dd338c03": {
+  "cfg": "noex",
+  "id": "sp18",
+  "style": "sharp"
+ },
+ "b0348418": {
+  "cfg": "noex",
+  "id": "sp18",
+  "style": "chill"
+ },
+ "d28bf645": {
+  "cfg": "noex",
+  "id": "sp19",
+  "style": "sharp"
+ },
+ "c103f7f7": {
+  "cfg": "noex",
+  "id": "sp19",
+  "style": "chill"
+ },
+ "43295a34": {
+  "cfg": "noex",
+  "id": "sp20",
+  "style": "sharp"
+ },
+ "057a35fc": {
+  "cfg": "noex",
+  "id": "sp20",
+  "style": "chill"
+ },
+ "b076bd4b": {
+  "cfg": "noex",
+  "id": "sp21",
+  "style": "sharp"
+ },
+ "6e9b68f5": {
+  "cfg": "noex",
+  "id": "sp21",
+  "style": "chill"
+ },
+ "464517fd": {
+  "cfg": "noex",
+  "id": "sp22",
+  "style": "sharp"
+ },
+ "9c2c8e89": {
+  "cfg": "noex",
+  "id": "sp22",
+  "style": "chill"
+ },
+ "c770e4be": {
+  "cfg": "noex",
+  "id": "sp23",
+  "style": "sharp"
+ },
+ "e79487b7": {
+  "cfg": "noex",
+  "id": "sp23",
+  "style": "chill"
+ },
+ "09464fcc": {
+  "cfg": "noex",
+  "id": "sp24",
+  "style": "sharp"
+ },
+ "fb703cb1": {
+  "cfg": "noex",
+  "id": "sp24",
+  "style": "chill"
+ },
+ "b8efe204": {
+  "cfg": "noex",
+  "id": "sp25",
+  "style": "sharp"
+ },
+ "16c0eea8": {
+  "cfg": "noex",
+  "id": "sp25",
+  "style": "chill"
+ },
+ "6b3ed203": {
+  "cfg": "noex",
+  "id": "sp26",
+  "style": "sharp"
+ },
+ "a6ba25a5": {
+  "cfg": "noex",
+  "id": "sp26",
+  "style": "chill"
+ },
+ "8990419b": {
+  "cfg": "noex",
+  "id": "sp27",
+  "style": "sharp"
+ },
+ "22106b5e": {
+  "cfg": "noex",
+  "id": "sp27",
+  "style": "chill"
+ },
+ "f8f8dc17": {
+  "cfg": "noex",
+  "id": "sp28",
+  "style": "sharp"
+ },
+ "81d48c63": {
+  "cfg": "noex",
+  "id": "sp28",
+  "style": "chill"
+ },
+ "a5eb457a": {
+  "cfg": "noex",
+  "id": "sp29",
+  "style": "sharp"
+ },
+ "54cb8ebd": {
+  "cfg": "noex",
+  "id": "sp29",
+  "style": "chill"
+ },
+ "b1a22955": {
+  "cfg": "noex",
+  "id": "sp30",
+  "style": "sharp"
+ },
+ "e8c7d55e": {
+  "cfg": "noex",
+  "id": "sp30",
+  "style": "chill"
+ },
+ "312bd347": {
+  "cfg": "noex",
+  "id": "hp01",
+  "style": "sharp"
+ },
+ "e2f8d156": {
+  "cfg": "noex",
+  "id": "hp01",
+  "style": "chill"
+ },
+ "e32ca3cd": {
+  "cfg": "noex",
+  "id": "hp02",
+  "style": "sharp"
+ },
+ "b4f86f62": {
+  "cfg": "noex",
+  "id": "hp02",
+  "style": "chill"
+ },
+ "4d3591b4": {
+  "cfg": "noex",
+  "id": "hp03",
+  "style": "sharp"
+ },
+ "3d7f6056": {
+  "cfg": "noex",
+  "id": "hp03",
+  "style": "chill"
+ },
+ "e9dbbae1": {
+  "cfg": "noex",
+  "id": "hp04",
+  "style": "sharp"
+ },
+ "3af3eb8f": {
+  "cfg": "noex",
+  "id": "hp04",
+  "style": "chill"
+ },
+ "7f0834fa": {
+  "cfg": "noex",
+  "id": "hp05",
+  "style": "sharp"
+ },
+ "6ecded5a": {
+  "cfg": "noex",
+  "id": "hp05",
+  "style": "chill"
+ },
+ "b887894f": {
+  "cfg": "noex",
+  "id": "hp06",
+  "style": "sharp"
+ },
+ "648a426f": {
+  "cfg": "noex",
+  "id": "hp06",
+  "style": "chill"
+ },
+ "6d458bf7": {
+  "cfg": "noex",
+  "id": "hp07",
+  "style": "sharp"
+ },
+ "f53583e5": {
+  "cfg": "noex",
+  "id": "hp07",
+  "style": "chill"
+ },
+ "c8821677": {
+  "cfg": "noex",
+  "id": "hp08",
+  "style": "sharp"
+ },
+ "0f5ac4af": {
+  "cfg": "noex",
+  "id": "hp08",
+  "style": "chill"
+ },
+ "0fcae11d": {
+  "cfg": "noex",
+  "id": "hp09",
+  "style": "sharp"
+ },
+ "f714f828": {
+  "cfg": "noex",
+  "id": "hp09",
+  "style": "chill"
+ },
+ "7531eb59": {
+  "cfg": "noex",
+  "id": "hp10",
+  "style": "sharp"
+ },
+ "db53b6a1": {
+  "cfg": "noex",
+  "id": "hp10",
+  "style": "chill"
+ },
+ "a8fe31ad": {
+  "cfg": "noex",
+  "id": "hp11",
+  "style": "sharp"
+ },
+ "da3885f1": {
+  "cfg": "noex",
+  "id": "hp11",
+  "style": "chill"
+ },
+ "2ab785ef": {
+  "cfg": "noex",
+  "id": "hp12",
+  "style": "sharp"
+ },
+ "e01b32cc": {
+  "cfg": "noex",
+  "id": "hp12",
+  "style": "chill"
+ },
+ "d2309b84": {
+  "cfg": "noex",
+  "id": "hp13",
+  "style": "sharp"
+ },
+ "72da9835": {
+  "cfg": "noex",
+  "id": "hp13",
+  "style": "chill"
+ },
+ "f9084353": {
+  "cfg": "noex",
+  "id": "hp14",
+  "style": "sharp"
+ },
+ "0e4bcb59": {
+  "cfg": "noex",
+  "id": "hp14",
+  "style": "chill"
+ },
+ "8df0f6b6": {
+  "cfg": "noex",
+  "id": "hp15",
+  "style": "sharp"
+ },
+ "793eed71": {
+  "cfg": "noex",
+  "id": "hp15",
+  "style": "chill"
+ },
+ "8f96e268": {
+  "cfg": "noex",
+  "id": "sr01",
+  "style": "sharp"
+ },
+ "fb15d16f": {
+  "cfg": "noex",
+  "id": "sr01",
+  "style": "chill"
+ },
+ "d1af9138": {
+  "cfg": "noex",
+  "id": "sr02",
+  "style": "sharp"
+ },
+ "973821f5": {
+  "cfg": "noex",
+  "id": "sr02",
+  "style": "chill"
+ },
+ "af9ff9b7": {
+  "cfg": "noex",
+  "id": "sr03",
+  "style": "sharp"
+ },
+ "4ba5593d": {
+  "cfg": "noex",
+  "id": "sr03",
+  "style": "chill"
+ },
+ "f57c7c5f": {
+  "cfg": "noex",
+  "id": "sr04",
+  "style": "sharp"
+ },
+ "f7654ff1": {
+  "cfg": "noex",
+  "id": "sr04",
+  "style": "chill"
+ },
+ "2aa56e96": {
+  "cfg": "noex",
+  "id": "sr05",
+  "style": "sharp"
+ },
+ "a426d830": {
+  "cfg": "noex",
+  "id": "sr05",
+  "style": "chill"
+ },
+ "48cda5e3": {
+  "cfg": "noex",
+  "id": "sr06",
+  "style": "sharp"
+ },
+ "36b00440": {
+  "cfg": "noex",
+  "id": "sr06",
+  "style": "chill"
+ },
+ "f5cd19e8": {
+  "cfg": "noex",
+  "id": "sr07",
+  "style": "sharp"
+ },
+ "c427f1da": {
+  "cfg": "noex",
+  "id": "sr07",
+  "style": "chill"
+ },
+ "476fef5d": {
+  "cfg": "noex",
+  "id": "sr08",
+  "style": "sharp"
+ },
+ "87f923ee": {
+  "cfg": "noex",
+  "id": "sr08",
+  "style": "chill"
+ },
+ "48bd36c2": {
+  "cfg": "noex",
+  "id": "sr09",
+  "style": "sharp"
+ },
+ "f60a82fc": {
+  "cfg": "noex",
+  "id": "sr09",
+  "style": "chill"
+ },
+ "72ebd03b": {
+  "cfg": "noex",
+  "id": "sr10",
+  "style": "sharp"
+ },
+ "c59bd647": {
+  "cfg": "noex",
+  "id": "sr10",
+  "style": "chill"
+ },
+ "3eb5df7c": {
+  "cfg": "noex",
+  "id": "sr11",
+  "style": "sharp"
+ },
+ "df87953b": {
+  "cfg": "noex",
+  "id": "sr11",
+  "style": "chill"
+ },
+ "b050f312": {
+  "cfg": "noex",
+  "id": "sr12",
+  "style": "sharp"
+ },
+ "e299fb1a": {
+  "cfg": "noex",
+  "id": "sr12",
+  "style": "chill"
+ },
+ "f2baa70c": {
+  "cfg": "noex",
+  "id": "sr13",
+  "style": "sharp"
+ },
+ "8205dbbc": {
+  "cfg": "noex",
+  "id": "sr13",
+  "style": "chill"
+ },
+ "8f5dd325": {
+  "cfg": "noex",
+  "id": "sr14",
+  "style": "sharp"
+ },
+ "ba5040f1": {
+  "cfg": "noex",
+  "id": "sr14",
+  "style": "chill"
+ },
+ "9fa55891": {
+  "cfg": "noex",
+  "id": "sr15",
+  "style": "sharp"
+ },
+ "757893eb": {
+  "cfg": "noex",
+  "id": "sr15",
+  "style": "chill"
+ },
+ "e287c964": {
+  "cfg": "noex",
+  "id": "sr16",
+  "style": "sharp"
+ },
+ "ddea515b": {
+  "cfg": "noex",
+  "id": "sr16",
+  "style": "chill"
+ },
+ "4a8a9b74": {
+  "cfg": "noex",
+  "id": "sr17",
+  "style": "sharp"
+ },
+ "1bd2d920": {
+  "cfg": "noex",
+  "id": "sr17",
+  "style": "chill"
+ },
+ "2d65861b": {
+  "cfg": "noex",
+  "id": "sr18",
+  "style": "sharp"
+ },
+ "ca2b401c": {
+  "cfg": "noex",
+  "id": "sr18",
+  "style": "chill"
+ },
+ "bd472d0f": {
+  "cfg": "noex",
+  "id": "sr19",
+  "style": "sharp"
+ },
+ "1ba9b906": {
+  "cfg": "noex",
+  "id": "sr19",
+  "style": "chill"
+ },
+ "155a52aa": {
+  "cfg": "noex",
+  "id": "sr20",
+  "style": "sharp"
+ },
+ "34756b67": {
+  "cfg": "noex",
+  "id": "sr20",
+  "style": "chill"
+ },
+ "9d0eced0": {
+  "cfg": "noex",
+  "id": "sr21",
+  "style": "sharp"
+ },
+ "eb206851": {
+  "cfg": "noex",
+  "id": "sr21",
+  "style": "chill"
+ },
+ "bd30626c": {
+  "cfg": "noex",
+  "id": "sr22",
+  "style": "sharp"
+ },
+ "fb49b430": {
+  "cfg": "noex",
+  "id": "sr22",
+  "style": "chill"
+ },
+ "906ba429": {
+  "cfg": "noex",
+  "id": "sr23",
+  "style": "sharp"
+ },
+ "a15d03ba": {
+  "cfg": "noex",
+  "id": "sr23",
+  "style": "chill"
+ },
+ "dce1c903": {
+  "cfg": "noex",
+  "id": "sr24",
+  "style": "sharp"
+ },
+ "7add3a05": {
+  "cfg": "noex",
+  "id": "sr24",
+  "style": "chill"
+ },
+ "b57f2edc": {
+  "cfg": "noex",
+  "id": "hr01",
+  "style": "sharp"
+ },
+ "027c64bc": {
+  "cfg": "noex",
+  "id": "hr01",
+  "style": "chill"
+ },
+ "9e8192f6": {
+  "cfg": "noex",
+  "id": "hr02",
+  "style": "sharp"
+ },
+ "07dd1a11": {
+  "cfg": "noex",
+  "id": "hr02",
+  "style": "chill"
+ },
+ "18b27638": {
+  "cfg": "noex",
+  "id": "hr03",
+  "style": "sharp"
+ },
+ "c8b3cc9a": {
+  "cfg": "noex",
+  "id": "hr03",
+  "style": "chill"
+ },
+ "a8026d7f": {
+  "cfg": "noex",
+  "id": "hr04",
+  "style": "sharp"
+ },
+ "7a9bea17": {
+  "cfg": "noex",
+  "id": "hr04",
+  "style": "chill"
+ },
+ "d69d7035": {
+  "cfg": "noex",
+  "id": "hr05",
+  "style": "sharp"
+ },
+ "855ec622": {
+  "cfg": "noex",
+  "id": "hr05",
+  "style": "chill"
+ },
+ "6d4bfe4d": {
+  "cfg": "noex",
+  "id": "hr06",
+  "style": "sharp"
+ },
+ "7d9d0119": {
+  "cfg": "noex",
+  "id": "hr06",
+  "style": "chill"
+ },
+ "978d31b6": {
+  "cfg": "noex",
+  "id": "hr07",
+  "style": "sharp"
+ },
+ "33b0c3b1": {
+  "cfg": "noex",
+  "id": "hr07",
+  "style": "chill"
+ },
+ "a1e51ce0": {
+  "cfg": "noex",
+  "id": "hr08",
+  "style": "sharp"
+ },
+ "bb3af6f5": {
+  "cfg": "noex",
+  "id": "hr08",
+  "style": "chill"
+ },
+ "a4685749": {
+  "cfg": "noex",
+  "id": "hr09",
+  "style": "sharp"
+ },
+ "3edfbbea": {
+  "cfg": "noex",
+  "id": "hr09",
+  "style": "chill"
+ },
+ "156babb4": {
+  "cfg": "noex",
+  "id": "hr10",
+  "style": "sharp"
+ },
+ "7f34b0e7": {
+  "cfg": "noex",
+  "id": "hr10",
+  "style": "chill"
+ },
+ "4ba71060": {
+  "cfg": "noex",
+  "id": "hr11",
+  "style": "sharp"
+ },
+ "d6505e07": {
+  "cfg": "noex",
+  "id": "hr11",
+  "style": "chill"
+ },
+ "0b28c205": {
+  "cfg": "noex",
+  "id": "hr12",
+  "style": "sharp"
+ },
+ "ee716360": {
+  "cfg": "noex",
+  "id": "hr12",
+  "style": "chill"
+ },
+ "95ecef78": {
+  "cfg": "noex",
+  "id": "hr13",
+  "style": "sharp"
+ },
+ "d6856101": {
+  "cfg": "noex",
+  "id": "hr13",
+  "style": "chill"
+ },
+ "60f429e9": {
+  "cfg": "noex",
+  "id": "sc01",
+  "style": "sharp"
+ },
+ "a2611277": {
+  "cfg": "noex",
+  "id": "sc01",
+  "style": "chill"
+ },
+ "049dca53": {
+  "cfg": "noex",
+  "id": "sc02",
+  "style": "sharp"
+ },
+ "ef1056c4": {
+  "cfg": "noex",
+  "id": "sc02",
+  "style": "chill"
+ },
+ "7800c460": {
+  "cfg": "noex",
+  "id": "sc03",
+  "style": "sharp"
+ },
+ "54fa9a8e": {
+  "cfg": "noex",
+  "id": "sc03",
+  "style": "chill"
+ },
+ "3d0ba45f": {
+  "cfg": "noex",
+  "id": "sc04",
+  "style": "sharp"
+ },
+ "45664466": {
+  "cfg": "noex",
+  "id": "sc04",
+  "style": "chill"
+ },
+ "b66d258e": {
+  "cfg": "noex",
+  "id": "sc05",
+  "style": "sharp"
+ },
+ "e413286d": {
+  "cfg": "noex",
+  "id": "sc05",
+  "style": "chill"
+ },
+ "dd46b9a3": {
+  "cfg": "noex",
+  "id": "sc06",
+  "style": "sharp"
+ },
+ "27f8f2e0": {
+  "cfg": "noex",
+  "id": "sc06",
+  "style": "chill"
+ },
+ "b19de7cf": {
+  "cfg": "noex",
+  "id": "sc07",
+  "style": "sharp"
+ },
+ "754db7bf": {
+  "cfg": "noex",
+  "id": "sc07",
+  "style": "chill"
+ },
+ "e7e0318d": {
+  "cfg": "noex",
+  "id": "sc08",
+  "style": "sharp"
+ },
+ "276baf13": {
+  "cfg": "noex",
+  "id": "sc08",
+  "style": "chill"
+ },
+ "5c3f7c3c": {
+  "cfg": "noex",
+  "id": "sc09",
+  "style": "sharp"
+ },
+ "5c2dd312": {
+  "cfg": "noex",
+  "id": "sc09",
+  "style": "chill"
+ },
+ "168a1815": {
+  "cfg": "noex",
+  "id": "sc10",
+  "style": "sharp"
+ },
+ "7d245242": {
+  "cfg": "noex",
+  "id": "sc10",
+  "style": "chill"
+ },
+ "d1aaaa34": {
+  "cfg": "noex",
+  "id": "sc11",
+  "style": "sharp"
+ },
+ "bf7697d4": {
+  "cfg": "noex",
+  "id": "sc11",
+  "style": "chill"
+ },
+ "cb602877": {
+  "cfg": "noex",
+  "id": "sc12",
+  "style": "sharp"
+ },
+ "46be3edc": {
+  "cfg": "noex",
+  "id": "sc12",
+  "style": "chill"
+ },
+ "ae97c28c": {
+  "cfg": "noex",
+  "id": "sc13",
+  "style": "sharp"
+ },
+ "2baa5920": {
+  "cfg": "noex",
+  "id": "sc13",
+  "style": "chill"
+ },
+ "67038003": {
+  "cfg": "noex",
+  "id": "sc14",
+  "style": "sharp"
+ },
+ "ada31bcb": {
+  "cfg": "noex",
+  "id": "sc14",
+  "style": "chill"
+ },
+ "e106fead": {
+  "cfg": "noex",
+  "id": "sc15",
+  "style": "sharp"
+ },
+ "c9ab7dfd": {
+  "cfg": "noex",
+  "id": "sc15",
+  "style": "chill"
+ },
+ "ec4280d8": {
+  "cfg": "noex",
+  "id": "sc16",
+  "style": "sharp"
+ },
+ "b0c912ee": {
+  "cfg": "noex",
+  "id": "sc16",
+  "style": "chill"
+ },
+ "cd0b9e96": {
+  "cfg": "noex",
+  "id": "sc17",
+  "style": "sharp"
+ },
+ "8eaacd8b": {
+  "cfg": "noex",
+  "id": "sc17",
+  "style": "chill"
+ },
+ "df4c46ff": {
+  "cfg": "noex",
+  "id": "sc18",
+  "style": "sharp"
+ },
+ "91071596": {
+  "cfg": "noex",
+  "id": "sc18",
+  "style": "chill"
+ },
+ "2c705cf5": {
+  "cfg": "noex",
+  "id": "sc19",
+  "style": "sharp"
+ },
+ "b3bc5b79": {
+  "cfg": "noex",
+  "id": "sc19",
+  "style": "chill"
+ },
+ "b01a5d36": {
+  "cfg": "noex",
+  "id": "sc20",
+  "style": "sharp"
+ },
+ "aefa55fd": {
+  "cfg": "noex",
+  "id": "sc20",
+  "style": "chill"
+ },
+ "2546b33b": {
+  "cfg": "noex",
+  "id": "sc21",
+  "style": "sharp"
+ },
+ "f8ea6ae0": {
+  "cfg": "noex",
+  "id": "sc21",
+  "style": "chill"
+ },
+ "bb2b4b29": {
+  "cfg": "noex",
+  "id": "sc22",
+  "style": "sharp"
+ },
+ "47122b45": {
+  "cfg": "noex",
+  "id": "sc22",
+  "style": "chill"
+ },
+ "2a988f72": {
+  "cfg": "noex",
+  "id": "sc23",
+  "style": "sharp"
+ },
+ "89bc3645": {
+  "cfg": "noex",
+  "id": "sc23",
+  "style": "chill"
+ },
+ "aa520fc1": {
+  "cfg": "noex",
+  "id": "sc24",
+  "style": "sharp"
+ },
+ "baf3302f": {
+  "cfg": "noex",
+  "id": "sc24",
+  "style": "chill"
+ },
+ "5982daa8": {
+  "cfg": "noex",
+  "id": "sc25",
+  "style": "sharp"
+ },
+ "45a29b70": {
+  "cfg": "noex",
+  "id": "sc25",
+  "style": "chill"
+ },
+ "45a1ff00": {
+  "cfg": "noex",
+  "id": "sc26",
+  "style": "sharp"
+ },
+ "71e10d36": {
+  "cfg": "noex",
+  "id": "sc26",
+  "style": "chill"
+ },
+ "7f849074": {
+  "cfg": "noex",
+  "id": "hc01",
+  "style": "sharp"
+ },
+ "28c7e2bd": {
+  "cfg": "noex",
+  "id": "hc01",
+  "style": "chill"
+ },
+ "2ebbff44": {
+  "cfg": "noex",
+  "id": "hc02",
+  "style": "sharp"
+ },
+ "f3b4a1cd": {
+  "cfg": "noex",
+  "id": "hc02",
+  "style": "chill"
+ },
+ "a91eddb7": {
+  "cfg": "noex",
+  "id": "hc03",
+  "style": "sharp"
+ },
+ "c0f9a785": {
+  "cfg": "noex",
+  "id": "hc03",
+  "style": "chill"
+ },
+ "be704882": {
+  "cfg": "noex",
+  "id": "hc04",
+  "style": "sharp"
+ },
+ "29dba150": {
+  "cfg": "noex",
+  "id": "hc04",
+  "style": "chill"
+ },
+ "344e3b53": {
+  "cfg": "noex",
+  "id": "hc05",
+  "style": "sharp"
+ },
+ "a9f5549e": {
+  "cfg": "noex",
+  "id": "hc05",
+  "style": "chill"
+ },
+ "200c2553": {
+  "cfg": "noex",
+  "id": "hc06",
+  "style": "sharp"
+ },
+ "c8126f53": {
+  "cfg": "noex",
+  "id": "hc06",
+  "style": "chill"
+ },
+ "696ea2dd": {
+  "cfg": "noex",
+  "id": "hc07",
+  "style": "sharp"
+ },
+ "48106855": {
+  "cfg": "noex",
+  "id": "hc07",
+  "style": "chill"
+ },
+ "af46d6e1": {
+  "cfg": "noex",
+  "id": "hc08",
+  "style": "sharp"
+ },
+ "87a7ee38": {
+  "cfg": "noex",
+  "id": "hc08",
+  "style": "chill"
+ },
+ "87238736": {
+  "cfg": "noex",
+  "id": "hc09",
+  "style": "sharp"
+ },
+ "5ede3657": {
+  "cfg": "noex",
+  "id": "hc09",
+  "style": "chill"
+ },
+ "16f980b1": {
+  "cfg": "noex",
+  "id": "hc10",
+  "style": "sharp"
+ },
+ "746b3af0": {
+  "cfg": "noex",
+  "id": "hc10",
+  "style": "chill"
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "polish_sharp": [
+  [
+   "The meeting is too long and nobody know what is the conclusion.",
+   "That meeting went on forever, and somehow nobody walked out knowing what we actually decided.\n---\nwent on forever\nwalked out knowing"
+  ],
+  [
+   "I am not sure if I can come to your party because I have many work.",
+   "I might have to sit this one out. Work has me completely buried right now.\n---\nsit this one out\nhas me completely buried"
+  ],
+  [
+   "My neighbor always park his car in my place, it makes me crazy.",
+   "My neighbor keeps parking in my spot like it's his birthright. It's driving me up the wall.\n---\nkeeps parking in my spot\ndriving me up the wall"
+  ]
+ ],
+ "polish_chill": [
+  [
+   "The meeting is too long and nobody know what is the conclusion.",
+   "That meeting dragged on forever and no one even knows what we decided lol.\n---\ndragged on forever\nwhat we decided"
+  ],
+  [
+   "I am not sure if I can come to your party because I have many work.",
+   "Not sure I can make it tbh, I'm kinda swamped with work rn.\n---\nmake it\nswamped with work"
+  ],
+  [
+   "My neighbor always park his car in my place, it makes me crazy.",
+   "My neighbor keeps parking in my spot and it's lowkey driving me nuts.\n---\nmy spot\ndriving me nuts"
+  ]
+ ],
+ "reply_sharp": [
+  [
+   "Did you finish the report?",
+   "Just sent it over. I proofread it twice, so any typos left are a creative choice.\n---\nsent it over\na creative choice"
+  ],
+  [
+   "I got promoted!!",
+   "Finally, someone over there with taste. Congrats — drinks are on you, obviously.\n---\nwith taste\ndrinks are on you"
+  ],
+  [
+   "Can you cover my shift on Sunday?\n可以，但想让他欠我一个人情",
+   "Sure, I've got you. Just know I'm keeping a running tab.\n---\nI've got you\nkeeping a running tab"
+  ]
+ ],
+ "reply_chill": [
+  [
+   "Did you finish the report?",
+   "Yep, just sent it! Lmk if anything looks off.\n---\nLmk if anything looks off"
+  ],
+  [
+   "I got promoted!!",
+   "Wait, no way!! Congrats, that's huge 🎉\n---\nthat's huge"
+  ],
+  [
+   "Can you cover my shift on Sunday?\n可以，但想让他欠我一个人情",
+   "Yeah, I got you! You owe me one tho 😏\n---\nI got you\nYou owe me one"
+  ]
+ ],
+ "zh_sharp": [
+  [
+   "这个项目我是真的不想再碰了。",
+   "I'm officially done with this project. Wouldn't touch it with a ten-foot pole.\n---\nwouldn't touch it with a ten-foot pole\nofficially done with"
+  ],
+  [
+   "他又在甩锅了。",
+   "And there he goes, passing the buck again. Like clockwork.\n---\npassing the buck\nLike clockwork"
+  ],
+  [
+   "这顿饭吃得我好撑，感觉要原地升天了。",
+   "I'm so full they might have to roll me out of here.\n---\nroll me out of here"
+  ]
+ ],
+ "zh_chill": [
+  [
+   "这个项目我是真的不想再碰了。",
+   "Honestly, I never wanna touch this project again lol.\n---\nnever wanna touch"
+  ],
+  [
+   "他又在甩锅了。",
+   "Ugh, he's throwing someone else under the bus again.\n---\nthrowing someone under the bus"
+  ],
+  [
+   "这顿饭吃得我好撑，感觉要原地升天了。",
+   "I'm sooo stuffed rn, I literally can't move.\n---\nsooo stuffed"
+  ]
+ ]
+}

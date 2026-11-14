@@ -1,0 +1,1346 @@
+[
+ {
+  "item": "hp01/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I'm agree that we need more time for testing.",
+  "candidates": [
+   {
+    "cid": "cc954525",
+    "text": "I'm with you—we need more time for testing.\n---\nI'm with you — 替代“I'm agree”：表示赞同对方的看法"
+   },
+   {
+    "cid": "aa676f67",
+    "text": "Yeah, I'm with you—we need more time to test.\n---\nI'm with you — 我同意你的看法"
+   },
+   {
+    "cid": "8fda35fb",
+    "text": "Yeah, I think we need a little more time to test things out.\n---\ntest things out — 替代“time for testing”：口语里常说 test things out，指实际测试看看"
+   },
+   {
+    "cid": "5cc2e87c",
+    "text": "Yeah, I agree we need more time to test.\n---\nmore time to test — 替代“more time for testing”：用不定式说明需要时间做什么"
+   }
+  ]
+ },
+ {
+  "item": "hp01/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I'm agree that we need more time for testing.",
+  "candidates": [
+   {
+    "cid": "8a1e6096",
+    "text": "I'm with you. We need more time for testing.\n---\nI'm with you — 替代“I'm agree”：口语中表示赞同对方的看法"
+   },
+   {
+    "cid": "a426f89f",
+    "text": "I’m with you. We need more time for testing.\n---\nI’m with you — 替代“I’m agree”：口语中表示赞同对方的看法"
+   },
+   {
+    "cid": "f7b04252",
+    "text": "I'm with you on this. Testing isn't something we should rush through.\n---\nI'm with you — 我同意你的看法\nrush through — 赶着做完，草草了事"
+   },
+   {
+    "cid": "2404d8fc",
+    "text": "I’m with you—we need to give testing more time.\n---\nI’m with you — 表示赞同某人的看法\ngive testing more time — 比“need more time for testing”更自然简洁的说法"
+   }
+  ]
+ },
+ {
+  "item": "hp02/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Yesterday I lost my wallet, so I must to go to the police station today.",
+  "candidates": [
+   {
+    "cid": "b0530111",
+    "text": "Lost my wallet yesterday, so I've gotta head to the police station today.\n---\nI've gotta — 我得，口语中表示必须\nhead to — 去某个地方的自然说法"
+   },
+   {
+    "cid": "3bcff029",
+    "text": "I lost my wallet yesterday, so I gotta go to the police station today.\n---\ngotta go — 替代“must to go”：口语里表达“得去”常说 gotta go"
+   },
+   {
+    "cid": "44ac74ff",
+    "text": "I lost my wallet yesterday, so I've gotta go to the police station today.\n---\nI've gotta go — 替代“must to go”：口语里表示得去一趟"
+   },
+   {
+    "cid": "3aeb56ee",
+    "text": "I lost my wallet yesterday, so I’ve gotta go to the police station today.\n---\nI’ve gotta go — 替代“must to go”：口语里表示必须得去"
+   }
+  ]
+ },
+ {
+  "item": "hp02/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Yesterday I lost my wallet, so I must to go to the police station today.",
+  "candidates": [
+   {
+    "cid": "40111c52",
+    "text": "I lost my wallet yesterday, so I have to go down to the police station today. Just what I needed.\n---\ngo down to — 表示去某个地方办事，口语中常用\nJust what I needed — 带点无奈地说“真是雪上加霜”"
+   },
+   {
+    "cid": "5be0f286",
+    "text": "I lost my wallet yesterday, so today I get to make a trip to the police station.\n---\nI get to — 本指有机会，这里反讽不得不\nmake a trip to — 专门跑一趟某个地方"
+   },
+   {
+    "cid": "29c4bf94",
+    "text": "I lost my wallet yesterday, so I have to head to the police station today.\n---\nhead to the police station — 替代“go to the police station”：口语中表示前往警察局"
+   },
+   {
+    "cid": "513822aa",
+    "text": "I lost my wallet yesterday, so now I have to make a trip to the police station.\n---\nmake a trip to — 替代“go to”：强调得专门跑一趟"
+   }
+  ]
+ },
+ {
+  "item": "hp03/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Do you mind to close the window? It's a bit cold.",
+  "candidates": [
+   {
+    "cid": "b0e66da2",
+    "text": "Could you close the window? It's kinda cold in here.\n---\nkinda cold in here — 比“a bit cold”更像随口说室内有点冷"
+   },
+   {
+    "cid": "1931b123",
+    "text": "Could you close the window? It's kinda chilly in here.\n---\nCould you — 客气地请别人帮忙\nkinda chilly — 有点冷，口语又自然"
+   },
+   {
+    "cid": "bc523c28",
+    "text": "Could you close the window? It's a bit chilly.\n---\nCould you close — 替代“Do you mind to close”：客气请人帮忙时用\na bit chilly — 替代“a bit cold”：说有点冷，语气较轻"
+   },
+   {
+    "cid": "f0fbc19c",
+    "text": "Could you close the window? It’s kinda chilly.\n---\nkinda chilly — 替代“a bit cold”：有点冷，语气随意柔和"
+   }
+  ]
+ },
+ {
+  "item": "hp03/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Do you mind to close the window? It's a bit cold.",
+  "candidates": [
+   {
+    "cid": "48e1f160",
+    "text": "Could you close the window? It's getting a little chilly in here.\n---\na little chilly — 有点凉，比cold更自然委婉"
+   },
+   {
+    "cid": "48347e15",
+    "text": "Could you close the window? I’m freezing over here.\n---\nfreezing over here — 比“a bit cold”更口语，强调自己觉得冷"
+   },
+   {
+    "cid": "6864f242",
+    "text": "Would you mind closing the window? It's a little chilly in here.\n---\na little chilly — 替代“a bit cold”：稍微有点冷，口语里常用来委婉表达"
+   },
+   {
+    "cid": "27e8ac87",
+    "text": "Mind closing the window? It’s a little chilly in here.\n---\na little chilly — 替代“a bit cold”：委婉地说有点冷"
+   }
+  ]
+ },
+ {
+  "item": "hp04/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "The movie was so touching that I almost cried, you should go to see it.",
+  "candidates": [
+   {
+    "cid": "f8b54a95",
+    "text": "That movie had me tearing up. You should totally check it out.\n---\nhad me tearing up — 感动得我眼泪都快出来了\ncheck it out — 去看看、了解一下"
+   },
+   {
+    "cid": "7fb1f001",
+    "text": "That movie was so touching, I almost cried. You should totally go see it.\n---\ngo see it — 替代“go to see it”：美式口语中常省略 to"
+   },
+   {
+    "cid": "ee69cb01",
+    "text": "That movie really got to me—I almost cried. You should go see it.\n---\ngot to me — 替代“was so touching”：触动了我，这里指感动\ngo see it — 替代“go to see it”：美式口语常省略 to"
+   },
+   {
+    "cid": "9aa3e669",
+    "text": "The movie was so moving I almost cried. You should definitely go see it.\n---\nso moving — 替代“so touching”：形容电影感人时常用 moving\ngo see it — 替代“go to see it”：口语里常省略 to\n"
+   }
+  ]
+ },
+ {
+  "item": "hp04/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "The movie was so touching that I almost cried, you should go to see it.",
+  "candidates": [
+   {
+    "cid": "7cea2557",
+    "text": "That movie really got to me. I almost cried. You should go see it.\n---\ngot to me — 替代“was so touching”：指触动情绪，这里是感动"
+   },
+   {
+    "cid": "e7ea572b",
+    "text": "That movie really got to me. I was this close to crying. You should go see it.\n---\ngot to me — 触动了我，让我情绪上来了\nthis close to crying — 就差一点要哭了，口语强调"
+   },
+   {
+    "cid": "4a3c62d0",
+    "text": "That movie really got to me. I almost cried. You should go see it.\n---\nreally got to me — 替代“was so touching”：表示被深深打动"
+   },
+   {
+    "cid": "de00d3f4",
+    "text": "The movie really got to me. I almost cried. You should go see it.\n---\ngot to me — 替代“was so touching”：表示作品很打动人、触动情绪\ngo see it — 替代“go to see it”：口语里常省略 to，直接说 go see it"
+   }
+  ]
+ },
+ {
+  "item": "hp05/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Me and my roommate are planning a trip to Japan in next month.",
+  "candidates": [
+   {
+    "cid": "fdd724f2",
+    "text": "My roommate and I are heading to Japan next month.\n---\nheading to — 要去某个地方"
+   },
+   {
+    "cid": "0f67eebe",
+    "text": "My roommate and I are planning to head to Japan next month.\n---\nhead to Japan — 替代“a trip to Japan”：用 head to 表示前往，语气随意"
+   },
+   {
+    "cid": "5181e461",
+    "text": "My roommate and I are planning a trip to Japan next month. Wanna come?\n---\nnext month — 替代“in next month”：next month 前不加 in\nWanna come? — 加入了原文没有表达的邀请，违反了不要添加内容要求"
+   },
+   {
+    "cid": "713b4520",
+    "text": "My roommate and I are planning a trip to Japan next month.\n---\nplanning a trip — 用于说正在筹划旅行"
+   }
+  ]
+ },
+ {
+  "item": "hp05/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Me and my roommate are planning a trip to Japan in next month.",
+  "candidates": [
+   {
+    "cid": "6538c34c",
+    "text": "My roommate and I are heading to Japan next month.\n---\nheading to Japan — 用来轻松地说正计划去某地旅行"
+   },
+   {
+    "cid": "54396e86",
+    "text": "My roommate and I are putting together a trip to Japan for next month.\n---\nputting together a trip — 筹划旅行，口语自然表达"
+   },
+   {
+    "cid": "e79ed114",
+    "text": "My roommate and I are heading to Japan next month.\n---\nheading to Japan — 替代“planning a trip to Japan”：口语说即将去某地"
+   },
+   {
+    "cid": "570aceae",
+    "text": "My roommate and I are putting together a trip to Japan for next month.\n---\nputting together a trip — 替代“planning a trip”：筹划一次旅行"
+   }
+  ]
+ },
+ {
+  "item": "hp06/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I have a good news for you!",
+  "candidates": [
+   {
+    "cid": "fc6e3793",
+    "text": "Got some great news for you!\n---\nGot some great news — 有好消息要告诉你"
+   },
+   {
+    "cid": "7f19e70c",
+    "text": "I've got some good news for you!\n---\nI've got some good news — 替代“I have a good news”：分享好消息时的口语开场"
+   },
+   {
+    "cid": "cb600ced",
+    "text": "I've got some good news for you!\n---\nsome good news — 替代“a good news”：news 是不可数名词，不能说 a news"
+   },
+   {
+    "cid": "9a511112",
+    "text": "I’ve got some good news for you!\n---\nI’ve got — 替代“I have”：分享消息时常说“我有……”"
+   }
+  ]
+ },
+ {
+  "item": "hp06/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I have a good news for you!",
+  "candidates": [
+   {
+    "cid": "f51fded0",
+    "text": "I’ve got some good news for you!\n---\nsome good news — 替代“a good news”：news 不可数，通常说 some good news"
+   },
+   {
+    "cid": "e4f5e842",
+    "text": "I've got some good news for you!\n---\ngot some good news — 替代“have a good news”：口语中说“有好消息”"
+   },
+   {
+    "cid": "aec52445",
+    "text": "Have I got good news for you!\n---\nHave I got — 倒装强调，表达兴奋而非提问"
+   },
+   {
+    "cid": "515ee4c1",
+    "text": "I've got good news for you!\n---\nI've got good news — 替代“have a good news”：口头报喜常用的开场"
+   }
+  ]
+ },
+ {
+  "item": "hp07/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Sorry, I can't join today's call because I have a doctor appointment at 3pm.",
+  "candidates": [
+   {
+    "cid": "e286c521",
+    "text": "Sorry, I can't make today's call—I have a doctor's appointment at 3.\n---\ncan't make today's call — 替代“can't join today's call”：表示没法参加会议时常用\ndoctor's appointment — 看医生的预约，通常不用特意说几点钟是下午\n"
+   },
+   {
+    "cid": "3f38786d",
+    "text": "Sorry, I can't make today's call—I’ve got a doctor's appointment at 3 p.m.\n---\ncan't make today's call — 替代“can't join today's call”：表示无法参加今天的通话"
+   },
+   {
+    "cid": "74020253",
+    "text": "Sorry, I can't make today's call. I've got a doctor's appointment at 3pm.\n---\ncan't make today's call — 替代“can't join today's call”：表示无法参加这次通话\nI've got — 替代“I have”：聊天时常用来说明已有安排"
+   },
+   {
+    "cid": "b961020f",
+    "text": "Sorry, I can’t make today’s call—I’ve got a doctor’s appointment at 3.\n---\ncan’t make today’s call — 没法参加今天的通话\nI’ve got — 口语里表示“我有”"
+   }
+  ]
+ },
+ {
+  "item": "hp07/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Sorry, I can't join today's call because I have a doctor appointment at 3pm.",
+  "candidates": [
+   {
+    "cid": "c9f599f6",
+    "text": "Sorry, I can’t make today’s call. I’ve got a doctor’s appointment at 3.\n---\nmake today’s call — 能参加今天的通话\nI’ve got — 口语中自然表达“我有”"
+   },
+   {
+    "cid": "fae83398",
+    "text": "Sorry, I can’t make today’s call. I have a doctor’s appointment at 3 p.m.\n---\ncan’t make today’s call — 替代“can't join today's call”：表示时间不合，无法参加"
+   },
+   {
+    "cid": "768b4f5b",
+    "text": "Sorry, I can't make today's call. I've got a doctor's appointment at 3.\n---\ncan't make today's call — 替代“can't join today's call”：口语里表示没法参加会议或通话\na doctor's appointment — 替代“doctor appointment”：appointment 前通常加所有格或限定词"
+   },
+   {
+    "cid": "0752ed46",
+    "text": "Sorry, I can’t make today’s call. I have a doctor’s appointment at 3.\n---\ncan’t make today’s call — 替代“can't join today's call”：口语中表示无法参加通话"
+   }
+  ]
+ },
+ {
+  "item": "hp08/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "This is the most delicious pizza I have ever ate.",
+  "candidates": [
+   {
+    "cid": "4cff285d",
+    "text": "This is hands down the best pizza I've ever had.\n---\nhands down the best — 替代“the most delicious”：强调绝对最好吃\nI've ever had — 替代“I have ever ate”：聊吃过的东西常用 had"
+   },
+   {
+    "cid": "4ee04d01",
+    "text": "This is seriously the best pizza I’ve ever had.\n---\nthe best pizza I’ve ever had — 替代“most delicious pizza I have ever ate”：说吃过最好吃的披萨"
+   },
+   {
+    "cid": "5bcb4dee",
+    "text": "This is hands down the best pizza I've ever had.\n---\nhands down — 毫无疑问，绝对\nthe best pizza I've ever had — 我吃过最好吃的披萨"
+   },
+   {
+    "cid": "dda0605f",
+    "text": "This is hands down the best pizza I've ever had.\n---\nhands down — 用来强调“毫无疑问”\nI've ever had — 说吃过的食物时常用的表达"
+   }
+  ]
+ },
+ {
+  "item": "hp08/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "This is the most delicious pizza I have ever ate.",
+  "candidates": [
+   {
+    "cid": "6b9be6f0",
+    "text": "This is hands down the best pizza I’ve ever had.\n---\nhands down — 用来强调“毫无疑问”\never had — 吃过某种食物时，母语者常用 have，不说 ate"
+   },
+   {
+    "cid": "40406e82",
+    "text": "This is hands down the best pizza I’ve ever had.\n---\nhands down the best — 替代“the most delicious”：强调毫无疑问是最好的\nI’ve ever had — 替代“I have ever ate”：谈吃过的食物常用 have had"
+   },
+   {
+    "cid": "6e9c9d63",
+    "text": "This is hands down the best pizza I’ve ever had. Nothing else even comes close.\n---\nhands down — 毫无悬念地，绝对是\nNothing else even comes close — 其他的根本没法比"
+   },
+   {
+    "cid": "8a4e9b3b",
+    "text": "This is hands down the best pizza I've ever had.\n---\nhands down the best — 替代“the most delicious”：强调最好吃，毫无悬念\npizza I've ever had — 替代“pizza I have ever ate”：评价吃过的食物常用 had"
+   }
+  ]
+ },
+ {
+  "item": "hp09/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Could you explain me how this function works?",
+  "candidates": [
+   {
+    "cid": "dbb63968",
+    "text": "Can you walk me through how this function works?\n---\nwalk me through — 替代“explain me”：请人一步步讲解时用。"
+   },
+   {
+    "cid": "e86b43a6",
+    "text": "Could you walk me through how this function works?\n---\nwalk me through — 用于请人一步步讲解某个流程或功能"
+   },
+   {
+    "cid": "5fa17b25",
+    "text": "Can you walk me through how this function works?\n---\nwalk me through — 一步步给我讲解"
+   },
+   {
+    "cid": "c4fac4f4",
+    "text": "Could you walk me through how this function works?\n---\nwalk me through — 替代“explain me”：一步步给我讲解"
+   }
+  ]
+ },
+ {
+  "item": "hp09/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Could you explain me how this function works?",
+  "candidates": [
+   {
+    "cid": "214e9419",
+    "text": "Could you walk me through how this function works?\n---\nwalk me through — 替代“explain me”：请人一步步讲解"
+   },
+   {
+    "cid": "4031ef33",
+    "text": "Could you walk me through how this function works?\n---\nwalk me through — 替代“explain me”：请对方一步步讲清楚"
+   },
+   {
+    "cid": "08f51a29",
+    "text": "Could you walk me through how this function works?\n---\nwalk me through — 替代“explain me”：请对方一步步讲解，常用于询问流程或做法"
+   },
+   {
+    "cid": "f0e6f6c9",
+    "text": "Can you walk me through what this function actually does?\n---\nwalk me through — 一步步给我讲解\nwhat this function actually does — 这个函数具体是干什么的"
+   }
+  ]
+ },
+ {
+  "item": "hp10/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I was very boring in the lecture so I played phone the whole time.",
+  "candidates": [
+   {
+    "cid": "66bb4848",
+    "text": "I was so bored during the lecture, I just spent the whole time messing around on my phone.\n---\nmessing around on my phone — 随便刷手机、打发时间"
+   },
+   {
+    "cid": "07806111",
+    "text": "I was so bored during the lecture that I was on my phone the whole time.\n---\nwas on my phone — 替代“played phone”：表示在用手机\nthe whole time — 表示从头到尾一直如此"
+   },
+   {
+    "cid": "e1aea2d4",
+    "text": "I was so bored during the lecture that I was on my phone the whole time.\n---\non my phone — 替代“played phone”：表示一直在玩手机\nso bored — 替代“very boring”：描述自己觉得无聊用 bored"
+   },
+   {
+    "cid": "51a00f2f",
+    "text": "I was so bored during the lecture, I just messed around on my phone the whole time.\n---\nso bored — 替代“very boring”：bored 是你觉得无聊\nmessed around on my phone — 替代“played phone”：随便刷刷、玩手机"
+   }
+  ]
+ },
+ {
+  "item": "hp10/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I was very boring in the lecture so I played phone the whole time.",
+  "candidates": [
+   {
+    "cid": "f7ea4f5c",
+    "text": "That lecture bored me to tears, so I spent the whole time glued to my phone.\n---\nbored me to tears — 无聊到受不了，口语夸张\nglued to my phone — 一直盯着手机，根本放不下"
+   },
+   {
+    "cid": "bed6a980",
+    "text": "I was bored out of my mind during the lecture, so I spent the whole time on my phone.\n---\nbored out of my mind — 替代“very boring”：强调无聊到受不了\non my phone — 替代“played phone”：指刷手机等各种手机活动"
+   },
+   {
+    "cid": "ce1c0dbe",
+    "text": "I was so bored during the lecture that I spent the whole time on my phone.\n---\nspent the whole time on my phone — 替代“played phone the whole time”：表示一直在玩手机"
+   },
+   {
+    "cid": "e6e70b0c",
+    "text": "The lecture was so mind-numbing I spent the whole time on my phone.\n---\nmind-numbing — 替代“very boring”：形容无聊到让人脑子发木\nspent the whole time on my phone — 替代“played phone the whole time”：表示整段时间都在玩手机"
+   }
+  ]
+ },
+ {
+  "item": "hp11/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "We arrived to the airport two hours before the flight.",
+  "candidates": [
+   {
+    "cid": "9eb6db3e",
+    "text": "We got to the airport with two hours to spare before our flight.\n---\ngot to — 到达，口语里很常用\nwith two hours to spare — 还剩两小时，时间充裕"
+   },
+   {
+    "cid": "0a5d3083",
+    "text": "We got to the airport two hours before our flight.\n---\ngot to the airport — 替代“arrived to the airport”：口语中常用来表示到达机场"
+   },
+   {
+    "cid": "fd6a2443",
+    "text": "We got to the airport two hours before our flight.\n---\ngot to the airport — 比 arrived at 更口语，表示“到达机场”\nour flight — 用物主代词表达自己要搭乘的航班"
+   },
+   {
+    "cid": "8b820c2f",
+    "text": "We got to the airport two hours before our flight.\n---\ngot to the airport — 替代“arrived to the airport”：聊天常用 get to 表示到达"
+   }
+  ]
+ },
+ {
+  "item": "hp11/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "We arrived to the airport two hours before the flight.",
+  "candidates": [
+   {
+    "cid": "910b04d1",
+    "text": "We got to the airport a full two hours before our flight, so we had plenty of time to kill.\n---\na full two hours — 强调时间足足有两小时\ntime to kill — 指有一段空闲时间，不知怎么打发"
+   },
+   {
+    "cid": "69aec943",
+    "text": "We got to the airport two hours before our flight.\n---\ngot to the airport — 替代“arrived to the airport”：口语常用 get to 表示到达"
+   },
+   {
+    "cid": "f6a5915b",
+    "text": "We got to the airport a full two hours before our flight.\n---\na full two hours — 整整两小时，强调时间充裕"
+   },
+   {
+    "cid": "9aae3db3",
+    "text": "We got to the airport two hours before our flight.\n---\ngot to the airport — 替代“arrived to the airport”：口语中常用 get to 表示到达"
+   }
+  ]
+ },
+ {
+  "item": "hp12/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Thanks for your help, it's very kind for you.",
+  "candidates": [
+   {
+    "cid": "be68363e",
+    "text": "Thanks for your help. That's super nice of you.\n---\nnice of you — 替代“very kind for you”：夸对方的举动贴心、友善"
+   },
+   {
+    "cid": "667200f5",
+    "text": "Thanks for your help, that’s really sweet of you.\n---\nreally sweet of you — 替代“very kind for you”：感谢对方贴心时常用"
+   },
+   {
+    "cid": "7ae6a0a0",
+    "text": "Really appreciate you helping me out. That's super nice of you.\n---\nhelping me out — 帮我一把\nsuper nice of you — 你人真好，口语中自然的感谢"
+   },
+   {
+    "cid": "47be3cd5",
+    "text": "Thanks for helping me out. That’s really kind of you.\n---\nhelping me out — 比“help”更口语，表示帮了忙\nkind of you — 替代“kind for you”：夸别人好心时用 kind of you"
+   }
+  ]
+ },
+ {
+  "item": "hp12/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Thanks for your help, it's very kind for you.",
+  "candidates": [
+   {
+    "cid": "e7f9c164",
+    "text": "Thanks for your help. That was really kind of you.\n---\nkind of you — 替代“kind for you”：表示对方的举动很体贴"
+   },
+   {
+    "cid": "0b2ceb5d",
+    "text": "Thanks for your help. That was really kind of you.\n---\nkind of you — 替代“kind for you”：英语里用 kind of someone 表示某人做事很体贴"
+   },
+   {
+    "cid": "12fedbcd",
+    "text": "Thanks for helping me out. I really appreciate you taking the time.\n---\nhelping me out — 帮我一把，比单说帮助更自然\ntaking the time — 特意抽出时间，表达感谢"
+   },
+   {
+    "cid": "db086c45",
+    "text": "Thanks for your help. That was really kind of you.\n---\nkind of you — 替代“kind for you”：夸对方的举动体贴、友善"
+   }
+  ]
+ },
+ {
+  "item": "hp13/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I'm thinking about whether I should accept the offer or not, it's a difficult decision.",
+  "candidates": [
+   {
+    "cid": "6b85fe50",
+    "text": "I’m trying to figure out whether to take the offer. It’s a tough call.\n---\nfigure out whether to — 替代“thinking about whether I should”：琢磨是否要做某事\na tough call — 替代“a difficult decision”：难以做出的决定"
+   },
+   {
+    "cid": "55876473",
+    "text": "I'm going back and forth on whether to take the offer. It's a tough call.\n---\ngoing back and forth — 替代“thinking about whether”：反复权衡，拿不定主意\na tough call — 替代“a difficult decision”：难做的决定"
+   },
+   {
+    "cid": "6b560bee",
+    "text": "I'm trying to decide whether to take the offer. It's a tough call.\n---\ntake the offer — 替代“accept the offer”：口语里常说 take an offer\na tough call — 替代“a difficult decision”：表示很难做的决定"
+   },
+   {
+    "cid": "fe8d357d",
+    "text": "I'm on the fence about taking the offer. It's a tough call.\n---\non the fence — 犹豫不决，还没拿定主意\ntaking the offer — 接受这份邀约或录用机会\na tough call — 很难做的决定"
+   }
+  ]
+ },
+ {
+  "item": "hp13/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I'm thinking about whether I should accept the offer or not, it's a difficult decision.",
+  "candidates": [
+   {
+    "cid": "a6b24620",
+    "text": "I'm on the fence about taking the offer. It's a tough call.\n---\non the fence — 替代“thinking about whether”：在两个选择间犹豫不决\na tough call — 替代“a difficult decision”：口语中指难做的决定"
+   },
+   {
+    "cid": "84b54acc",
+    "text": "I’m torn over whether to take the offer. It’s a tough call.\n---\nI’m torn over whether — 替代“thinking about whether”：表示在两个选择间犹豫不决\na tough call — 替代“a difficult decision”：口语里指难以抉择的事"
+   },
+   {
+    "cid": "e47d5c07",
+    "text": "I’m going back and forth on whether to accept the offer. It’s a tough call.\n---\ngoing back and forth — 替代“thinking about whether”：表示在两个选择间反复犹豫\na tough call — 替代“a difficult decision”：指难以做出的决定"
+   },
+   {
+    "cid": "b266b78f",
+    "text": "I'm still going back and forth on the offer. It's not exactly a no-brainer.\n---\ngoing back and forth — 来回纠结，拿不定主意\nnot exactly a no-brainer — 可不是能轻松拍板的事"
+   }
+  ]
+ },
+ {
+  "item": "hp14/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Let me know if there's anything I can do to help.",
+  "candidates": [
+   {
+    "cid": "d0986d5c",
+    "text": "Let me know if you need a hand with anything.\n---\nneed a hand — 替代“there's anything I can do to help”：表示需要帮忙"
+   },
+   {
+    "cid": "c828f8f3",
+    "text": "Let me know if there's anything I can do to help.\n---\nanything I can do to help — 有什么我能帮忙的事时常用的说法"
+   },
+   {
+    "cid": "9a733bb6",
+    "text": "Lmk if there's anything I can do to help.\n---\nLmk — 替代“Let me know”：聊天常用缩写，表示告诉我"
+   },
+   {
+    "cid": "323f723c",
+    "text": "Happy to lend a hand—just say the word.\n---\nlend a hand — 帮个忙\njust say the word — 需要就说一声"
+   }
+  ]
+ },
+ {
+  "item": "hp14/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Let me know if there's anything I can do to help.",
+  "candidates": [
+   {
+    "cid": "827afa97",
+    "text": "Let me know if there's anything I can do to help.\n---\nanything I can do to help — 表示愿意提供帮助，常用于主动提出支持"
+   },
+   {
+    "cid": "5ee1f49f",
+    "text": "If there’s anything I can do to help, just say the word.\n---\njust say the word — 替代“Let me know”：表示对方开口就行"
+   },
+   {
+    "cid": "cf80cc24",
+    "text": "If I can take anything off your plate, just say the word.\n---\ntake anything off your plate — 替你分担点事情\njust say the word — 需要就吱一声"
+   },
+   {
+    "cid": "8cea6dd7",
+    "text": "If you need a hand with anything, just say the word.\n---\nneed a hand — 替代“anything I can do to help”：口语里指需要帮忙\njust say the word — 替代“Let me know”：你开口就行，表示随时愿意帮忙"
+   }
+  ]
+ },
+ {
+  "item": "hp15/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I moved to Paris two years ago. At first I can't speak any French and everything was hard, but now I'm used to live here and I really enjoy it.",
+  "candidates": [
+   {
+    "cid": "9a32a343",
+    "text": "I moved to Paris two years ago. At first, I couldn't speak any French, and everything was hard, but now I'm used to living here and I really enjoy it.\n---\nused to living here — “be used to”后接名词或动名词，表示习惯了某种生活。"
+   },
+   {
+    "cid": "d7e329ce",
+    "text": "I moved to Paris two years ago. At first, I couldn’t speak any French and everything was tough, but now I’m used to living here and I really enjoy it.\n---\neverything was tough — 替代“everything was hard”：形容那时事事都不容易\nused to living here — 替代“used to live here”：表示已经习惯住在这里"
+   },
+   {
+    "cid": "eecf7001",
+    "text": "I moved to Paris two years ago. I didn’t speak a word of French at first, so even the little things were a struggle. But now I’ve settled in, and I’m really loving life here.\n---\ndidn’t speak a word — 一句都不会说\nwere a struggle — 做起来很吃力\nsettled in — 适应新环境，安顿下来"
+   },
+   {
+    "cid": "58cfc1b5",
+    "text": "I moved to Paris two years ago. At first I couldn't speak any French and everything was a struggle, but now I've settled in and I really like it here.\n---\neverything was a struggle — 替代“everything was hard”：事事都费劲时用\nI've settled in — 替代“I'm used to live here”：已适应新环境的生活"
+   }
+  ]
+ },
+ {
+  "item": "hp15/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I moved to Paris two years ago. At first I can't speak any French and everything was hard, but now I'm used to live here and I really enjoy it.",
+  "candidates": [
+   {
+    "cid": "4c105646",
+    "text": "I moved to Paris two years ago. At first I couldn't speak a word of French, and everything felt like an uphill battle. Now I've settled into life here, and I really enjoy it.\n---\nan uphill battle — 替代“everything was hard”：形容做什么都很费劲\nsettled into life here — 替代“used to live here”：已适应并安顿下来"
+   },
+   {
+    "cid": "1597346f",
+    "text": "I moved to Paris two years ago. At first, I couldn’t speak any French, and everything felt like an uphill battle. But now I’ve settled in, and I really enjoy living here.\n---\nan uphill battle — 替代“everything was hard”：形容处处都很艰难\nI’ve settled in — 替代“I'm used to live here”：表示已适应新环境"
+   },
+   {
+    "cid": "7db800fe",
+    "text": "I moved to Paris two years ago. At first, I couldn’t speak a word of French, and everything felt like an uphill battle. But now I’ve settled in, and I really love it here.\n---\ncouldn’t speak a word — 替代“can't speak any”：强调当时一点法语都不会\nsettled in — 替代“used to live here”：表示适应新环境、安顿下来"
+   },
+   {
+    "cid": "6a5cb7b2",
+    "text": "I moved to Paris two years ago without a word of French. At first, even the basics felt like an uphill battle, but now I’ve found my footing and really love living here.\n---\nwithout a word of French — 一句法语都不会\nan uphill battle — 做起来格外费劲的事\nfound my footing — 站稳脚跟，逐渐适应"
+   }
+  ]
+ },
+ {
+  "item": "p15/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "She is good in cooking but she hates to wash the dishes.",
+  "candidates": [
+   {
+    "cid": "ef55dbf8",
+    "text": "She's a great cook, but she can't stand doing the dishes.\n---\na great cook — 很会做饭的人\ncan't stand — 受不了，特别讨厌\ndoing the dishes — 洗碗"
+   },
+   {
+    "cid": "1ae573ce",
+    "text": "She’s great at cooking, but she hates doing the dishes.\n---\ngreat at cooking — “擅长烹饪”常用 great at 表达\ndoing the dishes — “洗碗”的常见口语说法"
+   },
+   {
+    "cid": "2a04d431",
+    "text": "She's a great cook, but she can't stand doing the dishes.\n---\na great cook — 替代“good in cooking”：夸人厨艺好时常用\ncan't stand doing — 替代“hates to wash”：表示特别讨厌做某事"
+   },
+   {
+    "cid": "e25fb1ac",
+    "text": "She’s a good cook, but she hates doing the dishes.\n---\na good cook — 替代“good in cooking”：夸人厨艺好时常这么说\ndoing the dishes — 替代“wash the dishes”：口语中常用来指洗碗"
+   }
+  ]
+ },
+ {
+  "item": "p15/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "She is good in cooking but she hates to wash the dishes.",
+  "candidates": [
+   {
+    "cid": "d1a0426d",
+    "text": "She’s a great cook, but she wants nothing to do with the dishes.\n---\na great cook — 替代“good in cooking”：直接说厨艺好\nwants nothing to do with — 替代“hates to wash”：一点也不想沾手"
+   },
+   {
+    "cid": "ea1da448",
+    "text": "She’s great in the kitchen, but she wants no part of the cleanup.\n---\ngreat in the kitchen — 替代“good in cooking”：夸人做饭好手的常用说法\nwants no part of — 表示完全不想参与某事，常用于口语**"
+   },
+   {
+    "cid": "c961e3e4",
+    "text": "She's a great cook, but doing the dishes? That's where she draws the line.\n---\ndoing the dishes — 洗碗的地道说法\ndraws the line — 到此为止，不愿再做"
+   },
+   {
+    "cid": "0626e1e0",
+    "text": "She’s a great cook, but she can’t stand doing the dishes.\n---\na great cook — 替代“good in cooking”：形容某人厨艺好\ncan’t stand doing — 替代“hates to”：表示受不了做某事"
+   }
+  ]
+ },
+ {
+  "item": "p16/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "We should go to there earlier to get a good seat.",
+  "candidates": [
+   {
+    "cid": "0506106b",
+    "text": "We should get there early so we can snag a good seat.\n---\nget there early — 替代“go to there earlier”：说早点到某处用 get there\nsnag a good seat — 替代“get a good seat”：口语里指抢到好座位"
+   },
+   {
+    "cid": "5e9ff839",
+    "text": "We should get there early if we wanna snag good seats.\n---\nget there early — 替代“go to there earlier”：表示早点到某个地方\nsnag good seats — 比“get a good seat”更随意，指抢到好座位"
+   },
+   {
+    "cid": "8a10d372",
+    "text": "We should get there early to snag a good seat.\n---\nget there early — 替代“go to there earlier”：强调早点到达\nsnag a good seat — 替代“get a good seat”：口语指抢先占个好座位"
+   },
+   {
+    "cid": "256c9e23",
+    "text": "Let's get there early so we can snag a good seat.\n---\nget there early — 早点到那里\nsnag a good seat — 抢到个好位子"
+   }
+  ]
+ },
+ {
+  "item": "p16/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "We should go to there earlier to get a good seat.",
+  "candidates": [
+   {
+    "cid": "4ea8ba14",
+    "text": "We should get there early if we want decent seats.\n---\nget there early — 替代“go to there earlier”：英语里用 get there 表示抵达某地\ndecent seats — 比“a good seat”更口语，指还不错的位置"
+   },
+   {
+    "cid": "727498ef",
+    "text": "We should get there early to snag a good seat.\n---\nsnag a good seat — 替代“get a good seat”：表示抢先占到好座位"
+   },
+   {
+    "cid": "474534d5",
+    "text": "We should get there early to snag a good seat.\n---\nsnag a good seat — 替代“get a good seat”：抢先占到好座位，语气轻快"
+   },
+   {
+    "cid": "c9f8c45c",
+    "text": "Let’s get there early so we’re not stuck with the lousy seats.\n---\nget there early — 早点到，口语不说go to there\nstuck with — 没得选，只能将就\n"
+   }
+  ]
+ },
+ {
+  "item": "p17/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I already finished my homework yesterday night.",
+  "candidates": [
+   {
+    "cid": "4dd2fe31",
+    "text": "Got my homework out of the way last night.\n---\nout of the way — 把该做的事做完，省心了"
+   },
+   {
+    "cid": "3de4698c",
+    "text": "I finished my homework last night.\n---\nlast night — 替代“yesterday night”：英语里通常说 last night 表示“昨晚”"
+   },
+   {
+    "cid": "e0786a7d",
+    "text": "I already got my homework done last night.\n---\ngot my homework done — 替代“finished my homework”：强调作业已搞定\nlast night — 替代“yesterday night”：昨晚的固定说法"
+   },
+   {
+    "cid": "f2941f08",
+    "text": "I got my homework done last night.\n---\ngot my homework done — 替代“finished my homework”：表示把作业做完了\nlast night — 替代“yesterday night”：昨晚通常说 last night"
+   }
+  ]
+ },
+ {
+  "item": "p17/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I already finished my homework yesterday night.",
+  "candidates": [
+   {
+    "cid": "c63d0c6e",
+    "text": "I got my homework out of the way last night.\n---\ngot my homework out of the way — 替代“finished my homework”：表示把要做的事解决掉"
+   },
+   {
+    "cid": "a05e1da8",
+    "text": "I already knocked out my homework last night.\n---\nknocked out my homework — 替代“finished my homework”：口语指把作业搞定"
+   },
+   {
+    "cid": "ff55855d",
+    "text": "I got my homework out of the way last night.\n---\nout of the way — 把该做的事搞定，不用再惦记"
+   },
+   {
+    "cid": "cc086b43",
+    "text": "I got my homework out of the way last night.\n---\nout of the way — 表示把事情先做完、处理掉\nlast night — 昨晚；比“yesterday night”自然常用"
+   }
+  ]
+ },
+ {
+  "item": "p18/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Actually I'm not very familiar about this kind of thing.",
+  "candidates": [
+   {
+    "cid": "00b6d275",
+    "text": "Honestly, this kinda stuff isn't really my thing.\n---\nthis kinda stuff — 这类事情的口语说法\nisn't really my thing — 不太擅长或熟悉这方面"
+   },
+   {
+    "cid": "2274d5a8",
+    "text": "Actually, I don't really know much about this kind of thing.\n---\nknow much about — 替代“very familiar about”：表示对某事了解不多"
+   },
+   {
+    "cid": "a783dcc3",
+    "text": "I’m not really familiar with this kind of thing, tbh.\n---\nfamiliar with — 替代“familiar about”：表示对某事熟悉时用 with\nkind of thing — 用来泛指某一类事情或情况"
+   },
+   {
+    "cid": "2ee9667f",
+    "text": "Actually, I don't really know much about this stuff.\n---\ndon't really know much — 替代“I'm not very familiar”：委婉表示不太了解\nthis stuff — 替代“this kind of thing”：泛指这类事，语气随意"
+   }
+  ]
+ },
+ {
+  "item": "p18/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Actually I'm not very familiar about this kind of thing.",
+  "candidates": [
+   {
+    "cid": "52596d08",
+    "text": "I’m not really up to speed on this kind of thing.\n---\nup to speed on — 替代“familiar about”：表示对某事了解得够多、跟得上情况\n"
+   },
+   {
+    "cid": "f9c97aae",
+    "text": "Actually, this isn't exactly my area.\n---\nisn't exactly my area — 替代“not very familiar”：委婉表示这方面不太懂"
+   },
+   {
+    "cid": "7e3e60e4",
+    "text": "Actually, this kind of thing isn’t really my area.\n---\nisn’t really my area — 替代“not very familiar about”：表示这不是自己熟悉的领域"
+   },
+   {
+    "cid": "4dc8c251",
+    "text": "Honestly, this isn't exactly my area of expertise.\n---\nisn't exactly — 委婉地说“算不上”\nmy area of expertise — 我擅长或熟悉的领域"
+   }
+  ]
+ },
+ {
+  "item": "p19/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I've been working in this company since three years.",
+  "candidates": [
+   {
+    "cid": "b1a7d13e",
+    "text": "I've been with this company for three years now.\n---\nbeen with this company — 比“working in this company”更自然地表达在这家公司工作\nfor three years now — 用 for 表示持续了多长时间"
+   },
+   {
+    "cid": "585c395d",
+    "text": "I've been at this company for three years now.\n---\nbeen at this company — 替代“working in this company”：说在公司工作可用 be at"
+   },
+   {
+    "cid": "2ef8eded",
+    "text": "I've been at this company for three years now.\n---\nbeen at this company — 替代“working in this company”：聊任职经历常用 be at。"
+   },
+   {
+    "cid": "4db4d9d5",
+    "text": "I've been at this company for three years now.\n---\nbeen at this company — 表示在这家公司任职\nfor three years now — 到现在已经三年了"
+   }
+  ]
+ },
+ {
+  "item": "p19/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I've been working in this company since three years.",
+  "candidates": [
+   {
+    "cid": "40b0f5cd",
+    "text": "I’ve been with this company for three years now.\n---\nbeen with this company — 替代“working in this company”：表示在这家公司工作"
+   },
+   {
+    "cid": "eaad5037",
+    "text": "I’ve been at this company for three years now.\n---\nfor three years now — 替代“since three years”：表示持续了三年，for 后接一段时间"
+   },
+   {
+    "cid": "fb64cb94",
+    "text": "I've got three years under my belt at this company.\n---\nunder my belt — 已积累的经验或经历"
+   },
+   {
+    "cid": "317321b0",
+    "text": "I've been with this company for three years now.\n---\nbeen with this company — 替代“working in this company”：强调在公司的任职经历"
+   }
+  ]
+ },
+ {
+  "item": "p20/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "If I would have known, I would have told you.",
+  "candidates": [
+   {
+    "cid": "28ccdc06",
+    "text": "I would've let you know if I'd known.\n---\nlet you know — 告诉你、跟你说一声\nif I'd known — 要是我当时知道就好了"
+   },
+   {
+    "cid": "239ba907",
+    "text": "If I'd known, I would've told you.\n---\nIf I'd known — 替代“If I would have known”：早知道的话，用于事后假设"
+   },
+   {
+    "cid": "dc09c63a",
+    "text": "If I’d known, I would’ve told you.\n---\nIf I’d known — 替代“If I would have known”：表示当时要是知道的话"
+   },
+   {
+    "cid": "cfe73583",
+    "text": "If I'd known, I would've told you.\n---\nIf I'd known — 替代“If I would have known”：虚拟语气里常用 had known\nw כד— A shorter, more conversational way to say “would have”"
+   }
+  ]
+ },
+ {
+  "item": "p20/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "If I would have known, I would have told you.",
+  "candidates": [
+   {
+    "cid": "a37cb068",
+    "text": "If I'd known, I would've told you.\n---\nIf I'd known — 替代“If I would have known”：早知道的话，常用于事后解释"
+   },
+   {
+    "cid": "d2f47547",
+    "text": "If I’d known, I would’ve told you.\n---\nIf I’d known — 替代“If I would have known”：表示“如果当时知道的话”"
+   },
+   {
+    "cid": "702aaa03",
+    "text": "If I’d known, I would’ve told you.\n---\nIf I’d known — 替代“If I would have known”：表达过去未发生的假设时，母语者会用这句更简洁的说法"
+   },
+   {
+    "cid": "69a4954d",
+    "text": "I would've told you. I just didn't know.\n---\nI just didn't know — 用 just 强调只是当时不知情"
+   }
+  ]
+ },
+ {
+  "item": "p21/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Honestly, I think we're overthinking this. Let's just ship it and see what happens.",
+  "candidates": [
+   {
+    "cid": "81f005ec",
+    "text": "Honestly, I think we're overthinking this. Let's just ship it and see what happens.\n---\nship it — 直接发布或推出产品、方案\nsee what happens — 先做了再看结果"
+   },
+   {
+    "cid": "3d2852b9",
+    "text": "Tbh, we're making this way more complicated than it needs to be. Let's ship it and see how it goes.\n---\nmaking this way more complicated — 把这事搞得太复杂了\nship it — 先上线或发布\nsee how it goes — 看看实际效果如何"
+   },
+   {
+    "cid": "3af40e42",
+    "text": "Honestly, I think we’re overthinking this. Let’s just ship it and see what happens.\n---\noverthinking this — 想得太多，把问题复杂化\nship it — 把产品或功能发布出去"
+   },
+   {
+    "cid": "de915472",
+    "text": "Honestly, I think we're overthinking this. Let's just ship it and see what happens.\n---\noverthinking this — 把事情想得太复杂，常用于劝人别纠结\nship it — 把产品或功能上线，常见于团队聊天"
+   }
+  ]
+ },
+ {
+  "item": "p21/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Honestly, I think we're overthinking this. Let's just ship it and see what happens.",
+  "candidates": [
+   {
+    "cid": "157d4fff",
+    "text": "Honestly, I think we’re overthinking this. Let’s just ship it and see what happens.\n---\noverthinking this — 想得太多，把事情复杂化\nship it — 把产品或功能发布出去"
+   },
+   {
+    "cid": "594bda90",
+    "text": "Honestly, I think we're overthinking this. Let's just ship it and see what happens.\n---\noverthinking this — 指把事情想得过于复杂，常用于劝人别纠结\nship it — 指把产品或功能发布出去，科技圈常用"
+   },
+   {
+    "cid": "ce63ff96",
+    "text": "Honestly, we're thinking this thing to death. Let's get it out the door and see how it goes.\n---\nthinking this thing to death — 反复琢磨，反而迟迟不行动\nget it out the door — 把产品或成果正式推出\nsee how it goes — 先试试看，再看情况"
+   },
+   {
+    "cid": "1bf602b1",
+    "text": "Honestly, I think we're overthinking this. Let's just ship it and see what happens.\n---\nship it — 表示先把东西发布或交付，再看结果"
+   }
+  ]
+ },
+ {
+  "item": "p22/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I'll grab coffee on my way in. Want anything?",
+  "candidates": [
+   {
+    "cid": "3756c56b",
+    "text": "I'm gonna grab coffee on my way in. Want anything?\n---\non my way in — 来上班或去某处的路上"
+   },
+   {
+    "cid": "5a9c1ad4",
+    "text": "I'm gonna grab coffee on my way in. Want anything?\n---\non my way in — 去公司等目的地的路上，常用于同事间。"
+   },
+   {
+    "cid": "167aae37",
+    "text": "I’ll grab coffee on my way in. Want anything?\n---\non my way in — 顺路过去时常用的说法"
+   },
+   {
+    "cid": "a99b9efa",
+    "text": "Gonna grab coffee on the way in. Want me to get you anything?\n---\nGonna grab — 打算去买，口语里很自然\non the way in — 去公司或目的地的路上"
+   }
+  ]
+ },
+ {
+  "item": "p22/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I'll grab coffee on my way in. Want anything?",
+  "candidates": [
+   {
+    "cid": "c3bbc5e4",
+    "text": "I'll grab coffee on my way in. Want anything?\n---\non my way in — 去公司等目的地的途中，熟人间无需明说地点"
+   },
+   {
+    "cid": "29d25fbd",
+    "text": "I'm making a coffee run on my way in. Can I get you anything?\n---\nmaking a coffee run — 去买咖啡，常暗含可以顺手带一杯"
+   },
+   {
+    "cid": "e1cfdadf",
+    "text": "I’ll grab coffee on my way in. Want anything?\n---\ngrab coffee — 随口说去买杯咖啡，不强调具体去哪家\non my way in — 顺路去上班或去某个地方时常用的说法"
+   },
+   {
+    "cid": "408a9b59",
+    "text": "I’m grabbing coffee on my way in. Want me to pick you up anything?\n---\npick you up anything — 顺路帮你带点什么，常用于买东西时"
+   }
+  ]
+ },
+ {
+  "item": "p23/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "That meeting could have been an email.",
+  "candidates": [
+   {
+    "cid": "79eefaa2",
+    "text": "That meeting could’ve been an email.\n---\ncould’ve been an email — 用来吐槽会议本可用邮件解决"
+   },
+   {
+    "cid": "cffe1c1f",
+    "text": "We really didn't need a whole meeting for that. An email would've done the trick.\n---\na whole meeting — 强调居然还专门开了个会\ndone the trick — 就能搞定、达到目的"
+   },
+   {
+    "cid": "d25ac783",
+    "text": "That meeting could've been an email.\n---\ncould've been an email — 替代“could have been an email”：吐槽会议没必要，邮件就能说清。"
+   },
+   {
+    "cid": "ce0d41f6",
+    "text": "That meeting could’ve been an email.\n---\ncould’ve been an email — 吐槽会议内容发邮件就够了"
+   }
+  ]
+ },
+ {
+  "item": "p23/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "That meeting could have been an email.",
+  "candidates": [
+   {
+    "cid": "6f05e48c",
+    "text": "That meeting could have been an email.\n---\ncould have been an email — 表示会议没必要，发封邮件就能解决"
+   },
+   {
+    "cid": "727d76f1",
+    "text": "Honestly, that meeting could’ve been an email.\n---\ncould’ve been an email — 指会议没必要，发邮件就能解决"
+   },
+   {
+    "cid": "d38b5d4e",
+    "text": "That meeting could’ve been an email. Honestly, we all could’ve gotten that time back.\n---\ncould’ve gotten that time back — 表示会议浪费了大家的时间\n"
+   },
+   {
+    "cid": "7cb52bf4",
+    "text": "We sat through a whole meeting for what was basically an email.\n---\nsat through — 耐着性子熬完，暗含无聊或不值"
+   }
+  ]
+ },
+ {
+  "item": "p24/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I'm not sure I follow. Could you walk me through it again?",
+  "candidates": [
+   {
+    "cid": "b8c7f521",
+    "text": "I’m not sure I’m following. Could you walk me through it again?\n---\nwalk me through it — 请对方一步步讲解某件事"
+   },
+   {
+    "cid": "9470feba",
+    "text": "I’m not sure I’m following. Can you walk me through it again?\n---\nwalk me through it — 请对方一步步讲解或演示"
+   },
+   {
+    "cid": "69d6892f",
+    "text": "I'm kinda lost. Can you run me through that again?\n---\nkinda lost — 有点没跟上或没听懂\nrun me through — 带我再过一遍"
+   },
+   {
+    "cid": "42404672",
+    "text": "I'm not sure I follow. Could you walk me through it again?\n---\nI'm not sure I follow — 表示没听明白，语气委婉不生硬\nwalk me through — 请对方一步步解释或演示"
+   }
+  ]
+ },
+ {
+  "item": "p24/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I'm not sure I follow. Could you walk me through it again?",
+  "candidates": [
+   {
+    "cid": "008c261a",
+    "text": "I'm not sure I follow. Could you walk me through it again?\n---\nI'm not sure I follow — 委婉表示没听懂对方的思路\nwalk me through it — 请对方一步步讲解，强调过程"
+   },
+   {
+    "cid": "6e268d65",
+    "text": "I'm not sure I'm following. Could you walk me through it one more time?\n---\nwalk me through it — 请对方按步骤再讲一遍，常用于解释流程或思路\none more time — 比 again 更口语，表示再来一遍"
+   },
+   {
+    "cid": "b2ea9b9b",
+    "text": "You lost me a little there. Can you break it down for me one more time?\n---\nYou lost me — 我有点没跟上你的思路\nbreak it down — 拆开来一步步解释\none more time — 再来一遍，口语自然表达"
+   },
+   {
+    "cid": "43fd05ed",
+    "text": "I’m not quite following. Could you walk me through it one more time?\n---\nnot quite following — 替代“not sure I follow”：委婉表示没完全听懂\nwalk me through it — 请对方一步步讲解或演示"
+   }
+  ]
+ },
+ {
+  "item": "p25/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Yesterday I went to my friend's birthday party. There was a lot of people that I don't know, so I felt a little awkward at the beginning. But after a few drinks everyone become very friendly and we played games until 2am. It was really a fun experience and I'm glad I went.",
+  "candidates": [
+   {
+    "cid": "e990b94f",
+    "text": "I went to my friend’s birthday party yesterday. I didn’t know a lot of people there, so I felt a little awkward at first. But after a few drinks, everyone loosened up, and we played games until 2 a.m. It was a lot of fun, and I’m glad I went.\n---\nloosened up — 气氛放松后，人们变得更自在\na lot of fun — 表达“很有趣”时比 really a fun experience 更口语"
+   },
+   {
+    "cid": "523ac1bc",
+    "text": "Went to my friend's birthday party yesterday. I barely knew anyone, so I felt kinda out of place at first. But after a few drinks, everyone warmed up and we ended up playing games till 2 a.m. Had a great time—really glad I went.\n---\nout of place — 感觉格格不入、不自在\nwarmed up — 慢慢放松，变得热络\nended up — 最后、不知不觉就"
+   },
+   {
+    "cid": "95b22404",
+    "text": "I went to my friend's birthday party yesterday. I didn't know a lot of people there, so it was kinda awkward at first. But after a few drinks, everyone warmed up and we played games until 2 a.m. I had a great time, and I'm glad I went.\n---\neveryone warmed up — 替代“everyone become very friendly”：大家放松下来，变得热络\nhad a great time — 替代“a fun experience”：聊聚会时说玩得很开心"
+   },
+   {
+    "cid": "f558e34c",
+    "text": "I went to my friend's birthday party yesterday. There were a lot of people I didn't know, so I felt kinda awkward at first. But after a few drinks, everyone was really friendly, and we played games until 2 a.m. It was a lot of fun, and I'm glad I went.\n---\nat first — 替代“at the beginning”：说起初的感觉常用\na lot of fun — 替代“a fun experience”：描述经历很开心"
+   }
+  ]
+ },
+ {
+  "item": "p25/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Yesterday I went to my friend's birthday party. There was a lot of people that I don't know, so I felt a little awkward at the beginning. But after a few drinks everyone become very friendly and we played games until 2am. It was really a fun experience and I'm glad I went.",
+  "candidates": [
+   {
+    "cid": "1993b33a",
+    "text": "I went to my friend’s birthday party yesterday. I didn’t know a lot of people there, so it was a little awkward at first. But after a few drinks, everyone warmed up, and we played games until 2 a.m. It was a lot of fun, and I’m glad I went.\n---\neveryone warmed up — 替代“everyone become very friendly”：大家渐渐放开了\na lot of fun — 替代“a fun experience”：说经历很有趣常用这个说法"
+   },
+   {
+    "cid": "459fd4c6",
+    "text": "I went to a friend's birthday party yesterday and barely knew anyone, so I felt a little out of place at first. But a few drinks in, everyone warmed up and we ended up playing games until two in the morning. Turns out it was a great time. I'm glad I went.\n---\nout of place — 感觉格格不入、不自在\na few drinks in — 喝了几杯之后\neveryone warmed up — 大家逐渐放松、热络起来"
+   },
+   {
+    "cid": "91561535",
+    "text": "Yesterday I went to a friend’s birthday party. I didn’t know many people there, so I felt a little awkward at first. But after a few drinks, everyone loosened up, and we ended up playing games until 2 a.m. It turned out to be a lot of fun, and I’m glad I went.\n---\nloosened up — 替代“became very friendly”：表示大家渐渐放松、气氛变轻松\nturned out to be a lot of fun — 替代“was really a fun experience”：表示结果比预想中有趣"
+   },
+   {
+    "cid": "d7dcafc2",
+    "text": "Yesterday I went to my friend's birthday party. I didn't know a lot of the people there, so I felt a little awkward at first. But a few drinks in, everyone warmed up and we played games until 2 a.m. I had a blast. Glad I went.\n---\na few drinks in — 替代“after a few drinks”：喝了几杯后，口语中交代进展\neveryone warmed up — 替代“everyone become very friendly”：大家逐渐放开，变得热络"
+   }
+  ]
+ },
+ {
+  "item": "p26/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Long time no see! How are you recently?",
+  "candidates": [
+   {
+    "cid": "9d234261",
+    "text": "Long time no see! How’ve you been?\n---\nHow’ve you been? — 久别重逢时常用来问最近过得怎么样"
+   },
+   {
+    "cid": "7d2e1993",
+    "text": "Long time no see! How’ve you been?\n---\nHow’ve you been — 替代“How are you recently”：询问对方近况"
+   },
+   {
+    "cid": "c1502d9f",
+    "text": "Hey, it's been forever! How've you been?\n---\nit's been forever — 好久没见时的夸张说法\nHow've you been — 问对方最近过得怎么样"
+   },
+   {
+    "cid": "212301cc",
+    "text": "Long time no see! How've you been?\n---\nHow've you been — 替代“How are you recently”：问对方这段时间过得怎样"
+   }
+  ]
+ },
+ {
+  "item": "p26/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Long time no see! How are you recently?",
+  "candidates": [
+   {
+    "cid": "c57bc4e3",
+    "text": "Long time no see! How have you been?\n---\nHow have you been — 替代“How are you recently”：问对方近来过得怎么样"
+   },
+   {
+    "cid": "685d7291",
+    "text": "Hey, it's been ages! How've you been?\n---\nit's been ages — 好久不见，熟人间的自然说法\nHow've you been — 问对方这段时间过得怎么样"
+   },
+   {
+    "cid": "e23f7842",
+    "text": "Long time no see! How've you been?\n---\nHow've you been — 替代“How are you recently”：问久未见的人最近过得怎样"
+   },
+   {
+    "cid": "06ce9465",
+    "text": "Long time no see! How’ve you been?\n---\nHow’ve you been? — 替代“How are you recently?”：久别重逢时问近况的常用说法"
+   }
+  ]
+ },
+ {
+  "item": "p27/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I'm going to the supermarket, do you need something?",
+  "candidates": [
+   {
+    "cid": "e4ae8130",
+    "text": "I'm heading to the grocery store. Need anything?\n---\nheading to — 替代“going to”：聊天时常用，表示要去某处\nNeed anything — 替代“do you need something”：随口问要不要带点东西"
+   },
+   {
+    "cid": "843ac987",
+    "text": "Gonna make a grocery run. Need anything?\n---\nmake a grocery run — 去趟超市买东西"
+   },
+   {
+    "cid": "dd46e1b9",
+    "text": "I’m heading to the store—need anything?\n---\nheading to the store — 比“going to the supermarket”更像日常口语，表示正要去商店\nneed anything? — 省略“Do you”，聊天时这样问更随意"
+   },
+   {
+    "cid": "0f4274fa",
+    "text": "I’m heading to the grocery store. Need anything?\n---\nheading to — 替代“going to”：聊天时表示正要去某处\nNeed anything — 替代“do you need something”：随口问对方需不需要东西"
+   }
+  ]
+ },
+ {
+  "item": "p27/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I'm going to the supermarket, do you need something?",
+  "candidates": [
+   {
+    "cid": "a1c6c709",
+    "text": "I’m heading to the store. Need me to grab anything?\n---\nheading to the store — 比 going to 更像随口说自己正要出门去商店\ngrab anything — 顺路帮忙买点什么**"
+   },
+   {
+    "cid": "fd7768ce",
+    "text": "I'm making a grocery run. Need anything?\n---\na grocery run — 替代“going to the supermarket”：指去超市买趟东西\nNeed anything — 替代“do you need something”：随口问要不要捎点东西"
+   },
+   {
+    "cid": "4101c272",
+    "text": "I'm heading to the supermarket. Need anything?\n---\nheading to — 替代“going to”：口语中表示正要去某处"
+   },
+   {
+    "cid": "5ce6db3a",
+    "text": "I'm making a grocery run. Want me to grab you anything?\n---\nmaking a grocery run — 去趟超市买东西，日常说法\ngrab you anything — 顺手帮你买点什么"
+   }
+  ]
+ }
+]

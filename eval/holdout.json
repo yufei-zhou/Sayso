@@ -1,0 +1,257 @@
+{
+ "polish": [
+  {
+   "id": "hp01",
+   "text": "I'm agree that we need more time for testing.",
+   "errors": [
+    [
+     "I'm agree",
+     "I agree"
+    ]
+   ]
+  },
+  {
+   "id": "hp02",
+   "text": "Yesterday I lost my wallet, so I must to go to the police station today.",
+   "errors": [
+    [
+     "must to go",
+     "have to go"
+    ]
+   ]
+  },
+  {
+   "id": "hp03",
+   "text": "Do you mind to close the window? It's a bit cold.",
+   "errors": [
+    [
+     "mind to close",
+     "mind closing"
+    ]
+   ]
+  },
+  {
+   "id": "hp04",
+   "text": "The movie was so touching that I almost cried, you should go to see it.",
+   "errors": [
+    [
+     "go to see it",
+     "go see it"
+    ]
+   ]
+  },
+  {
+   "id": "hp05",
+   "text": "Me and my roommate are planning a trip to Japan in next month.",
+   "errors": [
+    [
+     "in next month",
+     "next month"
+    ],
+    [
+     "Me and my roommate are",
+     "My roommate and I are"
+    ]
+   ]
+  },
+  {
+   "id": "hp06",
+   "text": "I have a good news for you!",
+   "errors": [
+    [
+     "a good news",
+     "some good news"
+    ]
+   ]
+  },
+  {
+   "id": "hp07",
+   "text": "Sorry, I can't join today's call because I have a doctor appointment at 3pm.",
+   "errors": [
+    [
+     "doctor appointment",
+     "doctor's appointment"
+    ]
+   ]
+  },
+  {
+   "id": "hp08",
+   "text": "This is the most delicious pizza I have ever ate.",
+   "errors": [
+    [
+     "have ever ate",
+     "have ever eaten"
+    ]
+   ]
+  },
+  {
+   "id": "hp09",
+   "text": "Could you explain me how this function works?",
+   "errors": [
+    [
+     "explain me how",
+     "explain to me how"
+    ]
+   ]
+  },
+  {
+   "id": "hp10",
+   "text": "I was very boring in the lecture so I played phone the whole time.",
+   "errors": [
+    [
+     "I was very boring",
+     "I was so bored"
+    ],
+    [
+     "played phone",
+     "was on my phone"
+    ]
+   ]
+  },
+  {
+   "id": "hp11",
+   "text": "We arrived to the airport two hours before the flight.",
+   "errors": [
+    [
+     "arrived to the airport",
+     "arrived at the airport"
+    ]
+   ]
+  },
+  {
+   "id": "hp12",
+   "text": "Thanks for your help, it's very kind for you.",
+   "errors": [
+    [
+     "kind for you",
+     "kind of you"
+    ]
+   ]
+  },
+  {
+   "id": "hp13",
+   "text": "I'm thinking about whether I should accept the offer or not, it's a difficult decision.",
+   "errors": []
+  },
+  {
+   "id": "hp14",
+   "text": "Let me know if there's anything I can do to help.",
+   "errors": []
+  },
+  {
+   "id": "hp15",
+   "text": "I moved to Paris two years ago. At first I can't speak any French and everything was hard, but now I'm used to live here and I really enjoy it.",
+   "errors": [
+    [
+     "I can't speak",
+     "I couldn't speak"
+    ],
+    [
+     "used to live",
+     "used to living"
+    ]
+   ]
+  }
+ ],
+ "reply": [
+  {
+   "id": "hr01",
+   "text": "omg I just spilled coffee all over my laptop"
+  },
+  {
+   "id": "hr02",
+   "text": "Hey, would you mind reviewing my cover letter before I send it tonight?"
+  },
+  {
+   "id": "hr03",
+   "text": "We're thinking of getting a dog. Thoughts?"
+  },
+  {
+   "id": "hr04",
+   "text": "Happy birthday!! Hope you have an amazing day 🎂"
+  },
+  {
+   "id": "hr05",
+   "text": "Did you end up going to that concert?",
+   "note": "我去了，超好看，但是人太多了"
+  },
+  {
+   "id": "hr06",
+   "text": "The 3pm meeting is moved to tomorrow, sorry for the short notice."
+  },
+  {
+   "id": "hr07",
+   "text": "I failed my driving test again 😩"
+  },
+  {
+   "id": "hr08",
+   "text": "Can I borrow your car this weekend?",
+   "note": "不想借，委婉一点"
+  },
+  {
+   "id": "hr09",
+   "text": "dude you have to try this new taco place, it's insane"
+  },
+  {
+   "id": "hr10",
+   "text": "My mom's in the hospital, I might be offline for a few days."
+  },
+  {
+   "id": "hr11",
+   "text": "Are you free to grab lunch tomorrow?",
+   "note": "yes, but only after 1pm"
+  },
+  {
+   "id": "hr12",
+   "text": "Sorry I snapped at you in the meeting earlier.",
+   "note": "it's fine, I was annoyed but I get it, let's move on"
+  },
+  {
+   "id": "hr13",
+   "text": "Do you want to split a cabin for the ski trip?",
+   "note": "想去，但是预算有限，问问价格"
+  }
+ ],
+ "zh": [
+  {
+   "id": "hc01",
+   "text": "这周忙得脚不沾地，周末只想躺平。"
+  },
+  {
+   "id": "hc02",
+   "text": "他说话老是绕弯子，听得我好累。"
+  },
+  {
+   "id": "hc03",
+   "text": "别急，慢慢来，我们时间还够。"
+  },
+  {
+   "id": "hc04",
+   "text": "这个价格也太离谱了吧，我不买了。"
+  },
+  {
+   "id": "hc05",
+   "text": "我就随口一说，你别当真。"
+  },
+  {
+   "id": "hc06",
+   "text": "这次面试我觉得稳了。"
+  },
+  {
+   "id": "hc07",
+   "text": "他俩最近好像在冷战。"
+  },
+  {
+   "id": "hc08",
+   "text": "早知道会堵车，我就坐地铁了。"
+  },
+  {
+   "id": "hc09",
+   "text": "这个bug我修了一下午，结果是少了个分号，心态崩了。"
+  },
+  {
+   "id": "hc10",
+   "text": "谢谢你帮我这么大的忙，改天请你吃饭。"
+  }
+ ]
+}

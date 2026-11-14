@@ -1,0 +1,622 @@
+{
+ "c01/chill": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6.1-terra"
+ },
+ "c01/sharp": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6.1-terra"
+ },
+ "c02/chill": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-sol"
+ },
+ "c02/sharp": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6.1-terra"
+ },
+ "c03/chill": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6-luna"
+ },
+ "c03/sharp": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-sol"
+ },
+ "c04/chill": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-terra"
+ },
+ "c04/sharp": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-sol"
+ },
+ "c05/chill": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6.1-sol"
+ },
+ "c05/sharp": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-sol"
+ },
+ "c06/chill": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-sol"
+ },
+ "c06/sharp": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6-luna"
+ },
+ "c07/chill": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-sol"
+ },
+ "c07/sharp": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-sol"
+ },
+ "c08/chill": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-terra"
+ },
+ "c08/sharp": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-sol"
+ },
+ "c09/chill": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6-luna"
+ },
+ "c09/sharp": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6-luna"
+ },
+ "c10/chill": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-sol"
+ },
+ "c10/sharp": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6.1-terra"
+ },
+ "c11/chill": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6-luna"
+ },
+ "c11/sharp": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6-luna"
+ },
+ "c12/chill": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6-luna"
+ },
+ "c12/sharp": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-terra"
+ },
+ "c13/chill": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-terra"
+ },
+ "c13/sharp": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6-luna"
+ },
+ "c14/chill": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-terra"
+ },
+ "c14/sharp": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-sol"
+ },
+ "c15/chill": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6-luna"
+ },
+ "c15/sharp": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6.1-sol"
+ },
+ "p01/chill": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6-luna"
+ },
+ "p01/sharp": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-terra"
+ },
+ "p02/chill": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6.1-terra"
+ },
+ "p02/sharp": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6.1-sol"
+ },
+ "p03/chill": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6.1-sol"
+ },
+ "p03/sharp": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6.1-sol"
+ },
+ "p04/chill": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6.1-terra"
+ },
+ "p04/sharp": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6-luna"
+ },
+ "p05/chill": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6-luna"
+ },
+ "p05/sharp": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-terra"
+ },
+ "p06/chill": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6-luna"
+ },
+ "p06/sharp": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6-luna"
+ },
+ "p07/chill": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-sol"
+ },
+ "p07/sharp": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-terra"
+ },
+ "p08/chill": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6-luna"
+ },
+ "p08/sharp": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6.1-sol"
+ },
+ "p09/chill": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6-luna"
+ },
+ "p09/sharp": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-terra"
+ },
+ "p10/chill": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6-luna"
+ },
+ "p10/sharp": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6.1-sol"
+ },
+ "p11/chill": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6.1-terra"
+ },
+ "p11/sharp": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6-luna"
+ },
+ "p12/chill": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6.1-terra"
+ },
+ "p12/sharp": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6.1-sol"
+ },
+ "p13/chill": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-sol"
+ },
+ "p13/sharp": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-terra"
+ },
+ "p14/chill": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6.1-terra"
+ },
+ "p14/sharp": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6.1-sol"
+ },
+ "p15/chill": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-terra"
+ },
+ "p15/sharp": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6.1-sol"
+ },
+ "p16/chill": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6-luna"
+ },
+ "p16/sharp": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6-luna"
+ },
+ "p17/chill": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-terra"
+ },
+ "p17/sharp": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-sol"
+ },
+ "p18/chill": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-sol"
+ },
+ "p18/sharp": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-sol"
+ },
+ "p19/chill": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6-luna"
+ },
+ "p19/sharp": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6.1-sol"
+ },
+ "p20/chill": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6-luna"
+ },
+ "p20/sharp": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-terra"
+ },
+ "p21/chill": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-sol"
+ },
+ "p21/sharp": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-terra"
+ },
+ "p22/chill": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6-luna"
+ },
+ "p22/sharp": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-sol"
+ },
+ "p23/chill": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-terra"
+ },
+ "p23/sharp": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-terra"
+ },
+ "p24/chill": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6.1-terra"
+ },
+ "p24/sharp": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-terra"
+ },
+ "p25/chill": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-sol"
+ },
+ "p25/sharp": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-sol"
+ },
+ "p26/chill": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6.1-terra"
+ },
+ "p26/sharp": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6.1-sol"
+ },
+ "p27/chill": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6-luna"
+ },
+ "p27/sharp": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-sol"
+ },
+ "r01/chill": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6-luna"
+ },
+ "r01/sharp": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6-luna"
+ },
+ "r02/chill": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6.1-terra"
+ },
+ "r02/sharp": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-sol"
+ },
+ "r03/chill": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6-luna"
+ },
+ "r03/sharp": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6.1-sol"
+ },
+ "r04/chill": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-terra"
+ },
+ "r04/sharp": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6.1-terra"
+ },
+ "r05/chill": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6.1-sol"
+ },
+ "r05/sharp": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-terra"
+ },
+ "r06/chill": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-terra"
+ },
+ "r06/sharp": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-sol"
+ },
+ "r07/chill": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6.1-sol"
+ },
+ "r07/sharp": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6-luna"
+ },
+ "r08/chill": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6.1-terra"
+ },
+ "r08/sharp": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6-luna"
+ },
+ "r09/chill": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6.1-sol"
+ },
+ "r09/sharp": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-sol"
+ },
+ "r10/chill": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6-luna"
+ },
+ "r10/sharp": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6-luna"
+ },
+ "r11/chill": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6-luna"
+ },
+ "r11/sharp": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6-luna"
+ },
+ "r12/chill": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6.1-sol"
+ },
+ "r12/sharp": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6.1-sol"
+ },
+ "r13/chill": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6-luna"
+ },
+ "r13/sharp": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6-luna"
+ },
+ "r14/chill": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6.1-sol"
+ },
+ "r14/sharp": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6-luna"
+ },
+ "r15/chill": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6.1-sol"
+ },
+ "r15/sharp": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6.1-terra"
+ },
+ "r16/chill": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6.1-sol"
+ },
+ "r16/sharp": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-terra"
+ },
+ "r17/chill": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6.1-sol"
+ },
+ "r17/sharp": {
+  "A": "gpt-6.1-sol",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-terra"
+ },
+ "r18/chill": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6.1-terra"
+ },
+ "r18/sharp": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6-luna",
+  "C": "gpt-6.1-sol"
+ },
+ "r19/chill": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6.1-sol"
+ },
+ "r19/sharp": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6.1-sol"
+ },
+ "r20/chill": {
+  "A": "gpt-6-luna",
+  "B": "gpt-6.1-terra",
+  "C": "gpt-6.1-sol"
+ },
+ "r20/sharp": {
+  "A": "gpt-6.1-terra",
+  "B": "gpt-6.1-sol",
+  "C": "gpt-6-luna"
+ }
+}

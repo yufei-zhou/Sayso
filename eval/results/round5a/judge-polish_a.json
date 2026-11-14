@@ -1,0 +1,632 @@
+[
+ {
+  "item": "sp01/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Hi, I have a question about the pipeline, do you have time now? If no, I can wait.",
+  "candidates": [
+   {
+    "cid": "1f21d799",
+    "text": "Hi, quick question about the pipeline—do you have a minute? No rush if you're busy.\n---\ndo you have a minute\nNo rush"
+   },
+   {
+    "cid": "8140766d",
+    "text": "Hey, quick question about the pipeline—got a minute? If not, no rush.\n---\ngot a minute\nno rush"
+   },
+   {
+    "cid": "6259af40",
+    "text": "Hi, I have a question about the pipeline. Do you have a minute? If not, no rush.\n---\nhave a minute\nno rush"
+   }
+  ],
+  "scene": "work chat with a colleague"
+ },
+ {
+  "item": "sp01/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Hi, I have a question about the pipeline, do you have time now? If no, I can wait.",
+  "candidates": [
+   {
+    "cid": "27036a07",
+    "text": "Hi, I have a question about the pipeline. Do you have a minute? If not, I can wait.\n---\nhave a minute"
+   },
+   {
+    "cid": "25b39cea",
+    "text": "Hi, got a minute for a pipeline question? If now’s not a good time, I can hold off.\n---\ngot a minute\nhold off"
+   },
+   {
+    "cid": "31cf5f48",
+    "text": "Hi, I have a question about the pipeline. Do you have a minute? If not, no rush.\n---\nhave a minute\nno rush"
+   }
+  ],
+  "scene": "work chat with a colleague"
+ },
+ {
+  "item": "sp02/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I finished the first version of the script, but there is still some problems with the edge cases. I will continue to fix it tomorrow.",
+  "candidates": [
+   {
+    "cid": "991f6af9",
+    "text": "I finished the first draft of the script, but there are still a few issues with edge cases. I'll keep working on it tomorrow.\n---\nkeep working on it"
+   },
+   {
+    "cid": "c1571a65",
+    "text": "I've finished the first draft of the script, but there are still some issues with edge cases. I'll keep working on those tomorrow.\n---\nfirst draft\nkeep working on"
+   },
+   {
+    "cid": "b798e71e",
+    "text": "I've got a first draft of the script, but a few edge cases still need work. I'll keep working through those tomorrow.\n---\na first draft\nworking through those"
+   }
+  ],
+  "scene": "status update in a team chat"
+ },
+ {
+  "item": "sp02/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I finished the first version of the script, but there is still some problems with the edge cases. I will continue to fix it tomorrow.",
+  "candidates": [
+   {
+    "cid": "43d66bf4",
+    "text": "I've finished the first draft of the script, but there are still a few issues with edge cases. I'll keep working on those tomorrow.\n---\nfirst draft\nkeep working on"
+   },
+   {
+    "cid": "935654a4",
+    "text": "I've got a first pass of the script done, but a few edge cases are still giving me trouble. I'll keep working through those tomorrow.\n---\na first pass\nworking through those"
+   },
+   {
+    "cid": "99c21aeb",
+    "text": "I've finished the first version of the script, but there are still a few issues with edge cases. I'll keep working on those tomorrow.\n---\nissues with\nkeep working on"
+   }
+  ],
+  "scene": "status update in a team chat"
+ },
+ {
+  "item": "sp03/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I don't agree with this approach, because it will make the code more complicated and difficult to maintain.",
+  "candidates": [
+   {
+    "cid": "86b8c663",
+    "text": "I don't agree with this approach because it'll make the code more complicated and harder to maintain.\n---\nharder to maintain"
+   },
+   {
+    "cid": "5092ffb7",
+    "text": "I'm not sold on this approach—it'll make the code more complicated and harder to maintain.\n---\nnot sold on\nharder to maintain"
+   },
+   {
+    "cid": "a40ab897",
+    "text": "I'm not on board with this approach—it'll make the code more complicated and harder to maintain.\n---\non board with\nharder to maintain"
+   }
+  ],
+  "scene": "disagreeing in a team discussion"
+ },
+ {
+  "item": "sp03/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I don't agree with this approach, because it will make the code more complicated and difficult to maintain.",
+  "candidates": [
+   {
+    "cid": "4ff4426d",
+    "text": "I don't agree with this approach because it will make the code more complex and harder to maintain.\n---\nharder to maintain"
+   },
+   {
+    "cid": "3ea5441b",
+    "text": "I don't think this is the right approach. It'll make the code more complicated and harder to maintain.\n---\nthe right approach\nharder to maintain"
+   },
+   {
+    "cid": "7e5bb255",
+    "text": "I don’t think this is the way to go. It’ll just make the code more tangled and harder to maintain.\n---\nthe way to go\nmore tangled"
+   }
+  ],
+  "scene": "disagreeing in a team discussion"
+ },
+ {
+  "item": "sp04/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Sorry I didn't understand what you mean by 'ablation' here, can you explain more?",
+  "candidates": [
+   {
+    "cid": "f5bddcb2",
+    "text": "Sorry, I'm not following what you mean by “ablation” here. Can you break it down?\n---\nI'm not following\nbreak it down"
+   },
+   {
+    "cid": "03eb1eb2",
+    "text": "Sorry, I'm not sure what you mean by “ablation” here. Could you walk me through it?\n---\nwalk me through it"
+   },
+   {
+    "cid": "f90d7582",
+    "text": "Sorry, I'm not sure what you mean by “ablation” here. Could you walk me through it?\n---\nwalk me through it"
+   }
+  ],
+  "scene": "asking a colleague to clarify"
+ },
+ {
+  "item": "sp04/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Sorry I didn't understand what you mean by 'ablation' here, can you explain more?",
+  "candidates": [
+   {
+    "cid": "2270a1f8",
+    "text": "Sorry, I'm not sure what you mean by 'ablation' here. Could you say a bit more?\n---\nsay a bit more"
+   },
+   {
+    "cid": "f5de2934",
+    "text": "Sorry, I'm not sure what you mean by “ablation” here. Could you say a bit more?\n---\nsay a bit more"
+   },
+   {
+    "cid": "19944f4d",
+    "text": "Sorry, you lost me at “ablation.” Could you unpack what you mean by that here?\n---\nyou lost me at\nunpack what you mean"
+   }
+  ],
+  "scene": "asking a colleague to clarify"
+ },
+ {
+  "item": "sp05/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Can we change the meeting to Thursday? I have a class conflict on Wednesday afternoon.",
+  "candidates": [
+   {
+    "cid": "117b1b0b",
+    "text": "Can we move the meeting to Thursday? I have a class that overlaps with it on Wednesday afternoon.\n---\nmove the meeting\noverlaps with"
+   },
+   {
+    "cid": "a695bf3f",
+    "text": "Can we move the meeting to Thursday? I have a scheduling conflict with a class on Wednesday afternoon.\n---\nmove the meeting\nscheduling conflict"
+   },
+   {
+    "cid": "157e753d",
+    "text": "Can we move the meeting to Thursday? I've got a class that overlaps on Wednesday afternoon.\n---\nmove the meeting\nI've got a class"
+   }
+  ],
+  "scene": "rescheduling a meeting with a colleague"
+ },
+ {
+  "item": "sp05/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Can we change the meeting to Thursday? I have a class conflict on Wednesday afternoon.",
+  "candidates": [
+   {
+    "cid": "bab1cbb3",
+    "text": "Can we move the meeting to Thursday? I have a class on Wednesday afternoon that overlaps.\n---\nmove the meeting\n"
+   },
+   {
+    "cid": "9a8b0a9f",
+    "text": "Could we move the meeting to Thursday? I have a class that overlaps on Wednesday afternoon.\n---\nmove the meeting to\n"
+   },
+   {
+    "cid": "b40c1df5",
+    "text": "Can we bump the meeting to Thursday? Wednesday afternoon clashes with a class I have.\n---\nbump the meeting\nclashes with"
+   }
+  ],
+  "scene": "rescheduling a meeting with a colleague"
+ },
+ {
+  "item": "sp06/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I think there is a bug in your function, when the input is empty it will crash.",
+  "candidates": [
+   {
+    "cid": "463f9e0f",
+    "text": "I think there's a bug in your function—it crashes when the input is empty.\n---\n"
+   },
+   {
+    "cid": "214d0a77",
+    "text": "I think there's a bug in your function—it crashes when the input is empty.\n---\nthere's a bug in"
+   },
+   {
+    "cid": "8ad184cb",
+    "text": "I think there's a bug in your function—it crashes when you pass in an empty input.\n---\npass in"
+   }
+  ],
+  "scene": "pointing out a bug to a colleague"
+ },
+ {
+  "item": "sp06/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I think there is a bug in your function, when the input is empty it will crash.",
+  "candidates": [
+   {
+    "cid": "9493f483",
+    "text": "I think your function has a bug: give it an empty input and it falls over.\n---\nfalls over"
+   },
+   {
+    "cid": "55af44a7",
+    "text": "I think there's a bug in your function. It crashes when the input is empty.\n---\n"
+   },
+   {
+    "cid": "fc9e0694",
+    "text": "I think there's a bug in your function. It crashes when you pass in an empty input.\n---\npass in"
+   }
+  ],
+  "scene": "pointing out a bug to a colleague"
+ },
+ {
+  "item": "sp07/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Thanks for your help yesterday, it saved me a lot of times.",
+  "candidates": [
+   {
+    "cid": "01338ba7",
+    "text": "Thanks for your help yesterday. You saved me a ton of time.\n---\na ton of time"
+   },
+   {
+    "cid": "99c9aab9",
+    "text": "Thanks for helping me out yesterday. You saved me a ton of time.\n---\nhelping me out\na ton of time"
+   },
+   {
+    "cid": "ce5933c1",
+    "text": "Thanks for helping me out yesterday. You saved me a ton of time.\n---\nhelping me out\na ton of time"
+   }
+  ],
+  "scene": "thanking a colleague"
+ },
+ {
+  "item": "sp07/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Thanks for your help yesterday, it saved me a lot of times.",
+  "candidates": [
+   {
+    "cid": "0f0f08cf",
+    "text": "Thanks for your help yesterday. You saved me a lot of time.\n---\nsaved me a lot of time"
+   },
+   {
+    "cid": "5ff3a221",
+    "text": "Thanks for your help yesterday. You saved me a lot of time.\n---\nsaved me a lot of time"
+   },
+   {
+    "cid": "01d18077",
+    "text": "Thanks for helping me out yesterday. You saved me a ton of time.\n---\nhelping me out\na ton of time"
+   }
+  ],
+  "scene": "thanking a colleague"
+ },
+ {
+  "item": "sp08/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I will be late for 10 minutes, please start without me.",
+  "candidates": [
+   {
+    "cid": "e63db6f0",
+    "text": "I'm running 10 minutes late. Go ahead and start without me.\n---\nrunning 10 minutes late\nGo ahead and start"
+   },
+   {
+    "cid": "54b82349",
+    "text": "I'm running 10 minutes late. Go ahead and start without me.\n---\nrunning 10 minutes late\nGo ahead and start"
+   },
+   {
+    "cid": "fbcc5a74",
+    "text": "I'm running 10 minutes late. Go ahead and start without me.\n---\nrunning 10 minutes late\nGo ahead"
+   }
+  ],
+  "scene": "message to the team before a meeting"
+ },
+ {
+  "item": "sp08/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I will be late for 10 minutes, please start without me.",
+  "candidates": [
+   {
+    "cid": "2ab58949",
+    "text": "I'm running 10 minutes late. Please start without me.\n---\nrunning 10 minutes late"
+   },
+   {
+    "cid": "a8789e7d",
+    "text": "I'm running 10 minutes late. Please start without me.\n---\nrunning 10 minutes late"
+   },
+   {
+    "cid": "157b0a9c",
+    "text": "I'm running ten minutes behind. Go ahead and start without me.\n---\nrunning ten minutes behind\nGo ahead and start"
+   }
+  ],
+  "scene": "message to the team before a meeting"
+ },
+ {
+  "item": "sp09/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Dear Professor, I want to ask if you have time this week to discuss about my thesis progress. I am available on any day except Friday.",
+  "candidates": [
+   {
+    "cid": "9dd203ae",
+    "text": "Dear Professor, would you have time this week to go over where I am with my thesis? Any day but Friday works for me.\n---\ngo over\nworks for me"
+   },
+   {
+    "cid": "e57a1e7a",
+    "text": "Dear Professor, I was wondering if you have time this week to discuss my thesis progress. I'm available any day except Friday.\n---\nI was wondering if\n"
+   },
+   {
+    "cid": "33e9f0d0",
+    "text": "Dear Professor, I was wondering if you have time this week to discuss my thesis progress. I'm available any day except Friday.\n---\nI was wondering if\nI'm available"
+   }
+  ],
+  "scene": "email to a professor"
+ },
+ {
+  "item": "sp09/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Dear Professor, I want to ask if you have time this week to discuss about my thesis progress. I am available on any day except Friday.",
+  "candidates": [
+   {
+    "cid": "06e8b7fb",
+    "text": "Dear Professor, I was wondering if you have time this week to discuss my progress on my thesis. I'm available any day except Friday.\n---\nI was wondering if\nprogress on my thesis"
+   },
+   {
+    "cid": "ec22d8c3",
+    "text": "Dear Professor, could we find a time this week to go over where things stand with my thesis? Any day but Friday works for me.\n---\ngo over\nwhere things stand"
+   },
+   {
+    "cid": "069fcd63",
+    "text": "Dear Professor, would you have time this week to discuss my progress on my thesis? I'm available any day except Friday.\n---\nwould you have time\ndiscuss my progress"
+   }
+  ],
+  "scene": "email to a professor"
+ },
+ {
+  "item": "sp10/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Dear Professor Martin, I am writing to ask if it is possible to extend the deadline of the report for three days, because I was sick last week.",
+  "candidates": [
+   {
+    "cid": "13790bfe",
+    "text": "Dear Professor Martin, I was wondering if I could have a three-day extension on the report, as I was sick last week.\n---\nI was wondering if\na three-day extension"
+   },
+   {
+    "cid": "50217474",
+    "text": "Dear Professor Martin, I was wondering if I could have a three-day extension on the report, since I was sick last week.\n---\nI was wondering if\nextension on the report"
+   },
+   {
+    "cid": "007859ad",
+    "text": "Dear Professor Martin, could I have a three-day extension on the report? I was sick last week.\n---\na three-day extension\ncould I have"
+   }
+  ],
+  "scene": "email to a professor"
+ },
+ {
+  "item": "sp10/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Dear Professor Martin, I am writing to ask if it is possible to extend the deadline of the report for three days, because I was sick last week.",
+  "candidates": [
+   {
+    "cid": "ef7ec094",
+    "text": "Dear Professor Martin, I was wondering if I could have a three-day extension on the report, as I was sick last week.\n---\nI was wondering if\nextension on the report"
+   },
+   {
+    "cid": "509d9ca4",
+    "text": "Dear Professor Martin, could I have three extra days to turn in the report? I was sick last week.\n---\nthree extra days\nturn in the report"
+   },
+   {
+    "cid": "6ec94bf2",
+    "text": "Dear Professor Martin, I was wondering if I could have a three-day extension on the report, as I was sick last week.\n---\nI was wondering if\nextension on the report"
+   }
+  ],
+  "scene": "email to a professor"
+ },
+ {
+  "item": "sp11/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Thank you for the meeting today. I will revise the introduction according to your comments and send you the new version before next Monday.",
+  "candidates": [
+   {
+    "cid": "90305c86",
+    "text": "Thank you for meeting with me today. I'll revise the introduction based on your feedback and send you the updated version before next Monday.\n---\nbased on your feedback\nupdated version"
+   },
+   {
+    "cid": "262967b1",
+    "text": "Thanks for meeting today. I’ll rework the introduction based on your feedback and send you the updated version before next Monday.\n---\nrework the introduction\nbased on your feedback"
+   },
+   {
+    "cid": "f9efc369",
+    "text": "Thank you for meeting with me today. I'll revise the introduction based on your feedback and send you the updated version before next Monday.\n---\nbased on your feedback\nupdated version"
+   }
+  ],
+  "scene": "email to a supervisor after a meeting"
+ },
+ {
+  "item": "sp11/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Thank you for the meeting today. I will revise the introduction according to your comments and send you the new version before next Monday.",
+  "candidates": [
+   {
+    "cid": "c0bf154b",
+    "text": "Thank you for meeting with me today. I'll revise the introduction based on your feedback and send you the updated version before next Monday.\n---\nbased on your feedback\nupdated version"
+   },
+   {
+    "cid": "ce540c7e",
+    "text": "Thanks for meeting today. I’ll rework the introduction with your feedback in mind and send you the updated version before Monday.\n---\nrework the introduction\nwith your feedback in mind"
+   },
+   {
+    "cid": "5b021aa5",
+    "text": "Thank you for meeting with me today. I'll revise the introduction based on your feedback and send you the updated version before next Monday.\n---\nbased on your feedback\nupdated version"
+   }
+  ],
+  "scene": "email to a supervisor after a meeting"
+ },
+ {
+  "item": "sp12/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Could you please write a recommendation letter for my PhD application? The deadline is December 15. I can send you my CV and research statement if you need.",
+  "candidates": [
+   {
+    "cid": "9fe7e1df",
+    "text": "Would you be willing to write me a letter of recommendation for my PhD application? It's due December 15. I can send you my CV and research statement if that would help.\n---\nWould you be willing to\nletter of recommendation"
+   },
+   {
+    "cid": "9a5f25b6",
+    "text": "Would you be willing to write me a letter of recommendation for my PhD application? It's due December 15. I can send over my CV and research statement if that'd help.\n---\nWould you be willing to\nsend over"
+   },
+   {
+    "cid": "d4862e6f",
+    "text": "I was wondering if you'd be willing to write a letter of recommendation for my PhD application. The deadline is December 15. I'd be happy to send you my CV and research statement if that would help.\n---\nbe willing to\nletter of recommendation"
+   }
+  ],
+  "scene": "email to a professor"
+ },
+ {
+  "item": "sp12/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Could you please write a recommendation letter for my PhD application? The deadline is December 15. I can send you my CV and research statement if you need.",
+  "candidates": [
+   {
+    "cid": "00ccadec",
+    "text": "Would you be willing to write me a letter of recommendation for my PhD application? It’s due December 15. I can send along my CV and research statement if that would help.\n---\nWould you be willing to\nsend along"
+   },
+   {
+    "cid": "3f180f1e",
+    "text": "Would you be willing to write a letter of recommendation for my PhD application? The deadline is December 15. I can send you my CV and research statement if that would help.\n---\nletter of recommendation\nif that would help"
+   },
+   {
+    "cid": "2f917892",
+    "text": "Would you be willing to write a letter of recommendation for my PhD application? The deadline is December 15. I’d be happy to send you my CV and research statement if that would help.\n---\nWould you be willing to\nletter of recommendation"
+   }
+  ],
+  "scene": "email to a professor"
+ },
+ {
+  "item": "sp13/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Hi Marie, the experiments are finished, the results are better than baseline by 3 points. I put the table in our shared doc, please have a look when you are free.",
+  "candidates": [
+   {
+    "cid": "d0cc801c",
+    "text": "Hi Marie, the experiments are done—we beat the baseline by 3 points. I added the table to our shared doc. Take a look when you get a chance.\n---\nbeat the baseline\nwhen you get a chance"
+   },
+   {
+    "cid": "183fbb25",
+    "text": "Hi Marie, the experiments are done, and the results are 3 points above baseline. I added the table to our shared doc. Take a look when you get a chance.\n---\nTake a look\nwhen you get a chance"
+   },
+   {
+    "cid": "4e963885",
+    "text": "Hi Marie, the experiments are done, and the results are 3 points above the baseline. I added the table to our shared doc. Take a look when you get a chance.\n---\nTake a look\nwhen you get a chance"
+   }
+  ],
+  "scene": "chat message to a supervisor (first-name terms)"
+ },
+ {
+  "item": "sp13/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Hi Marie, the experiments are finished, the results are better than baseline by 3 points. I put the table in our shared doc, please have a look when you are free.",
+  "candidates": [
+   {
+    "cid": "b1c6176b",
+    "text": "Hi Marie, the experiments are done, and the results beat the baseline by 3 points. The table’s in our shared doc. Take a look when you get a chance.\n---\nbeat the baseline\nwhen you get a chance"
+   },
+   {
+    "cid": "d4cdb7c4",
+    "text": "Hi Marie, the experiments are done, and the results beat the baseline by 3 points. I've added the table to our shared doc. Please take a look when you have a chance.\n---\nbeat the baseline\nwhen you have a chance"
+   },
+   {
+    "cid": "e813b314",
+    "text": "Hi Marie, the experiments are done, and the results beat the baseline by 3 points. I've added the table to our shared doc. Please take a look when you have a chance.\n---\ntake a look\nwhen you have a chance"
+   }
+  ],
+  "scene": "chat message to a supervisor (first-name terms)"
+ },
+ {
+  "item": "sp14/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Do you want to go to eat hotpot this weekend? I know a new place that is very delicious.",
+  "candidates": [
+   {
+    "cid": "4d6d6c99",
+    "text": "Wanna grab hotpot this weekend? I know a new spot with really good food.\n---\ngrab hotpot\na new spot"
+   },
+   {
+    "cid": "845fc608",
+    "text": "Wanna grab hot pot this weekend? I know a new spot with really good food.\n---\ngrab hot pot"
+   },
+   {
+    "cid": "3cdada51",
+    "text": "Wanna grab hot pot this weekend? I know a new spot with really good food.\n---\ngrab hot pot"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sp14/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Do you want to go to eat hotpot this weekend? I know a new place that is very delicious.",
+  "candidates": [
+   {
+    "cid": "7d1c5517",
+    "text": "Do you want to get hotpot this weekend? I know a new place with really good food.\n---\nget hotpot"
+   },
+   {
+    "cid": "2b43e8fe",
+    "text": "Do you want to get hot pot this weekend? I know a new place with great food.\n---\nget hot pot"
+   },
+   {
+    "cid": "00998ced",
+    "text": "Want to grab hot pot this weekend? I know a new spot with seriously good food.\n---\ngrab hot pot\nseriously good"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sp15/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Sorry I can't go tonight, I am too tired and I still have many works to do.",
+  "candidates": [
+   {
+    "cid": "5b86bb34",
+    "text": "Sorry, I can't make it tonight. I'm wiped out and still have a lot of work to do.\n---\ncan't make it\nwiped out"
+   },
+   {
+    "cid": "ff3f7d43",
+    "text": "Sorry, I can't make it tonight. I'm wiped and still have a ton of work to get through.\n---\nI'm wiped\nget through"
+   },
+   {
+    "cid": "65cf4fcc",
+    "text": "Sorry, I can't make it tonight. I'm wiped out and still have a ton of work to do.\n---\ncan't make it\nwiped out"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sp15/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Sorry I can't go tonight, I am too tired and I still have many works to do.",
+  "candidates": [
+   {
+    "cid": "45fe62f2",
+    "text": "Sorry, I can't make it tonight. I'm exhausted, and I still have a lot of work to get through.\n---\ncan't make it\nget through"
+   },
+   {
+    "cid": "9037a324",
+    "text": "Sorry, I can't make it tonight. I'm exhausted and still have a lot of work to get through.\n---\ncan't make it\nget through"
+   },
+   {
+    "cid": "77cf7bf8",
+    "text": "Sorry, I can’t make it tonight. I’m running on fumes and still have a pile of work to get through.\n---\nrunning on fumes\na pile of work"
+   }
+  ],
+  "scene": "texting a friend"
+ }
+]

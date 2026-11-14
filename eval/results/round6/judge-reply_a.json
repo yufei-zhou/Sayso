@@ -1,0 +1,622 @@
+[
+ {
+  "item": "hr01/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "omg I just spilled coffee all over my laptop",
+  "candidates": [
+   {
+    "cid": "027c64bc",
+    "text": "Oh no, unplug it and turn it off if you haven't already. Fingers crossed it's okay.\n---\nFingers crossed"
+   },
+   {
+    "cid": "7ed7d738",
+    "text": "Oh no! Unplug it and turn it off right away if you haven't already.\n---\nright away"
+   }
+  ]
+ },
+ {
+  "item": "hr01/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "omg I just spilled coffee all over my laptop",
+  "candidates": [
+   {
+    "cid": "b57f2edc",
+    "text": "Oh no. Unplug it and turn it off right away if you haven’t already.\n---\nright away"
+   },
+   {
+    "cid": "8cb5d6f8",
+    "text": "Oh no. Unplug it and turn it off if you haven't already.\n---\nif you haven't already"
+   }
+  ]
+ },
+ {
+  "item": "hr02/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Hey, would you mind reviewing my cover letter before I send it tonight?",
+  "candidates": [
+   {
+    "cid": "d6de7348",
+    "text": "Of course! Send it over and I'll take a look before you send it tonight.\n---\nSend it over\ntake a look"
+   },
+   {
+    "cid": "07dd1a11",
+    "text": "Yeah, happy to! Send it over and I'll take a look.\n---\nhappy to\nSend it over"
+   }
+  ]
+ },
+ {
+  "item": "hr02/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Hey, would you mind reviewing my cover letter before I send it tonight?",
+  "candidates": [
+   {
+    "cid": "cbe9feef",
+    "text": "Of course. Send it over, and I'll take a look before you send it tonight.\n---\nSend it over\ntake a look"
+   },
+   {
+    "cid": "9e8192f6",
+    "text": "Of course. Send it over, and I’ll take a look before you send it tonight.\n---\nSend it over\ntake a look"
+   }
+  ]
+ },
+ {
+  "item": "hr03/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "We're thinking of getting a dog. Thoughts?",
+  "candidates": [
+   {
+    "cid": "2e82bcce",
+    "text": "That could be awesome! It's a big commitment, though, so I'd make sure you're both on board.\n---\na big commitment\non board"
+   },
+   {
+    "cid": "c8b3cc9a",
+    "text": "I'm all for it, as long as you're ready for the time and commitment. Dogs are a lot of work, but they're great company.\n---\nI'm all for it\ngreat company"
+   }
+  ]
+ },
+ {
+  "item": "hr03/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "We're thinking of getting a dog. Thoughts?",
+  "candidates": [
+   {
+    "cid": "18b27638",
+    "text": "I’m all for it, as long as you’re ready for the day-to-day commitment.\n---\nI’m all for it\nday-to-day commitment"
+   },
+   {
+    "cid": "a9358974",
+    "text": "A dog could be great, as long as you're ready for the day-to-day commitment.\n---\nas long as\nday-to-day commitment"
+   }
+  ]
+ },
+ {
+  "item": "hr04/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Happy birthday!! Hope you have an amazing day 🎂",
+  "candidates": [
+   {
+    "cid": "7a9bea17",
+    "text": "Aw, thanks so much! That means a lot 😊\n---\nThat means a lot"
+   },
+   {
+    "cid": "ddb7347d",
+    "text": "Thank you!! That means a lot 😊\n---\nThat means a lot"
+   }
+  ]
+ },
+ {
+  "item": "hr04/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Happy birthday!! Hope you have an amazing day 🎂",
+  "candidates": [
+   {
+    "cid": "aef548da",
+    "text": "Thank you! That's so sweet of you.\n---\nso sweet of you"
+   },
+   {
+    "cid": "a8026d7f",
+    "text": "Thank you! That’s so sweet of you.\n---\nso sweet of you"
+   }
+  ]
+ },
+ {
+  "item": "hr05/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Did you end up going to that concert?",
+  "candidates": [
+   {
+    "cid": "fd63af6b",
+    "text": "Yeah, I ended up going! The show was amazing, but it was way too packed.\n---\nended up going\nway too packed"
+   },
+   {
+    "cid": "855ec622",
+    "text": "Yeah, I ended up going! The show was amazing, but it was way too packed.\n---\nended up going\nway too packed"
+   }
+  ],
+  "note": "我去了，超好看，但是人太多了"
+ },
+ {
+  "item": "hr05/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Did you end up going to that concert?",
+  "candidates": [
+   {
+    "cid": "f3bd1692",
+    "text": "Yes, I did! The show was amazing, but it was absolutely packed.\n---\nabsolutely packed"
+   },
+   {
+    "cid": "d69d7035",
+    "text": "Yes, I did! It was incredible, but it was absolutely packed.\n---\nabsolutely packed"
+   }
+  ],
+  "note": "我去了，超好看，但是人太多了"
+ },
+ {
+  "item": "hr06/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "The 3pm meeting is moved to tomorrow, sorry for the short notice.",
+  "candidates": [
+   {
+    "cid": "7d9d0119",
+    "text": "No worries, thanks for letting me know. Tomorrow works for me.\n---\nNo worries\nworks for me"
+   },
+   {
+    "cid": "950e0819",
+    "text": "No worries at all, thanks for letting me know. Tomorrow works for me.\n---\nNo worries at all\nworks for me"
+   }
+  ]
+ },
+ {
+  "item": "hr06/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "The 3pm meeting is moved to tomorrow, sorry for the short notice.",
+  "candidates": [
+   {
+    "cid": "a21676e7",
+    "text": "No problem, tomorrow works for me.\n---\nworks for me"
+   },
+   {
+    "cid": "6d4bfe4d",
+    "text": "No problem, thanks for the heads-up. Tomorrow works for me.\n---\nthanks for the heads-up\nworks for me"
+   }
+  ]
+ },
+ {
+  "item": "hr07/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "I failed my driving test again 😩",
+  "candidates": [
+   {
+    "cid": "dcf026ab",
+    "text": "Ugh, I'm sorry—that's so frustrating. Don't beat yourself up over it.\n---\nDon't beat yourself up"
+   },
+   {
+    "cid": "33b0c3b1",
+    "text": "Ugh, that’s so frustrating. Don’t beat yourself up over it.\n---\nbeat yourself up"
+   }
+  ]
+ },
+ {
+  "item": "hr07/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "I failed my driving test again 😩",
+  "candidates": [
+   {
+    "cid": "5bae27e4",
+    "text": "Ugh, I'm sorry. That's so frustrating, especially the second time around.\n---\nthe second time around"
+   },
+   {
+    "cid": "978d31b6",
+    "text": "Ugh, that’s so frustrating. Don’t be too hard on yourself.\n---\nbe too hard on yourself"
+   }
+  ]
+ },
+ {
+  "item": "hr08/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Can I borrow your car this weekend?",
+  "candidates": [
+   {
+    "cid": "c12d17ff",
+    "text": "Sorry, I’m not really comfortable lending out my car. Hope you understand.\n---\nlending out\nHope you understand"
+   },
+   {
+    "cid": "bb3af6f5",
+    "text": "Sorry, I’m not really comfortable lending out my car. Hope you understand.\n---\nlending out\nHope you understand"
+   }
+  ],
+  "note": "不想借，委婉一点"
+ },
+ {
+  "item": "hr08/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Can I borrow your car this weekend?",
+  "candidates": [
+   {
+    "cid": "925e6bc5",
+    "text": "Sorry, I’m not comfortable lending out my car. I hope you understand.\n---\nlending out\nI hope you understand"
+   },
+   {
+    "cid": "a1e51ce0",
+    "text": "Sorry, I’m not comfortable lending out my car. I hope you understand.\n---\nlending out\nI hope you understand"
+   }
+  ],
+  "note": "不想借，委婉一点"
+ },
+ {
+  "item": "hr09/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "dude you have to try this new taco place, it's insane",
+  "candidates": [
+   {
+    "cid": "3edfbbea",
+    "text": "I'm down to try it! What's it called?\n---\nI'm down to"
+   },
+   {
+    "cid": "9c75e50a",
+    "text": "I'm down to check it out! What's it called?\n---\ndown to check it out"
+   }
+  ]
+ },
+ {
+  "item": "hr09/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "dude you have to try this new taco place, it's insane",
+  "candidates": [
+   {
+    "cid": "a4685749",
+    "text": "All right, I’m sold. What’s the place called?\n---\nI’m sold"
+   },
+   {
+    "cid": "12f39598",
+    "text": "I'm sold. Let's check it out.\n---\nI'm sold\ncheck it out"
+   }
+  ]
+ },
+ {
+  "item": "hr10/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "My mom's in the hospital, I might be offline for a few days.",
+  "candidates": [
+   {
+    "cid": "7f34b0e7",
+    "text": "I'm so sorry to hear that. Take all the time you need—I'll be here if you need anything.\n---\nTake all the time you need\nI'll be here"
+   },
+   {
+    "cid": "d6560554",
+    "text": "I'm so sorry to hear that. Take all the time you need—I hope your mom's okay.\n---\nTake all the time you need"
+   }
+  ]
+ },
+ {
+  "item": "hr10/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "My mom's in the hospital, I might be offline for a few days.",
+  "candidates": [
+   {
+    "cid": "156babb4",
+    "text": "I'm so sorry. Take all the time you need, and don't worry about replying.\n---\nTake all the time you need\ndon't worry about replying"
+   },
+   {
+    "cid": "17cef97d",
+    "text": "I'm so sorry to hear that. Don't worry about getting back to me; I hope your mom gets better soon.\n---\ngetting back to me"
+   }
+  ]
+ },
+ {
+  "item": "hr11/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Are you free to grab lunch tomorrow?",
+  "candidates": [
+   {
+    "cid": "d6505e07",
+    "text": "Yeah, I'm down! I’m only free after 1, though.\n---\nI'm down"
+   },
+   {
+    "cid": "e1b3d3a7",
+    "text": "Yeah, I'm free after 1! Does that work for you?\n---\nDoes that work for you"
+   }
+  ],
+  "note": "yes, but only after 1pm"
+ },
+ {
+  "item": "hr11/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Are you free to grab lunch tomorrow?",
+  "candidates": [
+   {
+    "cid": "4ba71060",
+    "text": "Yes, I can make it after 1 p.m.\n---\ncan make it"
+   },
+   {
+    "cid": "d9772471",
+    "text": "Yes, I’m free after 1. Does that work for you?\n---\nDoes that work for you"
+   }
+  ],
+  "note": "yes, but only after 1pm"
+ },
+ {
+  "item": "hr12/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Sorry I snapped at you in the meeting earlier.",
+  "candidates": [
+   {
+    "cid": "ee716360",
+    "text": "No worries. I was a little annoyed, but I get it—let's move on.\n---\nNo worries\nlet's move on"
+   },
+   {
+    "cid": "14422065",
+    "text": "It's okay. I was a little annoyed, but I get it. Let's put it behind us.\n---\nI get it\nput it behind us"
+   }
+  ],
+  "note": "it's fine, I was annoyed but I get it, let's move on"
+ },
+ {
+  "item": "hr12/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Sorry I snapped at you in the meeting earlier.",
+  "candidates": [
+   {
+    "cid": "0b28c205",
+    "text": "We're good. I was annoyed, but I get it. Let's put it behind us.\n---\nWe're good\nput it behind us"
+   },
+   {
+    "cid": "8a193d0c",
+    "text": "It's okay. I was annoyed, but I get it. Let's put it behind us.\n---\nput it behind us"
+   }
+  ],
+  "note": "it's fine, I was annoyed but I get it, let's move on"
+ },
+ {
+  "item": "hr13/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Do you want to split a cabin for the ski trip?",
+  "candidates": [
+   {
+    "cid": "c085335e",
+    "text": "I'm down, but I'm on a tight budget. How much would my share be?\n---\nI'm down\non a tight budget"
+   },
+   {
+    "cid": "d6856101",
+    "text": "I'm down, but I'm on a tight budget. How much would it be per person?\n---\nI'm down\non a tight budget"
+   }
+  ],
+  "note": "想去，但是预算有限，问问价格"
+ },
+ {
+  "item": "hr13/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Do you want to split a cabin for the ski trip?",
+  "candidates": [
+   {
+    "cid": "95ecef78",
+    "text": "I’m in, depending on the cost. How much would it be per person?\n---\nI’m in\ndepending on the cost"
+   },
+   {
+    "cid": "abc28ba5",
+    "text": "I'd like to, but I'm on a tight budget. How much would my share be?\n---\non a tight budget\nmy share"
+   }
+  ],
+  "note": "想去，但是预算有限，问问价格"
+ },
+ {
+  "item": "sr01/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Dear Yufei, thanks for the draft. Could we meet Thursday at 2pm to go over my comments?",
+  "candidates": [
+   {
+    "cid": "2eebaeec",
+    "text": "Thursday at 2pm works for me. Thank you for taking the time to review my draft.\n---\nworks for me\ntaking the time"
+   },
+   {
+    "cid": "fb15d16f",
+    "text": "Thursday at 2pm works for me. Thank you for taking the time to review my draft.\n---\nworks for me\ntaking the time"
+   }
+  ],
+  "scene": "email from your professor"
+ },
+ {
+  "item": "sr01/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Dear Yufei, thanks for the draft. Could we meet Thursday at 2pm to go over my comments?",
+  "candidates": [
+   {
+    "cid": "e0a49cab",
+    "text": "Thursday at 2pm works for me. Thank you for taking the time to review the draft.\n---\nworks for me\ntaking the time"
+   },
+   {
+    "cid": "8f96e268",
+    "text": "Thursday at 2pm works for me. Thank you for taking the time to review my draft.\n---\nworks for me\ntaking the time"
+   }
+  ],
+  "scene": "email from your professor"
+ },
+ {
+  "item": "sr02/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Hi Yufei, I'm afraid I'll have to cancel our meeting tomorrow. Would next Tuesday work for you?",
+  "candidates": [
+   {
+    "cid": "973821f5",
+    "text": "No worries at all. Next Tuesday works for me—any time in the morning is fine.\n---\nNo worries at all\nworks for me"
+   },
+   {
+    "cid": "279ba155",
+    "text": "No worries at all! Next Tuesday works for me, and I'm available anytime in the morning.\n---\nNo worries at all\nworks for me"
+   }
+  ],
+  "note": "可以，周二上午都行",
+  "scene": "email from your professor"
+ },
+ {
+  "item": "sr02/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Hi Yufei, I'm afraid I'll have to cancel our meeting tomorrow. Would next Tuesday work for you?",
+  "candidates": [
+   {
+    "cid": "d1af9138",
+    "text": "Next Tuesday works for me. Any time in the morning would be fine.\n---\nworks for me"
+   },
+   {
+    "cid": "72f05a23",
+    "text": "Next Tuesday works for me. I'm available anytime that morning.\n---\nworks for me"
+   }
+  ],
+  "note": "可以，周二上午都行",
+  "scene": "email from your professor"
+ },
+ {
+  "item": "sr03/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "hey, any chance you could review my merge request today? it's blocking the release",
+  "candidates": [
+   {
+    "cid": "cca9598d",
+    "text": "Sorry, I can't get to it today, but I can review it tomorrow morning.\n---\nget to it"
+   },
+   {
+    "cid": "4ba5593d",
+    "text": "Sorry, I can't get to it today, but I can take a look tomorrow morning.\n---\nget to it\ntake a look"
+   }
+  ],
+  "note": "今天没空，明天上午可以",
+  "scene": "work chat from a colleague"
+ },
+ {
+  "item": "sr03/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "hey, any chance you could review my merge request today? it's blocking the release",
+  "candidates": [
+   {
+    "cid": "af48d197",
+    "text": "I can't get to it today, but I can review it tomorrow morning.\n---\nget to it"
+   },
+   {
+    "cid": "af9ff9b7",
+    "text": "I can’t get to it today, but I can review it tomorrow morning.\n---\nget to it"
+   }
+  ],
+  "note": "今天没空，明天上午可以",
+  "scene": "work chat from a colleague"
+ },
+ {
+  "item": "sr04/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Do you know why the CI is failing on main? I didn't touch anything 😭",
+  "candidates": [
+   {
+    "cid": "8caffaae",
+    "text": "Not sure either, but I'll take a look after lunch.\n---\ntake a look"
+   },
+   {
+    "cid": "f7654ff1",
+    "text": "Not sure either, but I’ll take a look after lunch.\n---\ntake a look"
+   }
+  ],
+  "note": "I don't know either, will take a look after lunch",
+  "scene": "work chat from a colleague"
+ },
+ {
+  "item": "sr04/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Do you know why the CI is failing on main? I didn't touch anything 😭",
+  "candidates": [
+   {
+    "cid": "f57c7c5f",
+    "text": "I'm not sure either. I'll look into it after lunch.\n---\nlook into it"
+   },
+   {
+    "cid": "1bb9d2a9",
+    "text": "I'm not sure either. I'll take a look after lunch.\n---\ntake a look"
+   }
+  ],
+  "note": "I don't know either, will take a look after lunch",
+  "scene": "work chat from a colleague"
+ },
+ {
+  "item": "sr05/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Great work on the demo! The client was really impressed.",
+  "candidates": [
+   {
+    "cid": "a426d830",
+    "text": "Thanks, that means a lot! Glad to hear the client was happy with it.\n---\nthat means a lot\nGlad to hear"
+   },
+   {
+    "cid": "8bb81afc",
+    "text": "Thanks so much! I'm glad the demo went over well with the client.\n---\nwent over well"
+   }
+  ],
+  "scene": "work chat from your manager"
+ },
+ {
+  "item": "sr05/sharp",
+  "mode": "reply",
+  "style": "sharp",
+  "input": "Great work on the demo! The client was really impressed.",
+  "candidates": [
+   {
+    "cid": "7f70df4a",
+    "text": "Thank you, that's great to hear. I'm glad the demo went over well.\n---\ngreat to hear\nwent over well"
+   },
+   {
+    "cid": "2aa56e96",
+    "text": "Thank you! Glad it hit the mark with the client.\n---\nhit the mark"
+   }
+  ],
+  "scene": "work chat from your manager"
+ },
+ {
+  "item": "sr06/chill",
+  "mode": "reply",
+  "style": "chill",
+  "input": "Can you give me a rough estimate of when the migration will be done?",
+  "candidates": [
+   {
+    "cid": "51989416",
+    "text": "My best guess is about two more weeks, but that’s still tentative since testing hasn’t started yet.\n---\nMy best guess\nthat’s still tentative"
+   },
+   {
+    "cid": "36b00440",
+    "text": "I'd estimate about two more weeks, but that's still tentative since we haven't started testing yet.\n---\nabout two more weeks\nthat's still tentative"
+   }
+  ],
+  "note": "大概还要两周，但不太确定，因为测试还没开始",
+  "scene": "work chat from your manager"
+ }
+]

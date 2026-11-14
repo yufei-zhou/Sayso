@@ -1,0 +1,674 @@
+[
+ {
+  "item": "p07/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I'm looking forward to meet you guys this weekend!",
+  "candidates": [
+   {
+    "cid": "49a10849",
+    "text": "Can't wait to see you guys this weekend!\n---\nCan't wait to"
+   },
+   {
+    "cid": "98eb8568",
+    "text": "Can't wait to hang out with you guys this weekend!\n---\nCan't wait to\nhang out with"
+   }
+  ]
+ },
+ {
+  "item": "p07/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I'm looking forward to meet you guys this weekend!",
+  "candidates": [
+   {
+    "cid": "a938b59b",
+    "text": "Can't wait to see you guys this weekend!\n---\nCan't wait to"
+   },
+   {
+    "cid": "9f01fc20",
+    "text": "Can't wait to see you guys this weekend!\n---\nCan't wait to"
+   }
+  ]
+ },
+ {
+  "item": "p08/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "There have many people in the gym today, I can't even find a free bench.",
+  "candidates": [
+   {
+    "cid": "8cd453e1",
+    "text": "The gym's so packed today, I can't even find an open bench.\n---\nso packed\nan open bench"
+   },
+   {
+    "cid": "0299f714",
+    "text": "The gym's packed today. Can't even find an open bench.\n---\npacked today\nan open bench"
+   }
+  ]
+ },
+ {
+  "item": "p08/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "There have many people in the gym today, I can't even find a free bench.",
+  "candidates": [
+   {
+    "cid": "76bef828",
+    "text": "The gym is packed today. I can't even get my hands on a bench.\n---\nis packed\nget my hands on"
+   },
+   {
+    "cid": "4dfba436",
+    "text": "The gym is packed today. I can't even get a bench.\n---\nis packed\nget a bench"
+   }
+  ]
+ },
+ {
+  "item": "p09/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "The informations you gave me was really helpful.",
+  "candidates": [
+   {
+    "cid": "c298e952",
+    "text": "What you shared really helped me out.\n---\nhelped me out"
+   },
+   {
+    "cid": "f8ceb54c",
+    "text": "What you shared was super helpful.\n---\nsuper helpful"
+   }
+  ]
+ },
+ {
+  "item": "p09/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "The informations you gave me was really helpful.",
+  "candidates": [
+   {
+    "cid": "6994697d",
+    "text": "That really helped me out, what you sent over.\n---\nhelped me out\nsent over"
+   },
+   {
+    "cid": "cc7eb92f",
+    "text": "The information you gave me was a huge help.\n---\na huge help"
+   }
+  ]
+ },
+ {
+  "item": "p10/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I don't think so it will rain today.",
+  "candidates": [
+   {
+    "cid": "6f8a519c",
+    "text": "I don't think we're getting any rain today.\n---\ngetting any rain"
+   },
+   {
+    "cid": "3c09d322",
+    "text": "I don't think we're gonna get any rain today.\n---\nget any rain"
+   }
+  ]
+ },
+ {
+  "item": "p10/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I don't think so it will rain today.",
+  "candidates": [
+   {
+    "cid": "e8aec13b",
+    "text": "I don’t think we’re getting any rain today.\n---\nwe’re getting any rain"
+   },
+   {
+    "cid": "643aa213",
+    "text": "I don’t think we’re in for rain today.\n---\nin for rain"
+   }
+  ]
+ },
+ {
+  "item": "p11/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "My boss let me to finish the report before friday.",
+  "candidates": [
+   {
+    "cid": "75966a68",
+    "text": "My boss told me to get the report done before Friday.\n---\nget the report done"
+   },
+   {
+    "cid": "fea01770",
+    "text": "My boss wants me to wrap up the report before Friday.\n---\nwrap up"
+   }
+  ]
+ },
+ {
+  "item": "p11/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "My boss let me to finish the report before friday.",
+  "candidates": [
+   {
+    "cid": "fcbb7ef7",
+    "text": "My boss wants me to have the report wrapped up before Friday.\n---\nhave the report wrapped up"
+   },
+   {
+    "cid": "2ee0b5f7",
+    "text": "My boss wants the report wrapped up before Friday.\n---\nwrapped up"
+   }
+  ]
+ },
+ {
+  "item": "p12/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Although it was raining, but we still went hiking.",
+  "candidates": [
+   {
+    "cid": "8c9e360a",
+    "text": "It was raining, but we went hiking anyway.\n---\nwent hiking anyway"
+   },
+   {
+    "cid": "1af7eb14",
+    "text": "It was raining, but we went hiking anyway.\n---\nwent hiking anyway"
+   }
+  ]
+ },
+ {
+  "item": "p12/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Although it was raining, but we still went hiking.",
+  "candidates": [
+   {
+    "cid": "8c24ef90",
+    "text": "It was raining, but we went hiking anyway. A little rain wasn't stopping us.\n---\nwasn't stopping us"
+   },
+   {
+    "cid": "beb2f60e",
+    "text": "We didn't let the rain stop us from going hiking.\n---\ndidn't let the rain stop us"
+   }
+  ]
+ },
+ {
+  "item": "p13/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I'm so boring this weekend, any plan?",
+  "candidates": [
+   {
+    "cid": "69aaa561",
+    "text": "I'm so bored this weekend. Got any plans?\n---\nGot any plans"
+   },
+   {
+    "cid": "d6ba6367",
+    "text": "I'm so bored this weekend. Anyone got plans?\n---\nAnyone got plans"
+   }
+  ]
+ },
+ {
+  "item": "p13/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I'm so boring this weekend, any plan?",
+  "candidates": [
+   {
+    "cid": "174fcbeb",
+    "text": "I'm bored out of my mind this weekend. Anything going on?\n---\nbored out of my mind\nAnything going on"
+   },
+   {
+    "cid": "b5a2aa0d",
+    "text": "I'm bored out of my mind this weekend. Anything going on?\n---\nbored out of my mind\nAnything going on"
+   }
+  ]
+ },
+ {
+  "item": "p14/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "How do you think about the new iPhone?",
+  "candidates": [
+   {
+    "cid": "3227318f",
+    "text": "What’s your take on the new iPhone?\n---\nWhat’s your take on"
+   },
+   {
+    "cid": "90c18bf6",
+    "text": "What do you think of the new iPhone?\n---\nWhat do you think of"
+   }
+  ]
+ },
+ {
+  "item": "p14/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "How do you think about the new iPhone?",
+  "candidates": [
+   {
+    "cid": "51b75cc6",
+    "text": "What’s your take on the new iPhone?\n---\nWhat’s your take on"
+   },
+   {
+    "cid": "6d9132e6",
+    "text": "What's your take on the new iPhone?\n---\nWhat's your take on"
+   }
+  ]
+ },
+ {
+  "item": "p15/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "She is good in cooking but she hates to wash the dishes.",
+  "candidates": [
+   {
+    "cid": "66fad7a3",
+    "text": "She's a great cook, but she can't stand doing the dishes.\n---\na great cook\ncan't stand"
+   },
+   {
+    "cid": "6f8871f1",
+    "text": "She's a great cook, but she can't stand doing the dishes.\n---\ncan't stand\ndoing the dishes"
+   }
+  ]
+ },
+ {
+  "item": "p15/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "She is good in cooking but she hates to wash the dishes.",
+  "candidates": [
+   {
+    "cid": "7f186f12",
+    "text": "She's a great cook, but she wants nothing to do with the dishes.\n---\na great cook\nwants nothing to do with"
+   },
+   {
+    "cid": "956056d3",
+    "text": "She's a great cook, but she can't stand doing the dishes.\n---\na great cook\ncan't stand"
+   }
+  ]
+ },
+ {
+  "item": "p16/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "We should go to there earlier to get a good seat.",
+  "candidates": [
+   {
+    "cid": "ae326abe",
+    "text": "We should get there early to snag a good seat.\n---\nsnag a good seat"
+   },
+   {
+    "cid": "4f02fab6",
+    "text": "We should get there early so we can snag a good seat.\n---\nget there early\nsnag a good seat"
+   }
+  ]
+ },
+ {
+  "item": "p16/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "We should go to there earlier to get a good seat.",
+  "candidates": [
+   {
+    "cid": "8c921500",
+    "text": "We should get there early to snag a good seat.\n---\nget there early\nsnag a good seat"
+   },
+   {
+    "cid": "23e66548",
+    "text": "We should get there early to snag a good seat.\n---\nsnag a good seat"
+   }
+  ]
+ },
+ {
+  "item": "p17/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I already finished my homework yesterday night.",
+  "candidates": [
+   {
+    "cid": "d4cdbb13",
+    "text": "I already knocked out my homework last night.\n---\nknocked out"
+   },
+   {
+    "cid": "62309674",
+    "text": "I already got my homework out of the way last night.\n---\ngot my homework out of the way"
+   }
+  ]
+ },
+ {
+  "item": "p17/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I already finished my homework yesterday night.",
+  "candidates": [
+   {
+    "cid": "e4d9c46b",
+    "text": "I had my homework out of the way last night.\n---\nout of the way"
+   },
+   {
+    "cid": "0ee6a24a",
+    "text": "I already knocked out my homework last night.\n---\nknocked out my homework"
+   }
+  ]
+ },
+ {
+  "item": "p18/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Actually I'm not very familiar about this kind of thing.",
+  "candidates": [
+   {
+    "cid": "1df99590",
+    "text": "Honestly, I don't really know my way around this stuff.\n---\nknow my way around"
+   },
+   {
+    "cid": "a239734b",
+    "text": "Honestly, I don't really know my way around this kind of thing.\n---\nknow my way around"
+   }
+  ]
+ },
+ {
+  "item": "p18/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Actually I'm not very familiar about this kind of thing.",
+  "candidates": [
+   {
+    "cid": "f876e7b4",
+    "text": "Actually, this isn't really in my wheelhouse.\n---\nin my wheelhouse"
+   },
+   {
+    "cid": "efe102b9",
+    "text": "Honestly, this isn’t really my area.\n---\nisn’t really my area"
+   }
+  ]
+ },
+ {
+  "item": "p19/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I've been working in this company since three years.",
+  "candidates": [
+   {
+    "cid": "8d872fa7",
+    "text": "I've been at this company for three years now.\n---\nbeen at this company"
+   },
+   {
+    "cid": "382e7844",
+    "text": "I've been with the company for three years now.\n---\nbeen with the company"
+   }
+  ]
+ },
+ {
+  "item": "p19/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I've been working in this company since three years.",
+  "candidates": [
+   {
+    "cid": "d11f3263",
+    "text": "I've been with this company for three years now.\n---\nbeen with this company"
+   },
+   {
+    "cid": "7af88436",
+    "text": "I’ve been at this company for three years now.\n---\nbeen at this company"
+   }
+  ]
+ },
+ {
+  "item": "p20/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "If I would have known, I would have told you.",
+  "candidates": [
+   {
+    "cid": "24cd58b6",
+    "text": "If I'd known, I would've let you know.\n---\nlet you know"
+   },
+   {
+    "cid": "eec99758",
+    "text": "If I'd known, I would've let you know.\n---\nlet you know"
+   }
+  ]
+ },
+ {
+  "item": "p20/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "If I would have known, I would have told you.",
+  "candidates": [
+   {
+    "cid": "3c6160f6",
+    "text": "I would've said something if I'd known.\n---\nsaid something\nif I'd known"
+   },
+   {
+    "cid": "965bf244",
+    "text": "If I’d known, I would’ve let you know.\n---\nlet you know"
+   }
+  ]
+ },
+ {
+  "item": "p21/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Honestly, I think we're overthinking this. Let's just ship it and see what happens.",
+  "candidates": [
+   {
+    "cid": "0b06307c",
+    "text": "Tbh, we're getting in our own heads about this. Let's just ship it and see how it goes.\n---\ngetting in our own heads\nsee how it goes"
+   },
+   {
+    "cid": "7b3ef068",
+    "text": "Tbh, we're overthinking this. Let's just get it out there and see how it goes.\n---\nget it out there\nsee how it goes"
+   }
+  ]
+ },
+ {
+  "item": "p21/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Honestly, I think we're overthinking this. Let's just ship it and see what happens.",
+  "candidates": [
+   {
+    "cid": "a86c0c87",
+    "text": "Honestly, we're making this harder than it needs to be. Let's ship it and see how it plays out.\n---\nmaking this harder than it needs to be\nsee how it plays out"
+   },
+   {
+    "cid": "dd906702",
+    "text": "Honestly, we're thinking this to death. Let's just ship it and see what happens.\n---\nthinking this to death\nship it"
+   }
+  ]
+ },
+ {
+  "item": "p22/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I'll grab coffee on my way in. Want anything?",
+  "candidates": [
+   {
+    "cid": "6affd82d",
+    "text": "Gonna grab coffee on my way in. Want me to get you anything?\n---\non my way in\nWant me to get"
+   },
+   {
+    "cid": "a35ce051",
+    "text": "Gonna grab coffee on my way in. Want me to get you anything?\n---\non my way in\nWant me to get you"
+   }
+  ]
+ },
+ {
+  "item": "p22/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I'll grab coffee on my way in. Want anything?",
+  "candidates": [
+   {
+    "cid": "e0b14665",
+    "text": "I'm making a coffee run on my way in. Want anything?\n---\nmaking a coffee run"
+   },
+   {
+    "cid": "9867f572",
+    "text": "I’m making a coffee run on my way in. Can I get you anything?\n---\nmaking a coffee run\nCan I get you anything"
+   }
+  ]
+ },
+ {
+  "item": "p23/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "That meeting could have been an email.",
+  "candidates": [
+   {
+    "cid": "9c7220de",
+    "text": "An email would've done the trick. Didn't need a whole meeting.\n---\ndone the trick"
+   },
+   {
+    "cid": "bb29f7a3",
+    "text": "We totally could've handled that over email.\n---\nhandled that over email"
+   }
+  ]
+ },
+ {
+  "item": "p23/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "That meeting could have been an email.",
+  "candidates": [
+   {
+    "cid": "e9d1f159",
+    "text": "We really didn't need a meeting for that. An email would've done the job.\n---\ndone the job"
+   },
+   {
+    "cid": "e2464380",
+    "text": "That was an email masquerading as a meeting.\n---\nmasquerading as"
+   }
+  ]
+ },
+ {
+  "item": "p24/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I'm not sure I follow. Could you walk me through it again?",
+  "candidates": [
+   {
+    "cid": "c39e51a8",
+    "text": "I'm not quite following. Can you run me through it one more time?\n---\nrun me through it\none more time"
+   },
+   {
+    "cid": "2c967be2",
+    "text": "I'm not sure I'm following. Could you run me through that one more time?\n---\nrun me through\none more time"
+   }
+  ]
+ },
+ {
+  "item": "p24/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I'm not sure I follow. Could you walk me through it again?",
+  "candidates": [
+   {
+    "cid": "9ff8dc10",
+    "text": "I’m not quite with you. Can you walk me through that one more time?\n---\nnot quite with you\nwalk me through"
+   },
+   {
+    "cid": "6c1cb5dc",
+    "text": "I'm not quite with you. Could you walk me through that one more time?\n---\nnot quite with you\nwalk me through"
+   }
+  ]
+ },
+ {
+  "item": "p25/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Yesterday I went to my friend's birthday party. There was a lot of people that I don't know, so I felt a little awkward at the beginning. But after a few drinks everyone become very friendly and we played games until 2am. It was really a fun experience and I'm glad I went.",
+  "candidates": [
+   {
+    "cid": "43f5f575",
+    "text": "I went to my friend's birthday party yesterday. I didn't know a lot of people there, so it was kinda awkward at first. But after a few drinks, everyone warmed up and we played games until 2 a.m. I had a great time, and I'm glad I went.\n---\nwarmed up\nhad a great time"
+   },
+   {
+    "cid": "d7258bdd",
+    "text": "I went to my friend's birthday party yesterday. I didn't know a lot of people there, so I felt a little awkward at first. But a few drinks in, everyone got really friendly, and we played games till 2 a.m. It ended up being a blast. I'm glad I went.\n---\na few drinks in\nended up being a blast"
+   }
+  ]
+ },
+ {
+  "item": "p25/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Yesterday I went to my friend's birthday party. There was a lot of people that I don't know, so I felt a little awkward at the beginning. But after a few drinks everyone become very friendly and we played games until 2am. It was really a fun experience and I'm glad I went.",
+  "candidates": [
+   {
+    "cid": "3b01e7b3",
+    "text": "I went to my friend's birthday party yesterday. I barely knew anyone, so it was a little awkward at first. But a few drinks in, everyone warmed up and we played games until 2 a.m. It turned out to be a great time. I'm glad I went.\n---\na few drinks in\neveryone warmed up"
+   },
+   {
+    "cid": "d4285dad",
+    "text": "I went to my friend's birthday party yesterday. I didn't know a lot of the people there, so it was a little awkward at first. But a few drinks in, everyone warmed up, and we played games until 2 a.m. I had a great time. Glad I went.\n---\na few drinks in\neveryone warmed up"
+   }
+  ]
+ },
+ {
+  "item": "p26/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Long time no see! How are you recently?",
+  "candidates": [
+   {
+    "cid": "8bd17971",
+    "text": "Long time no see! How've you been?\n---\nHow've you been"
+   },
+   {
+    "cid": "9d20f85c",
+    "text": "Long time no see! How've you been?\n---\nHow've you been"
+   }
+  ]
+ },
+ {
+  "item": "p26/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Long time no see! How are you recently?",
+  "candidates": [
+   {
+    "cid": "8c6318a5",
+    "text": "It's been ages! How've you been?\n---\nIt's been ages\nHow've you been"
+   },
+   {
+    "cid": "51882302",
+    "text": "It's been ages! How've you been?\n---\nIt's been ages\nHow've you been"
+   }
+  ]
+ },
+ {
+  "item": "p27/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I'm going to the supermarket, do you need something?",
+  "candidates": [
+   {
+    "cid": "24068f81",
+    "text": "I'm heading to the store. Want me to grab you anything?\n---\nheading to the store\ngrab you anything"
+   },
+   {
+    "cid": "1087133a",
+    "text": "I'm heading to the grocery store. Need anything?\n---\nheading to\n"
+   }
+  ]
+ },
+ {
+  "item": "p27/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I'm going to the supermarket, do you need something?",
+  "candidates": [
+   {
+    "cid": "a93c99fc",
+    "text": "I'm making a grocery run. Need me to grab anything?\n---\nmaking a grocery run\ngrab anything"
+   },
+   {
+    "cid": "12817944",
+    "text": "I'm making a grocery run. Need anything?\n---\nmaking a grocery run"
+   }
+  ]
+ }
+]

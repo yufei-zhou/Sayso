@@ -1,0 +1,802 @@
+[
+ {
+  "item": "c01/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我今天真的累瘫了，什么都不想干。",
+  "candidates": [
+   {
+    "cid": "ab499815",
+    "text": "I'm so wiped out today. I don't feel like doing anything.\n---\nwiped out — 累瘫了 → 累得一点力气都没有"
+   },
+   {
+    "cid": "655607e8",
+    "text": "I'm totally wiped out today. I don't feel like doing anything.\n---\nwiped out — 累瘫了 → 累得一点力气都没了"
+   }
+  ]
+ },
+ {
+  "item": "c01/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我今天真的累瘫了，什么都不想干。",
+  "candidates": [
+   {
+    "cid": "5950f9d8",
+    "text": "I'm completely wiped out today. Doing absolutely nothing sounds about right.\n---\nwiped out — 累瘫了 → 累得一点力气都没有\nsounds about right — 听起来正合适，带点淡淡的自嘲"
+   },
+   {
+    "cid": "3ef5a6d0",
+    "text": "I'm completely wiped out today. Even doing nothing feels like a lot.\n---\nwiped out — 累瘫了 → 累到一点力气都没有\nfeels like a lot — 什么都不想干 → 连这都觉得吃不消"
+   }
+  ]
+ },
+ {
+  "item": "c02/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这家店排队排了一个小时，结果也就那样。",
+  "candidates": [
+   {
+    "cid": "b03ef267",
+    "text": "Waited an hour in line for this place, and it was just kinda meh.\n---\nkinda meh — 也就那样 → 感觉一般，不值得期待"
+   },
+   {
+    "cid": "258928f6",
+    "text": "We waited in line for an hour for this place, and honestly, it was just okay.\n---\njust okay — 也就那样 → 没多好，有点失望"
+   }
+  ]
+ },
+ {
+  "item": "c02/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这家店排队排了一个小时，结果也就那样。",
+  "candidates": [
+   {
+    "cid": "9578781a",
+    "text": "We waited an hour in line for this place, and it was aggressively average.\n---\naggressively average — 也就那样 → 强调实在平庸，带点吐槽\nwaited an hour in line — 排队排了一个小时 → 美式排队表达"
+   },
+   {
+    "cid": "506abc7b",
+    "text": "We waited an hour in line for this place, and it was nothing to write home about.\n---\nnothing to write home about — 也就那样 → 普普通通，没什么值得夸的"
+   }
+  ]
+ },
+ {
+  "item": "c03/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "不好意思，我刚看到消息，晚点回你。",
+  "candidates": [
+   {
+    "cid": "35adfbd8",
+    "text": "Sorry, I just saw your message. I'll get back to you in a bit.\n---\nget back to you — 晚点回你 → 稍后再回复你。"
+   },
+   {
+    "cid": "c0960682",
+    "text": "Sorry, I just saw your message. I'll get back to you in a bit.\n---\nget back to you — 回你 → 稍后回复对方。"
+   }
+  ]
+ },
+ {
+  "item": "c03/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "不好意思，我刚看到消息，晚点回你。",
+  "candidates": [
+   {
+    "cid": "1cca9874",
+    "text": "Sorry, just saw your message. I’ll get back to you in a bit.\n---\nget back to you — 晚点回你 → 稍后再回复你"
+   },
+   {
+    "cid": "f7a2c1b6",
+    "text": "Sorry, just saw your message. I'll get back to you in a bit.\n---\nget back to you — 晚点回你 → 稍后再回复你"
+   }
+  ]
+ },
+ {
+  "item": "c04/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "他这个人就是嘴硬心软。",
+  "candidates": [
+   {
+    "cid": "3a999d78",
+    "text": "He talks tough, but he's a softie at heart.\n---\ntalks tough — 嘴硬 → 说话强硬，不肯服软\na softie at heart — 心软 → 内心柔软，容易心疼别人"
+   },
+   {
+    "cid": "a1edbd81",
+    "text": "He talks tough, but he's a softie at heart.\n---\ntalks tough — 嘴硬 → 说话强硬，不肯服软。\na softie at heart — 心软 → 内心柔软，容易心疼别人。"
+   }
+  ]
+ },
+ {
+  "item": "c04/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "他这个人就是嘴硬心软。",
+  "candidates": [
+   {
+    "cid": "392b9a55",
+    "text": "He talks tough, but he's a softie at heart.\n---\ntalks tough — 嘴硬 → 说话强硬，不肯服软\na softie at heart — 心软 → 其实心肠软，容易心疼人"
+   },
+   {
+    "cid": "7e1823f9",
+    "text": "He talks tough, but he's a softie at heart.\n---\ntalks tough — 嘴硬 → 说话强硬，不肯服软\na softie at heart — 心软 → 内心柔软，容易心疼别人"
+   }
+  ]
+ },
+ {
+  "item": "c05/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我最近在减肥，但是看到奶茶还是忍不住。",
+  "candidates": [
+   {
+    "cid": "695d07ab",
+    "text": "I'm trying to lose weight, but I still can't resist milk tea.\n---\ncan't resist — 忍不住 → 看到喜欢的东西还是想要"
+   },
+   {
+    "cid": "22bdf3a1",
+    "text": "I'm trying to lose weight, but I still can't resist bubble tea.\n---\ncan't resist bubble tea — 忍不住 → 抵挡不住奶茶的诱惑"
+   }
+  ]
+ },
+ {
+  "item": "c05/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我最近在减肥，但是看到奶茶还是忍不住。",
+  "candidates": [
+   {
+    "cid": "02ffbcd4",
+    "text": "I'm trying to lose weight, but apparently my willpower stops at bubble tea.\n---\nmy willpower stops at — 忍不住 → 一遇到某物，自制力就失效"
+   },
+   {
+    "cid": "dc3409ce",
+    "text": "I'm trying to lose weight, but apparently my willpower draws the line at bubble tea.\n---\ndraws the line at — 忍不住 → 到奶茶这关，意志力就不干了"
+   }
+  ]
+ },
+ {
+  "item": "c06/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这个方案我觉得还有点问题，我们能再对一下吗？",
+  "candidates": [
+   {
+    "cid": "9bcb025c",
+    "text": "I think there are still a few issues with this plan. Can we go over it together again?\n---\na few issues — 还有点问题 → 有些地方需要解决\ngo over it together — 对一下 → 一起过一遍、核对一下"
+   },
+   {
+    "cid": "1d8904de",
+    "text": "I think there are still a few issues with this plan. Can we go over it again?\n---\ngo over it again — 再对一下 → 一起重新过一遍、核对。"
+   }
+  ]
+ },
+ {
+  "item": "c06/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这个方案我觉得还有点问题，我们能再对一下吗？",
+  "candidates": [
+   {
+    "cid": "632ce777",
+    "text": "I think there are still a few things we need to iron out with this plan. Can we go over it together again?\n---\niron out — 还有点问题 → 有些细节需要理顺、解决\ngo over it together — 再对一下 → 一起重新过一遍、核对"
+   },
+   {
+    "cid": "137a150e",
+    "text": "I think there are still a few kinks in this plan. Can we go over it together again?\n---\na few kinks — 还有点问题 → 有些需要理顺的小问题\ngo over it — 再对一下 → 一起重新检查、核对"
+   }
+  ]
+ },
+ {
+  "item": "c07/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "你别太往心里去，他就是那种说话不过脑子的人。",
+  "candidates": [
+   {
+    "cid": "ac8cbafd",
+    "text": "Don't take it too personally. He's just the kind of guy who talks without thinking.\n---\ntake it too personally — 往心里去 → 把别人的话当成针对自己\ntalks without thinking — 说话不过脑子 → 没想清楚就说出口"
+   },
+   {
+    "cid": "f48ba665",
+    "text": "Don't take it too personally. He's just one of those people who doesn't think before he speaks.\n---\ntake it too personally — 往心里去 → 把别人的话当成针对自己\ndoesn't think before he speaks — 说话不过脑子 → 开口前不考虑后果"
+   }
+  ]
+ },
+ {
+  "item": "c07/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "你别太往心里去，他就是那种说话不过脑子的人。",
+  "candidates": [
+   {
+    "cid": "63e2ac5a",
+    "text": "Don't take it to heart. He’s one of those people with no filter between his brain and his mouth.\n---\ntake it to heart — 往心里去 → 因别人的话而难过或介意\nno filter — 说话不过脑子 → 想到什么就说什么"
+   },
+   {
+    "cid": "048bec9f",
+    "text": "Don't take it to heart. He’s one of those people with no filter between his brain and his mouth.\n---\ntake it to heart — 往心里去 → 因别人的话而难受\nno filter — 说话不过脑子 → 想到什么就说什么"
+   }
+  ]
+ },
+ {
+  "item": "c08/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "周末要不要一起去爬山？顺便吃个火锅。",
+  "candidates": [
+   {
+    "cid": "ca098c7a",
+    "text": "Wanna go hiking this weekend and grab hot pot after?\n---\ngrab hot pot — 顺便吃个火锅 → grab 指随便去吃点"
+   },
+   {
+    "cid": "c5688333",
+    "text": "Wanna go hiking this weekend and grab hot pot after?\n---\ngrab hot pot — 顺便吃个火锅 → grab 指随意去吃顿饭"
+   }
+  ]
+ },
+ {
+  "item": "c08/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "周末要不要一起去爬山？顺便吃个火锅。",
+  "candidates": [
+   {
+    "cid": "f811776e",
+    "text": "Want to go for a hike this weekend? We could grab hot pot while we’re at it.\n---\nwhile we’re at it — 顺便 → 做一件事时顺带做另一件事\ngrab hot pot — 吃个火锅 → 口语里轻松提议去吃火锅"
+   },
+   {
+    "cid": "14f0e9a5",
+    "text": "Want to go hiking this weekend? We can get hot pot afterward while we're at it.\n---\nwhile we're at it — 顺便 → 既然都出去了，就一起办了"
+   }
+  ]
+ },
+ {
+  "item": "c09/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我真的是服了，又加班到十一点。",
+  "candidates": [
+   {
+    "cid": "2726f43a",
+    "text": "I'm so over this. Had to work till eleven again.\n---\nso over this — 真的是服了 → 表示受够了、很无奈\nwork till eleven — 加班到十一点 → 口语直接说工作到几点"
+   },
+   {
+    "cid": "89864011",
+    "text": "I'm so over this. Had to work till 11 again.\n---\nso over this — 我真的是服了→烦透了，受够了\nwork till 11 — 加班到十一点→口语说工作到十一点"
+   }
+  ]
+ },
+ {
+  "item": "c09/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我真的是服了，又加班到十一点。",
+  "candidates": [
+   {
+    "cid": "04ce307b",
+    "text": "I swear, I can't catch a break. Working till eleven again.\n---\ncan't catch a break — 我真的是服了 → 倒霉事没完，喘口气都难"
+   },
+   {
+    "cid": "6d63a6a5",
+    "text": "Unbelievable. Stuck working till eleven. Again.\n---\nStuck working — 又加班 → 被迫继续干活，透着无奈\nUnbelievable — 我真的是服了 → 表达无语、受够了"
+   }
+  ]
+ },
+ {
+  "item": "c10/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这事儿八字还没一撇呢，先别到处说。",
+  "candidates": [
+   {
+    "cid": "f01234a3",
+    "text": "This isn't even close to a done deal yet, so don't go telling everyone.\n---\na done deal — 八字还没一撇→离定下来还早。\ndon't go telling everyone — 别到处说→口语中劝对方别四处宣扬。"
+   },
+   {
+    "cid": "c4c067a7",
+    "text": "Nothing's set in stone yet, so let's keep it to ourselves for now.\n---\nset in stone — 八字还没一撇 → 事情还没确定\nkeep it to ourselves — 先别到处说 → 暂时别告诉别人"
+   }
+  ]
+ },
+ {
+  "item": "c10/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这事儿八字还没一撇呢，先别到处说。",
+  "candidates": [
+   {
+    "cid": "f1f91039",
+    "text": "Nothing’s set in stone yet, so let’s not broadcast it.\n---\nset in stone — 八字没一撇 → 尚未有眉目，别当定局\nbroadcast it — 到处说 → 把消息四处宣扬"
+   },
+   {
+    "cid": "585e91fe",
+    "text": "This isn't even close to a done deal yet. Let's not broadcast it.\n---\na done deal — 八字还没一撇 → 离事情敲定还早\nbroadcast it — 到处说 → 把消息四处宣扬"
+   }
+  ]
+ },
+ {
+  "item": "c11/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "说实话，我有点社恐，人多的场合会不自在。",
+  "candidates": [
+   {
+    "cid": "c6160f2f",
+    "text": "Tbh, I'm kinda socially awkward and don't feel comfortable in big crowds.\n---\nsocially awkward — 社恐 → 社交时不自在、放不开"
+   },
+   {
+    "cid": "e1319cef",
+    "text": "Tbh, I'm kinda socially anxious. I feel uncomfortable in big groups.\n---\nsocially anxious — 社恐 → 在社交场合容易紧张不自在\nin big groups — 人多的场合 → 和很多人待在一起时"
+   }
+  ]
+ },
+ {
+  "item": "c11/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "说实话，我有点社恐，人多的场合会不自在。",
+  "candidates": [
+   {
+    "cid": "67a85c20",
+    "text": "Honestly, I'm a little socially anxious. Crowds aren't exactly my comfort zone.\n---\nsocially anxious — 社恐 → 在社交场合容易紧张、不自在\naren't exactly my comfort zone — 会不自在 → 委婉说这类场合让我不舒服"
+   },
+   {
+    "cid": "54f7ffde",
+    "text": "Honestly, I'm a little socially anxious. Crowds aren't exactly my comfort zone.\n---\nsocially anxious — 社恐 → 社交时容易紧张、不自在\nmy comfort zone — 让我感到自在、放松的环境或状态"
+   }
+  ]
+ },
+ {
+  "item": "c12/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "感觉他在画大饼，我不太信。",
+  "candidates": [
+   {
+    "cid": "456ed6fd",
+    "text": "Feels like he's just making empty promises. I'm not really buying it.\n---\nmaking empty promises — 画大饼：许下好听却不会兑现的承诺\nnot really buying it — 不太信：对某种说法持怀疑态度"
+   },
+   {
+    "cid": "46b52e89",
+    "text": "Feels like he's just making empty promises. I'm kinda skeptical.\n---\nmaking empty promises — 画大饼 → 许下好听却不会兑现的承诺\nI'm kinda skeptical — 不太信 → 委婉表达怀疑"
+   }
+  ]
+ },
+ {
+  "item": "c12/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "感觉他在画大饼，我不太信。",
+  "candidates": [
+   {
+    "cid": "79ac3927",
+    "text": "Feels like he's promising the moon. I'm not convinced he can deliver.\n---\npromising the moon — 画大饼 → 许下不切实际的美好承诺\nhe can deliver — 能兑现承诺，而不只是嘴上说说"
+   },
+   {
+    "cid": "325a22ff",
+    "text": "Sounds like he's making big promises he can't back up. I'm not buying it.\n---\ncan't back up — 画大饼 → 许下的承诺无法兑现\nnot buying it — 不太信 → 对这套说辞不买账"
+   }
+  ]
+ },
+ {
+  "item": "c13/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "能帮我带杯咖啡吗？我请你。",
+  "candidates": [
+   {
+    "cid": "02882930",
+    "text": "Can you grab me a coffee? Yours is on me.\n---\ngrab me a coffee — 带杯咖啡 → 顺手帮我买杯咖啡。\non me — 我请你 → 表示这笔钱由我来付。"
+   },
+   {
+    "cid": "16a2e1cc",
+    "text": "Can you grab me a coffee? Yours is on me.\n---\ngrab me a coffee — 帮我带杯咖啡 → 顺路帮忙买一杯。\non me — 我请你 → 表示这笔钱由我来付。"
+   }
+  ]
+ },
+ {
+  "item": "c13/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "能帮我带杯咖啡吗？我请你。",
+  "candidates": [
+   {
+    "cid": "c5872c1d",
+    "text": "Could you grab me a coffee? Yours is on me.\n---\non me — 我请你 → 这笔钱我来付"
+   },
+   {
+    "cid": "010d6c00",
+    "text": "Could you grab me a coffee? Yours is on me.\n---\non me — 我请你 → 这杯我付钱"
+   }
+  ]
+ },
+ {
+  "item": "c14/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我们改天再约吧，今天实在抽不开身。",
+  "candidates": [
+   {
+    "cid": "b88d6a97",
+    "text": "Let's hang out another day. I just can't get away today.\n---\ncan't get away — 抽不开身 → 有事缠身，没法离开。"
+   },
+   {
+    "cid": "0cf8ff65",
+    "text": "Let's do another day. I just can't get away today.\n---\ncan't get away — 抽不开身 → 有事缠身，无法离开。"
+   }
+  ]
+ },
+ {
+  "item": "c14/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我们改天再约吧，今天实在抽不开身。",
+  "candidates": [
+   {
+    "cid": "ae817ea8",
+    "text": "Can we take a rain check? I really can't get away today.\n---\ntake a rain check — 改天再约 → 这次去不了，改日再约\ncan't get away — 抽不开身 → 有事缠身，无法离开"
+   },
+   {
+    "cid": "95194d22",
+    "text": "Let's take a rain check. I really can't get away today.\n---\ntake a rain check — 改天再约 → 这次不行，改天再约\ncan't get away — 抽不开身 → 有事缠身，无法脱身"
+   }
+  ]
+ },
+ {
+  "item": "c15/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这电影前半段有点拖，后半段还挺燃的。",
+  "candidates": [
+   {
+    "cid": "25b7c135",
+    "text": "The first half of the movie kinda drags, but the second half gets pretty intense.\n---\nkinda drags — 有点拖 → 节奏慢，让人有点不耐烦\ngets pretty intense — 挺燃 → 后半段紧张刺激，让人看得很投入"
+   },
+   {
+    "cid": "d24e1487",
+    "text": "The first half of the movie kinda drags, but the second half really gets you pumped.\n---\nkinda drags — 有点拖 → 节奏慢，让人觉得磨叽\ngets you pumped — 挺燃的 → 让人热血沸腾、兴奋起来"
+   }
+  ]
+ },
+ {
+  "item": "c15/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这电影前半段有点拖，后半段还挺燃的。",
+  "candidates": [
+   {
+    "cid": "df368418",
+    "text": "The first half drags a bit, but the second half really kicks into gear.\n---\ndrags a bit — 有点拖 → 节奏慢，让人有点不耐烦\nkicks into gear — 燃起来 → 开始发力，变得紧张带劲"
+   },
+   {
+    "cid": "246ae061",
+    "text": "The first half drags a bit, but the second half really kicks into gear.\n---\ndrags a bit — 有点拖 → 节奏慢，有些乏味\nkicks into gear — 燃起来 → 开始发力，变得紧张精彩"
+   }
+  ]
+ },
+ {
+  "item": "hc01/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这周忙得脚不沾地，周末只想躺平。",
+  "candidates": [
+   {
+    "cid": "6a91c2d1",
+    "text": "I've been running around nonstop all week. I just wanna do absolutely nothing this weekend.\n---\nrunning around nonstop — 忙得脚不沾地 → 一直忙个不停\ndo absolutely nothing — 躺平 → 这里指彻底休息，什么都不干"
+   },
+   {
+    "cid": "663cf038",
+    "text": "I've been running nonstop all week. I just wanna do absolutely nothing this weekend.\n---\nrunning nonstop — 脚不沾地 → 忙个不停，没空歇。\ndo absolutely nothing — 躺平 → 什么也不干，彻底休息。"
+   }
+  ]
+ },
+ {
+  "item": "hc01/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这周忙得脚不沾地，周末只想躺平。",
+  "candidates": [
+   {
+    "cid": "7f909ae1",
+    "text": "I've been running nonstop all week. My only plan for the weekend is to do absolutely nothing.\n---\nrunning nonstop — 忙得脚不沾地 → 一直忙，没停过\ndo absolutely nothing — 躺平 → 什么都不干，彻底休息"
+   },
+   {
+    "cid": "63b7dde9",
+    "text": "I've been running nonstop all week. This weekend, I just want to do absolutely nothing.\n---\nrunning nonstop — 脚不沾地 → 忙得一刻都没停\ndo absolutely nothing — 躺平 → 什么都不干，彻底歇着"
+   }
+  ]
+ },
+ {
+  "item": "hc02/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "他说话老是绕弯子，听得我好累。",
+  "candidates": [
+   {
+    "cid": "df5dea28",
+    "text": "He's always beating around the bush, and it's honestly exhausting to listen to.\n---\nbeating around the bush — 绕弯子 → 不直说重点，拐弯抹角。\nexhausting to listen to — 听得我好累 → 听人说话让人心累。"
+   },
+   {
+    "cid": "3837a19c",
+    "text": "He's always beating around the bush, and honestly, it's exhausting listening to him.\n---\nbeating around the bush — 绕弯子 → 不直说重点，拐弯抹角。"
+   }
+  ]
+ },
+ {
+  "item": "hc02/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "他说话老是绕弯子，听得我好累。",
+  "candidates": [
+   {
+    "cid": "50588728",
+    "text": "He never gets to the point. Just listening to him is exhausting.\n---\ngets to the point — 绕弯子 → 不直说；get to the point指说重点\njust listening to him — 听得我好累 → 光是听他说话就累"
+   },
+   {
+    "cid": "7c51a0a4",
+    "text": "He never gets to the point. It's exhausting trying to figure out what he's actually saying.\n---\ngets to the point — 绕弯子 → 不直奔主题；此处用否定表达\nfigure out — 弄清楚，常用于费心理解某人的意思"
+   }
+  ]
+ },
+ {
+  "item": "hc03/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "别急，慢慢来，我们时间还够。",
+  "candidates": [
+   {
+    "cid": "369fd4a2",
+    "text": "No rush, take your time. We've still got plenty of time.\n---\nNo rush — 别急 → 表示不用着急、赶时间\ntake your time — 慢慢来 → 按自己的节奏来，不用赶"
+   },
+   {
+    "cid": "20a76d04",
+    "text": "No rush. Take your time—we've still got plenty of time.\n---\nNo rush — 别急 → 表示不用赶时间。\nTake your time — 慢慢来 → 告诉对方可以从容一点。"
+   }
+  ]
+ },
+ {
+  "item": "hc03/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "别急，慢慢来，我们时间还够。",
+  "candidates": [
+   {
+    "cid": "a9dd1f96",
+    "text": "No rush. Take your time. We've still got plenty of time.\n---\nNo rush — 别急 → 表示不用赶，缓和催促感\ntake your time — 慢慢来 → 按自己的节奏，不必着急"
+   },
+   {
+    "cid": "01d8e9b3",
+    "text": "No rush. Take your time. We're not up against the clock.\n---\nup against the clock — 时间还够 → 用否定表达没那么赶时间"
+   }
+  ]
+ },
+ {
+  "item": "hc04/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这个价格也太离谱了吧，我不买了。",
+  "candidates": [
+   {
+    "cid": "27ced31e",
+    "text": "That price is ridiculous. I'm not gonna buy it.\n---\nprice is ridiculous — 价格太离谱 → 表示贵得不合理"
+   },
+   {
+    "cid": "2b493155",
+    "text": "That price is ridiculous. Yeah, I'm not buying it.\n---\nThat price is ridiculous — 价格太离谱了 → ridiculous 表示贵得不合理"
+   }
+  ]
+ },
+ {
+  "item": "hc04/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这个价格也太离谱了吧，我不买了。",
+  "candidates": [
+   {
+    "cid": "dc7d26c3",
+    "text": "That price is ridiculous. I'm not paying that.\n---\nnot paying that — 不买了 → 这价格我不接受，不掏这钱"
+   },
+   {
+    "cid": "78d0585d",
+    "text": "That price is ridiculous. Yeah, I'm gonna pass.\n---\nI'm gonna pass — 不买了 → 表示算了、不买或不参与"
+   }
+  ]
+ },
+ {
+  "item": "hc05/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我就随口一说，你别当真。",
+  "candidates": [
+   {
+    "cid": "7bd56735",
+    "text": "It was just an offhand comment. Don't take it seriously.\n---\nan offhand comment — 随口一说 → 没经过深思熟虑的话\ntake it seriously — 当真 → 把说的话认真看待"
+   },
+   {
+    "cid": "b109b4c8",
+    "text": "I was just saying it offhand. Don't take it seriously.\n---\nsaying it offhand — 随口一说：随意说的，没认真考虑。\ntake it seriously — 别当真：用于提醒对方不必认真对待。"
+   }
+  ]
+ },
+ {
+  "item": "hc05/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我就随口一说，你别当真。",
+  "candidates": [
+   {
+    "cid": "3cae74c3",
+    "text": "I was just talking off the top of my head. Don't read too much into it.\n---\noff the top of my head — 随口一说 → 没经过深思熟虑就说出来\nread too much into it — 别当真 → 别过度解读，别太往心里去"
+   },
+   {
+    "cid": "d42cfd58",
+    "text": "I was just saying it off the top of my head. Don't take it seriously.\n---\noff the top of my head — 随口一说 → 没细想就说出来，别当成定论"
+   }
+  ]
+ },
+ {
+  "item": "hc06/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这次面试我觉得稳了。",
+  "candidates": [
+   {
+    "cid": "c8b18921",
+    "text": "I think I've got this interview in the bag.\n---\nin the bag — 稳了 → 基本确定能成，有把握时用。"
+   },
+   {
+    "cid": "edbd51ba",
+    "text": "I feel like I've got this interview in the bag.\n---\nin the bag — 稳了 → 很有把握，觉得基本没悬念了"
+   }
+  ]
+ },
+ {
+  "item": "hc06/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这次面试我觉得稳了。",
+  "candidates": [
+   {
+    "cid": "7720d98c",
+    "text": "I think I've got this interview in the bag.\n---\nin the bag — 稳了 → 基本拿下，十拿九稳"
+   },
+   {
+    "cid": "c5de4154",
+    "text": "I think I've got this one in the bag.\n---\nin the bag — 稳了 → 基本拿下，很有把握时用"
+   }
+  ]
+ },
+ {
+  "item": "hc07/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "他俩最近好像在冷战。",
+  "candidates": [
+   {
+    "cid": "3b22cc51",
+    "text": "Looks like those two have been giving each other the silent treatment lately.\n---\ngiving each other the silent treatment — 冷战 → 互不理睬，用沉默表达不满"
+   },
+   {
+    "cid": "e334fa07",
+    "text": "Seems like those two aren't really talking to each other lately.\n---\naren't really talking — 冷战 → 闹矛盾后互不搭理"
+   }
+  ]
+ },
+ {
+  "item": "hc07/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "他俩最近好像在冷战。",
+  "candidates": [
+   {
+    "cid": "f8641dbe",
+    "text": "Seems like those two aren't on speaking terms lately.\n---\naren't on speaking terms — 冷战 → 闹矛盾，互不说话"
+   },
+   {
+    "cid": "30eda0f9",
+    "text": "Those two seem to be giving each other the silent treatment lately.\n---\nthe silent treatment — 冷战 → 故意不理对方，表示不满"
+   }
+  ]
+ },
+ {
+  "item": "hc08/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "早知道会堵车，我就坐地铁了。",
+  "candidates": [
+   {
+    "cid": "31550daa",
+    "text": "If I'd known traffic was gonna be this bad, I would've taken the subway.\n---\nIf I'd known — 早知道 → 用于事后假设当时知情\nwould've taken the subway — 就坐地铁了 → 表达未实现的选择"
+   },
+   {
+    "cid": "ac40699b",
+    "text": "If I'd known traffic was gonna be this bad, I would've taken the subway.\n---\nIf I'd known — 早知道 → 用于对过去的假设。\nwould've taken the subway — 就坐地铁了 → 表达没做成的选择。"
+   }
+  ]
+ },
+ {
+  "item": "hc08/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "早知道会堵车，我就坐地铁了。",
+  "candidates": [
+   {
+    "cid": "db55b44f",
+    "text": "If I'd known traffic would be this bad, I would've taken the subway.\n---\nIf I'd known — 早知道 → 对已发生的事作事后假设\nwould've taken — 我就坐了 → 表达当时没做的选择"
+   },
+   {
+    "cid": "97156aea",
+    "text": "If I'd known traffic would be this bad, I would've taken the subway.\n---\nIf I'd known — 早知道 → 对过去的假设，带点后悔\nwould've taken — 就坐…了 → 表示当时本会做的选择"
+   }
+  ]
+ },
+ {
+  "item": "hc09/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这个bug我修了一下午，结果是少了个分号，心态崩了。",
+  "candidates": [
+   {
+    "cid": "6f6c5d8b",
+    "text": "I spent all afternoon trying to fix this bug, and it turned out I was just missing a semicolon. I'm losing it.\n---\nit turned out — 结果是 → 折腾后才发现真相\nI'm losing it — 心态崩了 → 被折腾得快受不了了"
+   },
+   {
+    "cid": "a6ca2f98",
+    "text": "I spent all afternoon trying to fix this bug, and it turns out I was just missing a semicolon. I'm losing it.\n---\nmissing a semicolon — 少了个分号，指代码中漏写了分号\nI'm losing it — 心态崩了 → 快被折腾疯了"
+   }
+  ]
+ },
+ {
+  "item": "hc09/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这个bug我修了一下午，结果是少了个分号，心态崩了。",
+  "candidates": [
+   {
+    "cid": "9bbf82fb",
+    "text": "I spent all afternoon chasing down this bug, and it turned out to be a missing semicolon. I'm losing it.\n---\nchasing down this bug — 追查这个 bug，强调费劲找原因\nI'm losing it — 心态崩了 → 我快崩溃了"
+   },
+   {
+    "cid": "43c1be17",
+    "text": "I spent all afternoon chasing this bug, and it turned out to be a missing semicolon. I'm losing my mind.\n---\nchasing this bug — 修了一下午 → 花时间追查这个错误\nlosing my mind — 心态崩了 → 被折腾到快抓狂"
+   }
+  ]
+ },
+ {
+  "item": "hc10/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "谢谢你帮我这么大的忙，改天请你吃饭。",
+  "candidates": [
+   {
+    "cid": "634135df",
+    "text": "Thanks so much for helping me out. I owe you a meal sometime.\n---\nhelping me out — 帮我这么大的忙 → 帮我解决困难\nI owe you a meal — 改天请你吃饭 → 用请客表达感谢"
+   },
+   {
+    "cid": "edfcc8a5",
+    "text": "Thanks so much for helping me out. I owe you a meal sometime.\n---\nhelping me out — 帮我这么大的忙 → 帮忙解决困难。\nowe you a meal — 改天请你吃饭 → 用请客表达感谢。"
+   }
+  ]
+ },
+ {
+  "item": "hc10/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "谢谢你帮我这么大的忙，改天请你吃饭。",
+  "candidates": [
+   {
+    "cid": "6888cbd4",
+    "text": "Thanks for doing me such a huge favor. I owe you dinner.\n---\nsuch a huge favor — 这么大的忙 → 强调对方帮了大忙\nI owe you dinner — 改天请你吃饭 → 用请客表达感谢"
+   },
+   {
+    "cid": "b80680ed",
+    "text": "Thanks for really coming through for me. I owe you dinner.\n---\ncoming through for me — 帮我这么大的忙 → 在需要时帮上大忙\nI owe you dinner — 改天请你吃饭 → 用请吃饭表达感谢"
+   }
+  ]
+ }
+]

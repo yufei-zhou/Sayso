@@ -1,0 +1,594 @@
+[
+ {
+  "item": "hc01/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这周忙得脚不沾地，周末只想躺平。",
+  "candidates": [
+   {
+    "cid": "28c7e2bd",
+    "text": "I've been so slammed this week. I just wanna do absolutely nothing this weekend.\n---\nso slammed\ndo absolutely nothing"
+   },
+   {
+    "cid": "a6b36370",
+    "text": "I've been running nonstop all week. I just wanna do absolutely nothing this weekend.\n---\nrunning nonstop\ndo absolutely nothing"
+   }
+  ]
+ },
+ {
+  "item": "hc01/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这周忙得脚不沾地，周末只想躺平。",
+  "candidates": [
+   {
+    "cid": "7f849074",
+    "text": "I've been running nonstop all week. I just want to do nothing this weekend.\n---\nrunning nonstop\ndo nothing this weekend"
+   },
+   {
+    "cid": "426ee3a9",
+    "text": "I've been running nonstop all week. This weekend, I just want to do absolutely nothing.\n---\nrunning nonstop\ndo absolutely nothing"
+   }
+  ]
+ },
+ {
+  "item": "hc02/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "他说话老是绕弯子，听得我好累。",
+  "candidates": [
+   {
+    "cid": "f319bb44",
+    "text": "He never gets to the point, and it's honestly exhausting listening to him.\n---\ngets to the point"
+   },
+   {
+    "cid": "f3b4a1cd",
+    "text": "He's always beating around the bush, and it's exhausting listening to him.\n---\nbeating around the bush"
+   }
+  ]
+ },
+ {
+  "item": "hc02/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "他说话老是绕弯子，听得我好累。",
+  "candidates": [
+   {
+    "cid": "855c962b",
+    "text": "He always talks in circles. It’s exhausting trying to follow him.\n---\ntalks in circles"
+   },
+   {
+    "cid": "2ebbff44",
+    "text": "He never gets to the point. It’s exhausting listening to him.\n---\ngets to the point"
+   }
+  ]
+ },
+ {
+  "item": "hc03/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "别急，慢慢来，我们时间还够。",
+  "candidates": [
+   {
+    "cid": "a603e22a",
+    "text": "No rush. Take your time—we've still got plenty of time.\n---\nNo rush\nTake your time"
+   },
+   {
+    "cid": "c0f9a785",
+    "text": "No rush, take your time. We've still got plenty of time.\n---\nNo rush\ntake your time"
+   }
+  ]
+ },
+ {
+  "item": "hc03/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "别急，慢慢来，我们时间还够。",
+  "candidates": [
+   {
+    "cid": "a91eddb7",
+    "text": "No rush. Take your time. We still have plenty of time.\n---\nNo rush\nTake your time"
+   },
+   {
+    "cid": "4dbc54cf",
+    "text": "Take your time. We've still got plenty of time.\n---\nTake your time"
+   }
+  ]
+ },
+ {
+  "item": "hc04/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这个价格也太离谱了吧，我不买了。",
+  "candidates": [
+   {
+    "cid": "29dba150",
+    "text": "That price is ridiculous. I'm not getting it.\n---\nThat price is ridiculous\nI'm not getting it"
+   },
+   {
+    "cid": "0d444f50",
+    "text": "That price is ridiculous. I'm gonna pass.\n---\ngonna pass"
+   }
+  ]
+ },
+ {
+  "item": "hc04/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这个价格也太离谱了吧，我不买了。",
+  "candidates": [
+   {
+    "cid": "be704882",
+    "text": "That price is ridiculous. I'll pass.\n---\nI'll pass"
+   },
+   {
+    "cid": "441cb6cd",
+    "text": "That price is ridiculous. I'm not paying that.\n---\nnot paying that"
+   }
+  ]
+ },
+ {
+  "item": "hc05/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我就随口一说，你别当真。",
+  "candidates": [
+   {
+    "cid": "b531647a",
+    "text": "It was just an offhand comment. Don't take it too seriously.\n---\nan offhand comment\ntake it too seriously"
+   },
+   {
+    "cid": "a9f5549e",
+    "text": "I was just saying that. Don't take it seriously.\n---\nDon't take it seriously"
+   }
+  ]
+ },
+ {
+  "item": "hc05/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我就随口一说，你别当真。",
+  "candidates": [
+   {
+    "cid": "344e3b53",
+    "text": "I was just saying that. Don’t take it seriously.\n---\ntake it seriously"
+   },
+   {
+    "cid": "54ecdaa6",
+    "text": "I was just saying it offhand. Don't take it seriously.\n---\nsaying it offhand\ntake it seriously"
+   }
+  ]
+ },
+ {
+  "item": "hc06/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这次面试我觉得稳了。",
+  "candidates": [
+   {
+    "cid": "c8126f53",
+    "text": "I feel like I've got this interview in the bag.\n---\nin the bag"
+   },
+   {
+    "cid": "bb9b23db",
+    "text": "I feel like I've got this interview in the bag.\n---\nin the bag"
+   }
+  ]
+ },
+ {
+  "item": "hc06/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这次面试我觉得稳了。",
+  "candidates": [
+   {
+    "cid": "f49be13c",
+    "text": "I think I've got this interview in the bag.\n---\nin the bag"
+   },
+   {
+    "cid": "200c2553",
+    "text": "I think I've got this interview in the bag.\n---\nin the bag"
+   }
+  ]
+ },
+ {
+  "item": "hc07/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "他俩最近好像在冷战。",
+  "candidates": [
+   {
+    "cid": "48106855",
+    "text": "Seems like those two aren't talking to each other lately.\n---\naren't talking to each other"
+   },
+   {
+    "cid": "ad3ec05a",
+    "text": "Seems like those two aren't talking to each other lately.\n---\naren't talking to each other"
+   }
+  ]
+ },
+ {
+  "item": "hc07/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "他俩最近好像在冷战。",
+  "candidates": [
+   {
+    "cid": "136ef66e",
+    "text": "Those two seem to be giving each other the silent treatment lately.\n---\nthe silent treatment"
+   },
+   {
+    "cid": "696ea2dd",
+    "text": "Those two seem to be giving each other the silent treatment lately.\n---\ngiving each other the silent treatment"
+   }
+  ]
+ },
+ {
+  "item": "hc08/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "早知道会堵车，我就坐地铁了。",
+  "candidates": [
+   {
+    "cid": "4ec33d5f",
+    "text": "If I'd known traffic would be this bad, I would've taken the subway.\n---\ntraffic would be this bad"
+   },
+   {
+    "cid": "87a7ee38",
+    "text": "If I'd known traffic was gonna be this bad, I would've taken the subway.\n---\ntraffic was gonna be this bad\nwould've taken the subway"
+   }
+  ]
+ },
+ {
+  "item": "hc08/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "早知道会堵车，我就坐地铁了。",
+  "candidates": [
+   {
+    "cid": "af46d6e1",
+    "text": "If I’d known traffic would be this bad, I would’ve taken the subway.\n---\ntaken the subway"
+   },
+   {
+    "cid": "85743496",
+    "text": "If I’d known traffic would be this bad, I would’ve taken the subway.\n---\ntraffic would be this bad"
+   }
+  ]
+ },
+ {
+  "item": "hc09/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这个bug我修了一下午，结果是少了个分号，心态崩了。",
+  "candidates": [
+   {
+    "cid": "6d8e1267",
+    "text": "I spent all afternoon debugging this, and it turned out to be a missing semicolon. I'm losing it.\n---\nturned out to be\nI'm losing it"
+   },
+   {
+    "cid": "5ede3657",
+    "text": "I spent all afternoon trying to fix this bug, and it turned out to be a missing semicolon. I'm losing it.\n---\nturned out to be\nI'm losing it"
+   }
+  ]
+ },
+ {
+  "item": "hc09/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这个bug我修了一下午，结果是少了个分号，心态崩了。",
+  "candidates": [
+   {
+    "cid": "87238736",
+    "text": "I spent all afternoon chasing down this bug, and it turned out to be a missing semicolon. I’m losing it.\n---\nchasing down\nI’m losing it"
+   },
+   {
+    "cid": "baf92444",
+    "text": "I spent all afternoon debugging, and it turned out I was missing a semicolon. I can't take it anymore.\n---\nturned out\nI can't take it anymore"
+   }
+  ]
+ },
+ {
+  "item": "hc10/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "谢谢你帮我这么大的忙，改天请你吃饭。",
+  "candidates": [
+   {
+    "cid": "5bd16be4",
+    "text": "Thanks for helping me out so much. Let me buy you dinner sometime.\n---\nhelping me out\nLet me buy you dinner"
+   },
+   {
+    "cid": "746b3af0",
+    "text": "Thanks so much—you really helped me out. Let me buy you dinner sometime.\n---\nhelped me out\nLet me buy you dinner"
+   }
+  ]
+ },
+ {
+  "item": "hc10/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "谢谢你帮我这么大的忙，改天请你吃饭。",
+  "candidates": [
+   {
+    "cid": "16f980b1",
+    "text": "Thanks for all your help. Let me take you out to dinner sometime.\n---\ntake you out to dinner"
+   },
+   {
+    "cid": "c0561201",
+    "text": "Thank you so much for your help. Let me take you out to dinner sometime.\n---\ntake you out to dinner"
+   }
+  ]
+ },
+ {
+  "item": "sc01/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我今天状态不太好，脑子转不动。",
+  "candidates": [
+   {
+    "cid": "a2611277",
+    "text": "I'm kinda off today. My brain's not working.\n---\nI'm kinda off\nMy brain's not working"
+   },
+   {
+    "cid": "485c40cc",
+    "text": "I'm feeling a little off today. My brain just isn't working.\n---\nfeeling a little off\nMy brain just isn't working"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sc01/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我今天状态不太好，脑子转不动。",
+  "candidates": [
+   {
+    "cid": "60f429e9",
+    "text": "I'm a little off today. My brain just isn't working.\n---\na little off\nmy brain just isn't working"
+   },
+   {
+    "cid": "436e1162",
+    "text": "I'm not at my best today. My brain just isn't working.\n---\nnot at my best"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sc02/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "别提了，今天倒霉透了。",
+  "candidates": [
+   {
+    "cid": "501fad6f",
+    "text": "Don't even get me started. Nothing's gone right today.\n---\nDon't even get me started\nNothing's gone right"
+   },
+   {
+    "cid": "ef1056c4",
+    "text": "Don't even get me started. Today's been the worst.\n---\nDon't even get me started\nToday's been the worst"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sc02/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "别提了，今天倒霉透了。",
+  "candidates": [
+   {
+    "cid": "049dca53",
+    "text": "Don't even ask. Nothing's gone right today.\n---\nDon't even ask\nNothing's gone right"
+   },
+   {
+    "cid": "22eb32d3",
+    "text": "Don't even ask. Nothing's gone right today.\n---\nDon't even ask\nNothing's gone right"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sc03/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我有点纠结，不知道该选哪个。",
+  "candidates": [
+   {
+    "cid": "54fa9a8e",
+    "text": "I'm kinda torn. I don't know which one to pick.\n---\nI'm kinda torn"
+   },
+   {
+    "cid": "2e837147",
+    "text": "I'm kinda torn. I don't know which one to go with.\n---\nkinda torn\ngo with"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sc03/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我有点纠结，不知道该选哪个。",
+  "candidates": [
+   {
+    "cid": "fc626014",
+    "text": "I'm torn. I don't know which one to pick.\n---\nI'm torn"
+   },
+   {
+    "cid": "7800c460",
+    "text": "I'm a little torn. I'm not sure which one to pick.\n---\na little torn"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sc04/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这个东西性价比很高，强烈推荐。",
+  "candidates": [
+   {
+    "cid": "da596685",
+    "text": "This is a great value. Highly recommend it.\n---\na great value\nHighly recommend it"
+   },
+   {
+    "cid": "45664466",
+    "text": "This is great value for the money. Highly recommend it.\n---\ngreat value for the money\nHighly recommend it"
+   }
+  ],
+  "scene": "recommending something to a friend"
+ },
+ {
+  "item": "sc04/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这个东西性价比很高，强烈推荐。",
+  "candidates": [
+   {
+    "cid": "3d0ba45f",
+    "text": "This is great value for the money. I highly recommend it.\n---\ngreat value for the money\nhighly recommend it"
+   },
+   {
+    "cid": "dc509695",
+    "text": "This is great value for the money. I highly recommend it.\n---\ngreat value for the money\nhighly recommend it"
+   }
+  ],
+  "scene": "recommending something to a friend"
+ },
+ {
+  "item": "sc05/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "你先忙，我不着急。",
+  "candidates": [
+   {
+    "cid": "e413286d",
+    "text": "Go ahead and do what you need to do. No rush.\n---\ndo what you need to do\nNo rush"
+   },
+   {
+    "cid": "2be0778a",
+    "text": "Take your time. I'm in no rush.\n---\nTake your time\nin no rush"
+   }
+  ],
+  "scene": "replying to a colleague"
+ },
+ {
+  "item": "sc05/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "你先忙，我不着急。",
+  "candidates": [
+   {
+    "cid": "204fbfd6",
+    "text": "Take your time. I'm in no rush.\n---\nTake your time\nin no rush"
+   },
+   {
+    "cid": "b66d258e",
+    "text": "I'll let you get back to it. No rush.\n---\nget back to it\nNo rush"
+   }
+  ],
+  "scene": "replying to a colleague"
+ },
+ {
+  "item": "sc06/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "随便吧，我都行。",
+  "candidates": [
+   {
+    "cid": "40455f3f",
+    "text": "Whatever, I'm good with anything.\n---\nI'm good with anything"
+   },
+   {
+    "cid": "27f8f2e0",
+    "text": "Whatever works. I'm good with anything.\n---\nWhatever works\nI'm good with anything"
+   }
+  ],
+  "scene": "deciding where to eat with friends"
+ },
+ {
+  "item": "sc06/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "随便吧，我都行。",
+  "candidates": [
+   {
+    "cid": "51e10f82",
+    "text": "Whatever works. I'm good with anything.\n---\nWhatever works\ngood with anything"
+   },
+   {
+    "cid": "dd46b9a3",
+    "text": "Whatever works. I'm good with anything.\n---\nWhatever works\nI'm good with anything"
+   }
+  ],
+  "scene": "deciding where to eat with friends"
+ },
+ {
+  "item": "sc07/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我跟他不太熟，就见过一两次。",
+  "candidates": [
+   {
+    "cid": "754db7bf",
+    "text": "I don't know him that well. We've only met once or twice.\n---\ndon't know him that well\nonce or twice"
+   },
+   {
+    "cid": "bd5522f6",
+    "text": "I don't really know him that well. We've only met once or twice.\n---\nknow him that well\nonce or twice"
+   }
+  ],
+  "scene": "talking about an acquaintance"
+ },
+ {
+  "item": "sc07/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我跟他不太熟，就见过一两次。",
+  "candidates": [
+   {
+    "cid": "2b1dff56",
+    "text": "I don't know him that well. We've only met once or twice.\n---\ndon't know him that well\nonce or twice"
+   },
+   {
+    "cid": "b19de7cf",
+    "text": "I don't know him that well. We've only met once or twice.\n---\ndon't know him that well\nonce or twice"
+   }
+  ],
+  "scene": "talking about an acquaintance"
+ },
+ {
+  "item": "sc08/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "他说话总是拐弯抹角的，听得我很累。",
+  "candidates": [
+   {
+    "cid": "26cfeef6",
+    "text": "He always talks in circles, and it's exhausting trying to figure out what he means.\n---\ntalks in circles\nfigure out what he means"
+   },
+   {
+    "cid": "276baf13",
+    "text": "He never gets to the point, and it's exhausting trying to figure out what he's actually saying.\n---\ngets to the point\nfigure out"
+   }
+  ],
+  "scene": "complaining to a friend"
+ },
+ {
+  "item": "sc08/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "他说话总是拐弯抹角的，听得我很累。",
+  "candidates": [
+   {
+    "cid": "acff8219",
+    "text": "He never gets to the point, and it's exhausting to listen to.\n---\ngets to the point"
+   },
+   {
+    "cid": "e7e0318d",
+    "text": "He never gets to the point, and it’s exhausting to listen to him.\n---\ngets to the point"
+   }
+  ],
+  "scene": "complaining to a friend"
+ }
+]

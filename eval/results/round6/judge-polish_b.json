@@ -1,0 +1,767 @@
+[
+ {
+  "item": "sp08/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I will be late for 10 minutes, please start without me.",
+  "candidates": [
+   {
+    "cid": "168e657c",
+    "text": "I'm running 10 minutes late. Please start without me.\n---\nrunning 10 minutes late"
+   },
+   {
+    "cid": "2378fc4b",
+    "text": "I’m running 10 minutes late. Please start without me.\n---\nrunning 10 minutes late"
+   }
+  ],
+  "scene": "message to the team before a meeting"
+ },
+ {
+  "item": "sp09/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Dear Professor, I want to ask if you have time this week to discuss about my thesis progress. I am available on any day except Friday.",
+  "candidates": [
+   {
+    "cid": "ab315d52",
+    "text": "Dear Professor, I was wondering if you’d have time this week to go over my thesis progress. Any day except Friday works for me.\n---\ngo over\nworks for me"
+   },
+   {
+    "cid": "eb81d8d3",
+    "text": "Dear Professor, I was wondering if you have time this week to go over my thesis progress. I'm available any day except Friday.\n---\nI was wondering if\ngo over"
+   }
+  ],
+  "scene": "email to a professor"
+ },
+ {
+  "item": "sp09/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Dear Professor, I want to ask if you have time this week to discuss about my thesis progress. I am available on any day except Friday.",
+  "candidates": [
+   {
+    "cid": "636e5187",
+    "text": "Dear Professor, I was wondering if you have time this week to discuss my progress on my thesis. Any day except Friday works for me.\n---\nI was wondering if\nworks for me"
+   },
+   {
+    "cid": "7011f2fe",
+    "text": "Dear Professor, would you have time this week to discuss my progress on my thesis? I'm available any day except Friday.\n---\nwould you have time\ndiscuss my progress"
+   }
+  ],
+  "scene": "email to a professor"
+ },
+ {
+  "item": "sp10/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Dear Professor Martin, I am writing to ask if it is possible to extend the deadline of the report for three days, because I was sick last week.",
+  "candidates": [
+   {
+    "cid": "ee7f2990",
+    "text": "Dear Professor Martin, I was wondering if I could get a three-day extension on the report, since I was sick last week.\n---\nI was wondering if\nget a three-day extension"
+   },
+   {
+    "cid": "ad46f047",
+    "text": "Dear Professor Martin, I was wondering if I could have a three-day extension on the report deadline, as I was sick last week.\n---\nI was wondering if\na three-day extension"
+   }
+  ],
+  "scene": "email to a professor"
+ },
+ {
+  "item": "sp10/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Dear Professor Martin, I am writing to ask if it is possible to extend the deadline of the report for three days, because I was sick last week.",
+  "candidates": [
+   {
+    "cid": "b6026543",
+    "text": "Dear Professor Martin, I was wondering if I could have a three-day extension on the report, as I was sick last week.\n---\nI was wondering if\nextension on the report"
+   },
+   {
+    "cid": "ae60c277",
+    "text": "Dear Professor Martin, would it be possible to get a three-day extension on the report? I was sick last week.\n---\nget a three-day extension"
+   }
+  ],
+  "scene": "email to a professor"
+ },
+ {
+  "item": "sp11/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Thank you for the meeting today. I will revise the introduction according to your comments and send you the new version before next Monday.",
+  "candidates": [
+   {
+    "cid": "118df2d9",
+    "text": "Thank you for meeting with me today. I'll revise the introduction based on your feedback and send you the updated version before next Monday.\n---\nbased on your feedback\nupdated version"
+   },
+   {
+    "cid": "3079dd52",
+    "text": "Thanks for meeting with me today. I'll revise the introduction based on your feedback and send you the updated version before next Monday.\n---\nbased on your feedback\nupdated version"
+   }
+  ],
+  "scene": "email to a supervisor after a meeting"
+ },
+ {
+  "item": "sp11/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Thank you for the meeting today. I will revise the introduction according to your comments and send you the new version before next Monday.",
+  "candidates": [
+   {
+    "cid": "dfb9f5bf",
+    "text": "Thank you for meeting with me today. I'll revise the introduction based on your feedback and send you the updated version before next Monday.\n---\nbased on your feedback\nupdated version"
+   },
+   {
+    "cid": "25398dec",
+    "text": "Thank you for meeting with me today. I’ll revise the introduction based on your feedback and send you the updated version before next Monday.\n---\nbased on your feedback\nupdated version"
+   }
+  ],
+  "scene": "email to a supervisor after a meeting"
+ },
+ {
+  "item": "sp12/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Could you please write a recommendation letter for my PhD application? The deadline is December 15. I can send you my CV and research statement if you need.",
+  "candidates": [
+   {
+    "cid": "a3a77784",
+    "text": "I was wondering if you'd be willing to write a letter of recommendation for my PhD application. The deadline is December 15. I'd be happy to send you my CV and research statement if that would help.\n---\nI was wondering if\nletter of recommendation"
+   },
+   {
+    "cid": "dbcca5fe",
+    "text": "I was wondering if you’d be willing to write me a letter of recommendation for my PhD application. It’s due December 15. I’d be happy to send over my CV and research statement if that would help.\n---\nbe willing to\nsend over"
+   }
+  ],
+  "scene": "email to a professor"
+ },
+ {
+  "item": "sp12/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Could you please write a recommendation letter for my PhD application? The deadline is December 15. I can send you my CV and research statement if you need.",
+  "candidates": [
+   {
+    "cid": "54195019",
+    "text": "Would you be willing to write a letter of recommendation for my PhD application? It's due December 15. I can send you my CV and research statement if that would be helpful.\n---\nWould you be willing to\nletter of recommendation"
+   },
+   {
+    "cid": "c34f138f",
+    "text": "Would you be willing to write me a letter of recommendation for my PhD application? The deadline is December 15. I can send you my CV and research statement if that would help.\n---\nWould you be willing to\nletter of recommendation"
+   }
+  ],
+  "scene": "email to a professor"
+ },
+ {
+  "item": "sp13/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Hi Marie, the experiments are finished, the results are better than baseline by 3 points. I put the table in our shared doc, please have a look when you are free.",
+  "candidates": [
+   {
+    "cid": "18b4442a",
+    "text": "Hi Marie, the experiments are done, and the results are 3 points above baseline. I added the table to our shared doc. Take a look when you get a chance.\n---\nTake a look\nwhen you get a chance"
+   },
+   {
+    "cid": "8a380af8",
+    "text": "Hi Marie, the experiments are done, and the results beat the baseline by 3 points. I added the table to our shared doc. Take a look when you get a chance.\n---\nbeat the baseline\nwhen you get a chance"
+   }
+  ],
+  "scene": "chat message to a supervisor (first-name terms)"
+ },
+ {
+  "item": "sp13/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Hi Marie, the experiments are finished, the results are better than baseline by 3 points. I put the table in our shared doc, please have a look when you are free.",
+  "candidates": [
+   {
+    "cid": "d4838e82",
+    "text": "Hi Marie, the experiments are done, and the results beat the baseline by 3 points. I added the table to our shared doc. Please take a look when you have a chance.\n---\nbeat the baseline\nwhen you have a chance"
+   },
+   {
+    "cid": "7226c01e",
+    "text": "Hi Marie, the experiments are done, and the results beat the baseline by 3 points. I've added the table to our shared doc. Take a look when you have a chance.\n---\nbeat the baseline\nwhen you have a chance"
+   }
+  ],
+  "scene": "chat message to a supervisor (first-name terms)"
+ },
+ {
+  "item": "sp14/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Do you want to go to eat hotpot this weekend? I know a new place that is very delicious.",
+  "candidates": [
+   {
+    "cid": "bff14abd",
+    "text": "Wanna grab hot pot this weekend? I know a new spot with really good food.\n---\ngrab hot pot\na new spot"
+   },
+   {
+    "cid": "95e686ac",
+    "text": "Wanna grab hot pot this weekend? I know a new spot with really good food.\n---\ngrab hot pot"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sp14/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Do you want to go to eat hotpot this weekend? I know a new place that is very delicious.",
+  "candidates": [
+   {
+    "cid": "5fe3676c",
+    "text": "Do you want to get hot pot this weekend? I know a new place with really good food.\n---\nget hot pot"
+   },
+   {
+    "cid": "6b60cd78",
+    "text": "Do you want to grab hot pot this weekend? I know a new place with really good food.\n---\ngrab hot pot"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sp15/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Sorry I can't go tonight, I am too tired and I still have many works to do.",
+  "candidates": [
+   {
+    "cid": "aabeacc6",
+    "text": "Sorry, I can't make it tonight. I'm worn out and still have a lot of work to do.\n---\ncan't make it\nworn out"
+   },
+   {
+    "cid": "1d65f236",
+    "text": "Sorry, I can't make it tonight. I'm wiped out and still have a ton of work to do.\n---\ncan't make it\nwiped out"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sp15/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Sorry I can't go tonight, I am too tired and I still have many works to do.",
+  "candidates": [
+   {
+    "cid": "d0780d77",
+    "text": "Sorry, I can't make it tonight. I'm exhausted and still have a lot of work to get through.\n---\ncan't make it\nwork to get through"
+   },
+   {
+    "cid": "43488eed",
+    "text": "Sorry, I can't make it tonight. I'm worn out and still have a lot of work to do.\n---\ncan't make it\nworn out"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sp16/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Haha you are so funny, I laughed to death.",
+  "candidates": [
+   {
+    "cid": "57c57ecc",
+    "text": "Haha you're hilarious. I'm dying.\n---\nI'm dying"
+   },
+   {
+    "cid": "7d2a3296",
+    "text": "Haha, you're hilarious. I'm dying.\n---\nI'm dying"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sp16/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Haha you are so funny, I laughed to death.",
+  "candidates": [
+   {
+    "cid": "c685c287",
+    "text": "Haha, you're hilarious. You had me dying.\n---\nhad me dying"
+   },
+   {
+    "cid": "7e32322e",
+    "text": "Haha, you’re hilarious. You cracked me up.\n---\ncracked me up"
+   }
+  ],
+  "scene": "texting a friend"
+ },
+ {
+  "item": "sp17/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Don't be sad, everything will be OK, you already did your best.",
+  "candidates": [
+   {
+    "cid": "09fbe89e",
+    "text": "Don't feel bad. Everything's gonna be okay. You gave it your best shot.\n---\ngave it your best shot"
+   },
+   {
+    "cid": "2216dc8e",
+    "text": "Don't feel bad. It's gonna be okay—you gave it your all.\n---\ngave it your all"
+   }
+  ],
+  "scene": "comforting a friend"
+ },
+ {
+  "item": "sp17/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Don't be sad, everything will be OK, you already did your best.",
+  "candidates": [
+   {
+    "cid": "ccc62483",
+    "text": "Don't be sad. Everything's going to be okay. You gave it your best.\n---\ngave it your best"
+   },
+   {
+    "cid": "45c22e55",
+    "text": "Try not to be too hard on yourself. Everything will be okay. You did the best you could.\n---\nbe too hard on yourself\ndid the best you could"
+   }
+  ],
+  "scene": "comforting a friend"
+ },
+ {
+  "item": "sp18/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I watched this series in one night, it is so addictive, you must watch it.",
+  "candidates": [
+   {
+    "cid": "b0348418",
+    "text": "I binged this whole series in one night. It’s so addictive—you’ve gotta check it out.\n---\nbinged this whole series\ncheck it out"
+   },
+   {
+    "cid": "1d9e4e3c",
+    "text": "I binged the whole series in one night. It's so addictive—you've gotta watch it.\n---\nbinged the whole series\nyou've gotta watch it"
+   }
+  ],
+  "scene": "recommending a show to a friend"
+ },
+ {
+  "item": "sp18/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I watched this series in one night, it is so addictive, you must watch it.",
+  "candidates": [
+   {
+    "cid": "36cdd724",
+    "text": "I binged the whole series in one night. It's so addictive. You have to watch it.\n---\nbinged the whole series\nhave to watch it"
+   },
+   {
+    "cid": "dd338c03",
+    "text": "I binged the whole series in one night. It’s so addictive. You have to watch it.\n---\nbinged the whole series\nhave to watch it"
+   }
+  ],
+  "scene": "recommending a show to a friend"
+ },
+ {
+  "item": "sp19/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "The weather in Paris is so bad recently, it rains everyday and I have no mood to go out.",
+  "candidates": [
+   {
+    "cid": "551111a4",
+    "text": "The weather in Paris has been awful lately. It rains every day, and I just don't feel like going out.\n---\ndon't feel like"
+   },
+   {
+    "cid": "c103f7f7",
+    "text": "The weather in Paris has been so bad lately. It rains every day, and I just don't feel like going out.\n---\ndon't feel like"
+   }
+  ],
+  "scene": "small talk with a friend"
+ },
+ {
+  "item": "sp19/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "The weather in Paris is so bad recently, it rains everyday and I have no mood to go out.",
+  "candidates": [
+   {
+    "cid": "ed892f17",
+    "text": "The weather in Paris has been awful lately. It rains every day, and I don't feel like going out.\n---\ndon't feel like"
+   },
+   {
+    "cid": "d28bf645",
+    "text": "The weather in Paris has been awful lately. It rains every day, and I don’t feel like going out.\n---\nhas been awful lately\ndon’t feel like"
+   }
+  ],
+  "scene": "small talk with a friend"
+ },
+ {
+  "item": "sp20/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Hello, the heater in my room is broken since two days, can you send someone to repair it as soon as possible?",
+  "candidates": [
+   {
+    "cid": "1a248709",
+    "text": "Hello, the heater in my room hasn't been working for two days. Could you send someone to fix it as soon as possible?\n---\nhasn't been working\nsend someone to fix it"
+   },
+   {
+    "cid": "057a35fc",
+    "text": "Hello, the heater in my room hasn't been working for two days. Could you send someone to take a look at it as soon as possible?\n---\ntake a look at it"
+   }
+  ],
+  "scene": "message to a landlord"
+ },
+ {
+  "item": "sp20/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Hello, the heater in my room is broken since two days, can you send someone to repair it as soon as possible?",
+  "candidates": [
+   {
+    "cid": "ac3d56f7",
+    "text": "Hello, the heater in my room hasn't been working for two days. Could you send someone to fix it as soon as possible?\n---\nhasn't been working\nsend someone to fix it"
+   },
+   {
+    "cid": "43295a34",
+    "text": "Hello, the heater in my room hasn't been working for two days. Could you send someone to fix it as soon as possible?\n---\nhasn't been working"
+   }
+  ],
+  "scene": "message to a landlord"
+ },
+ {
+  "item": "sp21/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I ordered a keyboard two weeks ago but I still didn't receive it. Can you check where is my package?",
+  "candidates": [
+   {
+    "cid": "6e9b68f5",
+    "text": "I ordered a keyboard two weeks ago, but it still hasn't arrived. Could you check on my package?\n---\ncheck on my package"
+   },
+   {
+    "cid": "6fe6a780",
+    "text": "I ordered a keyboard two weeks ago, but it still hasn't arrived. Could you check on my package?\n---\ncheck on my package"
+   }
+  ],
+  "scene": "message to an online shop's customer service"
+ },
+ {
+  "item": "sp21/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I ordered a keyboard two weeks ago but I still didn't receive it. Can you check where is my package?",
+  "candidates": [
+   {
+    "cid": "b076bd4b",
+    "text": "I ordered a keyboard two weeks ago, but it still hasn’t arrived. Could you check on my package?\n---\ncheck on my package"
+   },
+   {
+    "cid": "7dd42b62",
+    "text": "I ordered a keyboard two weeks ago, but it still hasn't arrived. Could you check on my package?\n---\ncheck on my package"
+   }
+  ],
+  "scene": "message to an online shop's customer service"
+ },
+ {
+  "item": "sp22/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I want to book a table for four people on Saturday night at 7:30, do you still have place?",
+  "candidates": [
+   {
+    "cid": "a13de739",
+    "text": "I'd like to book a table for four on Saturday at 7:30 p.m. Do you have any availability?\n---\na table for four\nhave any availability"
+   },
+   {
+    "cid": "9c2c8e89",
+    "text": "I'd like to book a table for four this Saturday at 7:30 p.m. Do you have any availability?\n---\na table for four\nhave any availability"
+   }
+  ],
+  "scene": "message to a restaurant"
+ },
+ {
+  "item": "sp22/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I want to book a table for four people on Saturday night at 7:30, do you still have place?",
+  "candidates": [
+   {
+    "cid": "67069828",
+    "text": "I'd like to book a table for four on Saturday at 7:30 p.m. Do you have any availability?\n---\na table for four\nDo you have any availability"
+   },
+   {
+    "cid": "464517fd",
+    "text": "I'd like to reserve a table for four this Saturday at 7:30 p.m. Do you have any tables available?\n---\na table for four\nany tables available"
+   }
+  ],
+  "scene": "message to a restaurant"
+ },
+ {
+  "item": "sp23/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Can you please don't make noise after midnight? I need to wake up early these days.",
+  "candidates": [
+   {
+    "cid": "e79487b7",
+    "text": "Could you please keep it down after midnight? I've been having to get up early lately.\n---\nkeep it down\nget up early"
+   },
+   {
+    "cid": "a53e0087",
+    "text": "Could you please keep it down after midnight? I've been having to get up early lately.\n---\nkeep it down\nget up early"
+   }
+  ],
+  "scene": "message to a roommate"
+ },
+ {
+  "item": "sp23/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Can you please don't make noise after midnight? I need to wake up early these days.",
+  "candidates": [
+   {
+    "cid": "c770e4be",
+    "text": "Could you please keep it down after midnight? I’ve been having to get up early lately.\n---\nkeep it down\nget up early"
+   },
+   {
+    "cid": "5296b8b7",
+    "text": "Could you please keep it down after midnight? I've been having to get up early lately.\n---\nkeep it down\nget up early"
+   }
+  ],
+  "scene": "message to a roommate"
+ },
+ {
+  "item": "sp24/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I come from China and now I study computer science in Paris. I have been here for two years.",
+  "candidates": [
+   {
+    "cid": "eb5d3c22",
+    "text": "I'm from China, and I'm studying computer science in Paris. I've been here for two years.\n---\nI'm from"
+   },
+   {
+    "cid": "fb703cb1",
+    "text": "I'm from China, and I'm studying computer science in Paris. I've been here for a couple of years.\n---\na couple of years"
+   }
+  ],
+  "scene": "introducing yourself at a meetup"
+ },
+ {
+  "item": "sp24/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I come from China and now I study computer science in Paris. I have been here for two years.",
+  "candidates": [
+   {
+    "cid": "0c137b8c",
+    "text": "I'm from China, and I'm studying computer science in Paris. I've been here for two years.\n---\n"
+   },
+   {
+    "cid": "09464fcc",
+    "text": "I'm from China, and I've been studying computer science in Paris for two years.\n---\nI've been studying"
+   }
+  ],
+  "scene": "introducing yourself at a meetup"
+ },
+ {
+  "item": "sp25/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "In my opinion this movie is overrated, the story is very normal and the ending is not make sense.",
+  "candidates": [
+   {
+    "cid": "5d73a678",
+    "text": "I think this movie's overrated. The story's pretty run-of-the-mill, and the ending doesn't make any sense.\n---\nrun-of-the-mill\ndoesn't make any sense"
+   },
+   {
+    "cid": "16c0eea8",
+    "text": "I think this movie's overrated. The story's pretty run-of-the-mill, and the ending doesn't make sense.\n---\nrun-of-the-mill\ndoesn't make sense"
+   }
+  ],
+  "scene": "chatting about a movie"
+ },
+ {
+  "item": "sp25/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "In my opinion this movie is overrated, the story is very normal and the ending is not make sense.",
+  "candidates": [
+   {
+    "cid": "60fecb76",
+    "text": "I think this movie is overrated. The story is nothing special, and the ending doesn't make sense.\n---\nnothing special\ndoesn't make sense"
+   },
+   {
+    "cid": "b8efe204",
+    "text": "I think this movie is overrated. The story is nothing special, and the ending doesn’t add up.\n---\nnothing special\ndoesn’t add up"
+   }
+  ],
+  "scene": "chatting about a movie"
+ },
+ {
+  "item": "sp26/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Your paper is good in general, but I think the related work part is too long and the experiment part lacks of details.",
+  "candidates": [
+   {
+    "cid": "f9c488be",
+    "text": "Your paper is solid overall, but I think the related work section could be shorter and the experiments section could use more detail.\n---\nsolid overall\ncould use more detail"
+   },
+   {
+    "cid": "a6ba25a5",
+    "text": "Your paper is solid overall, but I think the related work section could be shorter, and the experiments need more detail.\n---\nsolid overall\ncould be shorter"
+   }
+  ],
+  "scene": "feedback on a colleague's paper draft"
+ },
+ {
+  "item": "sp26/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Your paper is good in general, but I think the related work part is too long and the experiment part lacks of details.",
+  "candidates": [
+   {
+    "cid": "6b3ed203",
+    "text": "Your paper is solid overall, but I think the related work section could be shorter and the experiments need more detail.\n---\nsolid overall\ncould be shorter"
+   },
+   {
+    "cid": "e109be01",
+    "text": "Your paper is strong overall, but I think the related work section is too long and the experiments section needs more detail.\n---\nstrong overall\nneeds more detail"
+   }
+  ],
+  "scene": "feedback on a colleague's paper draft"
+ },
+ {
+  "item": "sp27/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "ok I will do it",
+  "candidates": [
+   {
+    "cid": "56ca4294",
+    "text": "Okay, I'm on it.\n---\nI'm on it"
+   },
+   {
+    "cid": "22106b5e",
+    "text": "Okay, I'm on it.\n---\nI'm on it"
+   }
+  ],
+  "scene": "quick reply in a work chat"
+ },
+ {
+  "item": "sp27/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "ok I will do it",
+  "candidates": [
+   {
+    "cid": "3f650ada",
+    "text": "Okay, I'll take care of it.\n---\ntake care of it"
+   },
+   {
+    "cid": "8990419b",
+    "text": "Okay, I'll take care of it.\n---\ntake care of it"
+   }
+  ],
+  "scene": "quick reply in a work chat"
+ },
+ {
+  "item": "sp28/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "No worries, take your time.",
+  "candidates": [
+   {
+    "cid": "81d48c63",
+    "text": "All good, there’s no rush.\n---\nAll good\nno rush"
+   },
+   {
+    "cid": "8c576734",
+    "text": "All good, no rush.\n---\nAll good\nno rush"
+   }
+  ],
+  "scene": "texting a friend (already natural)"
+ },
+ {
+  "item": "sp28/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "No worries, take your time.",
+  "candidates": [
+   {
+    "cid": "f8f8dc17",
+    "text": "It's all good. There's no rush.\n---\nall good\nno rush"
+   },
+   {
+    "cid": "97e11a08",
+    "text": "No rush. Take all the time you need.\n---\nNo rush\ntake all the time you need"
+   }
+  ],
+  "scene": "texting a friend (already natural)"
+ },
+ {
+  "item": "sp29/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Today was a terrible day. I missed my train in the morning, then I found that I forgot my laptop at home. When I finally arrived to the lab, my supervisor told me the meeting was cancelled. I really want to cry.",
+  "candidates": [
+   {
+    "cid": "f577a4ad",
+    "text": "Today was awful. I missed my train this morning, then realized I'd left my laptop at home. When I finally got to the lab, my supervisor told me the meeting was canceled. I honestly feel like crying.\n---\nleft my laptop at home\nfeel like crying"
+   },
+   {
+    "cid": "54cb8ebd",
+    "text": "Today was such a rough day. I missed my train this morning, then realized I’d left my laptop at home. When I finally got to the lab, my supervisor told me the meeting was canceled. I honestly feel like crying.\n---\na rough day\nfeel like crying"
+   }
+  ],
+  "scene": "telling a friend about your day"
+ },
+ {
+  "item": "sp29/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Today was a terrible day. I missed my train in the morning, then I found that I forgot my laptop at home. When I finally arrived to the lab, my supervisor told me the meeting was cancelled. I really want to cry.",
+  "candidates": [
+   {
+    "cid": "a5eb457a",
+    "text": "Today was a terrible day. I missed my train this morning, then realized I’d left my laptop at home. When I finally made it to the lab, my supervisor told me the meeting was canceled. I honestly feel like crying.\n---\nmade it to\nfeel like crying"
+   },
+   {
+    "cid": "5684b5df",
+    "text": "Today was awful. I missed my train this morning, then realized I’d left my laptop at home. When I finally got to the lab, my supervisor told me the meeting had been canceled. I honestly feel like crying.\n---\nleft my laptop at home\nfeel like crying"
+   }
+  ],
+  "scene": "telling a friend about your day"
+ },
+ {
+  "item": "sp30/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I'm really sorry for what I said yesterday. I was in a bad mood and I shouldn't say those words to you.",
+  "candidates": [
+   {
+    "cid": "e8c7d55e",
+    "text": "I'm really sorry for what I said yesterday. I was in a bad mood, and I shouldn't have taken it out on you.\n---\ntaken it out on you"
+   },
+   {
+    "cid": "3c71dcbb",
+    "text": "I'm really sorry for what I said yesterday. I was in a bad mood, and I shouldn't have taken it out on you.\n---\ntaken it out on you"
+   }
+  ],
+  "scene": "apologizing to a friend"
+ },
+ {
+  "item": "sp30/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I'm really sorry for what I said yesterday. I was in a bad mood and I shouldn't say those words to you.",
+  "candidates": [
+   {
+    "cid": "98e4f434",
+    "text": "I'm really sorry for what I said yesterday. I was in a bad mood, but I shouldn't have taken it out on you.\n---\ntaken it out on you"
+   },
+   {
+    "cid": "b1a22955",
+    "text": "I'm really sorry for what I said yesterday. I was in a bad mood, and I shouldn't have taken it out on you.\n---\ntaken it out on you"
+   }
+  ],
+  "scene": "apologizing to a friend"
+ }
+]

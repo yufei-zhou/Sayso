@@ -1,0 +1,737 @@
+[
+ {
+  "item": "hp01/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I'm agree that we need more time for testing.",
+  "candidates": [
+   {
+    "cid": "41cb7769",
+    "text": "I'm with you—we need more time for testing.\n---\nI'm with you"
+   },
+   {
+    "cid": "2fe78080",
+    "text": "Yeah, I agree we need more time to test things out.\n---\ntest things out"
+   }
+  ]
+ },
+ {
+  "item": "hp01/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I'm agree that we need more time for testing.",
+  "candidates": [
+   {
+    "cid": "930b293b",
+    "text": "I agree we need more time to test.\n---\n"
+   },
+   {
+    "cid": "7fd699cf",
+    "text": "I agree we need more time to test.\n---\nmore time to test"
+   }
+  ]
+ },
+ {
+  "item": "hp02/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Yesterday I lost my wallet, so I must to go to the police station today.",
+  "candidates": [
+   {
+    "cid": "fbc25779",
+    "text": "I lost my wallet yesterday, so I’ve gotta head to the police station today.\n---\nhead to\nI’ve gotta"
+   },
+   {
+    "cid": "aea3c945",
+    "text": "I lost my wallet yesterday, so I’ve gotta go to the police station today.\n---\nI’ve gotta go"
+   }
+  ]
+ },
+ {
+  "item": "hp02/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Yesterday I lost my wallet, so I must to go to the police station today.",
+  "candidates": [
+   {
+    "cid": "d3a805a0",
+    "text": "I lost my wallet yesterday, so I have to go to the police station today.\n---\nhave to go"
+   },
+   {
+    "cid": "28bec190",
+    "text": "I lost my wallet yesterday, so I have to go down to the police station today.\n---\ngo down to"
+   }
+  ]
+ },
+ {
+  "item": "hp03/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Do you mind to close the window? It's a bit cold.",
+  "candidates": [
+   {
+    "cid": "2210de4b",
+    "text": "Mind closing the window? It's a little chilly.\n---\nMind closing\na little chilly"
+   },
+   {
+    "cid": "605f8b84",
+    "text": "Would you mind closing the window? It's a little chilly.\n---\nWould you mind\na little chilly"
+   }
+  ]
+ },
+ {
+  "item": "hp03/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Do you mind to close the window? It's a bit cold.",
+  "candidates": [
+   {
+    "cid": "a094419b",
+    "text": "Would you mind closing the window? It's a bit cold.\n---\nWould you mind closing"
+   },
+   {
+    "cid": "dc5fc2b6",
+    "text": "Would you mind closing the window? It's a bit cold.\n---\nWould you mind closing"
+   }
+  ]
+ },
+ {
+  "item": "hp04/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "The movie was so touching that I almost cried, you should go to see it.",
+  "candidates": [
+   {
+    "cid": "9cf8be11",
+    "text": "The movie really got to me—I almost cried. You should check it out.\n---\ngot to me\ncheck it out"
+   },
+   {
+    "cid": "5d78ec47",
+    "text": "The movie was so touching I got a little teary. You should go see it.\n---\ngot a little teary\ngo see it"
+   }
+  ]
+ },
+ {
+  "item": "hp04/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "The movie was so touching that I almost cried, you should go to see it.",
+  "candidates": [
+   {
+    "cid": "c7e7bc98",
+    "text": "The movie was so moving I nearly teared up. You should go see it.\n---\nteared up\ngo see it"
+   },
+   {
+    "cid": "e9c20b31",
+    "text": "The movie really got to me. I almost cried. You should go see it.\n---\ngot to me\ngo see it"
+   }
+  ]
+ },
+ {
+  "item": "hp05/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Me and my roommate are planning a trip to Japan in next month.",
+  "candidates": [
+   {
+    "cid": "09724b57",
+    "text": "My roommate and I are planning to go to Japan next month.\n---\nplanning to go"
+   },
+   {
+    "cid": "88f3db8e",
+    "text": "My roommate and I are heading to Japan next month.\n---\nheading to"
+   }
+  ]
+ },
+ {
+  "item": "hp05/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Me and my roommate are planning a trip to Japan in next month.",
+  "candidates": [
+   {
+    "cid": "32245885",
+    "text": "My roommate and I are planning a trip to Japan next month.\n---"
+   },
+   {
+    "cid": "5df96656",
+    "text": "My roommate and I are planning a trip to Japan next month.\n---\nplanning a trip"
+   }
+  ]
+ },
+ {
+  "item": "hp06/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I have a good news for you!",
+  "candidates": [
+   {
+    "cid": "205a1e5f",
+    "text": "I've got some good news for you!\n---\nI've got some good news"
+   },
+   {
+    "cid": "ea6ea9fd",
+    "text": "I've got some good news for you!\n---\nsome good news"
+   }
+  ]
+ },
+ {
+  "item": "hp06/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I have a good news for you!",
+  "candidates": [
+   {
+    "cid": "592003f3",
+    "text": "I've got some good news for you!\n---\nI've got some good news"
+   },
+   {
+    "cid": "78aafa55",
+    "text": "I've got some good news for you!\n---\nI've got some good news"
+   }
+  ]
+ },
+ {
+  "item": "hp07/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Sorry, I can't join today's call because I have a doctor appointment at 3pm.",
+  "candidates": [
+   {
+    "cid": "6fa938b5",
+    "text": "Sorry, I can't make today's call—I have a doctor's appointment at 3.\n---\ncan't make today's call"
+   },
+   {
+    "cid": "6abc873d",
+    "text": "Sorry, I can't make today's call. I've got a doctor's appointment at 3 p.m.\n---\ncan't make today's call\nI've got a doctor's appointment"
+   }
+  ]
+ },
+ {
+  "item": "hp07/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Sorry, I can't join today's call because I have a doctor appointment at 3pm.",
+  "candidates": [
+   {
+    "cid": "f3e6cd0e",
+    "text": "Sorry, I can’t make today’s call. I have a doctor’s appointment at 3 p.m.\n---\ncan’t make today’s call"
+   },
+   {
+    "cid": "8c19f433",
+    "text": "Sorry, I can't make today's call. I have a doctor's appointment at 3 p.m.\n---\ncan't make today's call"
+   }
+  ]
+ },
+ {
+  "item": "hp08/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "This is the most delicious pizza I have ever ate.",
+  "candidates": [
+   {
+    "cid": "5b19f77a",
+    "text": "This is the best pizza I've ever had.\n---\nthe best pizza\never had"
+   },
+   {
+    "cid": "b6238357",
+    "text": "This is hands down the best pizza I've ever had.\n---\nhands down\nthe best pizza I've ever had"
+   }
+  ]
+ },
+ {
+  "item": "hp08/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "This is the most delicious pizza I have ever ate.",
+  "candidates": [
+   {
+    "cid": "9f70dc54",
+    "text": "This is the best pizza I’ve ever had.\n---\nthe best pizza\nI’ve ever had"
+   },
+   {
+    "cid": "9dd5fe92",
+    "text": "This is the best pizza I’ve ever had.\n---\nthe best pizza I’ve ever had"
+   }
+  ]
+ },
+ {
+  "item": "hp09/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Could you explain me how this function works?",
+  "candidates": [
+   {
+    "cid": "d3edc226",
+    "text": "Could you walk me through how this function works?\n---\nwalk me through"
+   },
+   {
+    "cid": "6a42a1b9",
+    "text": "Could you walk me through how this function works?\n---\nwalk me through"
+   }
+  ]
+ },
+ {
+  "item": "hp09/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Could you explain me how this function works?",
+  "candidates": [
+   {
+    "cid": "3eb592a5",
+    "text": "Could you walk me through how this function works?\n---\nwalk me through"
+   },
+   {
+    "cid": "f5332b9b",
+    "text": "Could you walk me through how this function works?\n---\nwalk me through"
+   }
+  ]
+ },
+ {
+  "item": "hp10/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I was very boring in the lecture so I played phone the whole time.",
+  "candidates": [
+   {
+    "cid": "f70ad89b",
+    "text": "I was so bored during the lecture that I just messed around on my phone the whole time.\n---\nmessed around on my phone"
+   },
+   {
+    "cid": "3c3add59",
+    "text": "I was so bored during the lecture, I just messed around on my phone the whole time.\n---\nmessed around on my phone"
+   }
+  ]
+ },
+ {
+  "item": "hp10/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I was very boring in the lecture so I played phone the whole time.",
+  "candidates": [
+   {
+    "cid": "dc2c074b",
+    "text": "I was so bored during the lecture that I spent the whole time on my phone.\n---\non my phone"
+   },
+   {
+    "cid": "eaf5a94f",
+    "text": "I was so bored during the lecture that I spent the whole time on my phone.\n---\non my phone"
+   }
+  ]
+ },
+ {
+  "item": "hp11/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "We arrived to the airport two hours before the flight.",
+  "candidates": [
+   {
+    "cid": "05681dfb",
+    "text": "We got to the airport two hours before the flight.\n---\ngot to the airport"
+   },
+   {
+    "cid": "c9da5ecc",
+    "text": "We got to the airport two hours before our flight.\n---\ngot to the airport"
+   }
+  ]
+ },
+ {
+  "item": "hp11/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "We arrived to the airport two hours before the flight.",
+  "candidates": [
+   {
+    "cid": "0cb38509",
+    "text": "We got to the airport two hours before our flight.\n---\ngot to the airport"
+   },
+   {
+    "cid": "d6d159e9",
+    "text": "We got to the airport two hours before the flight.\n---\ngot to the airport"
+   }
+  ]
+ },
+ {
+  "item": "hp12/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Thanks for your help, it's very kind for you.",
+  "candidates": [
+   {
+    "cid": "8a630c4f",
+    "text": "Thanks for your help. I really appreciate it.\n---\nI really appreciate it"
+   },
+   {
+    "cid": "9031d741",
+    "text": "Thanks for helping me out. That's really nice of you.\n---\nhelping me out\nnice of you"
+   }
+  ]
+ },
+ {
+  "item": "hp12/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Thanks for your help, it's very kind for you.",
+  "candidates": [
+   {
+    "cid": "a0095944",
+    "text": "Thanks for your help. That’s really kind of you.\n---\nkind of you"
+   },
+   {
+    "cid": "a63ec326",
+    "text": "Thanks for your help. I really appreciate it.\n---\nI really appreciate it"
+   }
+  ]
+ },
+ {
+  "item": "hp13/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I'm thinking about whether I should accept the offer or not, it's a difficult decision.",
+  "candidates": [
+   {
+    "cid": "eab6b268",
+    "text": "I'm trying to decide whether to take the offer. It's a tough call.\n---\ntake the offer\na tough call"
+   },
+   {
+    "cid": "d8be0bb4",
+    "text": "I'm trying to decide whether to take the offer. It's a tough call.\n---\ntake the offer\na tough call"
+   }
+  ]
+ },
+ {
+  "item": "hp13/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I'm thinking about whether I should accept the offer or not, it's a difficult decision.",
+  "candidates": [
+   {
+    "cid": "2db03582",
+    "text": "I’m weighing whether to accept the offer. It’s a tough call.\n---\nweighing whether to\na tough call"
+   },
+   {
+    "cid": "39850e5b",
+    "text": "I'm still weighing the offer. It's a tough call.\n---\nweighing the offer\na tough call"
+   }
+  ]
+ },
+ {
+  "item": "hp14/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Let me know if there's anything I can do to help.",
+  "candidates": [
+   {
+    "cid": "b81129f9",
+    "text": "If you need a hand with anything, just let me know.\n---\nneed a hand"
+   },
+   {
+    "cid": "bee37bba",
+    "text": "If you need a hand with anything, just let me know.\n---\nneed a hand"
+   }
+  ]
+ },
+ {
+  "item": "hp14/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Let me know if there's anything I can do to help.",
+  "candidates": [
+   {
+    "cid": "89ca20c9",
+    "text": "If you need a hand with anything, just let me know.\n---\nneed a hand"
+   },
+   {
+    "cid": "3f6f1557",
+    "text": "Let me know if you need a hand with anything.\n---\nneed a hand"
+   }
+  ]
+ },
+ {
+  "item": "hp15/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I moved to Paris two years ago. At first I can't speak any French and everything was hard, but now I'm used to live here and I really enjoy it.",
+  "candidates": [
+   {
+    "cid": "9b60d4d8",
+    "text": "I moved to Paris two years ago. At first I couldn't speak any French, and everything was a struggle, but now I've settled in and really like living here.\n---\neverything was a struggle\nI've settled in"
+   },
+   {
+    "cid": "1fa6f879",
+    "text": "I moved to Paris two years ago. At first, I couldn't speak a word of French and everything was tough, but now I've settled in and I really like living here.\n---\nspeak a word of French\nsettled in"
+   }
+  ]
+ },
+ {
+  "item": "hp15/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I moved to Paris two years ago. At first I can't speak any French and everything was hard, but now I'm used to live here and I really enjoy it.",
+  "candidates": [
+   {
+    "cid": "75242088",
+    "text": "I moved to Paris two years ago. At first I couldn't speak any French, and everything was a struggle, but now I've settled in and really enjoy living here.\n---\neverything was a struggle\nsettled in"
+   },
+   {
+    "cid": "77df65a1",
+    "text": "I moved to Paris two years ago. At first I didn’t speak any French, and everything was a struggle, but now I’ve settled in and really enjoy living here.\n---\neverything was a struggle\nsettled in"
+   }
+  ]
+ },
+ {
+  "item": "sp01/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Hi, I have a question about the pipeline, do you have time now? If no, I can wait.",
+  "candidates": [
+   {
+    "cid": "88dfc9ae",
+    "text": "Hi, I have a question about the pipeline. Do you have a minute? No rush if you're busy.\n---\nhave a minute\nNo rush"
+   },
+   {
+    "cid": "7f381956",
+    "text": "Hi, quick question about the pipeline—do you have a minute? No rush if you're busy.\n---\ndo you have a minute\nNo rush"
+   }
+  ],
+  "scene": "work chat with a colleague"
+ },
+ {
+  "item": "sp01/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Hi, I have a question about the pipeline, do you have time now? If no, I can wait.",
+  "candidates": [
+   {
+    "cid": "ecf1fb6a",
+    "text": "Hi, do you have a minute for a question about the pipeline? If now’s not a good time, I can wait.\n---\nhave a minute\nnot a good time"
+   },
+   {
+    "cid": "936f7c25",
+    "text": "Hi, I have a question about the pipeline. Do you have a minute? If not, it can wait.\n---\nhave a minute\nit can wait"
+   }
+  ],
+  "scene": "work chat with a colleague"
+ },
+ {
+  "item": "sp02/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I finished the first version of the script, but there is still some problems with the edge cases. I will continue to fix it tomorrow.",
+  "candidates": [
+   {
+    "cid": "2b37ac7d",
+    "text": "I finished the first version of the script, but there are still a few edge cases to iron out. I’ll pick it back up tomorrow.\n---\niron out\npick it back up"
+   },
+   {
+    "cid": "01bdd6df",
+    "text": "I finished the first version of the script, but there are still a few edge cases to work out. I'll keep working on it tomorrow.\n---\nwork out\nkeep working on it"
+   }
+  ],
+  "scene": "status update in a team chat"
+ },
+ {
+  "item": "sp02/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I finished the first version of the script, but there is still some problems with the edge cases. I will continue to fix it tomorrow.",
+  "candidates": [
+   {
+    "cid": "72eca168",
+    "text": "I’ve finished the first version of the script, but it still doesn’t handle some edge cases properly. I’ll keep working on it tomorrow.\n---\nhandle some edge cases\nkeep working on it"
+   },
+   {
+    "cid": "2b6e9cf2",
+    "text": "I've finished the first version of the script, but there are still a few edge cases to iron out. I'll pick it back up tomorrow.\n---\niron out\npick it back up"
+   }
+  ],
+  "scene": "status update in a team chat"
+ },
+ {
+  "item": "sp03/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I don't agree with this approach, because it will make the code more complicated and difficult to maintain.",
+  "candidates": [
+   {
+    "cid": "528decd0",
+    "text": "I'm not on board with this approach—it'll make the code more complicated and harder to maintain.\n---\nnot on board with\nharder to maintain"
+   },
+   {
+    "cid": "7181a07a",
+    "text": "I'm not on board with this approach—it'll make the code more complex and harder to maintain.\n---\nnot on board with\nharder to maintain"
+   }
+  ],
+  "scene": "disagreeing in a team discussion"
+ },
+ {
+  "item": "sp03/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I don't agree with this approach, because it will make the code more complicated and difficult to maintain.",
+  "candidates": [
+   {
+    "cid": "82f02a4a",
+    "text": "I disagree with this approach because it adds complexity and makes the code harder to maintain.\n---\nadds complexity\nharder to maintain"
+   },
+   {
+    "cid": "89d841d1",
+    "text": "I'm not sold on this approach. It'll add complexity and make the code harder to maintain.\n---\nnot sold on\nadd complexity"
+   }
+  ],
+  "scene": "disagreeing in a team discussion"
+ },
+ {
+  "item": "sp04/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Sorry I didn't understand what you mean by 'ablation' here, can you explain more?",
+  "candidates": [
+   {
+    "cid": "17696039",
+    "text": "Sorry, I'm not sure what you mean by “ablation” here. Can you break it down a bit?\n---\nbreak it down"
+   },
+   {
+    "cid": "6ffb8ee5",
+    "text": "Sorry, I’m not sure what you mean by “ablation” here. Could you explain a bit more?\n---\nI’m not sure\na bit more"
+   }
+  ],
+  "scene": "asking a colleague to clarify"
+ },
+ {
+  "item": "sp04/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Sorry I didn't understand what you mean by 'ablation' here, can you explain more?",
+  "candidates": [
+   {
+    "cid": "62a28d9a",
+    "text": "Sorry, I’m not sure what you mean by “ablation” here. Could you spell that out?\n---\nspell that out"
+   },
+   {
+    "cid": "1b96577f",
+    "text": "Sorry, I’m not sure what you mean by “ablation” here. Could you walk me through it?\n---\nwalk me through it"
+   }
+  ],
+  "scene": "asking a colleague to clarify"
+ },
+ {
+  "item": "sp05/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Can we change the meeting to Thursday? I have a class conflict on Wednesday afternoon.",
+  "candidates": [
+   {
+    "cid": "144417f5",
+    "text": "Can we move the meeting to Thursday? I've got a class that overlaps with it on Wednesday afternoon.\n---\nmove the meeting\noverlaps with it"
+   },
+   {
+    "cid": "3bd66c26",
+    "text": ""
+   }
+  ],
+  "scene": "rescheduling a meeting with a colleague"
+ },
+ {
+  "item": "sp05/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Can we change the meeting to Thursday? I have a class conflict on Wednesday afternoon.",
+  "candidates": [
+   {
+    "cid": "ba33695f",
+    "text": "Could we move the meeting to Thursday? I have a class that conflicts with it on Wednesday afternoon.\n---\nmove the meeting\nconflicts with it"
+   },
+   {
+    "cid": "409211d2",
+    "text": "Could we move the meeting to Thursday? I have a class that overlaps on Wednesday afternoon.\n---\nmove the meeting\na class that overlaps"
+   }
+  ],
+  "scene": "rescheduling a meeting with a colleague"
+ },
+ {
+  "item": "sp06/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I think there is a bug in your function, when the input is empty it will crash.",
+  "candidates": [
+   {
+    "cid": "40de9190",
+    "text": "I think there's a bug in your function—it crashes if you pass in an empty input.\n---\npass in"
+   },
+   {
+    "cid": "0bf4ff47",
+    "text": "I think there's a bug in your function—it crashes if you pass in an empty input.\n---\npass in"
+   }
+  ],
+  "scene": "pointing out a bug to a colleague"
+ },
+ {
+  "item": "sp06/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "I think there is a bug in your function, when the input is empty it will crash.",
+  "candidates": [
+   {
+    "cid": "e9a7da6a",
+    "text": "I think there's a bug in your function. It crashes on empty input.\n---\ncrashes on empty input"
+   },
+   {
+    "cid": "02711c39",
+    "text": "I think there's a bug in your function. It crashes on empty input.\n---\ncrashes on empty input"
+   }
+  ],
+  "scene": "pointing out a bug to a colleague"
+ },
+ {
+  "item": "sp07/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "Thanks for your help yesterday, it saved me a lot of times.",
+  "candidates": [
+   {
+    "cid": "d7ec300e",
+    "text": "Thanks for your help yesterday. You saved me a ton of time.\n---\nsaved me a ton of time"
+   },
+   {
+    "cid": "6af7d6a0",
+    "text": "Thanks for your help yesterday. You saved me a ton of time.\n---\na ton of time"
+   }
+  ],
+  "scene": "thanking a colleague"
+ },
+ {
+  "item": "sp07/sharp",
+  "mode": "polish",
+  "style": "sharp",
+  "input": "Thanks for your help yesterday, it saved me a lot of times.",
+  "candidates": [
+   {
+    "cid": "948ef8ce",
+    "text": "Thanks for your help yesterday. You saved me a ton of time.\n---\nsaved me a ton of time"
+   },
+   {
+    "cid": "d1018c10",
+    "text": "Thanks for your help yesterday. You saved me a lot of time.\n---\nsaved me a lot of time"
+   }
+  ],
+  "scene": "thanking a colleague"
+ },
+ {
+  "item": "sp08/chill",
+  "mode": "polish",
+  "style": "chill",
+  "input": "I will be late for 10 minutes, please start without me.",
+  "candidates": [
+   {
+    "cid": "bb748e40",
+    "text": "I'm running about 10 minutes late. Go ahead and start without me.\n---\nrunning about 10 minutes late\nGo ahead and start"
+   },
+   {
+    "cid": "44d67bd7",
+    "text": "I'm running 10 minutes late. Go ahead and start without me.\n---\nrunning 10 minutes late\nGo ahead and start"
+   }
+  ],
+  "scene": "message to the team before a meeting"
+ }
+]

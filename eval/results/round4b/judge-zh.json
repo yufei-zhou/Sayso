@@ -1,0 +1,1002 @@
+[
+ {
+  "item": "c01/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我今天真的累瘫了，什么都不想干。",
+  "candidates": [
+   {
+    "cid": "5e04ab49",
+    "text": "I'm totally wiped out today. I don't feel like doing anything.\n---\ntotally wiped out\ndon't feel like"
+   },
+   {
+    "cid": "8f630a01",
+    "text": "I'm completely wiped out today. I don't feel like doing anything.\n---\ncompletely wiped out\ndon't feel like"
+   },
+   {
+    "cid": "4a29c10d",
+    "text": "I'm totally wiped out today. Don't feel like doing anything.\n---\nwiped out\nDon't feel like"
+   }
+  ]
+ },
+ {
+  "item": "c01/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我今天真的累瘫了，什么都不想干。",
+  "candidates": [
+   {
+    "cid": "0db017c0",
+    "text": "I'm completely wiped out today. I don't have it in me to do a single thing.\n---\nwiped out\ndon't have it in me"
+   },
+   {
+    "cid": "820b73ca",
+    "text": "I'm completely wiped out today. I don't feel like doing a thing.\n---\nwiped out\ndon't feel like"
+   },
+   {
+    "cid": "fd6a88f2",
+    "text": "I'm absolutely wiped out today. I don't want to lift a finger.\n---\nwiped out\nlift a finger"
+   }
+  ]
+ },
+ {
+  "item": "c02/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这家店排队排了一个小时，结果也就那样。",
+  "candidates": [
+   {
+    "cid": "96d65f66",
+    "text": "Waited an hour in line for this place, and honestly, it was pretty underwhelming.\n---\nwaited an hour in line\npretty underwhelming"
+   },
+   {
+    "cid": "22a6a4cc",
+    "text": "Waited an hour in line for this place, and it was just kinda meh.\n---\nWaited an hour in line\njust kinda meh"
+   },
+   {
+    "cid": "27688010",
+    "text": "Waited an hour in line for this place, and honestly, it was just okay.\n---\nWaited an hour in line\nit was just okay"
+   }
+  ]
+ },
+ {
+  "item": "c02/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这家店排队排了一个小时，结果也就那样。",
+  "candidates": [
+   {
+    "cid": "4bfad060",
+    "text": "We waited an hour to get in, and it was nothing special.\n---\nnothing special"
+   },
+   {
+    "cid": "3c55c5dc",
+    "text": "We waited an hour to get into this place, and for what? It was nothing special.\n---\nand for what\nnothing special"
+   },
+   {
+    "cid": "1ff1c735",
+    "text": "I waited an hour in line for this place, and it was nothing to write home about.\n---\nnothing to write home about"
+   }
+  ]
+ },
+ {
+  "item": "c03/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "不好意思，我刚看到消息，晚点回你。",
+  "candidates": [
+   {
+    "cid": "dc4f20d3",
+    "text": "Sorry, just saw your message. I'll get back to you in a bit.\n---\nget back to you\nin a bit"
+   },
+   {
+    "cid": "262541c5",
+    "text": "Sorry, just saw your message. I'll get back to you in a bit.\n---\nget back to you\nin a bit"
+   },
+   {
+    "cid": "f553114e",
+    "text": "Sorry, just saw your message. I'll get back to you in a bit.\n---\nget back to you\nin a bit"
+   }
+  ]
+ },
+ {
+  "item": "c03/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "不好意思，我刚看到消息，晚点回你。",
+  "candidates": [
+   {
+    "cid": "03703969",
+    "text": "Sorry, I just saw your message. I'll get back to you in a bit.\n---\nget back to you"
+   },
+   {
+    "cid": "0bd788cc",
+    "text": "Sorry, I just saw your message. I’ll get back to you in a bit.\n---\nget back to you\nin a bit"
+   },
+   {
+    "cid": "ce5d97d5",
+    "text": "Sorry, I only just saw your message. I'll get back to you in a bit.\n---\nget back to you"
+   }
+  ]
+ },
+ {
+  "item": "c04/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "他这个人就是嘴硬心软。",
+  "candidates": [
+   {
+    "cid": "3eb87377",
+    "text": "He talks tough, but he's a softie at heart.\n---\ntalks tough\na softie at heart"
+   },
+   {
+    "cid": "27db1776",
+    "text": "He talks tough, but he's a softie at heart.\n---\ntalks tough\na softie at heart"
+   },
+   {
+    "cid": "710e6b30",
+    "text": "He talks tough, but he's a softie at heart.\n---\ntalks tough\na softie at heart"
+   }
+  ]
+ },
+ {
+  "item": "c04/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "他这个人就是嘴硬心软。",
+  "candidates": [
+   {
+    "cid": "f0ac2af3",
+    "text": "He talks tough, but he's a softie.\n---\ntalks tough\nhe's a softie"
+   },
+   {
+    "cid": "656c41de",
+    "text": "He talks tough, but he's a softie at heart.\n---\ntalks tough\na softie at heart"
+   },
+   {
+    "cid": "e82dd3a8",
+    "text": "He talks tough, but he's a softie at heart.\n---\ntalks tough\na softie at heart"
+   }
+  ]
+ },
+ {
+  "item": "c05/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我最近在减肥，但是看到奶茶还是忍不住。",
+  "candidates": [
+   {
+    "cid": "b124d123",
+    "text": "I'm trying to lose weight, but I still can't resist bubble tea.\n---\ncan't resist"
+   },
+   {
+    "cid": "646b1b6c",
+    "text": "I'm trying to lose weight, but I still can't resist bubble tea.\n---\ncan't resist"
+   },
+   {
+    "cid": "b547d18a",
+    "text": "I'm trying to lose weight, but I still can't resist bubble tea.\n---\ncan't resist"
+   }
+  ]
+ },
+ {
+  "item": "c05/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我最近在减肥，但是看到奶茶还是忍不住。",
+  "candidates": [
+   {
+    "cid": "1e2c7448",
+    "text": "I'm trying to lose weight, but apparently I have no willpower around bubble tea.\n---\nhave no willpower around"
+   },
+   {
+    "cid": "2ee7888d",
+    "text": "I'm trying to lose weight, but I still can't resist bubble tea.\n---\ncan't resist"
+   },
+   {
+    "cid": "902fecc2",
+    "text": "I'm trying to lose weight, but apparently my willpower doesn't cover bubble tea.\n---\nmy willpower doesn't cover"
+   }
+  ]
+ },
+ {
+  "item": "c06/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这个方案我觉得还有点问题，我们能再对一下吗？",
+  "candidates": [
+   {
+    "cid": "b387741b",
+    "text": "I think there are still a few issues with this plan. Can we go over it together again?\n---\ngo over it\n"
+   },
+   {
+    "cid": "75eb77c1",
+    "text": "I think there are still a few issues with this plan. Can we go over it together again?\n---\ngo over it\na few issues"
+   },
+   {
+    "cid": "73c2edd9",
+    "text": "I think there are still a few issues with this plan. Can we go over it together again?\n---\ngo over it"
+   }
+  ]
+ },
+ {
+  "item": "c06/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这个方案我觉得还有点问题，我们能再对一下吗？",
+  "candidates": [
+   {
+    "cid": "9193cbb7",
+    "text": "I think there are still a few issues with this plan. Can we go over it together again?\n---\ngo over it"
+   },
+   {
+    "cid": "ac1f415e",
+    "text": "I think there are still a few kinks in this plan. Can we go over it again?\n---\na few kinks\ngo over it"
+   },
+   {
+    "cid": "285b629e",
+    "text": "I think this plan still has a few kinks to work out. Can we go over it again?\n---\nkinks to work out\ngo over it"
+   }
+  ]
+ },
+ {
+  "item": "c07/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "你别太往心里去，他就是那种说话不过脑子的人。",
+  "candidates": [
+   {
+    "cid": "a38bfda6",
+    "text": "Don't take it too personally. He's just one of those people who doesn't think before he speaks.\n---\ntake it too personally\ndoesn't think before he speaks"
+   },
+   {
+    "cid": "b7eaea67",
+    "text": "Don't take it too personally. He's just one of those people who talks without thinking.\n---\ntake it too personally\ntalks without thinking"
+   },
+   {
+    "cid": "3724badc",
+    "text": "Don't take it too personally. He's just one of those people who doesn't think before he speaks.\n---\ntake it too personally\ndoesn't think before he speaks"
+   }
+  ]
+ },
+ {
+  "item": "c07/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "你别太往心里去，他就是那种说话不过脑子的人。",
+  "candidates": [
+   {
+    "cid": "a222bf31",
+    "text": "Don't take it too personally. He's just one of those people who talks before he thinks.\n---\ntake it too personally\ntalks before he thinks"
+   },
+   {
+    "cid": "2a1b7fd3",
+    "text": "Don't take it to heart. He's one of those people who talks first and thinks later.\n---\ntake it to heart\ntalks first and thinks later"
+   },
+   {
+    "cid": "89ba5715",
+    "text": "Don't take it to heart. He's one of those people who talks first and thinks later.\n---\ntake it to heart\ntalks first and thinks later"
+   }
+  ]
+ },
+ {
+  "item": "c08/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "周末要不要一起去爬山？顺便吃个火锅。",
+  "candidates": [
+   {
+    "cid": "1cfd6710",
+    "text": "Wanna go hiking this weekend and grab some hot pot while we're out?\n---\ngrab some hot pot\nwhile we're out"
+   },
+   {
+    "cid": "32330716",
+    "text": "Wanna go hiking this weekend and grab some hot pot while we're out?\n---\ngrab some hot pot\nwhile we're out"
+   },
+   {
+    "cid": "4c96d9dc",
+    "text": "Wanna go hiking this weekend and grab some hot pot after?\n---\ngrab some hot pot"
+   }
+  ]
+ },
+ {
+  "item": "c08/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "周末要不要一起去爬山？顺便吃个火锅。",
+  "candidates": [
+   {
+    "cid": "efc50515",
+    "text": "Want to go for a hike this weekend and grab hot pot while we’re at it?\n---\ngo for a hike\nwhile we’re at it"
+   },
+   {
+    "cid": "21555423",
+    "text": "Want to go hiking this weekend? We can work in some hot pot while we’re at it.\n---\nwork in\nwhile we’re at it"
+   },
+   {
+    "cid": "cece629f",
+    "text": "Want to go for a hike this weekend and grab some hot pot while we're at it?\n---\nwhile we're at it\ngo for a hike"
+   }
+  ]
+ },
+ {
+  "item": "c09/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我真的是服了，又加班到十一点。",
+  "candidates": [
+   {
+    "cid": "14f918f8",
+    "text": "I'm so over this. Had to work till 11 again.\n---\nso over this"
+   },
+   {
+    "cid": "3e5f18bb",
+    "text": "I'm so over this. Had to work till 11 again.\n---\nso over this"
+   },
+   {
+    "cid": "cf4b9c2e",
+    "text": "I'm so over this. Had to work till eleven again.\n---\nso over this"
+   }
+  ]
+ },
+ {
+  "item": "c09/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我真的是服了，又加班到十一点。",
+  "candidates": [
+   {
+    "cid": "e017d22a",
+    "text": "Unbelievable. Stuck working till eleven again.\n---\nStuck working till"
+   },
+   {
+    "cid": "0e9d3868",
+    "text": "Unbelievable. Stuck working till eleven again.\n---\nStuck working till eleven"
+   },
+   {
+    "cid": "ff20828d",
+    "text": "I've had it. I ended up working till eleven again.\n---\nI've had it\nended up working"
+   }
+  ]
+ },
+ {
+  "item": "c10/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这事儿八字还没一撇呢，先别到处说。",
+  "candidates": [
+   {
+    "cid": "dd507bcd",
+    "text": "This isn't even close to a sure thing yet, so don't go telling everyone.\n---\na sure thing\ndon't go telling everyone"
+   },
+   {
+    "cid": "57c9e510",
+    "text": "Nothing's set in stone yet, so let's keep it to ourselves for now.\n---\nset in stone\nkeep it to ourselves"
+   },
+   {
+    "cid": "899d5833",
+    "text": "Nothing's set in stone yet, so let's keep it to ourselves for now.\n---\nset in stone\nkeep it to ourselves"
+   }
+  ]
+ },
+ {
+  "item": "c10/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这事儿八字还没一撇呢，先别到处说。",
+  "candidates": [
+   {
+    "cid": "c15127c4",
+    "text": "This is nowhere near a done deal, so don't go broadcasting it yet.\n---\nnowhere near a done deal\ndon't go broadcasting it"
+   },
+   {
+    "cid": "d1a63dae",
+    "text": "Nothing’s set in stone yet, so let’s not broadcast it.\n---\nset in stone\nlet’s not broadcast it"
+   },
+   {
+    "cid": "3502a30d",
+    "text": "Nothing’s remotely settled yet. Let’s not go announcing it to everyone.\n---\nremotely settled\ngo announcing it"
+   }
+  ]
+ },
+ {
+  "item": "c11/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "说实话，我有点社恐，人多的场合会不自在。",
+  "candidates": [
+   {
+    "cid": "309b1fbc",
+    "text": "Tbh, I'm kinda anxious in social situations. I don't feel comfortable in big groups.\n---\nanxious in social situations\nin big groups"
+   },
+   {
+    "cid": "cbe940a3",
+    "text": "Tbh, I'm a little socially anxious. I get uncomfortable in big groups.\n---\nsocially anxious\nin big groups"
+   },
+   {
+    "cid": "410d0721",
+    "text": "Tbh, I get a little socially anxious. I feel kinda awkward in big groups.\n---\nsocially anxious\nin big groups"
+   }
+  ]
+ },
+ {
+  "item": "c11/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "说实话，我有点社恐，人多的场合会不自在。",
+  "candidates": [
+   {
+    "cid": "65d79fc3",
+    "text": "Honestly, I get a little socially anxious. Put me in a crowd and I’m out of my comfort zone.\n---\nsocially anxious\nout of my comfort zone"
+   },
+   {
+    "cid": "ad8ef0a7",
+    "text": "Honestly, I get a little anxious in social situations. Put me in a crowd and I’m out of my element.\n---\nout of my element"
+   },
+   {
+    "cid": "6df56555",
+    "text": "Honestly, I'm a little socially anxious. I feel out of place in a big group.\n---\nsocially anxious\nout of place"
+   }
+  ]
+ },
+ {
+  "item": "c12/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "感觉他在画大饼，我不太信。",
+  "candidates": [
+   {
+    "cid": "772ec415",
+    "text": "Feels like he's just making empty promises. I'm not really buying it.\n---\nmaking empty promises\nnot really buying it"
+   },
+   {
+    "cid": "c81f31a9",
+    "text": "Feels like he's making empty promises. I'm not really buying it.\n---\nmaking empty promises\nnot really buying it"
+   },
+   {
+    "cid": "888487eb",
+    "text": "Feels like he's making empty promises. I'm not really buying it.\n---\nmaking empty promises\nnot really buying it"
+   }
+  ]
+ },
+ {
+  "item": "c12/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "感觉他在画大饼，我不太信。",
+  "candidates": [
+   {
+    "cid": "53f10037",
+    "text": "Feels like he's making big promises he won't deliver on. I'm not buying it.\n---\ndeliver on\nI'm not buying it"
+   },
+   {
+    "cid": "016b8548",
+    "text": "I feel like he's making promises he can't deliver on. I'm not buying it.\n---\ndeliver on\nI'm not buying it"
+   },
+   {
+    "cid": "aa3a7ca5",
+    "text": "Feels like he's selling me a pipe dream. I'm not buying it.\n---\nselling me a pipe dream\nI'm not buying it"
+   }
+  ]
+ },
+ {
+  "item": "c13/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "能帮我带杯咖啡吗？我请你。",
+  "candidates": [
+   {
+    "cid": "fbe7a58c",
+    "text": "Can you grab me a coffee? It's on me.\n---\ngrab me a coffee\nIt's on me"
+   },
+   {
+    "cid": "7180cf65",
+    "text": "Can you grab me a coffee? Yours is on me.\n---\ngrab me a coffee\non me"
+   },
+   {
+    "cid": "3bcace6f",
+    "text": "Can you grab me a coffee? It's on me.\n---\ngrab me a coffee\nIt's on me"
+   }
+  ]
+ },
+ {
+  "item": "c13/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "能帮我带杯咖啡吗？我请你。",
+  "candidates": [
+   {
+    "cid": "a4b7c0ef",
+    "text": "Can you grab me a coffee? My treat.\n---\nMy treat"
+   },
+   {
+    "cid": "0a2eec62",
+    "text": "Could you grab me a coffee? It’s on me.\n---\ngrab me a coffee\non me"
+   },
+   {
+    "cid": "f637da7e",
+    "text": "Can you grab me a coffee? My treat.\n---\ngrab me a coffee\nMy treat"
+   }
+  ]
+ },
+ {
+  "item": "c14/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我们改天再约吧，今天实在抽不开身。",
+  "candidates": [
+   {
+    "cid": "507f9a14",
+    "text": "Let's hang out another day. I really can't get away today.\n---\ncan't get away"
+   },
+   {
+    "cid": "e6b3a274",
+    "text": "Let's do another day. I really can't get away today.\n---\ndo another day\ncan't get away"
+   },
+   {
+    "cid": "2e70f343",
+    "text": "Let's do another day. I really can't get away today.\n---\ncan't get away"
+   }
+  ]
+ },
+ {
+  "item": "c14/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我们改天再约吧，今天实在抽不开身。",
+  "candidates": [
+   {
+    "cid": "cccb00b0",
+    "text": "Let's find another day to get together. I really can't get away today.\n---\nget together\ncan't get away"
+   },
+   {
+    "cid": "8f80509d",
+    "text": "Let's find another day. I really can't get away today.\n---\ncan't get away"
+   },
+   {
+    "cid": "0f0339e6",
+    "text": "Let's get together another day. I really can't get away today.\n---\nget together\ncan't get away"
+   }
+  ]
+ },
+ {
+  "item": "c15/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这电影前半段有点拖，后半段还挺燃的。",
+  "candidates": [
+   {
+    "cid": "c54e0088",
+    "text": "The first half of the movie kinda drags, but the second half gets pretty hype.\n---\nkinda drags\ngets pretty hype"
+   },
+   {
+    "cid": "59ff7767",
+    "text": "The first half kinda dragged, but the second half really got me pumped.\n---\nkinda dragged\ngot me pumped"
+   },
+   {
+    "cid": "9de526cb",
+    "text": "The first half of the movie kinda drags, but the second half really gets you pumped.\n---\nkinda drags\ngets you pumped"
+   }
+  ]
+ },
+ {
+  "item": "c15/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这电影前半段有点拖，后半段还挺燃的。",
+  "candidates": [
+   {
+    "cid": "93f4a7d9",
+    "text": "The first half drags a bit, but the second half really gets your blood pumping.\n---\ndrags a bit\ngets your blood pumping"
+   },
+   {
+    "cid": "2c0b4e49",
+    "text": "The first half drags a bit, but the second half really gets your blood pumping.\n---\ndrags a bit\ngets your blood pumping"
+   },
+   {
+    "cid": "f56060a0",
+    "text": "The first half drags a little, but the second half really gets your blood pumping.\n---\ndrags a little\ngets your blood pumping"
+   }
+  ]
+ },
+ {
+  "item": "hc01/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这周忙得脚不沾地，周末只想躺平。",
+  "candidates": [
+   {
+    "cid": "b9a5bb45",
+    "text": "I've been running nonstop all week. I just wanna do absolutely nothing this weekend.\n---\nrunning nonstop\ndo absolutely nothing"
+   },
+   {
+    "cid": "f2734266",
+    "text": "I've been running nonstop all week. I just wanna do absolutely nothing this weekend.\n---\nrunning nonstop\ndo absolutely nothing"
+   },
+   {
+    "cid": "8785055c",
+    "text": "I've been running around nonstop all week. I just wanna do absolutely nothing this weekend.\n---\nrunning around nonstop\ndo absolutely nothing"
+   }
+  ]
+ },
+ {
+  "item": "hc01/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这周忙得脚不沾地，周末只想躺平。",
+  "candidates": [
+   {
+    "cid": "9147a064",
+    "text": "I've been running nonstop all week. This weekend, I just want to do absolutely nothing.\n---\nrunning nonstop\ndo absolutely nothing"
+   },
+   {
+    "cid": "fd5ce7a4",
+    "text": "I've been running nonstop all week. This weekend, I just want to do absolutely nothing.\n---\nrunning nonstop\ndo absolutely nothing"
+   },
+   {
+    "cid": "06fae35c",
+    "text": "I've been running nonstop all week. This weekend, I just want to do absolutely nothing.\n---\nrunning nonstop\ndo absolutely nothing"
+   }
+  ]
+ },
+ {
+  "item": "hc02/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "他说话老是绕弯子，听得我好累。",
+  "candidates": [
+   {
+    "cid": "77d8ca0c",
+    "text": "He always talks in circles. It's honestly exhausting trying to figure out what he's getting at.\n---\ntalks in circles\nwhat he's getting at"
+   },
+   {
+    "cid": "9bc753d5",
+    "text": "He never gets to the point, and it's honestly exhausting to listen to.\n---\ngets to the point"
+   },
+   {
+    "cid": "5158055d",
+    "text": "He's always talking in circles. It's honestly exhausting trying to figure out what he's getting at.\n---\ntalking in circles\nwhat he's getting at"
+   }
+  ]
+ },
+ {
+  "item": "hc02/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "他说话老是绕弯子，听得我好累。",
+  "candidates": [
+   {
+    "cid": "d47ee8f0",
+    "text": "He never gets to the point. Just listening to him wears me out.\n---\ngets to the point\nwears me out"
+   },
+   {
+    "cid": "c6fc8fc1",
+    "text": "He never gets to the point, and it's exhausting trying to follow him.\n---\ngets to the point"
+   },
+   {
+    "cid": "3ad9f165",
+    "text": "He never gets to the point. Just listening to him wears me out.\n---\ngets to the point\nwears me out"
+   }
+  ]
+ },
+ {
+  "item": "hc03/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "别急，慢慢来，我们时间还够。",
+  "candidates": [
+   {
+    "cid": "64efc833",
+    "text": "No rush, take your time. We've still got plenty of time.\n---\nNo rush\ntake your time"
+   },
+   {
+    "cid": "f7a5fc1e",
+    "text": "No rush, take your time. We've still got plenty of time.\n---\nNo rush\ntake your time"
+   },
+   {
+    "cid": "bd91de5a",
+    "text": "No rush, take your time. We've still got plenty of time.\n---\nNo rush\ntake your time"
+   }
+  ]
+ },
+ {
+  "item": "hc03/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "别急，慢慢来，我们时间还够。",
+  "candidates": [
+   {
+    "cid": "afe49aa4",
+    "text": "No rush. Take your time. We've still got plenty of time.\n---\nNo rush\nTake your time"
+   },
+   {
+    "cid": "26a1a691",
+    "text": "No rush. Take your time. We've still got plenty of time.\n---\nNo rush\nTake your time"
+   },
+   {
+    "cid": "13899bd6",
+    "text": "No rush. Take your time. We're not up against the clock.\n---\nNo rush\nup against the clock"
+   }
+  ]
+ },
+ {
+  "item": "hc04/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这个价格也太离谱了吧，我不买了。",
+  "candidates": [
+   {
+    "cid": "8a5f061c",
+    "text": "That price is ridiculous. I'm not paying that.\n---\nI'm not paying that"
+   },
+   {
+    "cid": "9f19aea2",
+    "text": "That price is ridiculous. I'm not gonna buy it.\n---\nThat price is ridiculous"
+   },
+   {
+    "cid": "017acf55",
+    "text": "That price is ridiculous. I'm not gonna buy it.\n---\nThat price is ridiculous"
+   }
+  ]
+ },
+ {
+  "item": "hc04/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这个价格也太离谱了吧，我不买了。",
+  "candidates": [
+   {
+    "cid": "6345efe9",
+    "text": "That price is ridiculous. I'm not paying that.\n---\nI'm not paying that"
+   },
+   {
+    "cid": "bc700e1d",
+    "text": "That price is ridiculous. I'll pass.\n---\nI'll pass"
+   },
+   {
+    "cid": "7dbd8314",
+    "text": "That price is ridiculous. I'll pass.\n---\nI'll pass"
+   }
+  ]
+ },
+ {
+  "item": "hc05/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "我就随口一说，你别当真。",
+  "candidates": [
+   {
+    "cid": "8fa04453",
+    "text": "I was just saying it offhand. Don't take it seriously.\n---\nsaying it offhand\ntake it seriously"
+   },
+   {
+    "cid": "f6845aff",
+    "text": "I was just saying it offhand. Don't take it seriously.\n---\nsaying it offhand\ntake it seriously"
+   },
+   {
+    "cid": "b9b4758a",
+    "text": "I was just saying it offhand. Don't take it seriously.\n---\nsaying it offhand\ntake it seriously"
+   }
+  ]
+ },
+ {
+  "item": "hc05/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "我就随口一说，你别当真。",
+  "candidates": [
+   {
+    "cid": "ada3a10c",
+    "text": "I was just thinking out loud. Don't take it to heart.\n---\nthinking out loud\ntake it to heart"
+   },
+   {
+    "cid": "62010e90",
+    "text": "I was just thinking out loud. Don't take it seriously.\n---\nthinking out loud\ntake it seriously"
+   },
+   {
+    "cid": "3f8aec8a",
+    "text": "I was just saying it off the cuff. Don't take it seriously.\n---\noff the cuff\ntake it seriously"
+   }
+  ]
+ },
+ {
+  "item": "hc06/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这次面试我觉得稳了。",
+  "candidates": [
+   {
+    "cid": "317a87d7",
+    "text": "I feel like I've got this interview in the bag.\n---\nin the bag"
+   },
+   {
+    "cid": "ad90422b",
+    "text": "Pretty sure I've got this interview in the bag.\n---\nin the bag"
+   },
+   {
+    "cid": "5e1a192a",
+    "text": "I feel like I've got this interview in the bag.\n---\nin the bag"
+   }
+  ]
+ },
+ {
+  "item": "hc06/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这次面试我觉得稳了。",
+  "candidates": [
+   {
+    "cid": "da7b422c",
+    "text": "I'm pretty sure I've got this interview in the bag.\n---\nin the bag"
+   },
+   {
+    "cid": "6a30dded",
+    "text": "I think I’ve got this interview in the bag.\n---\nin the bag"
+   },
+   {
+    "cid": "bc5b76af",
+    "text": "I think I've got this interview in the bag.\n---\nin the bag"
+   }
+  ]
+ },
+ {
+  "item": "hc07/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "他俩最近好像在冷战。",
+  "candidates": [
+   {
+    "cid": "09f39ef4",
+    "text": "Seems like those two aren't on speaking terms right now.\n---\naren't on speaking terms"
+   },
+   {
+    "cid": "2d199887",
+    "text": "Seems like those two aren't talking to each other right now.\n---\naren't talking to each other"
+   },
+   {
+    "cid": "6d7431d8",
+    "text": "Seems like those two are kinda giving each other the silent treatment lately.\n---\ngiving each other the silent treatment"
+   }
+  ]
+ },
+ {
+  "item": "hc07/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "他俩最近好像在冷战。",
+  "candidates": [
+   {
+    "cid": "a0bfa84f",
+    "text": "Looks like those two are giving each other the silent treatment lately.\n---\ngiving each other the silent treatment"
+   },
+   {
+    "cid": "229b6a8d",
+    "text": "Those two seem to be giving each other the silent treatment lately.\n---\ngiving each other the silent treatment"
+   },
+   {
+    "cid": "a28c2540",
+    "text": "Those two seem to be giving each other the silent treatment lately.\n---\ngiving each other the silent treatment"
+   }
+  ]
+ },
+ {
+  "item": "hc08/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "早知道会堵车，我就坐地铁了。",
+  "candidates": [
+   {
+    "cid": "069286c5",
+    "text": "If I'd known traffic was gonna be this bad, I would've taken the subway.\n---\ntraffic was gonna be this bad\nwould've taken the subway"
+   },
+   {
+    "cid": "ef20d809",
+    "text": "If I'd known traffic was gonna be this bad, I would've taken the subway.\n---\nIf I'd known\ntaken the subway"
+   },
+   {
+    "cid": "4a9f7b68",
+    "text": "If I'd known traffic would be this bad, I would've just taken the subway.\n---\ntraffic would be this bad"
+   }
+  ]
+ },
+ {
+  "item": "hc08/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "早知道会堵车，我就坐地铁了。",
+  "candidates": [
+   {
+    "cid": "6cd4380b",
+    "text": "If I'd known traffic would be this bad, I would've taken the subway.\n---\ntraffic would be this bad"
+   },
+   {
+    "cid": "fd3bd6b6",
+    "text": "If I'd known traffic would be this bad, I would've taken the subway.\n---\ntraffic would be this bad"
+   },
+   {
+    "cid": "12bdb371",
+    "text": "If I’d known traffic would be this bad, I would’ve taken the subway.\n---\nIf I’d known\ntraffic would be this bad"
+   }
+  ]
+ },
+ {
+  "item": "hc09/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "这个bug我修了一下午，结果是少了个分号，心态崩了。",
+  "candidates": [
+   {
+    "cid": "14456f90",
+    "text": "I spent all afternoon trying to fix this bug, and it turned out to be a missing semicolon. I'm losing it.\n---\nturned out to be\nI'm losing it"
+   },
+   {
+    "cid": "f89dd6fa",
+    "text": "I spent all afternoon trying to fix this bug, and it turned out to be a missing semicolon. I'm losing it.\n---\nI'm losing it\nturned out to be"
+   },
+   {
+    "cid": "a33286e7",
+    "text": "I spent all afternoon trying to fix this bug, and it turned out to be a missing semicolon. I'm losing it.\n---\nturned out to be\nI'm losing it"
+   }
+  ]
+ },
+ {
+  "item": "hc09/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "这个bug我修了一下午，结果是少了个分号，心态崩了。",
+  "candidates": [
+   {
+    "cid": "c5b0e5ad",
+    "text": "I spent all afternoon chasing down this bug, and it turned out to be a missing semicolon. I'm losing it.\n---\nchasing down\nI'm losing it"
+   },
+   {
+    "cid": "5aebaef8",
+    "text": "I spent all afternoon chasing down this bug, and it turned out to be a missing semicolon. I'm losing it.\n---\nI'm losing it\nchasing down this bug"
+   },
+   {
+    "cid": "33cb10c1",
+    "text": "I spent all afternoon trying to fix this bug, and it turned out to be a missing semicolon. I'm losing it.\n---\nturned out to be\nI'm losing it"
+   }
+  ]
+ },
+ {
+  "item": "hc10/chill",
+  "mode": "zh",
+  "style": "chill",
+  "input": "谢谢你帮我这么大的忙，改天请你吃饭。",
+  "candidates": [
+   {
+    "cid": "c8ad6c23",
+    "text": "Thanks for helping me out so much. Dinner's on me next time.\n---\nhelping me out\nDinner's on me"
+   },
+   {
+    "cid": "06b6a212",
+    "text": "Thanks for helping me out so much. Dinner's on me next time!\n---\nhelping me out\nDinner's on me"
+   },
+   {
+    "cid": "7d25c2ca",
+    "text": "Thanks for helping me out so much. I owe you a meal sometime!\n---\nhelping me out\nI owe you"
+   }
+  ]
+ },
+ {
+  "item": "hc10/sharp",
+  "mode": "zh",
+  "style": "sharp",
+  "input": "谢谢你帮我这么大的忙，改天请你吃饭。",
+  "candidates": [
+   {
+    "cid": "689aea2d",
+    "text": "You did me a huge favor. Seriously, thank you. Dinner’s on me sometime.\n---\ndid me a huge favor\nDinner’s on me"
+   },
+   {
+    "cid": "be9965e2",
+    "text": "Thanks for doing me such a huge favor. Dinner's on me next time.\n---\ndoing me such a huge favor\nDinner's on me"
+   },
+   {
+    "cid": "5a39845e",
+    "text": "Thanks for doing me such a huge favor. Next time, dinner’s on me.\n---\ndoing me such a huge favor\ndinner’s on me"
+   }
+  ]
+ }
+]

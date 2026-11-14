@@ -1,0 +1,622 @@
+[
+ {
+  "item": "c01/chill",
+  "winner": "A",
+  "reason": "\"don't wanna\" is more chill and B drops the final period."
+ },
+ {
+  "item": "c01/sharp",
+  "winner": "B",
+  "reason": "\"don't have it in me\" is natural; \"off the table\" is stiff and its note misglosses it."
+ },
+ {
+  "item": "c02/chill",
+  "winner": "A",
+  "reason": "\"kinda meh\" fits chill and 也就那样 better than \"underwhelming\"."
+ },
+ {
+  "item": "c02/sharp",
+  "winner": "A",
+  "reason": "\"aggressively average\" is a sharp, idiomatic take; B is plain."
+ },
+ {
+  "item": "c03/chill",
+  "winner": "tie",
+  "reason": "Both natural and faithful; difference is only \"later\" vs \"in a bit\"."
+ },
+ {
+  "item": "c03/sharp",
+  "winner": "B",
+  "reason": "Same text, B adds a useful note on \"in a bit\"."
+ },
+ {
+  "item": "c04/chill",
+  "winner": "B",
+  "reason": "Identical text; A lacks the final period."
+ },
+ {
+  "item": "c04/sharp",
+  "winner": "tie",
+  "reason": "Identical text and equivalent notes."
+ },
+ {
+  "item": "c05/chill",
+  "winner": "A",
+  "reason": "Same text; B lacks the final period."
+ },
+ {
+  "item": "c05/sharp",
+  "winner": "A",
+  "reason": "\"my kryptonite\" is sharper than \"my weakness\"."
+ },
+ {
+  "item": "c06/chill",
+  "winner": "A",
+  "reason": "\"go over it again\" is cleaner than the clunky \"together again\"."
+ },
+ {
+  "item": "c06/sharp",
+  "winner": "A",
+  "reason": "Same, B's \"go over it together again\" is clunky."
+ },
+ {
+  "item": "c07/chill",
+  "winner": "B",
+  "reason": "\"doesn't think before he speaks\" is the more idiomatic phrasing."
+ },
+ {
+  "item": "c07/sharp",
+  "winner": "A",
+  "reason": "\"mouth gets ahead of his brain\" is wittier and fits sharp; B is good but flatter."
+ },
+ {
+  "item": "c08/chill",
+  "winner": "tie",
+  "reason": "Same text; note sets equally fine."
+ },
+ {
+  "item": "c08/sharp",
+  "winner": "A",
+  "reason": "\"while we're at it\" nails 顺便; B bolts on an unasked joke line."
+ },
+ {
+  "item": "c09/chill",
+  "winner": "A",
+  "reason": "\"I swear\" carries 真的是; otherwise equivalent."
+ },
+ {
+  "item": "c09/sharp",
+  "winner": "tie",
+  "reason": "Identical text and equivalent notes."
+ },
+ {
+  "item": "c10/chill",
+  "winner": "B",
+  "reason": "\"set in stone / keep it to ourselves\" is more idiomatic; A is wordy and lacks a period."
+ },
+ {
+  "item": "c10/sharp",
+  "winner": "tie",
+  "reason": "Identical text; notes equivalent."
+ },
+ {
+  "item": "c11/chill",
+  "winner": "A",
+  "reason": "\"socially anxious\" captures 社恐 better than \"anxious around people\"."
+ },
+ {
+  "item": "c11/sharp",
+  "winner": "A",
+  "reason": "\"out of my element\" is more vivid; both faithful."
+ },
+ {
+  "item": "c12/chill",
+  "winner": "A",
+  "reason": "\"not really buying it\" is more chill and faithful to 不太信."
+ },
+ {
+  "item": "c12/sharp",
+  "winner": "A",
+  "reason": "\"promising the moon\" is faithful; B's \"selling me a dream\" adds an addressee."
+ },
+ {
+  "item": "c13/chill",
+  "winner": "B",
+  "reason": "\"Yours is on me\" correctly conveys 我请你; \"It's on me\" is ambiguous."
+ },
+ {
+  "item": "c13/sharp",
+  "winner": "A",
+  "reason": "Same text; A's notes cover the key phrase \"Yours is on me\"."
+ },
+ {
+  "item": "c14/chill",
+  "winner": "B",
+  "reason": "\"take a rain check\" is the idiomatic 改天再约; A lacks a period."
+ },
+ {
+  "item": "c14/sharp",
+  "winner": "B",
+  "reason": "\"completely tied up\" reads more natural and punchy."
+ },
+ {
+  "item": "c15/chill",
+  "winner": "B",
+  "reason": "Same text; A lacks the final period."
+ },
+ {
+  "item": "c15/sharp",
+  "winner": "A",
+  "reason": "\"gets your blood pumping\" matches 燃; \"kicks into gear\" doesn't."
+ },
+ {
+  "item": "p01/chill",
+  "winner": "B",
+  "reason": "B reads naturally with punctuation; A lacks a period."
+ },
+ {
+  "item": "p01/sharp",
+  "winner": "A",
+  "reason": "Same text; B's note filler \"地道又有力\" adds nothing."
+ },
+ {
+  "item": "p02/chill",
+  "winner": "A",
+  "reason": "Natural and complete with useful notes; B lacks a period."
+ },
+ {
+  "item": "p02/sharp",
+  "winner": "tie",
+  "reason": "Identical text and equivalent notes."
+ },
+ {
+  "item": "p03/chill",
+  "winner": "B",
+  "reason": "\"Mind sending that file again?\" is chill; A's note mistranslates the phrase as 收到了 and lacks a period."
+ },
+ {
+  "item": "p03/sharp",
+  "winner": "tie",
+  "reason": "Identical text and notes."
+ },
+ {
+  "item": "p04/chill",
+  "winner": "A",
+  "reason": "B adds an unstated \"amazing city\" claim."
+ },
+ {
+  "item": "p04/sharp",
+  "winner": "tie",
+  "reason": "Near-identical; both faithful."
+ },
+ {
+  "item": "p05/chill",
+  "winner": "A",
+  "reason": "Same content; B lacks the final period."
+ },
+ {
+  "item": "p05/sharp",
+  "winner": "A",
+  "reason": "A's notes are concise; B's note copies an overlong chunk."
+ },
+ {
+  "item": "p06/chill",
+  "winner": "B",
+  "reason": "Same text; A lacks the final period."
+ },
+ {
+  "item": "p06/sharp",
+  "winner": "tie",
+  "reason": "Identical text; notes equivalent."
+ },
+ {
+  "item": "p07/chill",
+  "winner": "tie",
+  "reason": "Identical text and notes."
+ },
+ {
+  "item": "p07/sharp",
+  "winner": "tie",
+  "reason": "Identical text; notes equivalent."
+ },
+ {
+  "item": "p08/chill",
+  "winner": "B",
+  "reason": "\"so packed I can't even snag a bench\" is smoother; A lacks a period."
+ },
+ {
+  "item": "p08/sharp",
+  "winner": "A",
+  "reason": "A's punchline lands cleaner; B's note bolts \"apparently\" onto the phrase."
+ },
+ {
+  "item": "p09/chill",
+  "winner": "B",
+  "reason": "\"helped me out\" is more chill; A lacks a period."
+ },
+ {
+  "item": "p09/sharp",
+  "winner": "A",
+  "reason": "\"came in handy\" is sharper and still faithful; B is plain."
+ },
+ {
+  "item": "p10/chill",
+  "winner": "A",
+  "reason": "Both fine; A is complete and natural, B lacks a period."
+ },
+ {
+  "item": "p10/sharp",
+  "winner": "B",
+  "reason": "\"not betting on rain\" is crisp and sharp."
+ },
+ {
+  "item": "p11/chill",
+  "winner": "A",
+  "reason": "\"wrapped up\" is natural; B lacks a period."
+ },
+ {
+  "item": "p11/sharp",
+  "winner": "tie",
+  "reason": "Identical text and notes."
+ },
+ {
+  "item": "p12/chill",
+  "winner": "A",
+  "reason": "Same text; B lacks the final period."
+ },
+ {
+  "item": "p12/sharp",
+  "winner": "A",
+  "reason": "\"weren't about to let that keep us off the trail\" hits sharp; B is plain."
+ },
+ {
+  "item": "p13/chill",
+  "winner": "tie",
+  "reason": "Both natural chill follow-ups."
+ },
+ {
+  "item": "p13/sharp",
+  "winner": "B",
+  "reason": "\"bored out of my mind\" stays faithful; \"stir-crazy\" and \"What's the plan?\" shift the meaning."
+ },
+ {
+  "item": "p14/chill",
+  "winner": "B",
+  "reason": "B's note explains the how→what error, more useful for the learner."
+ },
+ {
+  "item": "p14/sharp",
+  "winner": "tie",
+  "reason": "Identical text; notes equivalent."
+ },
+ {
+  "item": "p15/chill",
+  "winner": "A",
+  "reason": "Same text; A punctuated and adds a useful note."
+ },
+ {
+  "item": "p15/sharp",
+  "winner": "A",
+  "reason": "\"draws the line\" is wittier; B is good but less pointed."
+ },
+ {
+  "item": "p16/chill",
+  "winner": "B",
+  "reason": "\"a little early\" with punctuation; A lacks a period."
+ },
+ {
+  "item": "p16/sharp",
+  "winner": "tie",
+  "reason": "Near-identical text; both notes correct the \"go to there\" error."
+ },
+ {
+  "item": "p17/chill",
+  "winner": "B",
+  "reason": "B's \"last night\" note fixes the key error; A lacks it."
+ },
+ {
+  "item": "p17/sharp",
+  "winner": "B",
+  "reason": "\"had my homework out of the way\" in A is awkward."
+ },
+ {
+  "item": "p18/chill",
+  "winner": "A",
+  "reason": "\"know my way around\" is natural; B lacks a period."
+ },
+ {
+  "item": "p18/sharp",
+  "winner": "tie",
+  "reason": "Identical text and notes."
+ },
+ {
+  "item": "p19/chill",
+  "winner": "A",
+  "reason": "A's note covers the key since→for fix; B's note doesn't."
+ },
+ {
+  "item": "p19/sharp",
+  "winner": "tie",
+  "reason": "Identical text and notes."
+ },
+ {
+  "item": "p20/chill",
+  "winner": "A",
+  "reason": "\"heads-up\" is natural; B lacks a period and its note copies the whole sentence."
+ },
+ {
+  "item": "p20/sharp",
+  "winner": "A",
+  "reason": "A's notes explain the conditional fix; both texts good."
+ },
+ {
+  "item": "p21/chill",
+  "winner": "B",
+  "reason": "B is punctuated with a useful \"ship it\" note; A lacks a period."
+ },
+ {
+  "item": "p21/sharp",
+  "winner": "tie",
+  "reason": "Equivalent texts and notes."
+ },
+ {
+  "item": "p22/chill",
+  "winner": "B",
+  "reason": "\"make a coffee run\" is more idiomatic."
+ },
+ {
+  "item": "p22/sharp",
+  "winner": "tie",
+  "reason": "Identical text and notes."
+ },
+ {
+  "item": "p23/chill",
+  "winner": "B",
+  "reason": "B is natural and complete; A lacks a period."
+ },
+ {
+  "item": "p23/sharp",
+  "winner": "B",
+  "reason": "\"what should've been an email\" is crisper."
+ },
+ {
+  "item": "p24/chill",
+  "winner": "B",
+  "reason": "\"kinda lost\" fits chill better."
+ },
+ {
+  "item": "p24/sharp",
+  "winner": "A",
+  "reason": "\"You lost me there... back up\" is punchier."
+ },
+ {
+  "item": "p25/chill",
+  "winner": "B",
+  "reason": "\"didn't know a lot of people\" is faithful; A's \"barely knew anyone\" exaggerates."
+ },
+ {
+  "item": "p25/sharp",
+  "winner": "A",
+  "reason": "\"had a blast\" keeps the fun; otherwise equivalent."
+ },
+ {
+  "item": "p26/chill",
+  "winner": "tie",
+  "reason": "Identical text and notes."
+ },
+ {
+  "item": "p26/sharp",
+  "winner": "tie",
+  "reason": "Identical text and notes."
+ },
+ {
+  "item": "p27/chill",
+  "winner": "tie",
+  "reason": "Both natural and faithful."
+ },
+ {
+  "item": "p27/sharp",
+  "winner": "tie",
+  "reason": "Both natural; equivalent."
+ },
+ {
+  "item": "r01/chill",
+  "winner": "B",
+  "reason": "Natural follow-up and punctuated; A lacks a period."
+ },
+ {
+  "item": "r01/sharp",
+  "winner": "B",
+  "reason": "\"weather gets the memo\" is wittier and fits sharp."
+ },
+ {
+  "item": "r02/chill",
+  "winner": "tie",
+  "reason": "Both warm and natural."
+ },
+ {
+  "item": "r02/sharp",
+  "winner": "tie",
+  "reason": "Same joke; trivially different openers."
+ },
+ {
+  "item": "r03/chill",
+  "winner": "B",
+  "reason": "\"jumps out\" with punctuation; A lacks a period."
+ },
+ {
+  "item": "r03/sharp",
+  "winner": "B",
+  "reason": "A's \"apparently genuine no rush\" joke is forced and odd."
+ },
+ {
+  "item": "r04/chill",
+  "winner": "A",
+  "reason": "A doesn't assume the airline arranged anything."
+ },
+ {
+  "item": "r04/sharp",
+  "winner": "A",
+  "reason": "\"fend for yourself\" is crisper and its notes are better."
+ },
+ {
+  "item": "r05/chill",
+  "winner": "A",
+  "reason": "Playful \"we're even\"; B's \"thanks for letting me know\" is odd."
+ },
+ {
+  "item": "r05/sharp",
+  "winner": "A",
+  "reason": "\"reparations in the form of food\" is the funnier line."
+ },
+ {
+  "item": "r06/chill",
+  "winner": "tie",
+  "reason": "Both follow the intent equally well."
+ },
+ {
+  "item": "r06/sharp",
+  "winner": "B",
+  "reason": "\"lousy company\" is a tactful, witty soft no."
+ },
+ {
+  "item": "r07/chill",
+  "winner": "B",
+  "reason": "B's question is clear; A's \"prioritize this\" is vague."
+ },
+ {
+  "item": "r07/sharp",
+  "winner": "B",
+  "reason": "A invents \"five days into three\"; B avoids made-up facts."
+ },
+ {
+  "item": "r08/chill",
+  "winner": "B",
+  "reason": "B offers company without presuming feelings."
+ },
+ {
+  "item": "r08/sharp",
+  "winner": "A",
+  "reason": "B presumes how much the cat meant."
+ },
+ {
+  "item": "r09/chill",
+  "winner": "B",
+  "reason": "B's \"You got a link?\" is a natural reply."
+ },
+ {
+  "item": "r09/sharp",
+  "winner": "B",
+  "reason": "\"without instant replay\" is sharp; A invents details and is wordy."
+ },
+ {
+  "item": "r10/chill",
+  "winner": "A",
+  "reason": "B never answers the question."
+ },
+ {
+  "item": "r10/sharp",
+  "winner": "A",
+  "reason": "\"over too quickly\" is natural; B's \"worth filing\" feels forced."
+ },
+ {
+  "item": "r11/chill",
+  "winner": "B",
+  "reason": "\"grab me a coffee and we're even\" answers \"I owe you\"; both lack periods."
+ },
+ {
+  "item": "r11/sharp",
+  "winner": "A",
+  "reason": "\"once my arms start working again\" lands; B's joke is forced."
+ },
+ {
+  "item": "r12/chill",
+  "winner": "B",
+  "reason": "B also asks about length, which is more useful."
+ },
+ {
+  "item": "r12/sharp",
+  "winner": "tie",
+  "reason": "Identical text and notes."
+ },
+ {
+  "item": "r13/chill",
+  "winner": "A",
+  "reason": "\"burnt coffee or dishwater?\" is lively; B lacks a period."
+ },
+ {
+  "item": "r13/sharp",
+  "winner": "B",
+  "reason": "\"pretty competitive category\" is the sharper deadpan."
+ },
+ {
+  "item": "r14/chill",
+  "winner": "A",
+  "reason": "Same text; A adds a note."
+ },
+ {
+  "item": "r14/sharp",
+  "winner": "A",
+  "reason": "\"well within the grace period\" is friendly; B reads slightly passive-aggressive."
+ },
+ {
+  "item": "r15/chill",
+  "winner": "tie",
+  "reason": "Identical text and notes."
+ },
+ {
+  "item": "r15/sharp",
+  "winner": "B",
+  "reason": "\"pay twice for the same traffic\" is wittier."
+ },
+ {
+  "item": "r16/chill",
+  "winner": "B",
+  "reason": "B is punctuated; same content."
+ },
+ {
+  "item": "r16/sharp",
+  "winner": "B",
+  "reason": "\"charts do some of the talking\" is more natural than \"easy on the eyes\"."
+ },
+ {
+  "item": "r17/chill",
+  "winner": "A",
+  "reason": "\"the city\" implies a known city; asking which part fits, while \"Which city?\" doesn't."
+ },
+ {
+  "item": "r17/sharp",
+  "winner": "tie",
+  "reason": "Same joke with similar quality."
+ },
+ {
+  "item": "r18/chill",
+  "winner": "B",
+  "reason": "A hedges and lacks a period; B is cleaner."
+ },
+ {
+  "item": "r18/sharp",
+  "winner": "tie",
+  "reason": "Both answer \"Am I crazy\" with equal wit."
+ },
+ {
+  "item": "r19/chill",
+  "winner": "B",
+  "reason": "\"Will do!\" responds better than \"no worries\" to a request."
+ },
+ {
+  "item": "r19/sharp",
+  "winner": "A",
+  "reason": "\"less mystery in the fridge\" is the more natural line."
+ },
+ {
+  "item": "r20/chill",
+  "winner": "A",
+  "reason": "A's follow-up is natural; B lacks a period."
+ },
+ {
+  "item": "r20/sharp",
+  "winner": "A",
+  "reason": "\"mess with a good plan\" is natural; B's side-project joke is bolted on."
+ }
+]

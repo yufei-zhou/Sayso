@@ -1,0 +1,424 @@
+{
+ "polish": [
+  {
+   "id": "sp01",
+   "scene": "work chat with a colleague",
+   "text": "Hi, I have a question about the pipeline, do you have time now? If no, I can wait."
+  },
+  {
+   "id": "sp02",
+   "scene": "status update in a team chat",
+   "text": "I finished the first version of the script, but there is still some problems with the edge cases. I will continue to fix it tomorrow."
+  },
+  {
+   "id": "sp03",
+   "scene": "disagreeing in a team discussion",
+   "text": "I don't agree with this approach, because it will make the code more complicated and difficult to maintain."
+  },
+  {
+   "id": "sp04",
+   "scene": "asking a colleague to clarify",
+   "text": "Sorry I didn't understand what you mean by 'ablation' here, can you explain more?"
+  },
+  {
+   "id": "sp05",
+   "scene": "rescheduling a meeting with a colleague",
+   "text": "Can we change the meeting to Thursday? I have a class conflict on Wednesday afternoon."
+  },
+  {
+   "id": "sp06",
+   "scene": "pointing out a bug to a colleague",
+   "text": "I think there is a bug in your function, when the input is empty it will crash."
+  },
+  {
+   "id": "sp07",
+   "scene": "thanking a colleague",
+   "text": "Thanks for your help yesterday, it saved me a lot of times."
+  },
+  {
+   "id": "sp08",
+   "scene": "message to the team before a meeting",
+   "text": "I will be late for 10 minutes, please start without me."
+  },
+  {
+   "id": "sp09",
+   "scene": "email to a professor",
+   "text": "Dear Professor, I want to ask if you have time this week to discuss about my thesis progress. I am available on any day except Friday."
+  },
+  {
+   "id": "sp10",
+   "scene": "email to a professor",
+   "text": "Dear Professor Martin, I am writing to ask if it is possible to extend the deadline of the report for three days, because I was sick last week."
+  },
+  {
+   "id": "sp11",
+   "scene": "email to a supervisor after a meeting",
+   "text": "Thank you for the meeting today. I will revise the introduction according to your comments and send you the new version before next Monday."
+  },
+  {
+   "id": "sp12",
+   "scene": "email to a professor",
+   "text": "Could you please write a recommendation letter for my PhD application? The deadline is December 15. I can send you my CV and research statement if you need."
+  },
+  {
+   "id": "sp13",
+   "scene": "chat message to a supervisor (first-name terms)",
+   "text": "Hi Marie, the experiments are finished, the results are better than baseline by 3 points. I put the table in our shared doc, please have a look when you are free."
+  },
+  {
+   "id": "sp14",
+   "scene": "texting a friend",
+   "text": "Do you want to go to eat hotpot this weekend? I know a new place that is very delicious."
+  },
+  {
+   "id": "sp15",
+   "scene": "texting a friend",
+   "text": "Sorry I can't go tonight, I am too tired and I still have many works to do."
+  },
+  {
+   "id": "sp16",
+   "scene": "texting a friend",
+   "text": "Haha you are so funny, I laughed to death."
+  },
+  {
+   "id": "sp17",
+   "scene": "comforting a friend",
+   "text": "Don't be sad, everything will be OK, you already did your best."
+  },
+  {
+   "id": "sp18",
+   "scene": "recommending a show to a friend",
+   "text": "I watched this series in one night, it is so addictive, you must watch it."
+  },
+  {
+   "id": "sp19",
+   "scene": "small talk with a friend",
+   "text": "The weather in Paris is so bad recently, it rains everyday and I have no mood to go out."
+  },
+  {
+   "id": "sp20",
+   "scene": "message to a landlord",
+   "text": "Hello, the heater in my room is broken since two days, can you send someone to repair it as soon as possible?"
+  },
+  {
+   "id": "sp21",
+   "scene": "message to an online shop's customer service",
+   "text": "I ordered a keyboard two weeks ago but I still didn't receive it. Can you check where is my package?"
+  },
+  {
+   "id": "sp22",
+   "scene": "message to a restaurant",
+   "text": "I want to book a table for four people on Saturday night at 7:30, do you still have place?"
+  },
+  {
+   "id": "sp23",
+   "scene": "message to a roommate",
+   "text": "Can you please don't make noise after midnight? I need to wake up early these days."
+  },
+  {
+   "id": "sp24",
+   "scene": "introducing yourself at a meetup",
+   "text": "I come from China and now I study computer science in Paris. I have been here for two years."
+  },
+  {
+   "id": "sp25",
+   "scene": "chatting about a movie",
+   "text": "In my opinion this movie is overrated, the story is very normal and the ending is not make sense."
+  },
+  {
+   "id": "sp26",
+   "scene": "feedback on a colleague's paper draft",
+   "text": "Your paper is good in general, but I think the related work part is too long and the experiment part lacks of details."
+  },
+  {
+   "id": "sp27",
+   "scene": "quick reply in a work chat",
+   "text": "ok I will do it"
+  },
+  {
+   "id": "sp28",
+   "scene": "texting a friend (already natural)",
+   "text": "No worries, take your time."
+  },
+  {
+   "id": "sp29",
+   "scene": "telling a friend about your day",
+   "text": "Today was a terrible day. I missed my train in the morning, then I found that I forgot my laptop at home. When I finally arrived to the lab, my supervisor told me the meeting was cancelled. I really want to cry."
+  },
+  {
+   "id": "sp30",
+   "scene": "apologizing to a friend",
+   "text": "I'm really sorry for what I said yesterday. I was in a bad mood and I shouldn't say those words to you."
+  }
+ ],
+ "reply": [
+  {
+   "id": "sr01",
+   "scene": "email from your professor",
+   "text": "Dear Yufei, thanks for the draft. Could we meet Thursday at 2pm to go over my comments?"
+  },
+  {
+   "id": "sr02",
+   "scene": "email from your professor",
+   "text": "Hi Yufei, I'm afraid I'll have to cancel our meeting tomorrow. Would next Tuesday work for you?",
+   "note": "可以，周二上午都行"
+  },
+  {
+   "id": "sr03",
+   "scene": "work chat from a colleague",
+   "text": "hey, any chance you could review my merge request today? it's blocking the release",
+   "note": "今天没空，明天上午可以"
+  },
+  {
+   "id": "sr04",
+   "scene": "work chat from a colleague",
+   "text": "Do you know why the CI is failing on main? I didn't touch anything 😭",
+   "note": "I don't know either, will take a look after lunch"
+  },
+  {
+   "id": "sr05",
+   "scene": "work chat from your manager",
+   "text": "Great work on the demo! The client was really impressed."
+  },
+  {
+   "id": "sr06",
+   "scene": "work chat from your manager",
+   "text": "Can you give me a rough estimate of when the migration will be done?",
+   "note": "大概还要两周，但不太确定，因为测试还没开始"
+  },
+  {
+   "id": "sr07",
+   "scene": "email from a recruiter",
+   "text": "Hi Yufei, thanks for your application. Are you available for a 30-minute call next week to discuss the role?",
+   "note": "有空，周三周四下午都可以"
+  },
+  {
+   "id": "sr08",
+   "scene": "text from a friend",
+   "text": "we're getting drinks after work on friday, you in?"
+  },
+  {
+   "id": "sr09",
+   "scene": "text from a friend",
+   "text": "I failed my driving test again 😩 third time"
+  },
+  {
+   "id": "sr10",
+   "scene": "text from a friend",
+   "text": "omg I just got engaged!!!"
+  },
+  {
+   "id": "sr11",
+   "scene": "text from a friend",
+   "text": "can I borrow your charger? mine died",
+   "note": "可以，但我五点要走，之前还我"
+  },
+  {
+   "id": "sr12",
+   "scene": "text from a friend",
+   "text": "what did you think of the movie?",
+   "note": "一般，前半段太慢了，但结尾不错"
+  },
+  {
+   "id": "sr13",
+   "scene": "message from your landlord",
+   "text": "Hello, I will need to come by on Wednesday morning to check the boiler. Will someone be home?",
+   "note": "周三上午不在，周四可以吗"
+  },
+  {
+   "id": "sr14",
+   "scene": "roommates' group chat",
+   "text": "Who used my milk? There's like nothing left 🙄",
+   "note": "是我，抱歉，今晚买一瓶还你"
+  },
+  {
+   "id": "sr15",
+   "scene": "message from a classmate",
+   "text": "Do you want to work on the project together this weekend?",
+   "note": "想，但是只有周日有空"
+  },
+  {
+   "id": "sr16",
+   "scene": "message from a stranger about something you're selling",
+   "text": "Hi, is the bike still available? Could you do 80 euros?",
+   "note": "还在，最低90"
+  },
+  {
+   "id": "sr17",
+   "scene": "text from a close friend",
+   "text": "I think me and Tom are breaking up. I don't really know what to do."
+  },
+  {
+   "id": "sr18",
+   "scene": "work chat from a colleague",
+   "text": "Thanks for covering for me last week, you're a lifesaver"
+  },
+  {
+   "id": "sr19",
+   "scene": "email from customer support",
+   "text": "We're sorry for the inconvenience. We can offer you a refund or a replacement. Which would you prefer?",
+   "note": "要退款"
+  },
+  {
+   "id": "sr20",
+   "scene": "friends' group chat",
+   "text": "Happy birthday Yufei!! 🎂🎉 hope you have an amazing day"
+  },
+  {
+   "id": "sr21",
+   "scene": "feedback from your professor in a chat",
+   "text": "The results look promising, but I'm not convinced by the evaluation. Have you compared against a stronger baseline?",
+   "note": "还没有，下周会加上两个更强的 baseline"
+  },
+  {
+   "id": "sr22",
+   "scene": "text from a friend",
+   "text": "Thinking of doing a board game night at mine on Saturday. Bring snacks?",
+   "note": "去不了，那天要赶 deadline，下次一定"
+  },
+  {
+   "id": "sr23",
+   "scene": "small talk from a colleague",
+   "text": "How was your vacation? You went to Japan, right?",
+   "note": "很好，吃了很多，就是太热了"
+  },
+  {
+   "id": "sr24",
+   "scene": "text from a friend who is upset with you",
+   "text": "Honestly I felt a bit left out when you guys went without telling me.",
+   "note": "道歉，不是故意的，下次一定叫上"
+  }
+ ],
+ "zh": [
+  {
+   "id": "sc01",
+   "scene": "texting a friend",
+   "text": "我今天状态不太好，脑子转不动。"
+  },
+  {
+   "id": "sc02",
+   "scene": "texting a friend",
+   "text": "别提了，今天倒霉透了。"
+  },
+  {
+   "id": "sc03",
+   "scene": "texting a friend",
+   "text": "我有点纠结，不知道该选哪个。"
+  },
+  {
+   "id": "sc04",
+   "scene": "recommending something to a friend",
+   "text": "这个东西性价比很高，强烈推荐。"
+  },
+  {
+   "id": "sc05",
+   "scene": "replying to a colleague",
+   "text": "你先忙，我不着急。"
+  },
+  {
+   "id": "sc06",
+   "scene": "deciding where to eat with friends",
+   "text": "随便吧，我都行。"
+  },
+  {
+   "id": "sc07",
+   "scene": "talking about an acquaintance",
+   "text": "我跟他不太熟，就见过一两次。"
+  },
+  {
+   "id": "sc08",
+   "scene": "complaining to a friend",
+   "text": "他说话总是拐弯抹角的，听得我很累。"
+  },
+  {
+   "id": "sc09",
+   "scene": "texting a friend",
+   "text": "我已经开始摆烂了，爱咋咋地。"
+  },
+  {
+   "id": "sc10",
+   "scene": "telling a friend what happened",
+   "text": "昨天在全班面前讲错了，当场社死。"
+  },
+  {
+   "id": "sc11",
+   "scene": "chatting about work",
+   "text": "最近太卷了，大家都在加班。"
+  },
+  {
+   "id": "sc12",
+   "scene": "joining a gossip thread in a group chat",
+   "text": "我就是来吃瓜的，你们继续。"
+  },
+  {
+   "id": "sc13",
+   "scene": "texting a friend",
+   "text": "这首歌太上头了，我循环了一整天。"
+  },
+  {
+   "id": "sc14",
+   "scene": "complaining about work to a friend",
+   "text": "老板又在给我们打鸡血了。"
+  },
+  {
+   "id": "sc15",
+   "scene": "work chat with a colleague",
+   "text": "这个问题我们线下再对一下吧。"
+  },
+  {
+   "id": "sc16",
+   "scene": "work chat with a colleague",
+   "text": "我先跟进一下，有消息马上告诉你。"
+  },
+  {
+   "id": "sc17",
+   "scene": "work chat with a manager",
+   "text": "这个需求有点不合理，工期太紧了。"
+  },
+  {
+   "id": "sc18",
+   "scene": "explaining research results to a colleague",
+   "text": "我们的方法在小数据集上效果更好，但是训练时间更长。"
+  },
+  {
+   "id": "sc19",
+   "scene": "message to a professor",
+   "text": "老师，我想请问一下，这周能不能约个时间聊聊我的论文？"
+  },
+  {
+   "id": "sc20",
+   "scene": "email to a recruiter",
+   "text": "不好意思打扰了，想跟您确认一下面试的时间。"
+  },
+  {
+   "id": "sc21",
+   "scene": "asking a colleague for a favor",
+   "text": "麻烦你帮我看一下这个行不行，辛苦了！"
+  },
+  {
+   "id": "sc22",
+   "scene": "thanking a friend",
+   "text": "下次我请你吃饭，这次真的谢谢你。"
+  },
+  {
+   "id": "sc23",
+   "scene": "declining to join friends",
+   "text": "我就不去了，你们玩得开心。"
+  },
+  {
+   "id": "sc24",
+   "scene": "congratulating a friend",
+   "text": "恭喜恭喜！太为你高兴了。"
+  },
+  {
+   "id": "sc25",
+   "scene": "complaining about the weather",
+   "text": "这天气热得我怀疑人生。"
+  },
+  {
+   "id": "sc26",
+   "scene": "after a confusing lecture",
+   "text": "他讲了半天，我一句都没听懂。"
+  }
+ ]
+}

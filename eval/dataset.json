@@ -1,0 +1,428 @@
+{
+ "polish": [
+  {
+   "id": "p01",
+   "text": "I very agree with you, this restaurant food is not so good than last time.",
+   "errors": [
+    [
+     "very agree",
+     "totally agree"
+    ],
+    [
+     "not so good than",
+     "not as good as"
+    ],
+    [
+     "this restaurant food",
+     "this restaurant's food"
+    ]
+   ]
+  },
+  {
+   "id": "p02",
+   "text": "Sorry for late reply, I was busy on a deadline yesterday.",
+   "errors": [
+    [
+     "for late reply",
+     "for the late reply"
+    ],
+    [
+     "busy on",
+     "busy with"
+    ]
+   ]
+  },
+  {
+   "id": "p03",
+   "text": "Can you send me the file again? I didn't received it.",
+   "errors": [
+    [
+     "didn't received",
+     "didn't receive"
+    ]
+   ]
+  },
+  {
+   "id": "p04",
+   "text": "I have been to Paris last year and it was so amazing.",
+   "errors": [
+    [
+     "have been to Paris last year",
+     "went to Paris last year"
+    ]
+   ]
+  },
+  {
+   "id": "p05",
+   "text": "He suggested me to try the new ramen place near the office.",
+   "errors": [
+    [
+     "suggested me to try",
+     "suggested I try"
+    ]
+   ]
+  },
+  {
+   "id": "p06",
+   "text": "Let's discuss about this tomorrow morning.",
+   "errors": [
+    [
+     "discuss about",
+     "discuss"
+    ]
+   ]
+  },
+  {
+   "id": "p07",
+   "text": "I'm looking forward to meet you guys this weekend!",
+   "errors": [
+    [
+     "looking forward to meet",
+     "looking forward to meeting"
+    ]
+   ]
+  },
+  {
+   "id": "p08",
+   "text": "There have many people in the gym today, I can't even find a free bench.",
+   "errors": [
+    [
+     "There have many people",
+     "There are so many people"
+    ]
+   ]
+  },
+  {
+   "id": "p09",
+   "text": "The informations you gave me was really helpful.",
+   "errors": [
+    [
+     "informations",
+     "information"
+    ]
+   ]
+  },
+  {
+   "id": "p10",
+   "text": "I don't think so it will rain today.",
+   "errors": [
+    [
+     "I don't think so it will",
+     "I don't think it will"
+    ]
+   ]
+  },
+  {
+   "id": "p11",
+   "text": "My boss let me to finish the report before friday.",
+   "errors": [
+    [
+     "let me to finish",
+     "had me finish"
+    ],
+    [
+     "friday",
+     "Friday"
+    ]
+   ]
+  },
+  {
+   "id": "p12",
+   "text": "Although it was raining, but we still went hiking.",
+   "errors": [
+    [
+     "but we still",
+     "we still"
+    ]
+   ]
+  },
+  {
+   "id": "p13",
+   "text": "I'm so boring this weekend, any plan?",
+   "errors": [
+    [
+     "I'm so boring",
+     "I'm so bored"
+    ],
+    [
+     "any plan",
+     "any plans"
+    ]
+   ]
+  },
+  {
+   "id": "p14",
+   "text": "How do you think about the new iPhone?",
+   "errors": [
+    [
+     "How do you think",
+     "What do you think"
+    ]
+   ]
+  },
+  {
+   "id": "p15",
+   "text": "She is good in cooking but she hates to wash the dishes.",
+   "errors": [
+    [
+     "good in cooking",
+     "good at cooking"
+    ]
+   ]
+  },
+  {
+   "id": "p16",
+   "text": "We should go to there earlier to get a good seat.",
+   "errors": [
+    [
+     "go to there",
+     "go there"
+    ]
+   ]
+  },
+  {
+   "id": "p17",
+   "text": "I already finished my homework yesterday night.",
+   "errors": [
+    [
+     "yesterday night",
+     "last night"
+    ]
+   ]
+  },
+  {
+   "id": "p18",
+   "text": "Actually I'm not very familiar about this kind of thing.",
+   "errors": [
+    [
+     "familiar about",
+     "familiar with"
+    ]
+   ]
+  },
+  {
+   "id": "p19",
+   "text": "I've been working in this company since three years.",
+   "errors": [
+    [
+     "since three years",
+     "for three years"
+    ]
+   ]
+  },
+  {
+   "id": "p20",
+   "text": "If I would have known, I would have told you.",
+   "errors": [
+    [
+     "If I would have known",
+     "If I had known"
+    ]
+   ]
+  },
+  {
+   "id": "p21",
+   "text": "Honestly, I think we're overthinking this. Let's just ship it and see what happens.",
+   "errors": []
+  },
+  {
+   "id": "p22",
+   "text": "I'll grab coffee on my way in. Want anything?",
+   "errors": []
+  },
+  {
+   "id": "p23",
+   "text": "That meeting could have been an email.",
+   "errors": []
+  },
+  {
+   "id": "p24",
+   "text": "I'm not sure I follow. Could you walk me through it again?",
+   "errors": []
+  },
+  {
+   "id": "p25",
+   "text": "Yesterday I went to my friend's birthday party. There was a lot of people that I don't know, so I felt a little awkward at the beginning. But after a few drinks everyone become very friendly and we played games until 2am. It was really a fun experience and I'm glad I went.",
+   "errors": [
+    [
+     "There was a lot of people",
+     "There were a lot of people"
+    ],
+    [
+     "that I don't know",
+     "I didn't know"
+    ],
+    [
+     "everyone become",
+     "everyone became"
+    ]
+   ]
+  },
+  {
+   "id": "p26",
+   "text": "Long time no see! How are you recently?",
+   "errors": [
+    [
+     "How are you recently",
+     "How have you been lately"
+    ]
+   ]
+  },
+  {
+   "id": "p27",
+   "text": "I'm going to the supermarket, do you need something?",
+   "errors": [
+    [
+     "do you need something",
+     "do you need anything"
+    ]
+   ]
+  }
+ ],
+ "reply": [
+  {
+   "id": "r01",
+   "text": "hey are you free this saturday? thinking of doing a hike if the weather holds up"
+  },
+  {
+   "id": "r02",
+   "text": "Just got the job offer!!! 🎉"
+  },
+  {
+   "id": "r03",
+   "text": "Can you take a look at my PR when you get a chance? No rush."
+  },
+  {
+   "id": "r04",
+   "text": "ugh my flight got cancelled and now I'm stuck in Denver for the night"
+  },
+  {
+   "id": "r05",
+   "text": "So... I accidentally ate your leftovers. Sorry 😅"
+  },
+  {
+   "id": "r06",
+   "text": "Are you coming to Jake's thing tonight?",
+   "note": "我想委婉拒绝，今天太累了"
+  },
+  {
+   "id": "r07",
+   "text": "Quick heads up: the client moved the deadline up to Thursday."
+  },
+  {
+   "id": "r08",
+   "text": "My cat died this morning."
+  },
+  {
+   "id": "r09",
+   "text": "lol did you see the guy who proposed at the Knicks game and got rejected on the jumbotron"
+  },
+  {
+   "id": "r10",
+   "text": "How was your weekend?"
+  },
+  {
+   "id": "r11",
+   "text": "Thanks so much for helping me move yesterday, I owe you big time"
+  },
+  {
+   "id": "r12",
+   "text": "Would you be interested in giving a short talk at our team meeting next week?"
+  },
+  {
+   "id": "r13",
+   "text": "Not to be dramatic but this is the worst coffee I've ever had"
+  },
+  {
+   "id": "r14",
+   "text": "I'm running like 15 min late, sorry!!"
+  },
+  {
+   "id": "r15",
+   "text": "Wanna split an uber to the airport tomorrow?"
+  },
+  {
+   "id": "r16",
+   "text": "Your presentation was great today, the data viz part especially."
+  },
+  {
+   "id": "r17",
+   "text": "Do you have any recommendations for good dim sum in the city?"
+  },
+  {
+   "id": "r18",
+   "text": "I've been thinking about quitting my job and traveling for a year. Am I crazy?",
+   "note": "我觉得他应该去"
+  },
+  {
+   "id": "r19",
+   "text": "Hey all, the shared fridge has been kind of a mess lately. Could everyone label their stuff?"
+  },
+  {
+   "id": "r20",
+   "text": "Are we still on for dinner Friday or should we reschedule?"
+  }
+ ],
+ "zh": [
+  {
+   "id": "c01",
+   "text": "我今天真的累瘫了，什么都不想干。"
+  },
+  {
+   "id": "c02",
+   "text": "这家店排队排了一个小时，结果也就那样。"
+  },
+  {
+   "id": "c03",
+   "text": "不好意思，我刚看到消息，晚点回你。"
+  },
+  {
+   "id": "c04",
+   "text": "他这个人就是嘴硬心软。"
+  },
+  {
+   "id": "c05",
+   "text": "我最近在减肥，但是看到奶茶还是忍不住。"
+  },
+  {
+   "id": "c06",
+   "text": "这个方案我觉得还有点问题，我们能再对一下吗？"
+  },
+  {
+   "id": "c07",
+   "text": "你别太往心里去，他就是那种说话不过脑子的人。"
+  },
+  {
+   "id": "c08",
+   "text": "周末要不要一起去爬山？顺便吃个火锅。"
+  },
+  {
+   "id": "c09",
+   "text": "我真的是服了，又加班到十一点。"
+  },
+  {
+   "id": "c10",
+   "text": "这事儿八字还没一撇呢，先别到处说。"
+  },
+  {
+   "id": "c11",
+   "text": "说实话，我有点社恐，人多的场合会不自在。"
+  },
+  {
+   "id": "c12",
+   "text": "感觉他在画大饼，我不太信。"
+  },
+  {
+   "id": "c13",
+   "text": "能帮我带杯咖啡吗？我请你。"
+  },
+  {
+   "id": "c14",
+   "text": "我们改天再约吧，今天实在抽不开身。"
+  },
+  {
+   "id": "c15",
+   "text": "这电影前半段有点拖，后半段还挺燃的。"
+  }
+ ]
+}
