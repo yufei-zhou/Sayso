@@ -24,7 +24,9 @@ codesign --verify --strict -R='identifier "local.nano.Sayso" and certificate lea
 rm -f build/Sayso.zip
 ditto -c -k --keepParent build/Sayso.app build/Sayso.zip
 
-git commit -qam "Release $VERSION"
+git commit -qam "Release $VERSION
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
 git tag "v$VERSION"
 git push -q origin HEAD "v$VERSION"
 gh release create "v$VERSION" build/Sayso.zip --title "Sayso $VERSION" --notes "$NOTES"
