@@ -1,0 +1,18 @@
+{
+ "zh": [
+  {"id": "qc01", "text": "红肉用英文怎么说"},
+  {"id": "qc02", "text": "这个词是什么意思？"},
+  {"id": "qc03", "text": "你能帮我翻译一下这段话吗？"},
+  {"id": "qc04", "text": "明天几点开会？"},
+  {"id": "qc05", "text": "你觉得我应该接受这个offer吗"},
+  {"id": "qc06", "text": "附近有什么好吃的推荐吗"},
+  {"id": "qc07", "text": "怎么才能提高英语口语？"},
+  {"id": "qc08", "text": "帮我写一封请假邮件"}
+ ],
+ "polish": [
+  {"id": "qp01", "text": "How to say hongshao rou in English?"},
+  {"id": "qp02", "text": "What is the difference between affect and effect?"},
+  {"id": "qp03", "text": "Can you help me write a email to my professor?"},
+  {"id": "qp04", "text": "Is this sentence correct: I am agree with you."}
+ ]
+}

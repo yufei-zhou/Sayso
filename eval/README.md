@@ -117,3 +117,13 @@ carry the behaviour, and the examples nudge the model toward the same few highli
 same without them. **v16 = v15 without examples, adopted.** The app no longer sends or edits examples at all (removed from the
 Settings › Prompts list on 2026-11-14, since writing them meant hand-editing JSON); `eval/run.py` still accepts an
 optional `examples.json` in a prompt folder for experiments.
+
+## v20: never answer the input (2026-11-14)
+"红肉用英文怎么说" in 中→En came back as "Red meat." — the model answered the question instead of saying it in
+English. `questions.json` (8 Chinese, 4 English question/request inputs) showed the same for "帮我写一封请假邮件" (it
+wrote the email), "How to say hongshao rou in English?" (it answered) and "Can you help me write a email…" (Sharp
+replied as an assistant). v20 adds one rule to `zh.md` and `polish.md`: the input is always something the user wants
+to say, so a question or request is translated/rewritten as that question or request, never answered or carried out.
+All 24 outputs on `questions.json` are now the question itself ("How do you say "red meat" in English?"). On the 81
+Polish/中→En items of the scenarios and holdout sets: no format problems, mean text similarity to v19 0.90, and the
+differences read as ordinary sampling variation (not judged blind).
