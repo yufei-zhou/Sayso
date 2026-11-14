@@ -103,9 +103,13 @@ final class AppSettings: ObservableObject {
         modelID = UserDefaults.standard.string(forKey: "model") ?? ModelOption.default.id
         var saved = UserDefaults.standard.data(forKey: "hotkey").flatMap { try? JSONDecoder().decode(Hotkey.self, from: $0) } ?? .default
         // ⌘ ⌘ became the default in 1.0.1. Whoever still had the old default (never chose a shortcut) moves over, once.
-        if !UserDefaults.standard.bool(forKey: "hotkeyDefaultMovedToCommandTap") {
-            UserDefaults.standard.set(true, forKey: "hotkeyDefaultMovedToCommandTap")
-            if saved == .previousDefault { saved = .default }
+        // (1.0.1 changed it only for that launch and forgot to save it, hence the new flag name.)
+        if !UserDefaults.standard.bool(forKey: "hotkeyMovedToCommandTap") {
+            UserDefaults.standard.set(true, forKey: "hotkeyMovedToCommandTap")
+            if saved == .previousDefault {
+                saved = .default
+                if let data = try? JSONEncoder().encode(saved) { UserDefaults.standard.set(data, forKey: "hotkey") }
+            }
         }
         hotkey = saved
     }
