@@ -106,6 +106,9 @@ final class SayModel: NSObject, ObservableObject, NSTextViewDelegate {
             && (input != resultsFor || (mode == .reply && note.trimmingCharacters(in: .whitespacesAndNewlines) != resultsNote))
     }
 
+    /// The answers are out of date and there is something to answer instead (an empty box has nothing to update to).
+    var canUpdate: Bool { isStale && !input.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty }
+
     override init() {
         super.init()
         restore()
@@ -497,7 +500,7 @@ final class SayModel: NSObject, ObservableObject, NSTextViewDelegate {
          "notice": notice ?? NSNull(), "noticeOpensSettings": noticeOpensSettings,
          "sharp": outputs[.sharp].map { ["body": $0.body, "highlights": $0.highlights, "error": $0.error ?? NSNull(), "streaming": $0.streaming] } ?? NSNull(),
          "chill": outputs[.chill].map { ["body": $0.body, "highlights": $0.highlights, "error": $0.error ?? NSNull(), "streaming": $0.streaming] } ?? NSNull(),
-         "issues": issues.map { ["wrong": $0.wrong, "fix": $0.fix] }, "marksAreCurrent": marksAreCurrent, "isStale": isStale, "ghosts": ghosts.count,
+         "issues": issues.map { ["wrong": $0.wrong, "fix": $0.fix] }, "marksAreCurrent": marksAreCurrent, "isStale": isStale, "canUpdate": canUpdate, "ghosts": ghosts.count,
          "textViewString": textView?.string ?? NSNull(), "inputHeight": inputHeight, "pinned": pinned]
     }
 

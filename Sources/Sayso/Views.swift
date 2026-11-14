@@ -43,7 +43,7 @@ struct PanelView: View {
                 InputSection(model: model)
                 if model.hasResults || model.notice != nil {
                     Rectangle().fill(Color.hairline).frame(height: 1)
-                        .overlay { if model.isStale { UpdatePill { model.run() } } }
+                        .overlay { if model.canUpdate { UpdatePill { model.run() } } }
                         .zIndex(1)
                     if let notice = model.notice {
                         HStack(alignment: .firstTextBaseline, spacing: 10) {
@@ -77,6 +77,7 @@ struct PanelView: View {
                 }
             }
             .animation(.easeOut(duration: 0.18), value: model.isStale)
+            .animation(.easeOut(duration: 0.18), value: model.canUpdate)
             .background(GeometryReader { proxy in
                 Color.clear.onChange(of: proxy.size.height, initial: true) { _, height in
                     naturalHeight = ceil(height)
