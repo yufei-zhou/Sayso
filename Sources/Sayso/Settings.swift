@@ -101,6 +101,12 @@ final class AppSettings: ObservableObject {
 
     private init() {
         modelID = UserDefaults.standard.string(forKey: "model") ?? ModelOption.default.id
-        hotkey = UserDefaults.standard.data(forKey: "hotkey").flatMap { try? JSONDecoder().decode(Hotkey.self, from: $0) } ?? .default
+        var saved = UserDefaults.standard.data(forKey: "hotkey").flatMap { try? JSONDecoder().decode(Hotkey.self, from: $0) } ?? .default
+        // ⌘ ⌘ became the default in 1.0.1. Whoever still had the old default (never chose a shortcut) moves over, once.
+        if !UserDefaults.standard.bool(forKey: "hotkeyDefaultMovedToCommandTap") {
+            UserDefaults.standard.set(true, forKey: "hotkeyDefaultMovedToCommandTap")
+            if saved == .previousDefault { saved = .default }
+        }
+        hotkey = saved
     }
 }

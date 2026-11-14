@@ -25,6 +25,8 @@ Everything here runs in the background (`open -g`), never touches the clipboard,
 - `ax-read?pid=…&path=…[&web=1][&replace=…]` reads (and optionally replaces) one app's selection;
   `Scripts/test/axhost.swift` is a small window with a web page and native text views to point it at
   (`swiftc -O axhost.swift -o axhost`; commands on stdin: page, textarea, editable, native, readonly, value, quit).
+- `modtap-test?path=…` feeds made-up key sequences (on their own clock) to the double-tap-a-modifier logic and writes
+  PASS/FAIL per case: ⌘⌘ triggers once; slow taps, ⌘C/⌘V, a held ⌘, ⌘⇧, a click in between and ⇧⇧ don't.
 - `menukey?k=q` offers ⌘<key> to the hidden main menu (⌘Q quits from Settings/History; in the panel `key?k=q` only hides it).
 - Clipboard fallback (apps that expose nothing about selections): start both Sayso and the test window with the same
   `SAYSO_TEST_PASTEBOARD=<name>` so they use a pasteboard of their own instead of the real clipboard.

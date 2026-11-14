@@ -12,6 +12,14 @@ final class HotkeyMonitor {
     var onEscape: (() -> Void)?
     private var tap: CFMachPort?
     private var lastPress: TimeInterval = 0
+    /// For a modifier tapped on its own: when it went down (nil once anything else happened), the time of the last
+    /// clean tap, and the modifiers held a moment ago.
+    private var modifierDown: TimeInterval?
+    private var lastModifierTap: TimeInterval = 0
+    private var heldModifiers: CGEventFlags = []
+    /// How long a tap may be held, and the most time between the two taps.
+    private static let tapHold: TimeInterval = 0.3
+    private static let tapGap: TimeInterval = 0.35
     private var retryTimer: Timer?
     private static let interval: TimeInterval = 0.4
     private static let keyEscape: Int64 = 53
@@ -24,7 +32,9 @@ final class HotkeyMonitor {
     @discardableResult
     func start() -> Bool {
         if tap != nil { return true }
-        let mask = CGEventMask(1 << CGEventType.keyDown.rawValue)
+        let mask = CGEventMask(1 << CGEventType.keyDown.rawValue) | CGEventMask(1 << CGEventType.flagsChanged.rawValue)
+            | CGEventMask(1 << CGEventType.leftMouseDown.rawValue) | CGEventMask(1 << CGEventType.rightMouseDown.rawValue)
+            | CGEventMask(1 << CGEventType.otherMouseDown.rawValue) | CGEventMask(1 << CGEventType.scrollWheel.rawValue)
         guard let tap = CGEvent.tapCreate(
             tap: .cgSessionEventTap, place: .headInsertEventTap, options: .listenOnly,
             eventsOfInterest: mask,
@@ -53,11 +63,55 @@ final class HotkeyMonitor {
         }
     }
 
+    /// A modifier shortcut fires on the second clean tap: pressed alone, released within `tapHold`, nothing else
+    /// in between, and the two taps within `tapGap` of each other.
+    private func handleModifiers(_ flags: CGEventFlags, at now: TimeInterval) {
+        defer { heldModifiers = flags }
+        guard !paused, let hotkey = doubleTap, hotkey.isModifierOnly else { return }
+        let target = hotkey.cgFlags
+        if heldModifiers.isEmpty, flags == target {
+            modifierDown = now // went down on its own
+        } else if heldModifiers == target, flags.isEmpty, let down = modifierDown {
+            modifierDown = nil
+            guard now - down <= Self.tapHold else { lastModifierTap = 0; return }
+            if now - lastModifierTap <= Self.tapGap {
+                lastModifierTap = 0
+                DispatchQueue.main.async { self.onTrigger?() }
+            } else {
+                lastModifierTap = now
+                OpenAIClient.warmUp()
+            }
+        } else {
+            // Another modifier joined in, or this one was part of a combination.
+            modifierDown = nil
+            lastModifierTap = 0
+        }
+    }
+
+    /// Debug: runs a made-up event through the same logic as a real one.
+    func feed(_ type: CGEventType, flags: CGEventFlags = [], keyCode: Int64 = 0, at time: TimeInterval) {
+        guard let event = CGEvent(source: nil) else { return }
+        event.type = type
+        event.flags = flags
+        event.timestamp = CGEventTimestamp(time * 1_000_000_000)
+        event.setIntegerValueField(.keyboardEventKeycode, value: keyCode)
+        handle(type: type, event: event)
+    }
+
     private func handle(type: CGEventType, event: CGEvent) {
         if type == .tapDisabledByTimeout || type == .tapDisabledByUserInput {
             if let tap { CGEvent.tapEnable(tap: tap, enable: true) }
             return
         }
+        if type == .flagsChanged {
+            // The event's own time, not the time it's handled: a busy moment must not stretch or shrink a tap.
+            handleModifiers(event.flags.intersection([.maskCommand, .maskShift, .maskAlternate, .maskControl]),
+                            at: Double(event.timestamp) / 1_000_000_000)
+            return
+        }
+        // Anything else between the two taps (a key, a click, a scroll) means the modifier was used, not tapped.
+        modifierDown = nil
+        lastModifierTap = 0
         guard type == .keyDown else { return }
         let flags = event.flags.intersection([.maskCommand, .maskShift, .maskAlternate, .maskControl])
         let keyCode = event.getIntegerValueField(.keyboardEventKeycode)
@@ -65,7 +119,7 @@ final class HotkeyMonitor {
             DispatchQueue.main.async { self.onEscape?() }
             return
         }
-        guard !paused, let hotkey = doubleTap, flags == hotkey.cgFlags, keyCode == Int64(hotkey.keyCode),
+        guard !paused, let hotkey = doubleTap, !hotkey.isModifierOnly, flags == hotkey.cgFlags, keyCode == Int64(hotkey.keyCode),
               event.getIntegerValueField(.keyboardEventAutorepeat) == 0 else {
             lastPress = 0
             return

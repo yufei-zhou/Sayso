@@ -1,6 +1,6 @@
 # Sayso
 
-A background macOS app for learning how native English speakers really say things. Select some text and press ⌃X X
+A background macOS app for learning how native English speakers really say things. Select some text and tap ⌘ twice
 (or open the panel and type): Sayso shows two native versions side by side — **Sharp** (articulate, exact, a little
 dry) and **Chill** (relaxed, like texting a friend) — and highlights the 1–2 expressions worth learning.
 
@@ -22,18 +22,18 @@ curl -fsSL https://raw.githubusercontent.com/yufei-zhou/Sayso/main/install.sh | 
 
 第一次打开时：
 
-1. 按提示在「系统设置 → 隐私与安全性」里允许 Sayso 使用 **辅助功能**（读取你选中的文字）和 **输入监控**（识别 ⌃X X 快捷键）。
+1. 按提示在「系统设置 → 隐私与安全性」里允许 Sayso 使用 **辅助功能**（读取你选中的文字）和 **输入监控**（识别双击 ⌘ 的快捷键）。
 2. 设置窗口会自动打开，填入你自己的 OpenAI API Key（只保存在本机钥匙串里）。
 
 以后更新时，这些权限和 Key 都会保留。
 
 ## 怎么用
 
-- 选中一段文字，连按两下 ⌃X（按住 control，按两下 X）。英文输入框里的文字进 Polish，别人的消息进 Reply，中文进 中→En。
-- 不选文字直接按 ⌃X X：打开面板自己输入，↩ 生成，⇧↩ 换行。
+- 选中一段文字，快速连点两下 ⌘（只点 ⌘，不按别的键）。英文输入框里的文字进 Polish，别人的消息进 Reply，中文进 中→En。
+- 不选文字直接双击 ⌘：打开面板自己输入，↩ 生成，⇧↩ 换行。
 - 鼠标移到某个回答上：复制，或"替换原文"直接写回你选中的那段。
 - ⌘1 / ⌘2 / ⌘3 切换模式，⌘N 清空，⌘Y 历史记录，⌘, 设置，Esc 关闭。
-- 快捷键可以在设置里重新录制（支持连按两下的组合，例如 ⌘C C）。
+- 快捷键可以在设置里重新录制：单个组合（⌥Space）、连按两下的组合（⌃X X）、或单独双击某个修饰键（⌘、⌥、⌃、⇧）。旁边的 ↺ 恢复成双击 ⌘。
 - 退出：在设置或历史窗口里按 ⌘Q。
 
 ## 卸载

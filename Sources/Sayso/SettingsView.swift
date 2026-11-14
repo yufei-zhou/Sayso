@@ -297,6 +297,9 @@ private struct ShortcutRecorder: View {
     @State private var hover = false
     /// When a click ended the recording: the same click then reaches the field and must not start a new one.
     @State private var stoppedByClick = Date.distantPast
+    /// Recording a modifier tapped on its own: when it went down, and the previous clean tap.
+    @State private var modifierDown: (flag: NSEvent.ModifierFlags, time: Date)?
+    @State private var modifierTap: (flag: NSEvent.ModifierFlags, time: Date)?
 
     private var shown: Hotkey? { recording ? pending : (refused?.hotkey ?? settings.hotkey) }
     private var conflicts: [HotkeyConflict] {
@@ -382,7 +385,7 @@ private struct ShortcutRecorder: View {
             if recording { stop() } else if Date().timeIntervalSince(stoppedByClick) > 0.3 { start() }
         }
         .animation(.easeOut(duration: 0.15), value: recording)
-        .help(recording ? "" : "Click, then press a shortcut. Press it twice for a double-press shortcut.")
+        .help(recording ? "" : "Click, then press a shortcut. Press it twice for a double-press shortcut, or tap ⌘, ⌥, ⌃ or ⇧ twice on its own.")
     }
 
     private func start() {
@@ -398,6 +401,8 @@ private struct ShortcutRecorder: View {
 
     private func stop() {
         finishWork?.cancel()
+        modifierDown = nil
+        modifierTap = nil
         if let monitor { NSEvent.removeMonitor(monitor) }
         monitor = nil
         recording = false
@@ -413,12 +418,30 @@ private struct ShortcutRecorder: View {
             stop()
             return event
         case .flagsChanged:
-            held = event.modifierFlags.intersection(Hotkey.relevant)
+            let now = event.modifierFlags.intersection(Hotkey.relevant)
+            let single = [NSEvent.ModifierFlags.command, .control, .option, .shift].first { $0 == now }
+            if held.isEmpty, let single {
+                modifierDown = (single, Date())
+            } else if now.isEmpty, let down = modifierDown, held == down.flag, Date().timeIntervalSince(down.time) < 0.4 {
+                // A clean tap of one modifier; two in a row record "that modifier, twice".
+                if let tap = modifierTap, tap.flag == down.flag, Date().timeIntervalSince(tap.time) < 0.45 {
+                    held = []
+                    commit(.modifierTap(down.flag))
+                    return nil
+                }
+                modifierTap = (down.flag, Date())
+                modifierDown = nil
+            } else {
+                modifierDown = nil
+            }
+            held = now
             return nil
         default:
             break
         }
         let flags = event.modifierFlags.intersection(Hotkey.relevant)
+        modifierDown = nil
+        modifierTap = nil
         if Int(event.keyCode) == 53, flags.isEmpty { stop(); return nil } // Esc
         guard !event.isARepeat else { return nil }
         let candidate = Hotkey(keyCode: event.keyCode, modifiers: flags.rawValue, doubleTap: false, key: Hotkey.keyName(for: event))

@@ -1,7 +1,8 @@
 import AppKit
 import Carbon.HIToolbox
 
-/// The global shortcut: a key with modifiers, pressed once (⌥Space) or twice in a row (⌃X X, ⌘C C).
+/// The global shortcut: a key with modifiers, pressed once (⌥Space) or twice in a row (⌃X X, ⌘C C), or a modifier
+/// key tapped twice on its own (⌘ ⌘).
 struct Hotkey: Codable, Equatable {
     var keyCode: UInt16
     /// Device-independent modifier flags (command, control, option, shift).
@@ -10,8 +11,20 @@ struct Hotkey: Codable, Equatable {
     /// The key's label as typed, e.g. "X", "Space".
     var key: String
 
-    static let `default` = Hotkey(keyCode: UInt16(kVK_ANSI_X), modifiers: NSEvent.ModifierFlags.control.rawValue,
-                                  doubleTap: true, key: "X")
+    /// Stands for "no key": the shortcut is a modifier key on its own.
+    static let noKey = UInt16.max
+
+    static let `default` = Hotkey(keyCode: noKey, modifiers: NSEvent.ModifierFlags.command.rawValue, doubleTap: true, key: "")
+    /// The default until 1.0.0. Anyone still on it is moved to the new default once.
+    static let previousDefault = Hotkey(keyCode: UInt16(kVK_ANSI_X), modifiers: NSEvent.ModifierFlags.control.rawValue,
+                                        doubleTap: true, key: "X")
+
+    /// A modifier key tapped twice on its own.
+    static func modifierTap(_ flag: NSEvent.ModifierFlags) -> Hotkey {
+        Hotkey(keyCode: noKey, modifiers: flag.rawValue, doubleTap: true, key: "")
+    }
+
+    var isModifierOnly: Bool { keyCode == Self.noKey }
 
     var flags: NSEvent.ModifierFlags { NSEvent.ModifierFlags(rawValue: modifiers).intersection(Self.relevant) }
     static let relevant: NSEvent.ModifierFlags = [.control, .option, .shift, .command]
@@ -26,8 +39,11 @@ struct Hotkey: Codable, Equatable {
         return symbols
     }
 
-    /// e.g. "⌃X X" or "⌥Space".
-    var display: String { modifierSymbols.joined() + key + (doubleTap ? " " + key : "") }
+    /// e.g. "⌃X X", "⌥Space" or "⌘ ⌘".
+    var display: String {
+        if isModifierOnly { return modifierSymbols.joined() + " " + modifierSymbols.joined() }
+        return modifierSymbols.joined() + key + (doubleTap ? " " + key : "")
+    }
 
     /// The same combination as a single press (what the first of two presses does in other apps).
     var single: Hotkey { Hotkey(keyCode: keyCode, modifiers: modifiers, doubleTap: false, key: key) }
@@ -113,6 +129,13 @@ enum HotkeyConflicts {
                                              "⌃C", "⌃Z", "⌃D", "⌃K", "⌃U", "⌃W", "⌃H", "⌃T"]
 
     static func check(_ hotkey: Hotkey) -> [HotkeyConflict] {
+        if hotkey.isModifierOnly {
+            // Only a quick tap with nothing pressed in between counts, so normal shortcuts (⌘C, ⇧A…) never trigger it.
+            if hotkey.flags == .shift {
+                return [HotkeyConflict(level: .info, message: "Tapping ⇧ twice can happen while typing; another key may be safer.")]
+            }
+            return []
+        }
         var result: [HotkeyConflict] = []
         let combo = hotkey.single.display
 

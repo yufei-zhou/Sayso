@@ -355,6 +355,52 @@ final class AppDelegate: NSObject, NSApplicationDelegate {
                     DebugLog.write("debug replace: \(replaced)")
                 }
             }
+        case "modtap-test":
+            // sayso://modtap-test?path=… — feeds made-up key sequences to the shortcut logic and counts triggers.
+            guard let path = query["path"] else { break }
+            let cmd = CGEventFlags.maskCommand, shift = CGEventFlags.maskShift
+            typealias Step = (delay: Double, type: CGEventType, flags: CGEventFlags, key: Int64)
+            func tap(_ wait: Double = 0.12) -> [Step] { [(wait, .flagsChanged, cmd, 0), (0.08, .flagsChanged, [], 0)] }
+            let cases: [(String, Int, [Step])] = [
+                ("⌘ tap, tap", 1, tap() + tap()),
+                ("⌘ tap, wait 0.6 s, tap", 0, tap() + tap(0.6)),
+                ("⌘C then ⌘V", 0, [(0.1, .flagsChanged, cmd, 0), (0.05, .keyDown, cmd, 8), (0.05, .flagsChanged, [], 0),
+                                    (0.1, .flagsChanged, cmd, 0), (0.05, .keyDown, cmd, 9), (0.05, .flagsChanged, [], 0)]),
+                ("⌘ held 0.5 s, then tap", 0, [(0.1, .flagsChanged, cmd, 0), (0.5, .flagsChanged, [], 0)] + tap()),
+                ("⌘⇧ together twice", 0, [(0.1, .flagsChanged, cmd, 0), (0.02, .flagsChanged, [cmd, shift], 0), (0.05, .flagsChanged, [], 0),
+                                          (0.1, .flagsChanged, cmd, 0), (0.02, .flagsChanged, [cmd, shift], 0), (0.05, .flagsChanged, [], 0)]),
+                ("⌘ tap, click, tap", 0, tap() + [(0.05, .leftMouseDown, [], 0)] + tap()),
+                ("⌘ tap ×3", 1, tap() + tap() + tap()),
+                ("⌘ tap ×4", 2, tap() + tap() + tap() + tap()),
+                ("⇧ tap, tap (not the shortcut)", 0, [(0.1, .flagsChanged, shift, 0), (0.08, .flagsChanged, [], 0),
+                                                       (0.1, .flagsChanged, shift, 0), (0.08, .flagsChanged, [], 0)]),
+            ]
+            let saved = (hotkey.onTrigger, hotkey.doubleTap, hotkey.paused)
+            hotkey.doubleTap = .default
+            hotkey.paused = false
+            var report: [String] = []
+            func run(_ index: Int) {
+                guard index < cases.count else {
+                    (hotkey.onTrigger, hotkey.doubleTap, hotkey.paused) = saved
+                    try? report.joined(separator: "\n").write(toFile: path, atomically: true, encoding: .utf8)
+                    return
+                }
+                let (name, expected, steps) = cases[index]
+                var count = 0
+                hotkey.onTrigger = { count += 1 }
+                // Each case runs on its own made-up clock, so timer delays in a background app can't skew it.
+                var time = ProcessInfo.processInfo.systemUptime + 1000 * Double(index + 1)
+                hotkey.feed(.keyDown, keyCode: 4, at: time) // clean slate
+                for step in steps {
+                    time += step.delay
+                    hotkey.feed(step.type, flags: step.flags, keyCode: step.key, at: time)
+                }
+                DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
+                    report.append("\(count == expected ? "PASS" : "FAIL") \(name): \(count) trigger(s), expected \(expected)")
+                    run(index + 1)
+                }
+            }
+            run(0)
         case "menukey":
             // sayso://menukey?k=q — ⌘<key> offered to the (hidden) main menu, as when a Sayso window other than the panel has the keyboard.
             if let key = query["k"], let event = NSEvent.keyEvent(with: .keyDown, location: .zero, modifierFlags: .command, timestamp: 0,
