@@ -172,16 +172,11 @@ final class AppDelegate: NSObject, NSApplicationDelegate {
         return false
     }
 
-    private let settingsToolbar = SettingsToolbar()
-
     func showSettings(activate: Bool = true) {
         if settingsWindow == nil {
             let window = NSWindow(contentRect: NSRect(x: 0, y: 0, width: 500, height: 300), styleMask: [.titled, .closable],
                                   backing: .buffered, defer: false)
-            window.title = SettingsTab.current.title
-            window.toolbarStyle = .preference
-            settingsToolbar.window = window
-            window.toolbar = settingsToolbar.make()
+            window.title = "Settings"
             window.backgroundColor = Theme.well
             let host = NSHostingView(rootView: SettingsView { [weak self] size in self?.fitSettings(to: size) })
             host.sizingOptions = []
@@ -263,11 +258,6 @@ final class AppDelegate: NSObject, NSApplicationDelegate {
         case "history":
             showHistory(activate: false)
         case "settings":
-            if let tab = query["tab"].flatMap(SettingsTab.init(rawValue:)) {
-                UserDefaults.standard.set(tab.rawValue, forKey: "settingsTab")
-                settingsWindow?.toolbar?.selectedItemIdentifier = tab.identifier
-                settingsWindow?.title = tab.title
-            }
             showSettings(activate: false)
             // &key=… types into the API key field (it is never saved by this).
             if let key = query["key"] {

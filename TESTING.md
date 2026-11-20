@@ -19,7 +19,7 @@ Everything here runs in the background (`open -g`), never touches the clipboard,
 - `type?text=…` edits the input as if typed; `run`; `hide`; `key?k=n` (⌘N, ⌘1…);
   `keydown?code=36&mods=shift&focus=1` (a key press into the panel's focused view: 36 Return, 53 Esc, 48 Tab).
 - `state?path=…` writes the model and panel state as JSON; `snapshot?path=…` renders the panel to a PNG.
-- `settings?tab=general|prompts`, `history`, `window-snapshot?name=settings|history&path=…`, `close-windows`.
+- `settings`, `history`, `window-snapshot?name=settings|history&path=…`, `close-windows`.
 - `appearance?name=dark|light|auto` for Sayso's own windows.
 - `ax-probe?path=…` lists what each running app exposes about its selection (codes and lengths, never text).
 - `ax-read?pid=…&path=…[&web=1][&replace=…]` reads (and optionally replaces) one app's selection;

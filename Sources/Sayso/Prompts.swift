@@ -27,65 +27,24 @@ enum Voice: String, CaseIterable, Codable {
     var title: String { rawValue.uppercased() }
 }
 
-/// One editable prompt file. Defaults ship in the app bundle (Resources/prompts, the same files the eval
-/// scripts use); an edited copy in Application Support/Sayso/prompts takes precedence.
-struct PromptFile: Identifiable, Hashable {
-    let id: String
-    let title: String
-
-    static let all = [
-        PromptFile(id: "polish.md", title: "Polish"),
-        PromptFile(id: "reply.md", title: "Reply"),
-        PromptFile(id: "zh.md", title: "中 → En"),
-        PromptFile(id: "_sharp.md", title: "Sharp voice"),
-        PromptFile(id: "_chill.md", title: "Chill voice"),
-        PromptFile(id: "_format.md", title: "Output format"),
-        PromptFile(id: "grammar.md", title: "Grammar check"),
-    ]
-
-    static let defaultsDirectory: URL = {
+/// The prompt files ship in the app bundle (Resources/prompts, the same files the eval scripts use).
+/// `SAYSO_PROMPTS` points at another folder (eval and tests only).
+enum PromptFiles {
+    static let directory: URL = {
         if let override = ProcessInfo.processInfo.environment["SAYSO_PROMPTS"] {
             return URL(fileURLWithPath: override)
         }
         return Bundle.main.resourceURL!.appendingPathComponent("prompts")
     }()
-
-    static let customDirectory: URL = {
-        let url = AppPaths.support.appendingPathComponent("prompts", isDirectory: true)
-        try? FileManager.default.createDirectory(at: url, withIntermediateDirectories: true)
-        return url
-    }()
-
-    private var customURL: URL { Self.customDirectory.appendingPathComponent(id) }
-
-    var defaultText: String { (try? String(contentsOf: Self.defaultsDirectory.appendingPathComponent(id), encoding: .utf8)) ?? "" }
-    var isCustomized: Bool { FileManager.default.fileExists(atPath: customURL.path) }
-    var text: String { isCustomized ? ((try? String(contentsOf: customURL, encoding: .utf8)) ?? defaultText) : defaultText }
-
-    /// Saves an edit; text identical to the default removes the custom copy.
-    func save(_ text: String) {
-        if text == defaultText {
-            try? FileManager.default.removeItem(at: customURL)
-        } else {
-            try? text.write(to: customURL, atomically: true, encoding: .utf8)
-        }
-    }
-
-    /// Back to the shipped prompt, keeping the edited version beside it as a backup.
-    func restoreDefault() {
-        guard isCustomized else { return }
-        let backup = Self.customDirectory.appendingPathComponent(id + ".backup")
-        try? FileManager.default.removeItem(at: backup)
-        try? FileManager.default.moveItem(at: customURL, to: backup)
-    }
 }
 
 /// Builds requests from the prompt files: task file (lines tagged [sharp]/[chill] kept only for that voice) +
-/// voice file + output format. Files are read on every request, so edits apply right away. (Few-shot examples were
+/// voice file + output format. (Few-shot examples were
 /// dropped on 2026-11-11: a blind comparison showed they no longer improved the answers; see eval/README.md, round 6.)
 enum Prompts {
     private static func read(_ name: String) -> String {
-        (PromptFile.all.first { $0.id == name }?.text ?? "").trimmingCharacters(in: .whitespacesAndNewlines)
+        ((try? String(contentsOf: PromptFiles.directory.appendingPathComponent(name), encoding: .utf8)) ?? "")
+            .trimmingCharacters(in: .whitespacesAndNewlines)
     }
 
     static func instructions(mode: Mode, voice: Voice) -> String {

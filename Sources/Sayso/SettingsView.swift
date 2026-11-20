@@ -22,70 +22,18 @@ extension Keychain {
     }
 }
 
-/// The settings window's two panes, chosen from a native preferences-style toolbar.
-enum SettingsTab: String, CaseIterable {
-    case general, prompts
-
-    var title: String { self == .general ? "General" : "Prompts" }
-    var symbol: String { self == .general ? "gearshape" : "text.quote" }
-    var identifier: NSToolbarItem.Identifier { NSToolbarItem.Identifier(rawValue) }
-    static var current: SettingsTab { SettingsTab(rawValue: UserDefaults.standard.string(forKey: "settingsTab") ?? "") ?? .general }
-}
-
-@MainActor
-final class SettingsToolbar: NSObject, NSToolbarDelegate {
-    weak var window: NSWindow?
-
-    func make() -> NSToolbar {
-        let toolbar = NSToolbar(identifier: "SaysoSettings")
-        toolbar.delegate = self
-        toolbar.displayMode = .iconAndLabel
-        toolbar.allowsUserCustomization = false
-        toolbar.selectedItemIdentifier = SettingsTab.current.identifier
-        return toolbar
-    }
-
-    func toolbarDefaultItemIdentifiers(_ toolbar: NSToolbar) -> [NSToolbarItem.Identifier] { SettingsTab.allCases.map(\.identifier) }
-    func toolbarAllowedItemIdentifiers(_ toolbar: NSToolbar) -> [NSToolbarItem.Identifier] { SettingsTab.allCases.map(\.identifier) }
-    func toolbarSelectableItemIdentifiers(_ toolbar: NSToolbar) -> [NSToolbarItem.Identifier] { SettingsTab.allCases.map(\.identifier) }
-
-    func toolbar(_ toolbar: NSToolbar, itemForItemIdentifier id: NSToolbarItem.Identifier,
-                 willBeInsertedIntoToolbar flag: Bool) -> NSToolbarItem? {
-        guard let tab = SettingsTab(rawValue: id.rawValue) else { return nil }
-        let item = NSToolbarItem(itemIdentifier: id)
-        item.label = tab.title
-        item.image = NSImage(systemSymbolName: tab.symbol, accessibilityDescription: tab.title)
-        item.target = self
-        item.action = #selector(select(_:))
-        return item
-    }
-
-    @objc private func select(_ item: NSToolbarItem) {
-        guard let tab = SettingsTab(rawValue: item.itemIdentifier.rawValue) else { return }
-        UserDefaults.standard.set(tab.rawValue, forKey: "settingsTab")
-        window?.title = tab.title
-    }
-}
-
+/// The settings window: one pane, sized to fit.
 struct SettingsView: View {
-    @AppStorage("settingsTab") private var tab = SettingsTab.general.rawValue
-    /// The pane's natural size, so the window can fit it (General is short, Prompts is roomy).
     let onSize: (CGSize) -> Void
 
     var body: some View {
-        Group {
-            if tab == SettingsTab.prompts.rawValue {
-                PromptSettings().frame(width: 780, height: 520)
-            } else {
-                GeneralSettings().frame(width: 500)
-            }
-        }
-        .fixedSize()
-        .background(GeometryReader { proxy in
-            Color.clear.onChange(of: proxy.size, initial: true) { _, size in onSize(size) }
-        })
-        .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .top)
-        .background(Color.well)
+        GeneralSettings().frame(width: 500)
+            .fixedSize()
+            .background(GeometryReader { proxy in
+                Color.clear.onChange(of: proxy.size, initial: true) { _, size in onSize(size) }
+            })
+            .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .top)
+            .background(Color.well)
     }
 }
 
@@ -533,112 +481,5 @@ struct KeyCaps: View {
                     .shadow(color: .black.opacity(0.18), radius: 0, y: 1)
             )
             .overlay(RoundedRectangle(cornerRadius: 5).strokeBorder(Color.hairline, lineWidth: 1))
-    }
-}
-
-/// Edit any prompt file. Edits save as you type and apply to the next request; Restore Default brings back the
-/// shipped version (the edited one is kept as a .backup file).
-private struct PromptSettings: View {
-    @State private var selection = PromptFile.all[0]
-    @State private var text = PromptFile.all[0].text
-    @State private var customized = Set(PromptFile.all.filter(\.isCustomized).map(\.id))
-    @State private var pendingSave: DispatchWorkItem?
-
-    /// Modes, voices, then what every request shares.
-    private let groups: [[PromptFile]] = [Array(PromptFile.all[0..<3]), Array(PromptFile.all[3..<5]), Array(PromptFile.all[5...])]
-
-    var body: some View {
-        HStack(spacing: 0) {
-            VStack(alignment: .leading, spacing: 14) {
-                ForEach(Array(groups.enumerated()), id: \.offset) { _, group in
-                    VStack(spacing: 2) {
-                        ForEach(group) { file in sidebarRow(file) }
-                    }
-                }
-                Spacer(minLength: 0)
-            }
-            .padding(.horizontal, 10)
-            .padding(.vertical, 16)
-            .frame(width: 190)
-
-            VStack(alignment: .leading, spacing: 10) {
-                HStack(spacing: 8) {
-                    Text(selection.title).font(.system(size: 15, weight: .semibold)).foregroundStyle(Color.ink)
-                    Text(selection.id)
-                        .font(.system(size: 11, design: .monospaced))
-                        .foregroundStyle(Color.inkTertiary)
-                    Spacer()
-                    // Always there, so it's easy to find; it only does something once the prompt has been edited.
-                    Button {
-                        flush()
-                        selection.restoreDefault()
-                        text = selection.text
-                        customized.remove(selection.id)
-                    } label: {
-                        Label("Restore Default", systemImage: "arrow.counterclockwise")
-                    }
-                    .controlSize(.small)
-                    .disabled(!customized.contains(selection.id))
-                }
-                .frame(height: 24)
-                TextEditor(text: $text)
-                    .font(.system(size: 12.5, design: .monospaced))
-                    .lineSpacing(2)
-                    .scrollContentBackground(.hidden)
-                    .padding(.horizontal, 8)
-                    .padding(.vertical, 10)
-                    .background(RoundedRectangle(cornerRadius: 12, style: .continuous).fill(Color.paper))
-                    .overlay(RoundedRectangle(cornerRadius: 12, style: .continuous).strokeBorder(Color.hairline, lineWidth: 1))
-                    .onChange(of: text) { _, _ in scheduleSave() }
-            }
-            .padding(.vertical, 16)
-            .padding(.trailing, 18)
-            .padding(.leading, 6)
-        }
-        .animation(.easeOut(duration: 0.15), value: customized)
-        .onDisappear(perform: flush)
-    }
-
-    private func sidebarRow(_ file: PromptFile) -> some View {
-        let on = file == selection
-        return HStack(spacing: 8) {
-            Text(file.title)
-                .font(.system(size: 13, weight: on ? .medium : .regular))
-                .foregroundStyle(on ? Color(nsColor: Theme.sharp) : Color.ink)
-            Spacer(minLength: 0)
-            if customized.contains(file.id) {
-                Circle().fill(Color(nsColor: Theme.sharp)).frame(width: 6, height: 6).help("Edited")
-            }
-        }
-        .padding(.horizontal, 10)
-        .frame(height: 28)
-        .background(RoundedRectangle(cornerRadius: 7, style: .continuous).fill(on ? Color(nsColor: Theme.sharpHighlight) : .clear))
-        .contentShape(Rectangle())
-        .onTapGesture { select(file) }
-    }
-
-    private func select(_ file: PromptFile) {
-        flush()
-        selection = file
-        text = file.text
-    }
-
-    private func scheduleSave() {
-        pendingSave?.cancel()
-        let file = selection, value = text
-        let work = DispatchWorkItem {
-            file.save(value)
-            if file.isCustomized { customized.insert(file.id) } else { customized.remove(file.id) }
-        }
-        pendingSave = work
-        DispatchQueue.main.asyncAfter(deadline: .now() + 0.4, execute: work)
-    }
-
-    private func flush() {
-        guard let work = pendingSave, !work.isCancelled else { return }
-        work.cancel()
-        pendingSave = nil
-        selection.save(text)
-        if selection.isCustomized { customized.insert(selection.id) } else { customized.remove(selection.id) }
     }
 }

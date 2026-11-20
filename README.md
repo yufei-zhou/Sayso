@@ -52,6 +52,6 @@ API Key 在「钥匙串访问」里，名称为 Sayso，可以一并删除。
 ./release.sh X.Y.Z "notes"   # publish a signed release that install.sh picks up
 ```
 
-- Prompts live in `prompts/` and can also be edited in Settings › Prompts. `QUALITY.md` defines what a good answer is;
+- Prompts live in `prompts/` and ship inside the app (there is no in-app editor; change the files and rebuild). `QUALITY.md` defines what a good answer is;
   `eval/` holds the test sets, the eval scripts and the results of every prompt version (see `eval/README.md`).
 - `TESTING.md` explains how to test the app without the real API, the keyboard or the clipboard.
